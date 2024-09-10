@@ -7,6 +7,15 @@
 vercel
 ```
 
+# update to vercel@latest
+│                                                          │
+│           Update available! v34.2.8 ≫ v37.4.0            │
+│   Changelog: https://github.com/vercel/vercel/releases   │
+│         Run `pnpm i -g vercel@latest` to update.         │
+│                                                          │
+│   The latest update may fix any errors that occurred.    │
+│                                                         
+
 ## notes
 
 - Build Command: `npm run vercel-build` or `npm run build`

@@ -40,7 +40,7 @@ DOCKER_PORT=8080
 EXTRA_RUN_ARGS?=
 
 COMMIT = $(shell git rev-parse HEAD)
-IMAGE_NAME ?= peng-cloud-delivery-pif/sitedocs
+IMAGE_NAME ?= mpower/sitedocs
 IMAGE_TAG ?= latest
 
 _SUCCESS := "\033[32m[%s]\033[0m %s\n" # Green text for "printf"
@@ -53,7 +53,7 @@ else
     BUILD_DATE ?= $(shell date "$(DATE_FMT)")
 endif
 
-IMAGE_NAME_NET=peng-cloud-delivery-pif/site-docs
+IMAGE_NAME_NET=mpower/sitedocs
 
 .PHONY: help
 help:
@@ -94,7 +94,7 @@ build-container-prod: ## Build the dev docker image.
 .PHONY: build-container
 build-container: ## Build the dev docker image.
 	# @see doc: ENV_STAGING in [staging, dev, perf, qa, prop, pre-prod]
-	docker build -f Dockerfile.dev -t ${IMAGE_NAME}:${IMAGE_TAG} . # --platform linux/amd64
+	docker build -f Dockerfile.dev -t ${IMAGE_NAME}:${IMAGE_TAG} . # --platform linux/arm64
 
 .PHONY: start-container
 start-container: ## Start the dev docker container.

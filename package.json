@@ -21,10 +21,12 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/squidfunk/mkdocs-material.git"
+    "url": "https://github.com/baseonballs/mpower-sitedocs.git"
   },
   "scripts": {
-    "build": "rimraf material && ts-node -T tools/build --optimize",
+    "dev": "docker run --rm -it -p 8000:8000 -v ${PWD}:/docs mpower/sitedocs",
+    "build": "mkdocs build -d public",
+    "build-1": "rimraf material && ts-node -T tools/build --optimize",
     "build:all": "rimraf material && ts-node -T tools/build --all --optimize",
     "build:dirty": "ts-node -T tools/build --dirty",
     "clean": "rimraf material",
