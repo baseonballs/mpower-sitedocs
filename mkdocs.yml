@@ -1,0 +1,132 @@
+# Project information
+site_name: "M-Power Sitedocs"
+site_description: "Official M-Power Site"
+site_author: "Jeffrey T. Lucas <Jeffrey.Lucas@McKesson.com>"
+site_url: "http://localhost:8080/sitedocs/"
+
+# Copyright
+copyright: "&copy; 2024, baseonballs email:lucasjt@gmail.com>"
+
+# Repository
+repo_name: "GitHub"
+#repo_url: "https://github.com/CoverMyMeds-Pharmacy/peng-cloud-delivery-sitedocs.git"
+#edit_uri: "https://github.com/CoverMyMeds-Pharmacy/peng-cloud-delivery-sitedocs/site-docs"
+
+# Configuration
+
+docs_dir: "site-docs"
+theme:
+  name: "material"
+  language: "en"
+  shortcuts:
+    help: 191 # ?
+    next: 78 # n
+    previous: 80 # p
+    search: 83 # s
+  palette:
+    primary: "red"
+    accent: "break"
+  features:
+    - tabs
+  #font:
+  #text: 'Ubuntu'
+  #code: 'Ubuntu Mono'
+  #icon:
+  #logo: 'images/logo.svg'
+  #favicon: 'assets/images/favicon.ico'
+
+# Extensions
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - admonition
+  - codehilite
+  - footnotes
+  # - mdx_math:
+  #     enable_dollar_delimiter: true
+  - toc:
+      permalink: true
+      separator: "_"
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - en
+
+# Customization
+extra_javascript:
+  - js/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML"
+extra_css:
+  - "assets/css/custom.css"
+extra:
+  manifest: "manifest.json"
+  social:
+    - icon: "fontawesome/brands/github-alt"
+      link: "https://github.com/peaceiris"
+    - icon: "fontawesome/brands/twitter"
+      link: "https://twitter.com/piris314en"
+
+# Navitgation
+nav:
+  - "M-Power Mathmatics Sitedocs": "index.md"
+  - "Language of Math":
+    - "Symbols and Variables":
+      - "Sematics": "./mathematics/a1/appendix/lang/semantics.md"
+      - "Arithmetic Operators": "untitled.md"
+      - "Eq. Syntax and Polynomials": "untitled.md"
+      - "Logic": "untitled.md"
+    - "Definitions, Axioms, and Theorems": "untitled.md"
+  - "Math Puzzles & Excursions":
+    - "Overvew":
+      - "Puzzles": "untitled.md"
+  - "Elementary Mathamatics":
+    - "Number System":
+      - "Base 10": "./mathematics/em/base10/index.md"
+    - "Sets":
+      - "Lists and Sets": "./mathematics/em/base10/index.md"
+    - "Appendix - Resources":
+      - "Cheatsheets":
+        - "Properties of Arithemtic": "./mathematics/a1/equations/linear-eqs/insights.md"
+  - "Algebra 1":
+    - "Equation Forms & Structures":
+      - "Overview": "./mathematics/a1/equations/linear-eqs/index.md"
+      - "Insights": "./mathematics/a1/equations/linear-eqs/insights.md"
+    - "Linear Equations":
+      - "Algebraic Concepts":
+        - "Form & Structures" : "./mathematics/a1/equations/linear-eqs/insights.md"
+      - "Geometric Concepts": "./mathematics/a1/equations/linear-eqs/insights.md"
+      - "Functions": "./mathematics/a1/equations/linear-eqs/insights.md"
+      - "Graphs": "./mathematics/a1/equations/linear-eqs/insights.md"
+      - "Insights": "./mathematics/a1/equations/linear-eqs/insights.md"
+    - "Quadratic Equations":
+      - "Overview": "./mathematics/a1/equations/linear-eqs/index.md"
+      - "Insights": "./mathematics/a1/equations/linear-eqs/insights.md"
+    - "Appendix - Resources":
+      - "Laws & Properties":
+        - "Fundamental Theorem of Arithmetic": "./mathematics/a1/appendix/fundamental_theorem_arithmetic.md"
+        - "Fundamental Theorem of Algebra": "./mathematics/a1/appendix/fundamental_theorem_algebra.md"
+        - "Laws of Equalities & Inequalities": "./mathematics/a1/appendix/laws_eq_ineq.md"
+        - "Laws of Exponents": "./mathematics/a1/appendix/law_of_exponents.md"
+        - "Peano Axioms": "./mathematics/a1/appendix/peano_axioms.md"
+      - "Theorems":
+        - "General": "./mathematics/a1/appendix/theorems/index.md"
+        - "Quadratic Thorems": "./mathematics/a1/appendix/theorems/quadraics.md"
+        - "Pythagorean Theorem": "./mathematics/a1/appendix/pythagoren_theorem.md"
+      - "Cheatsheets":
+        - "Algebraic Identities":  "./mathematics/a1/appendix/algebraic_identities.md"
+  - "Algebra 2":
+    - "Trignometic Functions":
+      - "Empty": "untitled.md"
+  - "Modular Arithematic":
+    - "Remainders":
+      - "Empty": "untitled.md"
+  - "Geometry":
+    - "Trignometic Functions":
+      - "Empty": "untitled.md"
+  - "Number Theory":
+    - "Factors & Multiples": "untitled.md"
+    - "Primality": "untitled.md"
+    - "Divisibility": "untitled.md"

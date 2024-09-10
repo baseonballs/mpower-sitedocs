@@ -1,0 +1,26 @@
+FROM python:3.11-alpine3.19
+
+# Build-time flags
+ARG WITH_PLUGINS=true
+
+# Environment variables
+ENV PACKAGES=/usr/local/lib/python3.11/site-packages
+ENV PYTHONDONTWRITEBYTECODE=1
+
+WORKDIR /app
+
+COPY site-docs site-docs
+COPY mkdocs.yml mkdocs.yml
+
+RUN pip install --no-cache-dir --upgrade pip
+RUN pip install mkdocs --no-cache-dir
+RUN pip install mkdocs-material[recommended]
+RUN pip install mkdocs-material
+
+# Expose MkDocs development server port
+ENV PORT 8080
+EXPOSE 8080
+
+#CMD ["mkdocs", "serve"]
+#ENTRYPOINT ["mkdocs"]
+CMD ["mkdocs", "serve", "--dev-addr=0.0.0.0:8080"]
