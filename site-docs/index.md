@@ -7,7 +7,7 @@
 >
 > <span style="color: orange; font-weight:bold; font-style: italic">WARNING</span>: This site is in <span style="color: red; font-weight:bold; font-style: italic">draft mode</span>; pages that are stubbed with "no contents" will yield a `404-Not Found error`. This is by design.
 >
-> The contents of this portal is rapidily evolving and reflects most of the concepts found in the **"Art of Problem Solving"** textbook, and many of my favoriate math topics. If you see gaps or errors with sitedocs, please contact: <span style="color: grey; font-weight:bold; font-style: italic">Jeffrey Lucas, Math/CS Mentor - &lt;email:lucasjt@gmail.com&gt;</span> for updates and erratas.
+> The contents of this portal is rapidily evolving and reflects most of the concepts found in the **"Art of Problem Solving"** textbook, and many of my favorate math topics. If you see gaps or errors with this portal, please contact: <span style="color: grey; font-weight:bold; font-style: italic">Jeffrey Lucas, Math/CS Mentor - &lt;@baseonballs | email:lucasjt@gmail.com&gt;</span> for updates and erratas.
 
 ---
 
