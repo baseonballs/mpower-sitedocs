@@ -135,11 +135,11 @@ nav:
   - "Algebra 2":
     - "Trignometic Functions":
       - "Empty": "page-404.md"
-  - "Modular Arithematic":
-    - "Remainders":
-      - "Empty": "page-404.md"
   - "Geometry":
     - "Trignometic Functions":
+      - "Empty": "page-404.md"
+  - "Modular Arithematic":
+    - "Remainders":
       - "Empty": "page-404.md"
   - "Number Theory":
     - "Factors & Multiples": "page-404.md"
