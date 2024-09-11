@@ -74,10 +74,11 @@ nav:
   - "M-Power Mathmatics Sitedocs": "index.md"
   - "Language of Math":
     - "Symbols and Variables":
-      - "Sematics": "./mathematics/a1/appendix/lang/semantics.md"
+      - "Algebraic Notation": "./mathematics/a1/appendix/lang/semantics.md"
       - "Arithmetic Operators": "untitled.md"
-      - "Eq. Syntax and Polynomials": "untitled.md"
-      - "Logic": "untitled.md"
+      - "Structure of Polynomials": "untitled.md"
+      - "Logic Notation": "./mathematics/a1/appendix/lang/notation_logic.md"
+      - "Sigma Notation": "./mathematics/a1/appendix/lang/notation_sigma.md"
     - "Definitions, Axioms, and Theorems": "untitled.md"
   - "Math Puzzles & Excursions":
     - "Overvew":
@@ -105,6 +106,8 @@ nav:
       - "Overview": "./mathematics/a1/equations/linear-eqs/index.md"
       - "Insights": "./mathematics/a1/equations/linear-eqs/insights.md"
     - "Appendix - Resources":
+      - "Definitions":
+        - "Rational Exponents": "./mathematics/a1/defs/exp_rational.md"
       - "Laws & Properties":
         - "Fundamental Theorem of Arithmetic": "./mathematics/a1/appendix/fundamental_theorem_arithmetic.md"
         - "Fundamental Theorem of Algebra": "./mathematics/a1/appendix/fundamental_theorem_algebra.md"
@@ -115,6 +118,13 @@ nav:
         - "General": "./mathematics/a1/appendix/theorems/index.md"
         - "Quadratic Thorems": "./mathematics/a1/appendix/theorems/quadraics.md"
         - "Pythagorean Theorem": "./mathematics/a1/appendix/pythagoren_theorem.md"
+      - "Challenging Problems":
+        - "Solve for x":
+          - "Problem 1 - Radical": "./mathematics/a1/psets-a1/q1-solve-for-x.md"
+          - "Problem 2 - Simultaneous Eq.": "./mathematics/a1/psets-a1/q2-solve-for-x.md"
+          - "Problem 3 - Rational Powers": "./mathematics/a1/psets-a1/q3-solve-for-x.md"
+          - "Problem 4 - Powers": "./mathematics/a1/psets-a1/q4-solve-for-x.md"
+          - "Problem 5 - Linear Eq.": "./mathematics/a1/psets-a1/q5-solve-for-x.md"
       - "Cheatsheets":
         - "Algebraic Identities":  "./mathematics/a1/appendix/algebraic_identities.md"
   - "Algebra 2":

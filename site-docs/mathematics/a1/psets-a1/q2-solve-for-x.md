@@ -76,6 +76,7 @@ Cross-multiply to eliminate the fractions:
 \]
 
 Simplifying:
+
 \[
 48 = 16x - x^2
 \]

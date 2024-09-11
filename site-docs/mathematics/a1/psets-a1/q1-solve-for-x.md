@@ -17,7 +17,7 @@ We are using the <span style="color: red; font-weight:bold; font-style: normal">
 \sqrt{x} + \sqrt{2} = \sqrt{32}
 \]
 
-### **Step 2**: Subtract \(\sqrt{2}\) from both sides
+### <span style="color: orange; font-weight:bold; font-style: normal">Step 2</span>: Subtract \(\sqrt{2}\) from both sides
 To isolate the variable \(\sqrt{x}\), we subtract \(\sqrt{2}\) from both sides of the equation. This uses the **Subtraction Property of Equality**, which states that for any numbers \(a\), \(b\), and \(c\), if \(a = b\), then \(a - c = b - c\). Applying this property to the equation:
 
 \[
@@ -30,7 +30,7 @@ On the left-hand side, \(\sqrt{2} - \sqrt{2} = 0\), so we are left with:
 \sqrt{x} = \sqrt{32} - \sqrt{2}
 \]
 
-### **Step 3**: Simplify the right-hand side
+### <span style="color: orange; font-weight:bold; font-style: normal">Step 3</span>: Simplify the right-hand side (RHS)
 Now, simplify the terms on the RHS. We first simplify \(\sqrt{32}\) using the **Product Property of Square Roots**, which states \(\sqrt{ab} = \sqrt{a} \times \sqrt{b}\):
 
 \[
@@ -43,7 +43,7 @@ So the equation becomes:
 \sqrt{x} = 4\sqrt{2} - \sqrt{2}
 \]
 
-### **Step 4**: Factor out \(\sqrt{2}\)
+### <span style="color: orange; font-weight:bold; font-style: normal">Step 4</span>: Factor out \(\sqrt{2}\)
 Now, factor out \(\sqrt{2}\) from the RHS using the **Distributive Property**:
 
 \[
@@ -55,7 +55,7 @@ Simplifying the factor:
 \sqrt{x} = 3\sqrt{2}
 \]
 
-### **Step 5**: Square both sides
+### <span style="color: orange; font-weight:bold; font-style: normal">Step 5</span>: Square both sides
 To eliminate the square root on the LHS, square both sides of the equation. This uses the **Square Property of Equality**, which states that if \(a = b\), then \(a^2 = b^2\):
 
 \[
@@ -67,6 +67,25 @@ On the left-hand side:
 \[
 (\sqrt{x})^2 = x
 \]
+
+> &#128161;: Why does \((\sqrt{x})^2 \) resolve to $x$?:
+
+> - **Start with the initial expression:**
+>
+> \[(\sqrt{x})^2\]
+
+> - **Re-express \(\sqrt{x}\) as \(x^{1/2}\)** (translate $\sqrt{x}$ to its [rational exponent](../defs/exp_rational.md) equivalence):
+>
+>
+> \[(\sqrt{x})^2 = (x^{1/2})^2\]
+>
+> - **Simplify \((x^{1/2})^2\) using the power rule of exponents:**
+>
+> \[(x^{1/2})^2 = x^{(1/2) \cdot 2}\]
+>
+> Since \((1/2) \cdot 2 = 1\):
+>
+> \[x^{(1/2) \cdot 2} = x^1 = x\]
 
 On the right-hand side, use the **Product Property of Exponents**, which states \((ab)^2 = a^2 \times b^2\):
 
@@ -80,7 +99,7 @@ Thus, the equation becomes:
 x = 18
 \]
 
-### **Step 6**: Check the solution
+### <span style="color: orange; font-weight:bold; font-style: normal">Step 6</span>: Check the solution
 To verify, substitute \(x = 18\) back into the original equation:
 
 \[
