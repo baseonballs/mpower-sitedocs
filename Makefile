@@ -111,6 +111,15 @@ deploy-cloudrun: build-container-prod ## build and push the production release o
 	  --port ${DOCKER_PORT} \
 	  --min-instances=1
 
+.PHONY: mkdocs-deploy-gh-pages
+mkdocs-gh-deploy:
+	@if ! command -v mkdocs >/dev/null 2>&1; then \
+		echo "MkDocs is not installed. Please install it before running this command."; \
+		exit 1; \
+	else \
+		mkdocs gh-deploy; \
+	fi
+
 .PHONY: proxy-cloudrun
 proxy-cloudrun:
 	./run-proxy.sh
