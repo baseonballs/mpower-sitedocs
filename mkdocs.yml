@@ -79,7 +79,7 @@ nav:
       - "Set Notation": "./mathematics/a1/appendix/lang/notation_sets.md"
       - "Sigma Notation": "./mathematics/a1/appendix/lang/notation_sigma.md"
     - "Algebraic Equations":
-      - "Algebriac Terms and Expressions": "./mathematics/a1/appendix/lang/structure_expressions_and_terms.md"
+      - "Terms and Expressions": "./mathematics/a1/appendix/lang/structure_expressions_and_terms.md"
       - "Structure of Equalities": "./mathematics/a1/appendix/lang/structure_equations.md"
       - "Structure of Inequalities": "./mathematics/a1/appendix/lang/structure_inqualities.md"
       - "Structure of Polynomials": "./mathematics/a1/appendix/lang/structure_polynomials.md"
