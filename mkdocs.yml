@@ -78,6 +78,10 @@ nav:
       - "Logic Notation": "./mathematics/a1/appendix/lang/notation_logic.md"
       - "Set Notation": "./mathematics/a1/appendix/lang/notation_sets.md"
       - "Sigma Notation": "./mathematics/a1/appendix/lang/notation_sigma.md"
+      - "Quantifiers":
+        - "Logic Quantifiers": "./mathematics/a1/appendix/lang/notation_logic_quantifiers.md"
+        - "Set Quantifiers": "./mathematics/a1/appendix/lang/notation_set_quantifiers.md"
+        - "What's the Difference": "./mathematics/a1/appendix/lang/notation_diff_quantifiers.md"
     - "Algebraic Equations":
       - "Terms and Expressions": "./mathematics/a1/appendix/lang/structure_expressions_and_terms.md"
       - "Structure of Equalities": "./mathematics/a1/appendix/lang/structure_equations.md"
