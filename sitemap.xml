@@ -89,10 +89,6 @@
          <lastmod>2024-09-11</lastmod>
     </url>
     <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/sets/set_numbers/</loc>
-         <lastmod>2024-09-11</lastmod>
-    </url>
-    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/theorems/</loc>
          <lastmod>2024-09-11</lastmod>
     </url>
@@ -141,7 +137,47 @@
          <lastmod>2024-09-11</lastmod>
     </url>
     <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/em/base10/</loc>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/number-sets/integers/</loc>
+         <lastmod>2024-09-11</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/number-sets/natural_numbers/</loc>
+         <lastmod>2024-09-11</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/number-sets/set_numbers/</loc>
+         <lastmod>2024-09-11</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/number-system/binary/</loc>
+         <lastmod>2024-09-11</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/number-system/decimal/</loc>
+         <lastmod>2024-09-11</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/number-system/hexidecimal/</loc>
+         <lastmod>2024-09-11</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/puzzle-01-sol/</loc>
+         <lastmod>2024-09-11</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/puzzle-01/</loc>
+         <lastmod>2024-09-11</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-3x3-permutations/</loc>
+         <lastmod>2024-09-11</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-3x3-sol/</loc>
+         <lastmod>2024-09-11</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-3x3/</loc>
          <lastmod>2024-09-11</lastmod>
     </url>
     <url>
