@@ -1,3 +1,4 @@
+# 3x3 Magic Square Solution
 
 Solution: Here’s a completed 3x3 magic square where each row, column, and diagonal adds up to 15:
 

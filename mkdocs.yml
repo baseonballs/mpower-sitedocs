@@ -101,7 +101,8 @@ nav:
       - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
     - "I ❤️ Puzzles":
       - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
-      - "Puzzle 2 - Magic Square?": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
+      - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
+      - "Puzzle 3 - Magic Square, 4x4": "./mathematics/elem/puzzles/level-a/magic-squares/ms-4x4.md"
   - "Algebra 1":
     - "Equation Forms & Structures":
       - "Intro": "page-404.md"

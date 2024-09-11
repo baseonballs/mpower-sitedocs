@@ -152,3 +152,16 @@ docker run -p 8000:8000 ${IMAGE_NAME}:${IMAGE_TAG}
 - https://github.com/arunkumars08/docker-static-files-serve/blob/master/nginx.conf
 - https://github.com/nginxinc/docker-nginx/blob/master/modules/README.md
 - 
+
+
+## mcdocx/plugin 
+
+https://docs.mathjax.org/en/latest/input/tex/extensions/color.html
+
+```html
+{\color{red} x} + {\color{blue} y}
+
+# set the text color
+<span style="color: orange; font-weight:bold; font-style: italic">TEXT</span>
+
+```
