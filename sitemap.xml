@@ -196,4 +196,8 @@
          <loc>http://localhost:8080/sitedocs/mathematics/puzzles/did_you_know/</loc>
          <lastmod>2024-09-11</lastmod>
     </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/puzzles/did_you_know2/</loc>
+         <lastmod>2024-09-11</lastmod>
+    </url>
 </urlset>
