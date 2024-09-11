@@ -96,18 +96,18 @@ Polynomials are added or subtracted by combining **like terms**—terms with the
 
 - Example: Add \( P(x) = 3x^2 + 2x + 1 \) and \( Q(x) = x^2 + 5x - 3 \):
 
-  \[
-  (3x^2 + 2x + 1) + (x^2 + 5x - 3) = 4x^2 + 7x - 2
-  \]
+\[
+(3x^2 + 2x + 1) + (x^2 + 5x - 3) = 4x^2 + 7x - 2
+\]
 
 ### b. **Multiplication**
 Polynomials are multiplied by using the **distributive property** and multiplying each term of one polynomial by each term of the other.
 
 - Example: Multiply \( (x + 2)(x - 3) \):
 
-  \[
-  (x + 2)(x - 3) = x^2 - 3x + 2x - 6 = x^2 - x - 6
-  \]
+\[
+(x + 2)(x - 3) = x^2 - 3x + 2x - 6 = x^2 - x - 6
+\]
 
 ### c. **Division**
 Polynomial division can be performed using **long division** or **synthetic division**. The goal is to divide the terms in descending order of exponents and eliminate terms step by step.

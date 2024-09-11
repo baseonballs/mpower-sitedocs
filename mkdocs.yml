@@ -68,29 +68,27 @@ extra:
       link: "https://github.com/peaceiris"
     - icon: "fontawesome/brands/twitter"
       link: "https://twitter.com/piris314en"
-
 # Navitgation
 nav:
   - "M-Power Mathmatics Sitedocs": "index.md"
   - "Language of Math":
-    - "Symbols and Variables":
+    - "Symbols and Notations":
       - "Mathematic Notation & Syntax": "./mathematics/a1/appendix/lang/semantics.md"
       - "Arithmetic Operators": "./mathematics/a1/appendix/lang/notation_arithmetic_operators.md"
-      - "Structure of Polynomials": "./mathematics/a1/appendix/lang/structure_polynomials.md"
       - "Logic Notation": "./mathematics/a1/appendix/lang/notation_logic.md"
+      - "Set Notation": "./mathematics/a1/appendix/lang/notation_sets.md"
       - "Sigma Notation": "./mathematics/a1/appendix/lang/notation_sigma.md"
-    - "Definitions, Axioms, and Theorems": "page-404.md"
-  - "Math Puzzles & Excursions":
-    - "Overvew": 
-      - "Puzzles": "page-404.md"
+    - "Algebraic Equations":
+      - "Algebriac Terms and Expressions": "./mathematics/a1/appendix/lang/structure_expressions_and_terms.md"
+      - "Structure of Equalities": "./mathematics/a1/appendix/lang/structure_equations.md"
+      - "Structure of Inequalities": "./mathematics/a1/appendix/lang/structure_inqualities.md"
+      - "Structure of Polynomials": "./mathematics/a1/appendix/lang/structure_polynomials.md"
+  - "Math Puzzles and Excursions":
+    - "Elementary Puzzles": "./mathematics/puzzles/index.md"
+    - "Did You Know?": "./mathematics/puzzles/did_you_know.md"
   - "Elementary Mathamatics":
-    - "Number System":
-      - "Base 10": "./mathematics/em/base10/index.md"
-    - "Sets":
-      - "Lists and Sets": "./mathematics/em/base10/index.md"
-    - "Appendix - Resources":
-      - "Cheatsheets":
-        - "Properties of Arithemtic": "page-404.md"
+    - "Number Sets" : "./mathematics/a1/appendix/sets/set_numbers.md"
+    - "Base 10": "./mathematics/em/base10/index.md"
   - "Algebra 1":
     - "Equation Forms & Structures":
       - "Intro": "page-404.md"
