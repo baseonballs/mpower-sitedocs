@@ -91,8 +91,17 @@ nav:
     - "Elementary Puzzles": "./mathematics/puzzles/index.md"
     - "Did You Know?": "./mathematics/puzzles/did_you_know.md"
   - "Elementary Mathamatics":
-    - "Number Sets" : "./mathematics/a1/appendix/sets/set_numbers.md"
-    - "Base 10": "./mathematics/em/base10/index.md"
+    - "Number Sets" : 
+      - "Classification of Numbers": "./mathematics/elem/number-sets/set_numbers.md"
+      - "Natural Nubmers": "./mathematics/elem/number-sets/natural_numbers.md"
+      - "Integers": "./mathematics/elem/number-sets/integers.md"
+    - "Number System":
+      - "Decimal - Base 10": "./mathematics/elem/number-system/decimal.md"
+      - "Binary - Base 2": "./mathematics/elem/number-system/binary.md"
+      - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
+    - "I ❤️ Puzzles":
+      - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
+      - "Puzzle 2 - Magic Square?": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
   - "Algebra 1":
     - "Equation Forms & Structures":
       - "Intro": "page-404.md"

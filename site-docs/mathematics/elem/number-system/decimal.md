@@ -1,4 +1,4 @@
-# Base 10 in Math
+# Decimal and Base 10
 
 Base 10, also known as the **decimal system**, is the most common number system used in everyday life and is fundamental to elementary math education. It's called base 10 because it uses **ten digits** (0 through 9) to represent numbers.
 
