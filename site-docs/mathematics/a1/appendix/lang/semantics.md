@@ -1,4 +1,4 @@
-# Idioms of Mathematical Language
+# Standard Notation and Syntax in Mathematical Language
 
 Mathematical language is a precise and structured way of conveying mathematical ideas and concepts. Understanding its semantics (meaning) and idioms (expressions or phrases) is crucial for effective communication and comprehension in mathematics.
 

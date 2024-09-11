@@ -74,15 +74,15 @@ nav:
   - "M-Power Mathmatics Sitedocs": "index.md"
   - "Language of Math":
     - "Symbols and Variables":
-      - "Algebraic Notation": "./mathematics/a1/appendix/lang/semantics.md"
-      - "Arithmetic Operators": "untitled.md"
-      - "Structure of Polynomials": "untitled.md"
+      - "Mathematic Notation & Syntax": "./mathematics/a1/appendix/lang/semantics.md"
+      - "Arithmetic Operators": "./mathematics/a1/appendix/lang/notation_arithmetic_operators.md"
+      - "Structure of Polynomials": "./mathematics/a1/appendix/lang/structure_polynomials.md"
       - "Logic Notation": "./mathematics/a1/appendix/lang/notation_logic.md"
       - "Sigma Notation": "./mathematics/a1/appendix/lang/notation_sigma.md"
-    - "Definitions, Axioms, and Theorems": "untitled.md"
+    - "Definitions, Axioms, and Theorems": "page-404.md"
   - "Math Puzzles & Excursions":
-    - "Overvew":
-      - "Puzzles": "untitled.md"
+    - "Overvew": 
+      - "Puzzles": "page-404.md"
   - "Elementary Mathamatics":
     - "Number System":
       - "Base 10": "./mathematics/em/base10/index.md"
@@ -90,21 +90,15 @@ nav:
       - "Lists and Sets": "./mathematics/em/base10/index.md"
     - "Appendix - Resources":
       - "Cheatsheets":
-        - "Properties of Arithemtic": "./mathematics/a1/equations/linear-eqs/insights.md"
+        - "Properties of Arithemtic": "page-404.md"
   - "Algebra 1":
     - "Equation Forms & Structures":
-      - "Overview": "./mathematics/a1/equations/linear-eqs/index.md"
-      - "Insights": "./mathematics/a1/equations/linear-eqs/insights.md"
+      - "Intro": "page-404.md"
     - "Linear Equations":
-      - "Algebraic Concepts":
-        - "Form & Structures" : "./mathematics/a1/equations/linear-eqs/insights.md"
-      - "Geometric Concepts": "./mathematics/a1/equations/linear-eqs/insights.md"
-      - "Functions": "./mathematics/a1/equations/linear-eqs/insights.md"
-      - "Graphs": "./mathematics/a1/equations/linear-eqs/insights.md"
-      - "Insights": "./mathematics/a1/equations/linear-eqs/insights.md"
+      - "Functions": "page-404.md"
+      - "Graphs": "page-404.md"
     - "Quadratic Equations":
-      - "Overview": "./mathematics/a1/equations/linear-eqs/index.md"
-      - "Insights": "./mathematics/a1/equations/linear-eqs/insights.md"
+      - "Overview": "page-404.md"
     - "Appendix - Resources":
       - "Definitions":
         - "Rational Exponents": "./mathematics/a1/defs/exp_rational.md"
@@ -129,14 +123,14 @@ nav:
         - "Algebraic Identities":  "./mathematics/a1/appendix/algebraic_identities.md"
   - "Algebra 2":
     - "Trignometic Functions":
-      - "Empty": "untitled.md"
+      - "Empty": "page-404.md"
   - "Modular Arithematic":
     - "Remainders":
-      - "Empty": "untitled.md"
+      - "Empty": "page-404.md"
   - "Geometry":
     - "Trignometic Functions":
-      - "Empty": "untitled.md"
+      - "Empty": "page-404.md"
   - "Number Theory":
-    - "Factors & Multiples": "untitled.md"
-    - "Primality": "untitled.md"
-    - "Divisibility": "untitled.md"
+    - "Factors & Multiples": "page-404.md"
+    - "Primality": "page-404.md"
+    - "Divisibility": "page-404.md"
