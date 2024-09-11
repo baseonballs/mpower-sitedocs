@@ -88,8 +88,11 @@ nav:
       - "Structure of Inequalities": "./mathematics/a1/appendix/lang/structure_inqualities.md"
       - "Structure of Polynomials": "./mathematics/a1/appendix/lang/structure_polynomials.md"
   - "Math Puzzles and Excursions":
-    - "Elementary Puzzles": "./mathematics/puzzles/index.md"
     - "Did You Know?": "./mathematics/puzzles/did_you_know.md"
+    - "I ❤️ Puzzles":
+      - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
+      - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
+      - "Puzzle 3 - Magic Square, 4x4": "./mathematics/elem/puzzles/level-a/magic-squares/ms-4x4.md"
   - "Elementary Mathamatics":
     - "Number Sets" : 
       - "Classification of Numbers": "./mathematics/elem/number-sets/set_numbers.md"
@@ -99,10 +102,6 @@ nav:
       - "Decimal - Base 10": "./mathematics/elem/number-system/decimal.md"
       - "Binary - Base 2": "./mathematics/elem/number-system/binary.md"
       - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
-    - "I ❤️ Puzzles":
-      - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
-      - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
-      - "Puzzle 3 - Magic Square, 4x4": "./mathematics/elem/puzzles/level-a/magic-squares/ms-4x4.md"
   - "Algebra 1":
     - "Equation Forms & Structures":
       - "Intro": "page-404.md"
