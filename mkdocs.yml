@@ -93,6 +93,8 @@ nav:
       - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
       - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
       - "Puzzle 3 - Magic Square, 4x4": "./mathematics/elem/puzzles/level-a/magic-squares/ms-4x4.md"
+    - "Patterns in Numbers": 
+      - "Natural Patterns": "mathematics/patterns/index.md"
   - "Elementary Mathamatics":
     - "Number Sets" : 
       - "Classification of Numbers": "./mathematics/elem/number-sets/set_numbers.md"
