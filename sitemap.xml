@@ -237,6 +237,30 @@
          <lastmod>2024-09-12</lastmod>
     </url>
     <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/patterns/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/patterns/fibonanci/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/patterns/magic_squares/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/patterns/pascal_triangle/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/patterns/prime_gaps/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/patterns/triangular_numbers/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/puzzles/</loc>
          <lastmod>2024-09-12</lastmod>
     </url>
