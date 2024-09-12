@@ -7,13 +7,15 @@
 >
 > <span style="color: orange; font-weight:bold; font-style: italic">WARNING</span>: This site is in <span style="color: red; font-weight:bold; font-style: italic">draft mode</span>; pages that are stubbed with "no contents" will yield a `404-Not Found error`. This is by design.
 >
-> The contents of this portal is rapidily evolving and reflects most of the concepts found in the **"Art of Problem Solving"** textbook, and many of my favorate math topics. If you see gaps or errors with this portal, please contact: <span style="color: grey; font-weight:bold; font-style: italic">Jeffrey Lucas, Math/CS Mentor - &lt;@baseonballs | email:lucasjt@gmail.com&gt;</span> for updates and erratas.
+> The contents of this portal is rapidily evolving and reflects most of the concepts found in the **"Art of Problem Solving"** textbooks, and many of my favorate math topics, particularly theory. If you see gaps or errors with this portal, please contact: <span style="color: grey; font-weight:bold; font-style: italic">Jeffrey Lucas, Math/CS Mentor - &lt;@baseonballs | email:lucasjt@gmail.com&gt;</span> for updates and erratas.
 
 ---
 
-Welcome to our **❤️Math Learning Portal**, the go-to destination for mastering mathematics at all levels! Whether you're just starting with the basics or diving deep into advanced topics, the portal offers a structured and engaging learning experience in both mathematics. Our goal is to deepen your understanding of these subjects.
+Welcome to our **❤️Math Learning Portal**, the go-to destination for mastering mathematics at all levels! Whether you're just starting with the basics or diving deep into advanced topics, this portal offers a structured and engaging learning experience in both mathematics and computer science. Our goal is to deepen your understanding of these domain.
 
-The content is designed with a strong theoretical emphasis to help you become familiar with mathematical and logical notations, and to develop a deeper sense of abstraction in the art of problem-solving. The aim is to immerse you in the language of mathematics, teaching you how to interpret and contextualize the types of math and computer science questions you will undoubtedly encounter. Additionally, you'll be rigorously tested, sharpening your critical thinking skills to their fullest potential. Happy learning and become brighter each, and every day.
+The content emphasizes theory to help you develop mathematical reasoning and gain a deeper sense of abstraction in the art of problem-solving. You'll be immersed in the language of mathematics, learning to interpret and contextualize the types of math and computer science questions you'll undoubtedly encounter. Additionally, you'll be rigorously tested, honing your critical thinking skills to their fullest potential.
+
+> Happy learning and become brighter each, and every day.
 
 Here, you'll explore everything from **Elementary Mathematics** to **Advanced Concepts** in a way that fosters curiosity and understanding. Our notes and lessons cover key areas, including:
 
