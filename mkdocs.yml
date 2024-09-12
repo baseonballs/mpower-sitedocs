@@ -137,7 +137,7 @@ nav:
       - "Identities": "./mathematics/a2/trig.md"
   - "Geometry":
     - "Shapes":
-      - "Triangles": "./mathematics/geometry/index.md"
+      - "Triangles": "./mathematics/geometry/triangle_overview.md"
   - "Modular Arithmetic":
     - "Remainders":
       - "Modulo": "./mathematics/mod-arith/modulo.md"
