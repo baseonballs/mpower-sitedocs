@@ -103,7 +103,9 @@ nav:
       - "Integers": "./mathematics/elem/number-sets/integers.md"
     - "Number System":
       - "Decimal - Base 10": "./mathematics/elem/number-system/decimal.md"
-      - "Binary - Base 2": "./mathematics/elem/number-system/binary.md"
+      - "Binary - Base 2":
+        - "Introduction": "./mathematics/elem/number-system/binary.md"
+        - "Exercises": "mathematics/elem/number-system/exercise/b10_to_b2-01.md"
       - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
   - "Algebra 1":
     - "Equation Forms & Structures":
