@@ -1,4 +1,4 @@
-# <b>Welcome to M-Power Math Compendium</b>
+# <b>Welcome to M-Power ❤️Math Compendium</b>
 
 <div style="text-align: center;">
   <img src="./assets/branding-icons/math-brand.png" alt="sitedocs">
@@ -11,7 +11,7 @@
 
 ---
 
-Welcome to our **Math Learning Portal**, the go-to destination for mastering mathematics at all levels! Whether you're just starting with the basics or diving deep into advanced topics, the portal offers a structured and engaging learning experience in both mathematics. Our goal is to deepen your understanding of these subjects.
+Welcome to our **❤️Math Learning Portal**, the go-to destination for mastering mathematics at all levels! Whether you're just starting with the basics or diving deep into advanced topics, the portal offers a structured and engaging learning experience in both mathematics. Our goal is to deepen your understanding of these subjects.
 
 The content is designed with a strong theoretical emphasis to help you become familiar with mathematical and logical notations, and to develop a deeper sense of abstraction in the art of problem-solving. The aim is to immerse you in the language of mathematics, teaching you how to interpret and contextualize the types of math and computer science questions you will undoubtedly encounter. Additionally, you'll be rigorously tested, sharpening your critical thinking skills to their fullest potential. Happy learning and become brighter each, and every day.
 

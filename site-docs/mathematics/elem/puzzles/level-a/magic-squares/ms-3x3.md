@@ -39,4 +39,4 @@ Click [here](./ms-3x3-sol.md) to see the solution!
 
 ## <span style="color: red; font-weight:bold; font-style: italic">Challenge Yourself</span>
 
-What many possible permuations are there for a 3x3 squares. Click [here](./ms-3x3-permutations.md) for the solution and explaination.
+How many possible permuations are there for a 3x3 squares. Click [here](./ms-3x3-permutations.md) for the solution and explaination.
