@@ -104,12 +104,12 @@ nav:
       - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
   - "Algebra 1":
     - "Equation Forms & Structures":
-      - "Intro": "page-404.md"
+      - "Intro": "./mathematics/a1/eqs/forms/index.md"
     - "Linear Equations":
-      - "Functions": "page-404.md"
-      - "Graphs": "page-404.md"
+      - "Functions": "./mathematics/a1/eqs/linear/functions.md"
+      - "Graphs": "./mathematics/a1/eqs/graphs.md"
     - "Quadratic Equations":
-      - "Overview": "page-404.md"
+      - "Form & Structure": "./mathematics/a1/eqs/quadratics/index.md"
     - "Appendix - Resources":
       - "Definitions":
         - "Rational Exponents": "./mathematics/a1/defs/exp_rational.md"
@@ -134,14 +134,15 @@ nav:
         - "Algebraic Identities":  "./mathematics/a1/appendix/algebraic_identities.md"
   - "Algebra 2":
     - "Trignometic Functions":
-      - "Empty": "page-404.md"
+      - "Identities": "./mathematics/a2/trig.md"
   - "Geometry":
-    - "Trignometic Functions":
-      - "Empty": "page-404.md"
+    - "Shapes":
+      - "Triangles": "./mathematics/geometry/index.md"
   - "Modular Arithmetic":
     - "Remainders":
-      - "Empty": "page-404.md"
+      - "Modulo": "./mathematics/mod-arith/modulo.md"
+      - "Modulus": "./mathematics/mod-arith/modulus.md"
   - "Number Theory":
-    - "Factors & Multiples": "page-404.md"
-    - "Primality": "page-404.md"
-    - "Divisibility": "page-404.md"
+    - "Factors & Multiples": "./mathematics/nt/factors.md"
+    - "Primality": "./mathematics/nt/primality.md"
+    - "Divisibility": "./mathematics/nt/divisibility.md"
