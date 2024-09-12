@@ -2,202 +2,250 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://localhost:8080/sitedocs/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/page-404/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/algebraic_identities/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/fundamental_theorem_algebra/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/fundamental_theorem_arithmetic/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/law_of_exponents/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/laws_eq_ineq/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/peano_axioms/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/pythagoren_theorem/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_arithmetic_operators/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_diff_quantifiers/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_logic/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_logic_quantifiers/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_set_quantifiers/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_sets/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_sigma/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/number_class/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/semantics/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/structure_equations/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/structure_expressions_and_terms/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/structure_inqualities/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/structure_polynomials/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/theorems/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/theorems/quadraics/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/defs/exp_rational/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/a1/equations/linear-eqs/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/graphs/</loc>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/a1/equations/linear-eqs/insigts/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/forms/</loc>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/a1/equations/linear-eqs/q2/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/functions/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/insigts/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/q2/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/</loc>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/q1-solve-for-x/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/q2-solve-for-x/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/q3-solve-for-x/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/q4-solve-for-x/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/q5-solve-for-x/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/qx-solve-for-x.tmpl/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a2/trig/</loc>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-sets/integers/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-sets/natural_numbers/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-sets/set_numbers/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-system/binary/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-system/decimal/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-system/hexidecimal/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/puzzle-01-sol/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/puzzle-01/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-3x3-permutations/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-3x3-sol/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-3x3/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-4x4-sol/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-4x4/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/geometry/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/mod-arith/modulo/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/mod-arith/modulus/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/divisibility/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/factors/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/multiples/</loc>
+         <lastmod>2024-09-12</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/primality/</loc>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/puzzles/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/puzzles/did_you_know/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/puzzles/did_you_know2/</loc>
-         <lastmod>2024-09-11</lastmod>
+         <lastmod>2024-09-12</lastmod>
     </url>
 </urlset>
