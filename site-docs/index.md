@@ -20,7 +20,7 @@ The content emphasizes theory to help you develop mathematical reasoning and gai
 Here, you'll explore everything from **Elementary Mathematics** to **Advanced Concepts** in a way that fosters curiosity and understanding. Our notes and lessons cover key areas, including:
 
 - **Elementary Math**: Master basic concepts with an emphasis on number theory exposure.
-- **Algebra I & II**: Master linear equations, inequalities, polynomials, quadratic functions, and more.
+- **Algebra I & II**: Master linear & non-linear equations, inequalities, class of polynomials, quadratic, cubic functions, and much more.
 - **Modular Arithmetic**: Become procient in circle math by introspect the underpinnings of **remainders** and **quotients**.
 - **Geometry**: Delve into the properties of shapes, theorems, and spatial reasoning.
 - **Number Theory**: Explore the fascinating world of integers, prime numbers, and divisibility.
