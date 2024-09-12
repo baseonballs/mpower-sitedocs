@@ -1,6 +1,6 @@
 # Did You Know?
 
-You landed here, because you are curious. Curious students and folks tend to be much smarter than the rest.
+You landed here, because you are curious. Curious students and folks tend to be much smarter than the rest 😄.
 
 ## Numbers:
 1. <span style="color: orange; font-weight:bold; font-style: normal">Did you know?</span> <span style="color: blue; font-weight:normal; font-style: italic">The number 1 is the only number that cannot be made by adding or multiplying any other whole numbers together. It’s a unique number in the world of math!</span> 
