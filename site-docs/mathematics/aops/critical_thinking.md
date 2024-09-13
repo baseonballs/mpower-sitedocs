@@ -1,7 +1,7 @@
 # **Critical Thinking** - This is the Way!
 
 <div style="text-align: center; background-color: transparent;">
-  <img src="../../../assets/images/tools-resources/image.003.png" alt="sitedocs" style="width: 300px; max-width: 100%; height: auto;">
+  <img src="../../../assets/images/tools-resources/critical-thinking.00.png" alt="sitedocs" style="width: 300px; max-width: 100%; height: auto;">
 </div>
 
 **[Critical thinking](https://iep.utm.edu/critical-thinking/)** is the ability to analyze, evaluate, and synthesize information to make reasoned judgments. It's essential for problem-solving, decision-making, and developing a deeper understanding of the world. Teaching this skill to elementary students lays the foundation for lifelong learning and informed citizenship.

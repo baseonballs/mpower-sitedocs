@@ -2,6 +2,10 @@
 
 M-Power ❤️Math relies on these great tools better expose mathematical concepts to leaners. Here are some excellent online resources to enhance your math learning journey:
 
+<div style="text-align: center; background-color: transparent;">
+  <img src="../assets/images/tools-resources/online-tools.01.png" alt="sitedocs" style="width: 400px; max-width: 100%; height: auto;">
+</div>
+
 **Curriculum Focused Platforms**
 
 Curriculum-focused learning platforms are designed to align closely with school curricula, ensuring that the materials, lessons, and assessments match the specific educational standards students are expected to meet. These platforms are often used to supplement classroom instruction, providing structured and personalized learning experiences for students. Here are some of the key features and top platforms that focus on curriculum-based learning:
