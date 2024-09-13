@@ -24,7 +24,7 @@ Patterns in numbers are fascinating because they often reveal underlying structu
 
 Exploring these patterns can help students understand mathematical structures, connect concepts, and see how math is intricately linked to the world around us!
 
-## **There's even more**
+## **There's Even More...**
 
 These patterns often reveal deeper insights into mathematics and can be applied to various fields, from cryptography to computer science to nature itself.
 
