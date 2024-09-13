@@ -65,6 +65,8 @@ help:
 	@echo "  help                          - Show this help message."
 	@echo "  start-container               - Start the dev docker container."
 	@echo "  stop-container                - Stop the dev docker container."
+	@echo "  mkdocs-gh-deploy              - mkdocs cli to deploy site-docs to github pages"
+
 
 .PHONY: build-info
 build-info:
