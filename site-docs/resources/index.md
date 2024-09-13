@@ -1,6 +1,10 @@
 # Tools & Resources
 
-M-Power relies on these great tools better expose mathematical concepts to leaners. Here are some excellent online resources to enhance your math learning journey:
+M-Power ❤️Math relies on these great tools better expose mathematical concepts to leaners. Here are some excellent online resources to enhance your math learning journey:
+
+<div style="text-align: center;">
+  <img src="../assets/images/tools-resources/image.001.png" alt="res">
+</div>
 
 **Curriculum Focused Platforms**
 
