@@ -102,6 +102,7 @@ nav:
       - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
       - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
       - "Puzzle 3 - Magic Square, 4x4": "./mathematics/elem/puzzles/level-a/magic-squares/ms-4x4.md"
+      - "Puzzle 4 - Frog and the Stairs": "mathematics/elem/puzzles/level-a/frog-and-stairs/frog-and-the-stairs.md"
     - "Did You Know?": "./mathematics/puzzles/did_you_know.md"
     - "Patterns in Numbers": 
       - "Patterns in Nature": "mathematics/patterns/index.md"
