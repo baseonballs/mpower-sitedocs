@@ -9,12 +9,26 @@ Inequalities are mathematical expressions similar to equations but, instead of a
 An inequality has a structure similar to that of an equation, except it uses inequality symbols instead of the equals sign. The general form of an inequality is:
 
 \[
-\text{LHS} \ \text{Inequality Symbol} \ \text{RHS}
+\text{LHS} \ \text{[inequality symbol]} \ \text{RHS}
 \]
 
 Where:
 - **LHS** (Left-hand side): The expression or value on the left side of the inequality.
 - **RHS** (Right-hand side): The expression or value on the right side.
+
+The set of operators include:
+
+Certainly! The set of common inequality symbols can be represented in set notation as follows:
+
+\[ \{ operator \mid operator \in \{ <, \leq, >, \geq \}; \text{ where LHS [operator] RHS } \} \]
+
+
+Here's what each symbol represents:
+
+- \( < \): Less than
+- \( \leq \): Less than or equal to
+- \( > \): Greater than
+- \( \geq \): Greater than or equal to
 
 ---
 
