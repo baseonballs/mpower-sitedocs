@@ -55,40 +55,51 @@ In the context of **linear equations**, the expression **"x = 6"** can be viewed
 
 ### 1. **Linear Equation in One Variable**
 In its simplest form, **x = 6** is already a linear equation with one variable, where the value of **x** is fixed at 6. This means the equation:
+
 \[
 x = 6
 \]
-represents a horizontal line on the Cartesian plane at the point where **x = 6**.
+represents a vertical line on the Cartesian plane at the point where **x = 6**.  The scenario "\(x=6\)" is fixed as 6 for any value of y (y is not given so it can be any value)
 
 #### Example: Solving a Linear Equation
 If **x = 6** is the solution to a linear equation, it might come from equations like:
+
 \[
 2x - 3 = 9
 \]
+
 Solving for **x**:
+
 \[
 2x = 12 \implies x = 6
 \]
+
 This shows that **x = 6** is the solution to this equation, and it's where the line **2x - 3 = 9** intersects the **x-axis**.
 
 ### 2. **Graphical Representation**
 Graphically, **x = 6** is a vertical line on a 2D Cartesian plane where every point on the line has the **x-coordinate** of 6, but the **y-coordinate** can take any value. This line is parallel to the **y-axis** and passes through the point **(6, 0)**.
 
 - The equation of the vertical line is simply:
-  \[
-  x = 6
-  \]
+
+\[
+x = 6
+\]
+
 - This line has no slope, meaning its slope is undefined because the change in **y** can be any value, but **x** remains constant.
 
 ### 3. **System of Linear Equations**
 In a system of linear equations, **x = 6** might be one equation that works together with another equation involving **y**. For example, consider the system:
+
 \[
 x = 6 \quad \text{and} \quad y = 2x - 3
 \]
+
 Substituting **x = 6** into the second equation:
+
 \[
 y = 2(6) - 3 = 12 - 3 = 9
 \]
+
 Thus, the solution to this system is **(6, 9)**, meaning the point **(6, 9)** is where the two lines intersect on the Cartesian plane.
 
 ### 4. **Slope-Intercept Form in Linear Equations**
@@ -100,19 +111,25 @@ In this form, **m** represents the slope, and **b** is the y-intercept. For **x 
 
 ### 5. **Intersection of Two Linear Equations**
 In some cases, **x = 6** might arise as the intersection point of two linear equations in a system. For example, if you have:
+
 \[
 2x + y = 12 \quad \text{and} \quad x - y = -3
 \]
+
 Solving this system:
 1. From the second equation, \( x = y - 3 \).
 2. Substitute \( x = y - 3 \) into the first equation:
-   \[
-   2(y - 3) + y = 12 \implies 2y - 6 + y = 12 \implies 3y = 18 \implies y = 6
-   \]
+
+\[
+2(y - 3) + y = 12 \implies 2y - 6 + y = 12 \implies 3y = 18 \implies y = 6
+\]
+
 3. Substitute \( y = 6 \) back into \( x = y - 3 \):
-   \[
-   x = 6 - 3 = 3
-   \]
+
+\[
+x = 6 - 3 = 3
+\]
+
 Thus, the solution to the system is **x
 
 ## 3D Space
@@ -126,6 +143,7 @@ In **three-dimensional Cartesian coordinates** (with axes **x**, **y**, and **z*
 - Thus, the equation represents a vertical plane that is **parallel to both the y-axis and z-axis** but perpendicular to the x-axis.
 
 #### The plane:
+
 \[
 x = 6
 \]
@@ -142,22 +160,28 @@ Graphically, you could imagine this as a flat sheet that cuts through the **x = 
 If we have other equations describing planes or lines in 3D, **x = 6** may intersect them in interesting ways. For instance:
 
 - If we have another plane, say **y = 3**, then the intersection of the two planes **x = 6** and **y = 3** would be a **line** in 3D space where both conditions are true. This line would be described as:
-  \[
-  (6, 3, z), \quad z \in \mathbb{R}
-  \]
+
+\[
+(6, 3, z), \quad z \in \mathbb{R}
+\]
+
   This means the line consists of all points where **x = 6** and **y = 3**, with **z** allowed to take any real number value.
 
 - If we have a line, say **x = 6**, **y = 4**, and **z = t** (where **t** is a parameter representing the third dimension), this line would lie on the plane **x = 6** and describe a specific path within that plane.
 
 ### 4. **General Form of Planes**
 In general, a plane in 3D space can be written as an equation of the form:
+
 \[
 Ax + By + Cz = D
 \]
+
 For **x = 6**, this simplifies to:
+
 \[
 1x + 0y + 0z = 6
 \]
+
 This tells us that for every point on this plane, the **x-coordinate** must always be 6, while **y** and **z** are free to vary.
 
 ### 5. **Visualizing the Plane**
