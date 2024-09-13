@@ -1,6 +1,6 @@
 # Critical Thinking Frmaework
 
-Building upon our earlier discussion on critical thinking and methods to cultivate it among elementary students, several theoretical frameworks offer deeper insights into this essential skill. Notable among these are the **Paul-Elder Critical Thinking Framework** and **Bloom's Taxonomy**.
+Building upon our earlier discussion on [critical thinking](https://iep.utm.edu/critical-thinking/) and methods to cultivate it among elementary students, several theoretical frameworks offer deeper insights into this essential skill. Notable among these are the **[Paul-Elder Critical Thinking Framework](https://louisville.edu/ideastoaction/about/criticalthinking/framework/)** and **[Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)**.
 
 ## Paul-Elder Critical Thinking Framework
 
@@ -10,7 +10,7 @@ This framework posits that critical thinking involves understanding the elements
 
 - **Intellectual Standards**: Clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness.
 
-By consistently applying these standards to the elements of thought, individuals can develop intellectual traits such as humility, courage, empathy, autonomy, integrity, perseverance, confidence in reason, and fair-mindedness citeturn0search4.
+By consistently applying these standards to the elements of thought, individuals can develop intellectual traits such as humility, courage, empathy, autonomy, integrity, perseverance, confidence in reason, and fair-mindedness [(citation: ScienceDirect)](https://www.sciencedirect.com/science/article/abs/pii/S1871187114000030)
 
 ## Bloom's Taxonomy
 
@@ -23,11 +23,11 @@ Bloom's Taxonomy categorizes cognitive skills into six hierarchical levels:
 5. **Synthesis**: Combining elements to form a new whole.
 6. **Evaluation**: Making judgments based on criteria.
 
-Educators can utilize this taxonomy to design activities that promote higher-order thinking skills, encouraging students to move beyond mere memorization to analysis, synthesis, and evaluation citeturn0search3.
+We can utilize this taxonomy to design activities that promote higher-order thinking skills, encouraging students to move beyond mere memorization to analysis, synthesis, and evaluation [citation:Paul-Elder](https://louisville.edu/ideastoaction/about/criticalthinking/framework/).
 
 ## Integrating Theoretical Frameworks into Practice
 
-To effectively foster critical thinking in elementary students, educators can:
+To effectively foster critical thinking in elementary, middle-schoolers and high school students, we as educators & mentors can:
 
 - **Combine Frameworks**: Use Bloom's Taxonomy to structure learning objectives that align with the intellectual standards of the Paul-Elder framework.
 
@@ -35,4 +35,4 @@ To effectively foster critical thinking in elementary students, educators can:
 
 - **Encourage Self-Reflection**: Incorporate metacognitive activities that prompt students to reflect on their thinking processes, helping them internalize critical thinking skills.
 
-By embedding these theoretical frameworks into educational practices, we can enhance our strategies for developing critical thinkers from a young age.
+By embedding these theoretical frameworks into educational practices, we can enhance our strategies for developing critical thinkers from a very young age.

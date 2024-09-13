@@ -1,6 +1,6 @@
 # Critical Thinking
 
-**Critical thinking** is the ability to analyze, evaluate, and synthesize information to make reasoned judgments. It's essential for problem-solving, decision-making, and developing a deeper understanding of the world. Teaching this skill to elementary students lays the foundation for lifelong learning and informed citizenship.
+**[Critical thinking](https://iep.utm.edu/critical-thinking/)** is the ability to analyze, evaluate, and synthesize information to make reasoned judgments. It's essential for problem-solving, decision-making, and developing a deeper understanding of the world. Teaching this skill to elementary students lays the foundation for lifelong learning and informed citizenship.
 
 ### Key Aspects of Critical Thinking
 1. **Analysis**: Breaking down information into parts to understand it better.
@@ -9,46 +9,46 @@
 4. **Explanation**: Communicating the reasoning behind ideas.
 5. **Reflection**: Assessing one’s own thoughts and assumptions.
 
-### Methods to Teach Critical Thinking to Elementary Students
+### Methods to Teach Critical Thinking to Students
 
 1. **Ask Open-Ended Questions**
    Encourage students to think beyond yes/no answers by asking questions that require them to explain their reasoning. Examples include:
-   - "Why do you think that happened?"
-   - "What would happen if…?"
-   - "How could you solve this differently?"
+   > - "Why do you think that happened?"
+   > - "What would happen if…?"
+   > - "How could you solve this differently?"
 
 2. **Promote Problem-Based Learning**
    Present real-world problems for students to solve. For example:
-   - Pose a situation where a village needs to find a solution for clean water.
-   - Ask students how they would organize a school event and what steps they'd take.
+   > - Pose a situation where a village needs to find a solution for clean water.
+   > - Ask students how they would organize a school event and what steps they'd take.
 
 3. **Encourage Curiosity**
    Create opportunities for students to explore questions they are naturally curious about. Encourage them to ask "why" and "how" questions about the world around them. You can use the following methods:
-   - **Wonder Walls**: Create a space where students can post questions they’re curious about, and work together to find answers.
-   - **Research Projects**: Let students investigate topics of interest and present their findings.
+   > - **Wonder Walls**: Create a space where students can post questions they’re curious about, and work together to find answers.
+   > - **Research Projects**: Let students investigate topics of interest and present their findings.
 
 4. **Teach Through Games and Puzzles**
    Use logic games, puzzles, and problem-solving activities to engage students in critical thinking. Examples:
-   - **Chess** or **strategy-based games** like checkers, which teach planning and foresight.
-   - **Word puzzles** or **number puzzles** like Sudoku, which develop pattern recognition and logical reasoning.
+   > - **Chess** or **strategy-based games** like checkers, which teach planning and foresight.
+   > - **Word puzzles** or **number puzzles** like Sudoku, which develop pattern recognition and logical reasoning.
 
 5. **Model Thinking Aloud**
    Show students how you think through problems by verbalizing your thought process. For example, when solving a math problem, you might say:
-   - “First, I need to figure out what information I have. Then, I’ll think about what I’m being asked to find.”
-   - “Let me check if my steps make sense so far.”
+   > - “First, I need to figure out what information I have. Then, I’ll think about what I’m being asked to find.”
+   > - “Let me check if my steps make sense so far.”
 
 6. **Encourage Group Discussions and Debates**
    Set up group activities where students can discuss topics and share different viewpoints. Guide them to listen to others, challenge ideas respectfully, and support their arguments with evidence.
 
 7. **Use Stories and Scenarios**
    Present scenarios through storytelling where students must think critically about the characters’ decisions. Example questions include:
-   - “Was the character’s decision the best one? Why or why not?”
-   - “What could they have done differently?”
+   > - “Was the character’s decision the best one? Why or why not?”
+   > - “What could they have done differently?”
 
 8. **Connect Critical Thinking to Daily Life**
    Help students apply critical thinking in practical situations, like:
-   - Analyzing advertisements: “What are they trying to convince you of?”
-   - Investigating environmental issues: “How can we reduce waste in our school?”
+   > - Analyzing advertisements: “What are they trying to convince you of?”
+   > - Investigating environmental issues: “How can we reduce waste in our school?”
 
 9. **Reflective Journals**
    Ask students to write about their learning experiences or how they approached solving a problem. This fosters self-reflection and the ability to assess their thinking process.
