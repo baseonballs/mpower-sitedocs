@@ -2,7 +2,7 @@
 
 Building upon our earlier discussion on critical thinking and methods to cultivate it among elementary students, several theoretical frameworks offer deeper insights into this essential skill. Notable among these are the **Paul-Elder Critical Thinking Framework** and **Bloom's Taxonomy**.
 
-### Paul-Elder Critical Thinking Framework
+## Paul-Elder Critical Thinking Framework
 
 This framework posits that critical thinking involves understanding the elements of thought and applying intellectual standards to them. The key components include:
 
@@ -12,7 +12,7 @@ This framework posits that critical thinking involves understanding the elements
 
 By consistently applying these standards to the elements of thought, individuals can develop intellectual traits such as humility, courage, empathy, autonomy, integrity, perseverance, confidence in reason, and fair-mindedness citeturn0search4.
 
-### Bloom's Taxonomy
+## Bloom's Taxonomy
 
 Bloom's Taxonomy categorizes cognitive skills into six hierarchical levels:
 
@@ -25,7 +25,7 @@ Bloom's Taxonomy categorizes cognitive skills into six hierarchical levels:
 
 Educators can utilize this taxonomy to design activities that promote higher-order thinking skills, encouraging students to move beyond mere memorization to analysis, synthesis, and evaluation citeturn0search3.
 
-### Integrating Theoretical Frameworks into Practice
+## Integrating Theoretical Frameworks into Practice
 
 To effectively foster critical thinking in elementary students, educators can:
 
