@@ -1,4 +1,4 @@
-# Critical Thinking Frmaework
+# Critical Thinking Framework
 
 Building upon our earlier discussion on [critical thinking](https://iep.utm.edu/critical-thinking/) and methods to cultivate it among elementary students, several theoretical frameworks offer deeper insights into this essential skill. Notable among these are the **[Paul-Elder Critical Thinking Framework](https://louisville.edu/ideastoaction/about/criticalthinking/framework/)** and **[Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)**.
 

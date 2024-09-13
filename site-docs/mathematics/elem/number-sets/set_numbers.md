@@ -4,7 +4,7 @@ Mathematics relies on various number systems, each serving different purposes an
 
 ---
 
-## **1. Natural Numbers (N)**
+## **1. Natural Numbers (\( \mathbb{N} \))**
 **Symbol**: \( \mathbb{N} \)
 
 - **Definition**: The set of natural numbers consists of the counting numbers used in daily life. They typically exclude zero, though in some definitions, zero is included.
@@ -26,7 +26,7 @@ Mathematics relies on various number systems, each serving different purposes an
 
 ---
 
-## **2. Whole Numbers (W)**
+## **2. Whole Numbers (\( \mathbb{W} \))**
 **Symbol**: \( \mathbb{W} \)
 
 - **Definition**: Whole numbers include all natural numbers plus zero. Whole numbers do not include negative numbers or fractions.
@@ -42,7 +42,7 @@ Mathematics relies on various number systems, each serving different purposes an
 
 ---
 
-## **3. Integers (Z)**
+## **3. Integers (\( \mathbb{Z} \))**
 **Symbol**: \( \mathbb{Z} \) (from the German word *Zahlen*, meaning "numbers")
 
 - **Definition**: The set of integers extends the whole numbers to include negative numbers. This set includes positive numbers, negative numbers, and zero.

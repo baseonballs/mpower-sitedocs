@@ -74,6 +74,8 @@ nav:
   - "Art of Problem Solving":
     - "Critical Thinking": "mathematics/aops/critical_thinking.md"
     - "Critical Framework": "mathematics/aops/critical_thinking_framework.md"
+    - "Mental Excercise":
+      - "x = 6": "mathematics/critical-thinking/mental-excercise/x_equal_6.md"
   - "Language of Math":
     - "Symbols and Notations":
       - "Mathematic Notation & Syntax": "./mathematics/a1/appendix/lang/semantics.md"
@@ -103,7 +105,7 @@ nav:
   - "Elementary Mathamatics":
     - "Number Sets" : 
       - "Classification of Numbers": "./mathematics/elem/number-sets/set_numbers.md"
-      - "Natural Nubmers": "./mathematics/elem/number-sets/natural_numbers.md"
+      - "Natural Numbers": "./mathematics/elem/number-sets/natural_numbers.md"
       - "Integers": "./mathematics/elem/number-sets/integers.md"
     - "Number System":
       - "Decimal - Base 10": "./mathematics/elem/number-system/decimal.md"
