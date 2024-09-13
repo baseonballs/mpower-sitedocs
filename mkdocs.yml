@@ -73,7 +73,7 @@ nav:
   - "M-Power Mathmatics Sitedocs": "index.md"
   - "Art of Problem Solving":
     - "Critical Thinking": "mathematics/aops/critical_thinking.md"
-    - "Critical Framework": "mathematics/aops/critical_thinking_framework.mds"
+    - "Critical Framework": "mathematics/aops/critical_thinking_framework.md"
   - "Language of Math":
     - "Symbols and Notations":
       - "Mathematic Notation & Syntax": "./mathematics/a1/appendix/lang/semantics.md"
@@ -113,7 +113,7 @@ nav:
       - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
   - "Algebra 1":
     - "Equation Forms & Structures":
-      - "Intro": "./mathematics/a1/eqs/forms/index.md"
+      - "Introduction": "./mathematics/a1/eqs/forms/index.md"
     - "Linear Equations":
       - "Functions": "./mathematics/a1/eqs/linear/functions.md"
       - "Graphs": "./mathematics/a1/eqs/graphs.md"
