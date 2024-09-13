@@ -9,6 +9,10 @@
          <lastmod>2024-09-13</lastmod>
     </url>
     <url>
+         <loc>http://localhost:8080/sitedocs/computer-science/</loc>
+         <lastmod>2024-09-13</lastmod>
+    </url>
+    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/algebraic_identities/</loc>
          <lastmod>2024-09-13</lastmod>
     </url>
@@ -314,6 +318,10 @@
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/puzzles/did_you_know2/</loc>
+         <lastmod>2024-09-13</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/resources/</loc>
          <lastmod>2024-09-13</lastmod>
     </url>
 </urlset>
