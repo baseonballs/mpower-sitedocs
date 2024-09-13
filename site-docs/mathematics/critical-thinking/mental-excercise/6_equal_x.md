@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-You are predsented with this information on a clean whiteboard: 
+You are presented with this math statement:
 
 \[
 6 = x
