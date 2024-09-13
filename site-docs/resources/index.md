@@ -8,6 +8,7 @@ Curriculum-focused learning platforms are designed to align closely with school 
 
 * **[AoPS Academy](https://aopsacademy.org/):** offers a rigorous curriculum that challenges students to think deeply, develop creative solutions, and engage in complex problem-solving. It’s designed for students who are highly motivated and are often not sufficiently challenged in traditional school settings.
 * **[Russian School of Math](https://www.mathschool.com/):** is a well-known  and popular after-school mathematics enrichment program that follows a rigorous, logical, and problem-solving-based approach to teaching math.
+* **[Khan Academy](https://www.khanacademy.org/):** offers a vast library of videos, exercises, and practice tests across various math topics.
 * **[CK-12 Foundation](https://www.ck12.org/student/):** curriculum-aligned textbooks and resources.
 * **[Pearson MyMathLab](https://www.pearson.com/en-us/higher-education/products-services/mylab-and-mastering-login.html):** College-preparatory math and higher education; often used by schools for formal assessments and assignments.
 * **[Education](https://www.education.com/):** structured resources and activities that match classroom instruction.
@@ -16,7 +17,7 @@ Curriculum-focused learning platforms are designed to align closely with school 
 
 **General Math Learning Platforms**
 
-* **[Khan Academy](https://www.khanacademy.org/):** offers a vast library of videos, exercises, and practice tests across various math topics.
+* **[M-Power ❤️Math]():** an adaptive learning platform for advancing learners, aimed at fostering a passion and deeper understanding of mathematics and computer science. The goal is to enhance problem-solving skills across a wide range of domains.
 * **[Mathway](https://www.mathway.com/):** provides step-by-step solutions to math problems, making it a great tool for understanding concepts.
 * **[Desmos](https://www.desmos.com/):** is a powerful graphing calculator that can visualize functions, equations, and inequalities.
 * **[IXL](https://www.ixl.com/):** offers personalized math practice with interactive questions and adaptive learning.
@@ -32,11 +33,11 @@ Curriculum-focused learning platforms are designed to align closely with school 
 * **[Symbolab](https://www.symbolab.com/):** is a calculus solver that can handle derivatives, integrals, limits, and more.
 * **[Stat Trek](https://stattrek.com/):** is a comprehensive online statistics textbook and reference guide.
 
-### Programming and Data Science Tools
+### Programming, Data Science Tools and AI
 
 * **[Python.org](https://www.python.org/) :** is the official website for the Python programming language, which is widely used in data science and mathematics.
 * **[Jupyter Notebook](https://jupyter.org/) :** is a web-based interactive computing environment that combines code, text, and visualizations.
-* **[Kaggle](https://www.kaggle.com/):** is a platform for data science competitions and collaboration.
+* **[Kaggle](https://www.kaggle.com/):** is a platform for data science/machine learning competitions and collaboration.
 
 ### Other Useful Resources
 
