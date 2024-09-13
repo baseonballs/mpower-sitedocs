@@ -71,6 +71,9 @@ extra:
 # Navitgation
 nav:
   - "M-Power Mathmatics Sitedocs": "index.md"
+  - "Art of Problem Solving":
+    - "Critical Thinking": "mathematics/aops/critical_thinking.md"
+    - "Critical Framework": "mathematics/aops/critical_thinking_framework.mds"
   - "Language of Math":
     - "Symbols and Notations":
       - "Mathematic Notation & Syntax": "./mathematics/a1/appendix/lang/semantics.md"
@@ -88,14 +91,15 @@ nav:
       - "Structure of Inequalities": "./mathematics/a1/appendix/lang/structure_inqualities.md"
       - "Structure of Polynomials": "./mathematics/a1/appendix/lang/structure_polynomials.md"
   - "Math Puzzles and Excursions":
-    - "Did You Know?": "./mathematics/puzzles/did_you_know.md"
     - "I ❤️ Puzzles":
       - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
       - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
       - "Puzzle 3 - Magic Square, 4x4": "./mathematics/elem/puzzles/level-a/magic-squares/ms-4x4.md"
+    - "Did You Know?": "./mathematics/puzzles/did_you_know.md"
     - "Patterns in Numbers": 
       - "Patterns in Nature": "mathematics/patterns/index.md"
       - "Hidden Patterns": "mathematics/patterns/hidden_patterns.md"
+    - "Number Shapes": "mathematics/patterns/shapes/numbers.md"
   - "Elementary Mathamatics":
     - "Number Sets" : 
       - "Classification of Numbers": "./mathematics/elem/number-sets/set_numbers.md"
