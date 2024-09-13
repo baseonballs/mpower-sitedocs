@@ -1,4 +1,4 @@
-# AMC 8 Problems
+# AMC 8 Problem Sets 1
 
 AMC 8 (American Mathematics Competitions) features problems designed to challenge middle school students' understanding of fundamental mathematical concepts. These problems require strong number sense, logical thinking, and clever problem-solving skills. Here are a few examples of problems used in past AMC 8 competitions:
 
