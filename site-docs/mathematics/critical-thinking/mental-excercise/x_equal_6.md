@@ -2,10 +2,16 @@
 
 ## Problem Statement
 
-You are presented with this information on a clean whiteboard: 
+You are predsented with this information on a clean whiteboard: 
 
 \[
 x = 6
+\]
+
+What about:
+
+\[
+☐ = 6 {\text{ or }} β = 6
 \]
 
 ## Reflection

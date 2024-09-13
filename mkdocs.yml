@@ -76,6 +76,7 @@ nav:
     - "Critical Framework": "mathematics/aops/critical_thinking_framework.md"
     - "Mental Excercise":
       - "Variable Assignment": "mathematics/critical-thinking/mental-excercise/x_equal_6.md"
+      - "Number Assignment": "mathematics/critical-thinking/mental-excercise/6_equal_x.md"
       - "Infinity" : "mathematics/critical-thinking/mental-excercise/infinity/infinity.md"
   - "Language of Math":
     - "Symbols and Notations":
