@@ -1,1 +1,1 @@
-# Natural Numbers \( \mathbb{N} \)
+# Natural Numbers - \( \mathbb{N} \)

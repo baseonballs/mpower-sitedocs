@@ -1,2 +1,2 @@
-# Integers \( \mathbb{Z} \)
+# Integers - \( \mathbb{Z} \)
 
