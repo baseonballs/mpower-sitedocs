@@ -8,7 +8,7 @@ Here’s a set of **Olympiad-level problems**, suitable for national and interna
 Find all functions \( f: \mathbb{R} \to \mathbb{R} \) such that for all real numbers \( x \) and \( y \):
 
 \[
-f(x + y) + f(x - y) = 2f(x)f(y).
+f(x + y) + f(x - y) = 2f(x)f(y)
 \]
 
 ---
@@ -32,7 +32,7 @@ In a tournament with \( n \) players, every pair of players plays exactly one ma
 Let \( a, b, c \) be non-negative real numbers such that \( a + b + c = 1 \). Prove that:
 
 \[
-a^2 + b^2 + c^2 + 2abc \leq 1.
+a^2 + b^2 + c^2 + 2abc \leq 1
 \]
 
 ---
@@ -46,7 +46,7 @@ Let \( ABC \) be a triangle with \( AB = AC \). The angle bisector of \( \angle 
 Prove that there are infinitely many pairs of positive integers \( (x, y) \) such that:
 
 \[
-x^2 - y^5 = 1.
+x^2 - y^5 = 1
 \]
 
 ---
