@@ -189,9 +189,7 @@ In a complex number \( z = a + bi \), \( a \) is the real part, and \( bi \) is 
 
 ## **Summary of Number Classifications**
 
-| Symbol
-
-  | Classification      | Example           | Includes                        |
+| Symbol | Classification      | Example           | Includes                        |
 |---------|---------------------|-------------------|----------------------------------|
 | \( \mathbb{N} \) or \( \mathbb{N}_0 \) | Natural Numbers      | \( 1, 2, 3, \dots \)       | Counting numbers (sometimes with 0) |
 | \( \mathbb{W} \) | Whole Numbers        | \( 0, 1, 2, \dots \) | All non-negative integers        |
