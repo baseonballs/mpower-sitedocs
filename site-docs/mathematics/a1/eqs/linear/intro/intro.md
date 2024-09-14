@@ -2,6 +2,8 @@
 
 Linear equations are fundamental mathematical expressions that describe relationships between variables in a straightforward, "linear" manner. The defining characteristic of a linear equation is that the variables involved are raised only to the first power, ensuring that the graph of the equation forms a straight line. These equations have broad applications across various fields, including science, economics, engineering, and everyday problem-solving.
 
+Linear equations have varying structure that you need to recognize. These come in single, two or multi-variable forms.
+
 ### General Form
 
 A linear equation in one variable typically has the form:
@@ -27,8 +29,7 @@ where:
 
 >Note: Here you are likely scratching your head.  Why is there a constraint on the coefficient of **$a$**.  What about the **$x$** variable. Why is it that it's allowed to be zero. If I don't have an **$x$**  variable, how is that considered a linear equation? Ok, I don't get it. [Give me insights](insights-a-nonzero.md).
 
-
-> Recognize the indepdent variable from other letters or symboles used in the linear equations.
+>Confused by syntax, [check this out](../structures/conventions.md).
 
 In this case, solving the equation involves isolating \(x\) by performing basic algebraic operations. For example, to solve \(3x + 5 = 0\), you would subtract 5 from both sides and then divide by 3:
 
@@ -126,7 +127,7 @@ Linear equations provide a foundational framework for understanding relationship
 
 ## Appendix - Insights
 
-### How many variablels can Linear Equations have?
+### How many variables can linear equations have?
 
 In linear equations, the number of variables is generally determined by the context of the problem and the dimensions of the space being considered. Here’s a breakdown of the maximum number of variables in different contexts:
 
@@ -138,20 +139,24 @@ In linear equations, the number of variables is generally determined by the cont
   Here, \( x_1, x_2, \ldots, x_n \) are variables, \( a_1, a_2, \ldots, a_n \) are coefficients, and \( b \) is a constant.
 
 #### Systems of Linear Equations
+
 - **In a system of linear equations**: The maximum number of variables is determined by the number of equations and the structure of the system. In general, a system can involve any number of variables. For example, in a system with \( m \) equations and \( n \) variables, the system can be represented as:
-  \[
-  \begin{cases}
-  a_{11}x_1 + a_{12}x_2 + \cdots + a_{1n}x_n = b_1 \\
-  a_{21}x_1 + a_{22}x_2 + \cdots + a_{2n}x_n = b_2 \\
-  \vdots \\
-  a_{m1}x_1 + a_{m2}x_2 + \cdots + a_{mn}x_n = b_m
-  \end{cases}
-  \]
+
+\[
+\begin{cases}
+a_{11}x_1 + a_{12}x_2 + \cdots + a_{1n}x_n = b_1 \\
+a_{21}x_1 + a_{22}x_2 + \cdots + a_{2n}x_n = b_2 \\
+\vdots \\
+a_{m1}x_1 + a_{m2}x_2 + \cdots + a_{mn}x_n = b_m
+\end{cases}
+\]
 
 #### Practical Considerations
+
 - **In practice**: The number of variables in linear equations is often constrained by practical considerations, such as the limitations of computation and the specific context of the problem being addressed. For example, in many applications, the number of variables is typically in the range of a few to several dozen, but theoretically, there is no upper limit.
 
 #### Summary
+
 - **Single Linear Equation**: Can have any number of variables.
 - **System of Linear Equations**: Can have any number of variables, with practical constraints depending on the context and application.
 
