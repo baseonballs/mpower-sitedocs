@@ -150,4 +150,4 @@ a_{10} = 2 + (10-1) \times 5 = 2 + 9 \times 5 = 2 + 45 = 47
 Thus, the 10th term is \( \boxed{47} \).
 
 ---
-Click [here](amc8.pset.02.sol.md) for solution.
+Click [here](amc8.pset.02.sol.md) for solutions.

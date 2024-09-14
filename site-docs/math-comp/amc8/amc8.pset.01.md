@@ -36,4 +36,4 @@ The first term of an arithmetic sequence is \( 3 \), and the fifth term is \( 19
 
 These problems showcase a variety of mathematical topics such as algebra, geometry, number theory, probability, and arithmetic sequences. The AMC 8 tests students' abilities to apply logical reasoning and mathematical knowledge in creative ways.
 
-Click [here](amc8.pset.01.sol.md) for solution.
+Click [here](amc8.pset.01.sol.md) for solutions.
