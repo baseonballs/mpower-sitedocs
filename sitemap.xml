@@ -157,6 +157,18 @@
          <lastmod>2024-09-14</lastmod>
     </url>
     <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/def/slope/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/def/x-intercept/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/def/y-intercept/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/forms/class-of-equations/</loc>
          <lastmod>2024-09-14</lastmod>
     </url>
@@ -177,7 +189,19 @@
          <lastmod>2024-09-14</lastmod>
     </url>
     <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/intro/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/properties/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/q2/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/structures/semantics/</loc>
          <lastmod>2024-09-14</lastmod>
     </url>
     <url>
