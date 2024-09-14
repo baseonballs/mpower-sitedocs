@@ -130,9 +130,12 @@ nav:
         - "Exercises": "mathematics/elem/number-system/exercise/b10_to_b2-01.md"
       - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
   - "Algebra 1":
-    - "Equation Forms & Structures":
-      - "Introduction": "./mathematics/a1/eqs/forms/index.md"
+    - "Forms & Structures of Equations":
+      - "Introduction": "mathematics/a1/eqs/forms/class-of-equations.md"
+      
     - "Linear Equations":
+      - "Definition & Properties": "mathematics/a1/eqs/linear/index.md"
+      - "Deconstruction of Forms": "mathematics/a1/eqs/linear/deconstruction.md"
       - "Functions": "./mathematics/a1/eqs/linear/functions.md"
       - "Graphs": "./mathematics/a1/eqs/graphs.md"
     - "Quadratic Equations":
