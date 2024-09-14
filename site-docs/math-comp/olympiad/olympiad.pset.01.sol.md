@@ -51,7 +51,7 @@ Verify if this is the only solution: Substitute \( f(x) = a \cos x + b \) into t
 **Solution:**
 
 \[
-f(x) = \cos x.
+f(x) = \cos x
 \]
 
 ---
