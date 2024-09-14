@@ -130,9 +130,17 @@ nav:
         - "Exercises": "mathematics/elem/number-system/exercise/b10_to_b2-01.md"
       - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
   - "Algebra 1":
-    - "Class, Forms & Structures of Equations":  "mathematics/a1/eqs/forms/class-of-equations.md"
+    - "Class, Forms & Structures of Equations":  
+      - "Types of Equations" : "mathematics/a1/eqs/forms/class-of-equations.md"
+      - "X-intercept": "mathematics/a1/general/x-intercept.md"
+      - "Y-intercept": "mathematics/a1/general/y-intercept.md"
+      - "Slope": "mathematics/a1/general/slope.md"
     - "Linear Equations":
-      - "Introduction": "mathematics/a1/eqs/linear/intro.md"
+      - "Introduction":
+        - "Structures of Linear Equations": "mathematics/a1/eqs/linear/intro.md"
+        - "What is a x-intercept?": "mathematics/a1/eqs/linear/intro/x-intercept.md"
+        - "What is a y-intercept?": "mathematics/a1/eqs/linear/intro/y-intercept.md"
+        - "What is a slope?": "mathematics/a1/eqs/linear/intro/slope.md"
       - "Semantic Structures":
         - "Introspection of Linear Forms": "mathematics/a1/eqs/linear/structures/semantics.md"
         - "Art of Deconstruction": "mathematics/a1/eqs/linear/structures/deconstruction.md"

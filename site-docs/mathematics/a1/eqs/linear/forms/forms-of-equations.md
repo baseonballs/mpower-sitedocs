@@ -116,7 +116,7 @@ Linear equations are used in numerous real-world applications:
 4. **Computer Science**: In algorithms and data analysis, especially in machine learning for linear regression.
 5. **Business**: In optimization problems, such as profit maximization and cost minimization.
 
-## Note:
+## Appendix - Is there a Difference between Standard vs General Form?:
 Someone asked:  Is there a distinction between the standard and general form of linear equations.
 
 Yes, there is often a **distinction** between the **standard form** and **general form** of a linear equation, though the terminology can sometimes overlap depending on the context. Here's a detailed explanation of the difference between the two:
