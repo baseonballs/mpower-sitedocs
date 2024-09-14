@@ -6,14 +6,26 @@ Linear equations are fundamental mathematical expressions that describe relation
 
 A linear equation in one variable typically has the form:
 
+Let \( \mathbb{R} \) denote the set of real numbers. We define:
+
+- **Constant \( a \)**: A constant \( a \) is an element of \(\mathbb{R}\) that is not equal to zero, i.e., \( a \in \mathbb{R} \setminus \{0\} \). This restriction ensures that the equation \( ax + b = 0 \) is linear and not trivial.
+
+- **Constant \( b \)**: A constant \( b \) is an element of \(\mathbb{R}\), i.e., \( b \in \mathbb{R} \). The constant \( b \) can be any real number, including zero.
+
+- **Variable \( x \)**: A constant \( x \) is an element of \(\mathbb{R}\), i.e., \( x \in \mathbb{R} \). The constant \( x \) can be any real number, including zero.
+
+Let \( a, b, x \in \mathbb{R} \). The equation is:
+
 \[
 ax + b = 0
 \]
 
 where:
+
 - \(x\) is the variable,
-- \(a\) and \(b\) are constants,
-- \(a \neq 0\).
+- \(a\) and \(b\) are constants, \(a \neq 0\).
+
+>Note: Here you are likely scratching your head.  Why is there a constraint on the coefficient of **$a$**.  What about the **$x$** variable. Why is it that it's allowed to be zero. If I don't have an **$x$**  variable, how is that considered a linear equation? Ok, I don't get it. [Give me insights](insights-a-nonzero.md).
 
 In this case, solving the equation involves isolating \(x\) by performing basic algebraic operations. For example, to solve \(3x + 5 = 0\), you would subtract 5 from both sides and then divide by 3:
 
@@ -48,6 +60,7 @@ For example, in the equation \(y = 2x + 3\), the slope is 2, indicating that for
 ### Systems of Linear Equations
 
 Linear equations are often used in systems where multiple equations are considered simultaneously. A system of linear equations can have:
+
 - One solution (where the lines intersect at a single point),
 - No solution (where the lines are parallel and never intersect),
 - Infinitely many solutions (where the lines are identical).
@@ -97,6 +110,7 @@ The geometrical interpretation of linear equations reveals their simplicity: in 
 ### Solving Linear Equations
 
 Solving linear equations often involves techniques such as:
+
 - **Isolation of variables**: Rearranging terms to isolate the unknown variable.
 - **Substitution and elimination**: Common in systems of equations.
 - **Graphical methods**: Plotting the equations to visually interpret the solutions.

@@ -138,7 +138,7 @@ nav:
       - "Slope": "mathematics/a1/general/slope.md"
     - "Linear Equations":
       - "Introduction":
-        - "Structures of Linear Equations": "mathematics/a1/eqs/linear/intro.md"
+        - "Structures of Linear Equations": "mathematics/a1/eqs/linear/intro/intro.md"
         - "What is a x-intercept?": "mathematics/a1/eqs/linear/intro/x-intercept.md"
         - "What is a y-intercept?": "mathematics/a1/eqs/linear/intro/y-intercept.md"
         - "What is a slope?": "mathematics/a1/eqs/linear/intro/slope.md"
