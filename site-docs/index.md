@@ -11,7 +11,7 @@
 
 ---
 
-Welcome to our **❤️Math Learning Portal**, the go-to destination for mastering mathematics at all levels! Whether you're just starting with the basics or diving deep into advanced topics, this portal offers a structured and engaging learning experience in both mathematics and computer science. Our goal is to deepen your understanding of these domain.
+Welcome to our **❤️Math Learning Portal**, the go-to destination for mastering mathematics at all levels! Whether you're just starting with the basics or diving deep into advanced topics, this portal offers a structured and engaging learning experience in both mathematics and computer science. Our goal is to deepen your understanding of these subjects.
 
 The content emphasizes theory to help you develop mathematical reasoning and gain a deeper sense of abstraction in the art of problem-solving. You'll be immersed in the language of mathematics, learning to interpret and contextualize the types of math and computer science questions you'll undoubtedly encounter. Additionally, you'll be rigorously tested, honing your critical thinking skills to their fullest potential.
 
@@ -24,6 +24,7 @@ Here, you'll explore everything from **Elementary Mathematics** to **Advanced Co
 - **Modular Arithmetic**: Become procient in circle math by introspect the underpinnings of **remainders** and **quotients**.
 - **Geometry**: Delve into the properties of shapes, theorems, and spatial reasoning.
 - **Number Theory**: Explore the fascinating world of integers, prime numbers, and divisibility.
+- **Logic**: Learn rigorous methods to state facts, make irrefutable arguments, and understand the nature of proofs
 - **Modern Algebra**: Study more advanced topics like groups, rings, and fields to build a foundation in abstract algebra.
 
 Each topic is broken down into digestible lessons, with practice problems, interactive tools, and real-world applications to reinforce learning. Whether you're a beginner or an advanced learner, our portal is designed to support your mathematical journey and help you excel!
