@@ -133,9 +133,11 @@ In linear equations, the number of variables is generally determined by the cont
 
 #### Single Linear Equation
 - **In one linear equation**: A linear equation can have any number of variables. For example, a linear equation with \( n \) variables is written in the form:
-  \[
-  a_1x_1 + a_2x_2 + \cdots + a_nx_n = b
-  \]
+
+\[
+a_1x_1 + a_2x_2 + \cdots + a_nx_n = b
+\]
+
   Here, \( x_1, x_2, \ldots, x_n \) are variables, \( a_1, a_2, \ldots, a_n \) are coefficients, and \( b \) is a constant.
 
 #### Systems of Linear Equations
