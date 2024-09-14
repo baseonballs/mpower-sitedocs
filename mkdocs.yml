@@ -150,7 +150,7 @@ nav:
         - "Art of Deconstruction": "mathematics/a1/eqs/linear/structures/deconstruction.md"
         - "Forms of Linear Eq.": "mathematics/a1/eqs/linear/forms/forms-of-equations.md"
       - "Functions": "./mathematics/a1/eqs/linear/functions.md"
-      - "Graphs": "./mathematics/a1/eqs/graphs.md"
+      - "Curves & Graphs": "./mathematics/a1/eqs/graphs.md"
     - "Quadratic Equations":
       - "Form & Structure": "./mathematics/a1/eqs/quadratics/index.md"
     - "Appendix - Resources":
