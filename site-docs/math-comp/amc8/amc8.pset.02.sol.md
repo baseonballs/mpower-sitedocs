@@ -53,6 +53,7 @@ Let the sum of the five numbers be \( S \). Since the average of five numbers is
 \]
 
 Let the number removed be \( x \). The sum of the remaining four numbers is \( 100 - x \), and their average is \( 15 \):
+
 \[
 \frac{100 - x}{4} = 15 \quad \Rightarrow \quad 100 - x = 60 \quad \Rightarrow \quad x = 40
 \]
@@ -70,8 +71,10 @@ The length of the diagonal \( d \) of a rectangle can be found using the Pythago
 
 \[
 d = \sqrt{l^2 + w^2} = 
-\sqrt{8^2 + 5^2} = \sqrt{64 + 25} = \sqrt{89}
+\sqrt{8^2 + 5^2} = \sqrt{64 + 25} = \
+sqrt{89}
 \]
+
 Thus, the length of the diagonal is \( \boxed{\sqrt{89}} \) units.
 
 ---
@@ -103,6 +106,7 @@ At 3:00, the hour hand is at \( 90^\circ \) (3 o'clock). The minute hand moves \
 \]
 
 The hour hand moves \( 0.5^\circ \) per minute. By 3:15, the hour hand has moved:
+
 \[
 15 \times 0.5^\circ = 7.5^\circ
 \]
@@ -132,8 +136,8 @@ To find the number of divisors, use the formula \( (e_1+1)(e_2+1) \dots (e_n+1) 
 
 \[
 (2+1)(2+1) = 3 \times 3 = 9
-
 \]
+
 Thus, \( 36 \) has \( \boxed{9} \) divisors.
 
 ---
