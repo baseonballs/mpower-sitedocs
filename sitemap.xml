@@ -157,11 +157,15 @@
          <lastmod>2024-09-14</lastmod>
     </url>
     <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/forms/</loc>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/forms/class-of-equations/</loc>
          <lastmod>2024-09-14</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/deconstruction/</loc>
          <lastmod>2024-09-14</lastmod>
     </url>
     <url>
