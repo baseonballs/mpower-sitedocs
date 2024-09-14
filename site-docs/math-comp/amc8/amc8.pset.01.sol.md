@@ -30,13 +30,13 @@ Expand and simplify:
 b = 4
 \]
 
-Since \( m = 3b \), Maria’s current age is:
+Since \( m = 3b \), Corinne’s current age is:
 
 \[
 m = 3 \times 4 = 12
 \]
 
-Thus, Maria is \( \boxed{12} \) years old.
+Thus, Corinne is \( \boxed{12} \) years old.
 
 ---
 
