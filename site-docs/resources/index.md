@@ -48,3 +48,7 @@ Curriculum-focused learning platforms are designed to align closely with school 
 * **[Brilliant](https://brilliant.org/):** offers interactive courses and challenges in math, science, and computer science.
 * **[Math Playground](https://www.mathplayground.com/):** is a fun and engaging website with math games and activities for all ages.
 * **[MathWorld](https://mathworld.wolfram.com/):** is a comprehensive online encyclopedia of mathematics.
+* **[MathBits Notebook](https://mathbitsnotebook.com/):** great mathbook for learners.
+
+
+
