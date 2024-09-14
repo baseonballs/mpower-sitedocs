@@ -132,10 +132,12 @@ nav:
   - "Algebra 1":
     - "Forms & Structures of Equations":
       - "Introduction": "mathematics/a1/eqs/forms/class-of-equations.md"
-      
     - "Linear Equations":
-      - "Definition & Properties": "mathematics/a1/eqs/linear/index.md"
-      - "Deconstruction of Forms": "mathematics/a1/eqs/linear/deconstruction.md"
+      - "Introduction": "mathematics/a1/eqs/linear/intro.md"
+      - "Semantic Structures":
+        - "Introspection of Linear Forms": "mathematics/a1/eqs/linear/structures/semantics.md"
+        - "Forms of Linear Eq.": "mathematics/a1/eqs/linear/index.md"
+        - "Howto Deconstruct": "mathematics/a1/eqs/linear/deconstruction.md"
       - "Functions": "./mathematics/a1/eqs/linear/functions.md"
       - "Graphs": "./mathematics/a1/eqs/graphs.md"
     - "Quadratic Equations":
