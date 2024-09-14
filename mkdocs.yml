@@ -163,9 +163,13 @@ nav:
     - "Trignometic Functions":
       - "Identities": "./mathematics/a2/trig.md"
   - "Geometry":
+    - "Circle":
+      - "Form & Structures": "./mathematics/geometry/form-structures.md"
+      - "Circle Math": "./mathematics/geometry/circle-math.md"
     - "Shapes":
       - "Triangles": "./mathematics/geometry/triangle_overview.md"
   - "Modular Arithmetic":
+    - "Clock Math": "./mathematics/mod-arith/clock-math.md"
     - "Modulo": "./mathematics/mod-arith/modulo.md"
     - "Modulus": "./mathematics/mod-arith/modulus.md"
     - "Remainder System": "./mathematics/mod-arith/remainder-system.md"
