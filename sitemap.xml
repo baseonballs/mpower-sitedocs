@@ -305,7 +305,19 @@
          <lastmod>2024-09-14</lastmod>
     </url>
     <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/geometry/circle-math/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/geometry/form-structures/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/geometry/triangle_overview/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/mod-arith/clock-math/</loc>
          <lastmod>2024-09-14</lastmod>
     </url>
     <url>
