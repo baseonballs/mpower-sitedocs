@@ -23,4 +23,4 @@ Apply your critical thinking skills. What comes to mind when you encounter this 
 Yes, that's true and obvious, but by asking more questions and digging deeper, you'd be surprised at what you can discover. By broadening the range of questions to the person posing the problem or question, you'll often uncover implied constraints or realize that there are no constraints at all.
 
 ---
-Click [here](x_equal_6_retro.md) for introspection.
+Click [here](x_equal_6_retro.md) for retrospective view.

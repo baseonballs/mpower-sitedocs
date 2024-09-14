@@ -7,7 +7,7 @@ What do you think of infinity?
 </div>
 ---
 
-Click [here](infinity_retro.md) for introspection.
+Click [here](infinity_retro.md) for retrospective view.
 
 ---
 Some further questions:

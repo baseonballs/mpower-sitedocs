@@ -5,7 +5,7 @@
 
 You are given hundreds of lego pieces with different gradients of colors, and being asked to sort it in the quickest amount of time possible. The person who sorts it by having the lowest latency wins the prize!
 
-How would you sort the lego pieces?
+>How would you sort the lego pieces?
 
 ---
 
@@ -30,4 +30,4 @@ Click [here](sort-by-colors-dialog.md) for an fictious diaglog between two indiv
 
 ## Different Approaches to Problem Solvings
 
-Click [here](sort-by-colors-retro.md) for introspection.
+Click [here](sort-by-colors-retro.md) for a retrospective analysis of the given problem statement.
