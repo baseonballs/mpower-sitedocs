@@ -181,10 +181,6 @@
          <lastmod>2024-09-14</lastmod>
     </url>
     <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/intro/</loc>
-         <lastmod>2024-09-14</lastmod>
-    </url>
-    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/properties/</loc>
          <lastmod>2024-09-14</lastmod>
     </url>
@@ -194,6 +190,14 @@
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/forms/forms-of-equations/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/intro/insights-a-nonzero/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/intro/intro/</loc>
          <lastmod>2024-09-14</lastmod>
     </url>
     <url>
