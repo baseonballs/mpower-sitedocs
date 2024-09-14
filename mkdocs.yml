@@ -81,6 +81,9 @@ nav:
       - "Sort by Colors" : "mathematics/critical-thinking/mental-excercise/sort-by-colors.md"
     - "Tools & Resources" : "resources/index.md"
   - "Language of Math":
+    - "Semantics":
+      - "Constants vs Variables": "mathematics/a1/appendix/lang/semantics_constvar.md"
+      - "Convention Used": "mathematics/a1/appendix/lang/semantics_constvar_convention.md"
     - "Symbols and Notations":
       - "Mathematic Notation & Syntax": "./mathematics/a1/appendix/lang/semantics.md"
       - "Arithmetic Operators": "./mathematics/a1/appendix/lang/notation_arithmetic_operators.md"
