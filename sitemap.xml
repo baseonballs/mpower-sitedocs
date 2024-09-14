@@ -173,14 +173,6 @@
          <lastmod>2024-09-14</lastmod>
     </url>
     <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/</loc>
-         <lastmod>2024-09-14</lastmod>
-    </url>
-    <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/deconstruction/</loc>
-         <lastmod>2024-09-14</lastmod>
-    </url>
-    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/functions/</loc>
          <lastmod>2024-09-14</lastmod>
     </url>
@@ -198,6 +190,14 @@
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/q2/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/forms/forms-of-equations/</loc>
+         <lastmod>2024-09-14</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/structures/deconstruction/</loc>
          <lastmod>2024-09-14</lastmod>
     </url>
     <url>
