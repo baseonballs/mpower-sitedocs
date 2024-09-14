@@ -166,9 +166,10 @@ nav:
     - "Shapes":
       - "Triangles": "./mathematics/geometry/triangle_overview.md"
   - "Modular Arithmetic":
-    - "Remainders":
-      - "Modulo": "./mathematics/mod-arith/modulo.md"
-      - "Modulus": "./mathematics/mod-arith/modulus.md"
+    - "Modulo": "./mathematics/mod-arith/modulo.md"
+    - "Modulus": "./mathematics/mod-arith/modulus.md"
+    - "Remainder System": "./mathematics/mod-arith/remainder-system.md"
+    - "Remainder Class": "./mathematics/mod-arith/remainder-class.md"
   - "Number Theory":
     - "Factors & Multiples": "./mathematics/nt/factors.md"
     - "Primality": "./mathematics/nt/primality.md"
