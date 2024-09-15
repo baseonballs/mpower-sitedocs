@@ -1,14 +1,15 @@
 # Semantics of Objects
 
-In mathematics, the concept of an *object* can be expanded by discussing how objects are characterized using *labels* and *properties*. Objects in this context refer to any well-defined entity, such as numbers, shapes, functions, or algebraic structures, and they are often described by certain intrinsic properties and classified using labels.
+In mathematics, the concept of an <span style="color: brown; font-weight:bold; font-style: italic">objects</span>
+ can be expanded by discussing how objects are characterized using <span style="color: orange; font-weight:bold; font-style: italic">labels</span> and <span style="color: orange; font-weight:bold; font-style: italic">properties</span>. Objects in this context refer to any well-defined entity, such as numbers, shapes, functions, or algebraic structures, and they are often described by certain intrinsic properties and classified using labels.
 
-## **Labels and Properties of Mathematical Objects**
+## **1. Labels and Properties of Mathematical Objects**
 
 1. **Labels**: Labels are names or identifiers used to classify mathematical objects. They help in distinguishing between different types of objects or in organizing them into groups based on specific characteristics. For example, numbers may be labeled as "prime" or "composite," geometric shapes may be labeled as "triangle" or "quadrilateral," and algebraic structures may be labeled as "group" or "ring."
 
 2. **Properties**: Properties are the attributes or characteristics that describe the nature of an object. These can be intrinsic features that define the object's behavior or structure within a mathematical system. Properties are essential for understanding how objects behave under various operations and are often used to prove theorems or derive further results.
 
-## **Examples of Labels and Properties for Different Mathematical Objects**
+## **1.1 Examples of Labels and Properties for Different Mathematical Objects**
 
 ### **1. Numbers**
 - **Labels**: In number theory, numbers are often categorized and labeled based on their properties. Examples include:
@@ -65,7 +66,7 @@ In mathematics, the concept of an *object* can be expanded by discussing how obj
    - **Degree**: The degree of a vertex is the number of edges connected to it. In directed graphs, there are in-degree and out-degree.
    - **Planarity**: A graph is planar if it can be drawn on a plane without any edges crossing.
 
-## **Why Labels and Properties Matter**
+## **2. Why Labels and Properties Matter**
 
 Understanding labels and properties of mathematical objects is crucial because:
 
@@ -73,6 +74,6 @@ Understanding labels and properties of mathematical objects is crucial because:
 - **Structure and Behavior**: Properties describe how objects behave under certain operations or within specific systems. They help mathematicians explore the relationships between objects and develop deeper insights.
 - **Theoretical Development**: Properties of mathematical objects often lead to generalizations and the development of new theories. For instance, the properties of numbers led to the development of number theory, while the properties of groups, rings, and fields form the foundation of algebra.
 
-## **Summary**
+## **3. Summary**
 
 In mathematics, *objects* are characterized and classified using *labels* and *properties*. Labels serve as identifiers, categorizing objects into meaningful groups such as numbers, functions, shapes, or algebraic structures. Properties describe the inherent characteristics of these objects, helping mathematicians understand their behavior, solve problems, and explore deeper theoretical relationships. These concepts are fundamental to advancing mathematical knowledge across diverse branches.
