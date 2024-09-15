@@ -74,6 +74,29 @@ nav:
   - "Art of Problem Solving":
     - "Critical Thinking": "mathematics/aops/critical_thinking.md"
     - "Critical Framework": "mathematics/aops/critical_thinking_framework.md"
+    - "Math Competitions":
+      - "AMC-8": 
+        - "Problem Set 1": "math-comp/amc8/amc8.pset.01.md"
+        - "Problem Set 2": "math-comp/amc8/amc8.pset.02.md"
+      - "AMC 10":
+        - "Problem Set 1": "math-comp/amc10/amc10.pset.01.md"
+      - "AMC 12":
+        - "Problem Set 1": "math-comp/amc12/amc12.pset.01.md"
+      - "AIME":
+        - "Problem Set 1": "math-comp/aime/aime.pset.01.md"
+      - "Olympiad":
+        - "Problem Set 1": "math-comp/olympiad/olympiad.pset.01.md"
+    - "Math Puzzles and Excursions":
+      - "I ❤️ Puzzles":
+        - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
+        - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
+        - "Puzzle 3 - Magic Square, 4x4": "./mathematics/elem/puzzles/level-a/magic-squares/ms-4x4.md"
+        - "Puzzle 4 - Frog and the Stairs": "mathematics/elem/puzzles/level-a/frog-and-stairs/frog-and-the-stairs.md"
+      - "Did You Know?": "./mathematics/puzzles/did_you_know.md"
+      - "Patterns in Numbers": 
+        - "Patterns in Nature": "mathematics/patterns/index.md"
+        - "Hidden Patterns": "mathematics/patterns/hidden_patterns.md"
+      - "Number Shapes": "mathematics/patterns/shapes/numbers.md"
     - "Mental Excercise":
       - "Variable Assignment": "mathematics/critical-thinking/mental-excercise/x_equal_6.md"
       - "Number Assignment": "mathematics/critical-thinking/mental-excercise/6_equal_x.md"
@@ -84,6 +107,8 @@ nav:
     - "Semantics":
       - "Constants vs Variables": "mathematics/a1/appendix/lang/semantics_constvar.md"
       - "Convention Used": "mathematics/a1/appendix/lang/semantics_constvar_convention.md"
+      - "Objects": "mathematics/a1/appendix/lang/semantics-objects.md"
+      - "Labels & Properties": "mathematics/a1/appendix/lang/semantics-lables-properties.md"
     - "Symbols and Notations":
       - "Mathematic Notation & Syntax": "./mathematics/a1/appendix/lang/semantics.md"
       - "Arithmetic Operators": "./mathematics/a1/appendix/lang/notation_arithmetic_operators.md"
@@ -99,29 +124,6 @@ nav:
       - "Structure of Equalities": "./mathematics/a1/appendix/lang/structure_equations.md"
       - "Structure of Inequalities": "./mathematics/a1/appendix/lang/structure_inqualities.md"
       - "Structure of Polynomials": "./mathematics/a1/appendix/lang/structure_polynomials.md"
-  - "Math Puzzles and Excursions":
-    - "I ❤️ Puzzles":
-      - "Math Competition":
-        - "AMC-8": 
-          - "Problem Set 1": "math-comp/amc8/amc8.pset.01.md"
-          - "Problem Set 2": "math-comp/amc8/amc8.pset.02.md"
-        - "AMC 10":
-          - "Problem Set 1": "math-comp/amc10/amc10.pset.01.md"
-        - "AMC 12":
-          - "Problem Set 1": "math-comp/amc12/amc12.pset.01.md"
-        - "AIME":
-            - "Problem Set 1": "math-comp/aime/aime.pset.01.md"
-        - "Olympiad":
-            - "Problem Set 1": "math-comp/olympiad/olympiad.pset.01.md"
-      - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
-      - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
-      - "Puzzle 3 - Magic Square, 4x4": "./mathematics/elem/puzzles/level-a/magic-squares/ms-4x4.md"
-      - "Puzzle 4 - Frog and the Stairs": "mathematics/elem/puzzles/level-a/frog-and-stairs/frog-and-the-stairs.md"
-    - "Did You Know?": "./mathematics/puzzles/did_you_know.md"
-    - "Patterns in Numbers": 
-      - "Patterns in Nature": "mathematics/patterns/index.md"
-      - "Hidden Patterns": "mathematics/patterns/hidden_patterns.md"
-    - "Number Shapes": "mathematics/patterns/shapes/numbers.md"
   - "Elementary Mathamatics":
     - "Number Sets" : 
       - "Classification of Numbers": "./mathematics/elem/number-sets/set_numbers.md"
