@@ -2,9 +2,52 @@
 
 Linear equations are fundamental mathematical expressions that describe relationships between variables in a straightforward, "linear" manner. The defining characteristic of a linear equation is that the variables involved are raised only to the first power, ensuring that the graph of the equation forms a straight line. These equations have broad applications across various fields, including science, economics, engineering, and everyday problem-solving.
 
-Linear equations have varying structure that you need to recognize. These come in single, two or multi-variable forms.
+This class of equation come in different forms, which you will need to recognize. Some involve a single variable, while others have two or more. We will primarily focus on single and two-variable linear equations. To better understand their structure, it's important to identify and break down the individual components and attributes of a typical linear equation or function. Refer to this [guide](../structures/semantics.md)  for more details on the underlying components of linear equations.
 
-### General Form
+## Geometric Perspective
+
+In the context of simple geometry, linear equations play a key role in describing straight lines. A linear equation in two variables and b is the constant reflecting the y-intercept, often written in the form \(y = mx + b\), represents the equation of a line in the coordinate plane. Here, \(m\) represents the slope of the line, which determines its steepness, and \(b\) is the y-intercept, where the line crosses the y-axis.
+
+In the equation \( y = mx + b \), there are two variables: \( x \) and \( y \). The variable \( y \) is called the *dependent variable* because its value depends on \( x \), which is known as the *independent* or *indeterminate variable*. In other words, the value of \( y \) changes based on the value of \( x \). When \( x \) changes, \( y \) adjusts accordingly. This describes a one-to-one correspondence, where each value of \( x \) maps to a specific value of \( y \), expressed as \( x \to y \). 
+
+As such, the geometrical interpretation of linear equations reveals their simplicity: in one variable, the equation represents a point on a number line; in two variables, it represents a line in a plane. For three variables, the equation describes a plane in 3D space. This ability to visualize linear relationships makes them a cornerstone in the study of geometry and algebra.
+
+Linear equations help define important geometric concepts:
+
+1. **Slope**: The slope, \(m\), is a geometric measurement of how much a line inclines or declines as it moves from left to right. In geometry, slope can also be seen as the ratio of the vertical change (rise) to the horizontal change (run) between any two points on the line.
+   
+2. **Intercepts**: The y-intercept (\(b\)) and x-intercept (the point where \(y = 0\)) provide information about where the line crosses the axes. These intercepts are useful in understanding how the line interacts with the coordinate plane.
+
+3. **Parallel and Perpendicular Lines**: Linear equations describe the relationship between parallel and perpendicular lines. Two lines are parallel if they have the same slope (\(m_1 = m_2\)), and they are perpendicular if the product of their slopes is \(-1\) (\(m_1 \times m_2 = -1\)).
+
+4. **Distance and Midpoints**: While not directly expressed through linear equations, the concepts of distance between two points on a line or finding the midpoint of a line segment can be derived using the coordinates of points on the line, which are solutions to the linear equation.
+
+Linear equations form the backbone of geometric understanding in two-dimensional space, helping describe and analyze shapes, slopes, and lines in simple geometric figures.
+
+Before diving into the formalities of learning about the forms and structure of linear equations, let's take a moment to explore a powerful tool that will help you visualize and understand the key components of a line. This tool allows you to see the relationships between these components as they are elegantly expressed through the mathematical framework of linear equations.
+
+## Use Graphing Tools to Explore the Slopes and Points Using Geometry
+
+[Desmos](https://www.desmos.com/calculator) is a powerful online graphing tool that enhances the understanding of lines and the applications of linear equations in geometry through interactive, visual learning. Here’s how it can be used to support learning in this context:
+
+1. **Graphing Linear Equations**: Desmos allows users to input linear equations, such as \( y = mx + b \), and instantly visualize their corresponding graphs. By adjusting the values of \( m \) (slope) and \( b \) (y-intercept), learners can see in real-time how these parameters affect the steepness and position of the line on the coordinate plane.
+
+2. **Exploring Slope and Intercepts**: The tool makes it easy to experiment with different slopes and intercepts. For example, students can manipulate the slope to see how parallel and perpendicular lines behave. By changing the intercept, they can observe how the line shifts vertically without altering its slope. This hands-on exploration reinforces the relationship between algebraic expressions and their geometric representations.
+
+3. **Point-Slope and Slope-Intercept Forms**: Desmos supports multiple forms of linear equations, such as point-slope form \( y - y_1 = m(x - x_1) \) and slope-intercept form \( y = mx + b \). This versatility helps students explore how lines can be represented in different ways and understand the connections between these forms.
+
+4. **Solving Systems of Linear Equations**: Desmos makes it simple to plot multiple linear equations simultaneously, allowing students to visually explore solutions to systems of linear equations. They can see where two lines intersect, which represents the solution to the system.
+
+5. **Real-Time Interaction**: Desmos provides dynamic sliders for variables, allowing students to see how changes in one variable affect the line instantly. This encourages deeper exploration and helps students grasp abstract concepts through interactive learning.
+
+6. **Modeling Real-World Problems**: Students can use Desmos to model real-world situations with linear equations. For example, they can create equations that represent the cost of a product over time, distances traveled at a constant speed, or growth patterns, making the abstract concepts of linearity more tangible.
+
+7. **Visualizing Geometric Concepts**: Beyond just lines, Desmos can help visualize geometric shapes and figures where linear equations are involved, such as triangles, parallelograms, and their properties, by using the equations of lines to define boundaries or sides of the figures.
+
+By combining visual feedback with interactivity, Desmos helps learners build a deeper understanding of the geometric and algebraic properties of lines and linear equations. It supports the transition from theoretical knowledge to practical applications, making geometry and algebra more accessible.
+
+
+## General Form
 
 A linear equation in one variable typically has the form:
 
@@ -45,7 +88,7 @@ ax + by + c = 0
 
 where \(x\) and \(y\) are variables, and \(a\), \(b\), and \(c\) are constants. A solution to this equation is any pair \((x, y)\) that satisfies it. The graph of such an equation is a straight line in the Cartesian plane.
 
-### Slope-Intercept Form
+## Slope-Intercept Form
 
 One common way to express a linear equation is in *slope-intercept form*:
 
@@ -61,7 +104,7 @@ m = \frac{\Delta y}{\Delta x}.
 
 For example, in the equation \(y = 2x + 3\), the slope is 2, indicating that for every unit increase in \(x\), \(y\) increases by 2. The y-intercept is 3, meaning the line crosses the y-axis at the point (0, 3).
 
-### Systems of Linear Equations
+## Systems of Linear Equations
 
 Linear equations are often used in systems where multiple equations are considered simultaneously. A system of linear equations can have:
 
@@ -98,7 +141,7 @@ x = 1 + 1 = 2.
 
 Thus, the solution is \(x = 2\) and \(y = 1\), meaning the lines intersect at the point (2, 1).
 
-### Applications
+## Applications
 
 Linear equations are pivotal in numerous fields:
 
@@ -106,10 +149,6 @@ Linear equations are pivotal in numerous fields:
 - **Economics**: Supply and demand curves often rely on linear models, where changes in one variable affect another predictably.
 - **Engineering**: Linear equations are used in circuit analysis, structural modeling, and control systems.
 - **Data Science**: Linear regression, a fundamental statistical tool, models the relationship between a dependent variable and one or more independent variables using a linear equation.
-
-### Geometrical Interpretation
-
-The geometrical interpretation of linear equations reveals their simplicity: in one variable, the equation represents a point on a number line; in two variables, it represents a line in a plane. For three variables, the equation describes a plane in 3D space. This ability to visualize linear relationships makes them a cornerstone in the study of geometry and algebra.
 
 ### Solving Linear Equations
 
