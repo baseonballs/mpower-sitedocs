@@ -230,3 +230,4 @@ nav:
       - "Rules of 10s": "mathematics/nt/divisibility/divisibility-rule-10s.md"
     - "Theorems":
       - "Chicken McNugget Theorem": "mathematics/nt/theorems/Chicken-McNugget.md"
+      - "Fermat's Little Theorem" : "mathematics/nt/primality/fermat.md"
