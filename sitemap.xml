@@ -2,502 +2,550 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://localhost:8080/sitedocs/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/page-404/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/computer-science/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/math-comp/aime/aime.pset.01/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/math-comp/aime/aime.pset.01.sol/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/math-comp/amc10/amc10.pset.01/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/math-comp/amc10/amc10.pset.01.sol/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/math-comp/amc12/amc12.pset.01/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/math-comp/amc12/amc12.pset.01.sol/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/math-comp/amc8/amc8.pset.01/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/math-comp/amc8/amc8.pset.01.sol/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/math-comp/amc8/amc8.pset.02/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/math-comp/amc8/amc8.pset.02.sol/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/math-comp/olympiad/olympiad.pset.01/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/math-comp/olympiad/olympiad.pset.01.sol/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/algebraic_identities/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/fundamental_theorem_algebra/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/fundamental_theorem_arithmetic/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/law_of_exponents/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/laws_eq_ineq/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/peano_axioms/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/pythagoren_theorem/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_arithmetic_operators/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_diff_quantifiers/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_logic/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_logic_quantifiers/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_set_quantifiers/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_sets/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/notation_sigma/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/number_class/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/semantics-lables-properties/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/semantics-objects/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/semantics/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/semantics_constvar/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/semantics_constvar_convention/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/structure_equations/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/structure_expressions_and_terms/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/structure_inqualities/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/lang/structure_polynomials/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/theorems/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/appendix/theorems/quadraics/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/defs/exp_rational/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/graphs/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/def/slope/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/def/x-intercept/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/def/y-intercept/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/forms/class-of-equations/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/functions/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/insigts/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/properties/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/q2/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/cheatsheets/cheatsheet-forms/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/forms/forms-of-equations/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/forms/single-two-multivariant/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/intro/insights-a-nonzero/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/intro/intro/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/intro/slope/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/intro/x-intercept/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/intro/y-intercept/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/structures/conventions/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/structures/deconstruction/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/structures/semantics/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/cheat-sheets/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/quadratics-properties/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/vieta/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/problem-sets/completing-the-square/pset.cts.01/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/problem-sets/completing-the-square/pset.cts.01.sol/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/problem-sets/factoring/pset.factoring.01/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/problem-sets/factoring/pset.factoring.01.sol/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/problem-sets/vieta/pset.vieta.01/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/problem-sets/vieta/pset.vieta.01.sol/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/solving-methods/method-complete-the-squares/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/solving-methods/method-factoring/</loc>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/general/slope/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/general/x-intercept/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/general/y-intercept/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/q1-solve-for-x/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/q2-solve-for-x/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/q3-solve-for-x/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/q4-solve-for-x/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/q5-solve-for-x/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/qx-solve-for-x.tmpl/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a2/trig/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/aops/critical_thinking/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/aops/critical_thinking_framework/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/mental-excercise/6_equal_x/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/mental-excercise/sort-by-colors-dialog/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/mental-excercise/sort-by-colors-retro/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/mental-excercise/sort-by-colors/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/mental-excercise/x_equal_6/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/mental-excercise/x_equal_6_retro/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/mental-excercise/infinity/black_hole/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/mental-excercise/infinity/infinity/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/mental-excercise/infinity/infinity_retro/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-sets/integers/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-sets/natural_numbers/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-sets/set_numbers/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-system/binary/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-system/decimal/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-system/hexidecimal/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-system/exercise/b10_to_b2-01/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/puzzle-01-sol/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/puzzle-01/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/frog-and-stairs/frog-and-the-stairs-sol/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/frog-and-stairs/frog-and-the-stairs/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-3x3-permutations/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-3x3-sol/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-3x3/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-4x4-sol/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/puzzles/level-a/magic-squares/ms-4x4/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/geometry/circle-math/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/geometry/form-structures/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/geometry/triangle_overview/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/mod-arith/clock-math/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/mod-arith/modulo/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/mod-arith/modulus/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/mod-arith/remainder-class/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/mod-arith/remainder-system/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/nt/divisibility/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/nt/factors/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/nt/modulus/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/nt/multiples/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/nt/primality/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/patterns/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/patterns/fibonanci/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/patterns/hidden_patterns/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/patterns/magic_squares/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/patterns/pascal_triangle/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/patterns/prime_gaps/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/patterns/triangular_numbers/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/patterns/shapes/numbers/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/puzzles/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/puzzles/did_you_know/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/puzzles/did_you_know2/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/quotes/</loc>
+         <lastmod>2024-09-16</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/resources/</loc>
-         <lastmod>2024-09-15</lastmod>
+         <lastmod>2024-09-16</lastmod>
     </url>
 </urlset>
