@@ -4176,6 +4176,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="1. Definition of Primality">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#formally" class="md-nav__link">
+    <span class="md-ellipsis">
+      Formally:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -4425,6 +4440,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="1. Definition of Primality">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#formally" class="md-nav__link">
+    <span class="md-ellipsis">
+      Formally:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -4623,12 +4653,20 @@
 <p><strong>Primality</strong> is a central concept in number theory and mathematics, concerning the properties and characteristics of prime numbers. This discourse explores the definition of primality, methods for determining whether a number is prime, significant theorems related to primality, and applications of prime numbers in various fields.</p>
 <hr />
 <h2 id="1_definition_of_primality"><strong>1. Definition of Primality</strong><a class="headerlink" href="#1_definition_of_primality" title="Permanent link">&para;</a></h2>
-<p>A <strong>prime number</strong> is a natural number greater than 1 that has no positive divisors other than 1 and itself. Formally, a number <span class="arithmatex">\( p \)</span> is prime if:</p>
-<div class="arithmatex">\[
-\text{For all integers } d \text{ such that } d \text{ divides } p \text{, } d \text{ must be } 1 \text{ or } p.
-\]</div>
-<p>Equivalently, a number <span class="arithmatex">\( p \)</span> is prime if its only positive divisors are 1 and <span class="arithmatex">\( p \)</span>. </p>
-<p><strong>Example:</strong> The number 7 is prime because its only divisors are 1 and 7.</p>
+<p>A prime number is defined formally in mathematics as follows:</p>
+<p><strong>Definition:</strong></p>
+<p>A positive integer <span class="arithmatex">\( p \)</span> is called a <strong>prime number</strong> if and only if it has exactly two distinct positive divisors: 1 and <span class="arithmatex">\( p \)</span> itself.</p>
+<p>In other words, a positive integer <span class="arithmatex">\( p \)</span> is prime if:</p>
+<ol>
+<li><span class="arithmatex">\( p &gt; 1 \)</span> (the number must be greater than 1), and</li>
+<li>The only positive integers that divide <span class="arithmatex">\( p \)</span> without leaving a remainder are 1 and <span class="arithmatex">\( p \)</span>.</li>
+</ol>
+<p>Mathematically, if <span class="arithmatex">\( p \)</span> is a prime number, then for every integer <span class="arithmatex">\( m \)</span>, if <span class="arithmatex">\( m \)</span> divides <span class="arithmatex">\( p \)</span> (i.e., <span class="arithmatex">\( p \mod m = 0 \)</span>), then <span class="arithmatex">\( m \)</span> must be either 1 or <span class="arithmatex">\( p \)</span>. We can also express it as <span class="arithmatex">\(p \equiv 0 \pmod{m}\)</span>. This reads as "p is congruent to 0 modulo m." This also indicates that p leaves a remainder of 0 when divided by m. We can use the short-hand notation and express it as <span class="arithmatex">\(m \mid p\)</span>.</p>
+<h3 id="formally"><strong>Formally:</strong><a class="headerlink" href="#formally" title="Permanent link">&para;</a></h3>
+<div class="arithmatex">\[ \text{A positive integer } p \text{ is prime if and only if} \]</div>
+<div class="arithmatex">\[ \forall m \in \mathbb{Z}^+, \text{ if } m \text{ divides } p \text{ (i.e., } p \mod m = 0 \text{), then } m = 1 \text{ or } m = p. \]</div>
+<p>In simpler terms, a prime number is a number greater than 1 that cannot be formed by multiplying two smaller natural numbers other than 1 and itself.</p>
+<p><strong>Example:</strong> 2 is prime since its divsors is only {1, 2}. It's the only even prime. The next prime number is three. 3 is prime because its only divisors are {1, 3}. This holds true for all integers &gt; 1 that have a pair of unique divisors.</p>
 <p><strong>Composite numbers</strong>, on the other hand, have divisors other than 1 and themselves. For example, 6 is composite because it has divisors 1, 2, 3, and 6.</p>
 <hr />
 <h2 id="2_properties_of_prime_numbers"><strong>2. Properties of Prime Numbers</strong><a class="headerlink" href="#2_properties_of_prime_numbers" title="Permanent link">&para;</a></h2>
