@@ -222,6 +222,7 @@ nav:
       - "What is a Prime?": "./mathematics/nt/primality/primality.md"
       - "Relative Primes": "mathematics/nt/primality/relative-primes.md"
       - "Prime Factorization": "mathematics/nt/primality/prime-factorization.md"
+      - "Class of Primes": "mathematics/nt/primality/class-of-primes.md"
     - "Divisibility": "./mathematics/nt/divisibility.md"
     - "Theorems":
       - "Chicken McNugget Theorem": "mathematics/nt/theorems/Chicken-McNugget.md"

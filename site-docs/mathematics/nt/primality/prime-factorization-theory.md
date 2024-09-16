@@ -1,4 +1,4 @@
-# Theoretical Conext of Prime Factorization
+# Theoretical Context of Prime Factorization
 
 Prime factorization is a critical concept in **number theory**, and its theoretical aspects underpin many significant results and theorems in the field. Here’s a deeper exploration of prime factorization from a theoretical perspective:
 
