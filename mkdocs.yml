@@ -142,6 +142,9 @@ nav:
       - "X-intercept": "mathematics/a1/general/x-intercept.md"
       - "Y-intercept": "mathematics/a1/general/y-intercept.md"
       - "Slope": "mathematics/a1/general/slope.md"
+      - "Resources":
+        - "Differences between Equations and Functions": "mathematics/a1/resources/diff-eqs-functions.md"
+        - "Differences between Curves and Graphs": "mathematics/a1/resources/diff-curves-graphs.md"
     - "Linear Equations":
       - "Introduction":
         - "Structures of Linear Equations": "mathematics/a1/eqs/linear/intro/intro.md"
@@ -174,6 +177,7 @@ nav:
         - "Quadratic Cheatsheet": "mathematics/a1/eqs/quadratics/cheat-sheets.md"
     - "Appendix - Resources":
       - "Definitions":
+        - "Equations, Functions, Curves & Graphs": "./mathematics/a1/defs/exp_rational.md"
         - "Rational Exponents": "./mathematics/a1/defs/exp_rational.md"
       - "Laws & Properties":
         - "Fundamental Theorem of Arithmetic": "./mathematics/a1/appendix/fundamental_theorem_arithmetic.md"
