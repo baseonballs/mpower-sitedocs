@@ -223,6 +223,10 @@ nav:
       - "Relative Primes": "mathematics/nt/primality/relative-primes.md"
       - "Prime Factorization": "mathematics/nt/primality/prime-factorization.md"
       - "Class of Primes": "mathematics/nt/primality/class-of-primes.md"
-    - "Divisibility": "./mathematics/nt/divisibility.md"
+    - "Divisibility":
+      - "General": "mathematics/nt/divisibility/divisibility.md"
+      - "Rules of Divisibility (1..25)": "mathematics/nt/divisibility/divisibility-rule-25.md"
+      - "Rules of Divisibility (26..55)": "mathematics/nt/divisibility/divisibility-rule-26+.md"
+      - "Rules of 10s": "mathematics/nt/divisibility/divisibility-rule-10s.md"
     - "Theorems":
       - "Chicken McNugget Theorem": "mathematics/nt/theorems/Chicken-McNugget.md"
