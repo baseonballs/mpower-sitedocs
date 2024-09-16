@@ -23,12 +23,12 @@ Curriculum-focused learning platforms are designed to align closely with school 
 
 * **[M-Power ❤️Math]():** an adaptive learning platform for advancing learners, aimed at fostering a passion and deeper understanding of mathematics and computer science. The goal is to enhance problem-solving skills across a wide range of domains.
 * **[Mathway](https://www.mathway.com/):** provides step-by-step solutions to math problems, making it a great tool for understanding concepts.
-* **[Desmos](https://www.desmos.com/):** is a powerful graphing calculator that can visualize functions, equations, and inequalities.
 * **[IXL](https://www.ixl.com/):** offers personalized math practice with interactive questions and adaptive learning.
 * **[Prodigy](https://www.prodigygame.com/main-en/):** a gamification platform designed to make math practice fun for younger students. It covers topics like arithmetic, fractions, and geometry with interactive game mechanics.
 
 ### Geometry and Algebra Tools
 
+* **[Desmos](https://www.desmos.com/):** is a powerful graphing calculator that can visualize functions, equations, and inequalities.
 * **[GeoGebra](https://www.geogebra.org/):** is a dynamic geometry software that allows you to explore geometric concepts and create interactive constructions.
 * **[Wolfram Alpha](https://www.wolframalpha.com/):** is a computational knowledge engine that can solve a wide range of math problems, including algebraic equations and calculus.
 
