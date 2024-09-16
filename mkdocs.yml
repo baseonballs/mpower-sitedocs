@@ -201,6 +201,8 @@ nav:
       - "Circle Math": "./mathematics/geometry/circle-math.md"
     - "Shapes":
       - "Triangles": "./mathematics/geometry/triangle_overview.md"
+  - "Logic":
+    - "Introduction": "logic/intro.md"
   - "Modular Arithmetic":
     - "Clock Math": "./mathematics/mod-arith/clock-math.md"
     - "Modulo": "./mathematics/mod-arith/modulo.md"
