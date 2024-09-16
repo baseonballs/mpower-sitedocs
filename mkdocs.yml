@@ -164,9 +164,10 @@ nav:
         - "Complete the Square":
           - "Methods of Completing the Square": "mathematics/a1/eqs/quadratics/solving-methods/method-complete-the-squares.md"
       - "Problem Sets":
-        - "Factoring": "mathematics/a1/eqs/quadratics/problem-sets/factoring/pset.factoring.01.md"
+        - "Factoring of Quadratics": "mathematics/a1/eqs/quadratics/problem-sets/factoring/pset.factoring.01.md"
         - "Completing the Square": "mathematics/a1/eqs/quadratics/problem-sets/completing-the-square/pset.cts.01.md"
-        - "Vieta Method": "mathematics/a1/eqs/quadratics/problem-sets/vieta/pset.vieta.01.md"
+        - "Graphing Quadratics": "mathematics/a1/eqs/quadratics/problem-sets/graphing/pset.graphing.01.md"
+        - "Vieta Methods": "mathematics/a1/eqs/quadratics/problem-sets/vieta/pset.vieta.01.md"
       - "Resources":
         - "Quadratic Cheatsheet": "mathematics/a1/eqs/quadratics/cheat-sheets.md"
     - "Appendix - Resources":
