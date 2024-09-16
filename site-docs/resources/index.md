@@ -50,5 +50,6 @@ Curriculum-focused learning platforms are designed to align closely with school 
 * **[MathWorld](https://mathworld.wolfram.com/):** is a comprehensive online encyclopedia of mathematics.
 * **[MathBits Notebook](https://mathbitsnotebook.com/):** great mathbook for learners.
 
+### Re-enforcment Learning
 
-
+* **[M-Power Worksheets](https://drive.google.com/drive/folders/1F0P6F7YhrK78n-TBHgjbRFQJKdU4BGco?usp=drive_link):** Practice Worksheets.
