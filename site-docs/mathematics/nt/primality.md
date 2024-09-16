@@ -6,15 +6,30 @@
 
 ## **1. Definition of Primality**
 
-A **prime number** is a natural number greater than 1 that has no positive divisors other than 1 and itself. Formally, a number \( p \) is prime if:
 
-\[
-\text{For all integers } d \text{ such that } d \text{ divides } p \text{, } d \text{ must be } 1 \text{ or } p.
-\]
+A prime number is defined formally in mathematics as follows:
 
-Equivalently, a number \( p \) is prime if its only positive divisors are 1 and \( p \). 
+**Definition:**
 
-**Example:** The number 7 is prime because its only divisors are 1 and 7.
+A positive integer \( p \) is called a **prime number** if and only if it has exactly two distinct positive divisors: 1 and \( p \) itself.
+
+In other words, a positive integer \( p \) is prime if:
+
+1. \( p > 1 \) (the number must be greater than 1), and
+2. The only positive integers that divide \( p \) without leaving a remainder are 1 and \( p \).
+
+Mathematically, if \( p \) is a prime number, then for every integer \( m \), if \( m \) divides \( p \) (i.e., \( p \mod m = 0 \)), then \( m \) must be either 1 or \( p \). We can also express it as \(p \equiv 0 \pmod{m}\). This reads as "p is congruent to 0 modulo m." This also indicates that p leaves a remainder of 0 when divided by m. We can use the short-hand notation and express it as \(m \mid p\).
+
+### **Formally:**
+
+\[ \text{A positive integer } p \text{ is prime if and only if} \]
+
+\[ \forall m \in \mathbb{Z}^+, \text{ if } m \text{ divides } p \text{ (i.e., } p \mod m = 0 \text{), then } m = 1 \text{ or } m = p. \]
+
+In simpler terms, a prime number is a number greater than 1 that cannot be formed by multiplying two smaller natural numbers other than 1 and itself.
+
+
+**Example:** 2 is prime since its divsors is only \{1, 2\}. It's the only even prime. The next prime number is three. 3 is prime because its only divisors are \{1, 3\}. This holds true for all integers > 1 that have a pair of unique divisors.
 
 **Composite numbers**, on the other hand, have divisors other than 1 and themselves. For example, 6 is composite because it has divisors 1, 2, 3, and 6.
 
