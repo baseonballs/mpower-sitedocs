@@ -169,6 +169,10 @@
          <lastmod>2024-09-16</lastmod>
     </url>
     <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/defs/eqs-func-graphs/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/defs/exp_rational/</loc>
          <lastmod>2024-09-16</lastmod>
     </url>
@@ -358,6 +362,14 @@
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/psets-a1/qx-solve-for-x.tmpl/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/resources/diff-curves-graphs/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/resources/diff-eqs-functions/</loc>
          <lastmod>2024-09-16</lastmod>
     </url>
     <url>
