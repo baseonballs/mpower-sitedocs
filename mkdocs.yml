@@ -154,15 +154,20 @@ nav:
       - "Functions": "./mathematics/a1/eqs/linear/functions.md"
       - "Curves & Graphs": "./mathematics/a1/eqs/graphs.md"
     - "Quadratic Equations":
-      - "Form & Structure": "./mathematics/a1/eqs/quadratics/index.md"
+      - "Form & Structure":
+        - "Forms of Quadratics": "./mathematics/a1/eqs/quadratics/index.md"
+        - "Properties of Quadratics": "mathematics/a1/eqs/quadratics/quadratics-properties.md"
       - "Understanding Vieta's Formula": "mathematics/a1/eqs/quadratics/vieta.md"
       - "Solving Quadratics": 
         - "Factoring":
           - "Methods of Factoring": "mathematics/a1/eqs/quadratics/solving-methods/method-factoring.md"
         - "Complete the Square":
           - "Methods of Completing the Square": "mathematics/a1/eqs/quadratics/solving-methods/method-complete-the-squares.md"
+      - "Problem Sets":
+        - "Factoring": "mathematics/a1/eqs/quadratics/problem-sets/factoring/pset.factoring.01.md"
+        - "Completing the Square": "mathematics/a1/eqs/quadratics/problem-sets/completing-the-square/pset.cts.01.md"
+        - "Vieta Method": "mathematics/a1/eqs/quadratics/problem-sets/vieta/pset.vieta.01.md"
       - "Resources":
-        - "Properties of Quadratics": "mathematics/a1/eqs/quadratics/quadratics-properties.md"
         - "Quadratic Cheatsheet": "mathematics/a1/eqs/quadratics/cheat-sheets.md"
     - "Appendix - Resources":
       - "Definitions":
