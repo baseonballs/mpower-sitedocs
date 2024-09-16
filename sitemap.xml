@@ -537,7 +537,19 @@
          <lastmod>2024-09-16</lastmod>
     </url>
     <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/nt/primality/</loc>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/primality/primality/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/primality/prime-factorization-theory/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/primality/prime-factorization/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/primality/relative-primes/</loc>
          <lastmod>2024-09-16</lastmod>
     </url>
     <url>
