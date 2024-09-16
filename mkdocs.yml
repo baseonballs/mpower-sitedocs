@@ -159,6 +159,7 @@ nav:
         - "Forms of Quadratics": "./mathematics/a1/eqs/quadratics/index.md"
         - "Properties of Quadratics": "mathematics/a1/eqs/quadratics/quadratics-properties.md"
       - "Understanding Vieta's Formula": "mathematics/a1/eqs/quadratics/vieta.md"
+      - "Curves and Graphs": "mathematics/a1/eqs/quadratics/curves-and-graphs.md"
       - "Solving Quadratics": 
         - "Factoring":
           - "Methods of Factoring": "mathematics/a1/eqs/quadratics/solving-methods/method-factoring.md"
