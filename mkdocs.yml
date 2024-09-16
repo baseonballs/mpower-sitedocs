@@ -137,6 +137,7 @@ nav:
       - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
   - "Algebra 1":
     - "Class, Forms & Structures of Equations":
+      - "Equations, Functions, Curves & Graphs": "mathematics/a1/general/eqs-functions-curves-graphs.md"
       - "Curves & Graphs": "mathematics/a1/general/curves-and-graphs.md"
       - "Types of Equations" : "mathematics/a1/eqs/forms/class-of-equations.md"
       - "X-intercept": "mathematics/a1/general/x-intercept.md"

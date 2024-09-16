@@ -2,6 +2,8 @@
 
 Curves and graphs are essential tools in mathematics for visualizing relationships between variables and understanding the behavior of functions. While linear functions produce straight lines, many functions, especially non-linear ones, generate curves when graphed. These curves provide valuable insights into rates of change, maxima and minima, and other important properties.
 
+>Wondering about the differences between [curve and graphs](../resources/diff-curves-graphs.md)?
+
 ## 1. **Definition of a Graph**
 
 A graph represents a set of points in a coordinate system, typically in two dimensions, where each point corresponds to an ordered pair \( (x, y) \) that satisfies a given equation or function. The x-axis represents the independent variable, and the y-axis represents the dependent variable. Graphs are a primary method for visualizing how the value of one variable changes in response to changes in another.
