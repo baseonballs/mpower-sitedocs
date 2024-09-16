@@ -74,7 +74,12 @@ nav:
   - "Art of Problem Solving":
     - "Critical Thinking": "mathematics/aops/critical_thinking.md"
     - "Critical Framework": "mathematics/aops/critical_thinking_framework.md"
-    - "Math Competitions":
+    - "I ❤️ Puzzles":
+      - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
+      - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
+      - "Puzzle 3 - Magic Square, 4x4": "./mathematics/elem/puzzles/level-a/magic-squares/ms-4x4.md"
+      - "Puzzle 4 - Frog and the Stairs": "mathematics/elem/puzzles/level-a/frog-and-stairs/frog-and-the-stairs.md"
+    - "I ❤️ Math Competitions":
       - "AMC-8": 
         - "Problem Set 1": "math-comp/amc8/amc8.pset.01.md"
         - "Problem Set 2": "math-comp/amc8/amc8.pset.02.md"
@@ -86,12 +91,7 @@ nav:
         - "Problem Set 1": "math-comp/aime/aime.pset.01.md"
       - "Olympiad":
         - "Problem Set 1": "math-comp/olympiad/olympiad.pset.01.md"
-    - "Math Puzzles and Excursions":
-      - "I ❤️ Puzzles":
-        - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
-        - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
-        - "Puzzle 3 - Magic Square, 4x4": "./mathematics/elem/puzzles/level-a/magic-squares/ms-4x4.md"
-        - "Puzzle 4 - Frog and the Stairs": "mathematics/elem/puzzles/level-a/frog-and-stairs/frog-and-the-stairs.md"
+    - "Math Excursions":
       - "Did You Know?": "./mathematics/puzzles/did_you_know.md"
       - "Patterns in Numbers": 
         - "Patterns in Nature": "mathematics/patterns/index.md"
