@@ -136,7 +136,8 @@ nav:
         - "Exercises": "mathematics/elem/number-system/exercise/b10_to_b2-01.md"
       - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
   - "Algebra 1":
-    - "Class, Forms & Structures of Equations":  
+    - "Class, Forms & Structures of Equations":
+      - "Curves & Graphs": "mathematics/a1/general/curves-and-graphs.md"
       - "Types of Equations" : "mathematics/a1/eqs/forms/class-of-equations.md"
       - "X-intercept": "mathematics/a1/general/x-intercept.md"
       - "Y-intercept": "mathematics/a1/general/y-intercept.md"
@@ -152,7 +153,7 @@ nav:
         - "Art of Deconstruction": "mathematics/a1/eqs/linear/structures/deconstruction.md"
         - "Forms of Linear Eq.": "mathematics/a1/eqs/linear/forms/forms-of-equations.md"
       - "Functions": "./mathematics/a1/eqs/linear/functions.md"
-      - "Curves & Graphs": "./mathematics/a1/eqs/graphs.md"
+      - "Curves & Graphs": "mathematics/a1/eqs/linear/curves-and-graphs.md"
     - "Quadratic Equations":
       - "Form & Structure":
         - "Forms of Quadratics": "./mathematics/a1/eqs/quadratics/index.md"
