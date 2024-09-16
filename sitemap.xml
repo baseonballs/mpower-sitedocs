@@ -521,10 +521,6 @@
          <lastmod>2024-09-16</lastmod>
     </url>
     <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/nt/divisibility/</loc>
-         <lastmod>2024-09-16</lastmod>
-    </url>
-    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/nt/factors/</loc>
          <lastmod>2024-09-16</lastmod>
     </url>
@@ -534,6 +530,26 @@
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/nt/multiples/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/divisibility/divisibility-rule-10s/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/divisibility/divisibility-rule-25/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/divisibility/divisibility-rule-26%2B/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/divisibility/divisibility/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/nt/primality/class-of-primes/</loc>
          <lastmod>2024-09-16</lastmod>
     </url>
     <url>
