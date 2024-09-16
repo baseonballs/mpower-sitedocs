@@ -235,3 +235,4 @@ nav:
     - "Resources":
       - "Cheat-Sheets":
         - "Number Theorem Theorems": "mathematics/nt/cheat-sheets/index.md"
+        - "Count Number of Factors": "mathematics/nt/cheat-sheets/count-n-factors.md"
