@@ -193,6 +193,14 @@
          <lastmod>2024-09-16</lastmod>
     </url>
     <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/graphs/curves-graphs/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/curves-and-graphs/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/linear/functions/</loc>
          <lastmod>2024-09-16</lastmod>
     </url>
@@ -306,6 +314,10 @@
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/a1/eqs/quadratics/solving-methods/method-factoring/</loc>
+         <lastmod>2024-09-16</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/a1/general/curves-and-graphs/</loc>
          <lastmod>2024-09-16</lastmod>
     </url>
     <url>
