@@ -39,10 +39,13 @@ x^2 + 4x + 3 = 0
 Isolate the constant term (the \(c\) value) by moving it to the right-hand side.
 
 Example:
+
 \[
 x^2 + 4x + 3 = 0
 \]
+
 Subtract 3 from both sides:
+
 \[
 x^2 + 4x = -3
 \]
@@ -62,6 +65,7 @@ x^2 + 4x + 4 = -3 + 4
 \]
 
 This simplifies to:
+
 \[
 (x + 2)^2 = 1
 \]
@@ -142,6 +146,7 @@ x = -2 \pm \sqrt{2}
 \]
 
 So, the solutions are:
+
 \[
 x = -2 + \sqrt{2} \quad \text{or} \quad x = -2 - \sqrt{2}
 \]
@@ -211,6 +216,7 @@ For \( 2x^2 + 8x + 6 = 0 \), you must first divide by 2:
 \[
 x^2 + 4x + 3 = 0
 \]
+
 Before completing the square.
 
 ### d) **Recognizing when completing the square is necessary**
