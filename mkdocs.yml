@@ -220,3 +220,5 @@ nav:
     - "Factors & Multiples": "./mathematics/nt/factors.md"
     - "Primality": "./mathematics/nt/primality.md"
     - "Divisibility": "./mathematics/nt/divisibility.md"
+    - "Theorems":
+      - "Chicken McNugget Theorem": "mathematics/nt/theorems/Chicken-McNugget.md"

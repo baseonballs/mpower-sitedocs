@@ -1,5 +1,7 @@
 # Retrospective of Frog and the Stairs
 
+>The frog and the stairs is largely based on the Frobenius coin[^1] or the classically known [Chicken Nugget Theorem](../../../..//nt/theorems/Chicken-McNugget.md).
+
 ## Example Walkthrough
 
 **Example:**
@@ -103,3 +105,5 @@ Consider \( N = 11 \), \( k = 3 \), and \( m = 5 \):
 - **Practical Applications:** This type of problem has practical implications in scheduling, resource allocation, and various optimization problems where divisible resources or steps are involved.
 
 The frog and the stairs puzzle not only illustrates fundamental concepts in number theory but also serves as a model for more complex combinatorial and optimization problems.
+
+[^1]: "Coin problem," *Wikipedia*, https://en.wikipedia.org/wiki/Coin_problem. Circa 16 Sept. 2024.
