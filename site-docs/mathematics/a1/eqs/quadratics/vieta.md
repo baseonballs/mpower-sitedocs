@@ -41,6 +41,7 @@ a(x - r_1)(x - r_2) = 0
 \]
 
 Expanding this:
+
 \[
 a(x^2 - (r_1 + r_2)x + r_1r_2) = 0
 \]
