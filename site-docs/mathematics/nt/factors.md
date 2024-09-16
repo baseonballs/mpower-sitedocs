@@ -11,7 +11,7 @@ Factors and multiples are essential concepts in number theory, providing a found
 A **factor** (or divisor) of an integer \( n \) is an integer \( d \) such that \( n \) can be divided by \( d \) without leaving a remainder. Formally:
 
 \[
-n \div d = k \text{ (where \( k \) is an integer)}
+\frac{n}{d} = k \text{ (where \( k \) is an integer)}
 \]
 
 This can be expressed as:

@@ -55,6 +55,8 @@ You landed here, because you are curious. Curious students and folks tend to be 
 
 3. **Did you know?** There are infinitely many prime numbers! A prime number is a number greater than 1 that can only be divided by 1 and itself. The number 2 is the only even prime number!
 
+4. **Did you know?** The ÷ is called the **obelus**: Historically, this symbol has been used in mathematics to represent division, though it's less common in modern mathematical notation compared to the fraction bar or slash.
+
 ## Shapes:
 1. **Did you know?** The simplest shape with straight sides is a triangle. It has just three sides, but it can make so many different kinds of triangles, like equilateral, isosceles, and scalene!
 
