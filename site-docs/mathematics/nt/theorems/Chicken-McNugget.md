@@ -1,6 +1,8 @@
-# Check McNugget Theorem
+# Chicken McNugget Theorem
 
 The **Frobenius coin problem**, also known as the **Chicken McNugget Theorem**[^1] in a popularized context, is a famous problem in the area of **number theory** and **combinatorics**. It deals with finding the largest monetary value that **cannot** be obtained using two relatively prime coin denominations.
+
+>Whoa: Why is this theorem called the [Chicken McNugget Theorem](why-chicken-cnugget.md)?
 
 ## Problem Statement
 
