@@ -155,6 +155,15 @@ nav:
       - "Curves & Graphs": "./mathematics/a1/eqs/graphs.md"
     - "Quadratic Equations":
       - "Form & Structure": "./mathematics/a1/eqs/quadratics/index.md"
+      - "Understanding Vieta's Formula": "mathematics/a1/eqs/quadratics/vieta.md"
+      - "Solving Quadratics": 
+        - "Factoring":
+          - "Methods of Factoring": "mathematics/a1/eqs/quadratics/solving-methods/method-factoring.md"
+        - "Complete the Square":
+          - "Methods of Completing the Square": "mathematics/a1/eqs/quadratics/solving-methods/method-complete-the-squares.md"
+      - "Resources":
+        - "Properties of Quadratics": "mathematics/a1/eqs/quadratics/quadratics-properties.md"
+        - "Quadratic Cheatsheet": "mathematics/a1/eqs/quadratics/cheat-sheets.md"
     - "Appendix - Resources":
       - "Definitions":
         - "Rational Exponents": "./mathematics/a1/defs/exp_rational.md"
