@@ -1,4 +1,4 @@
-# **Remainder Classes in Modular Arithmetic
+# Remainder Classes in Modular Arithmetic
 
 In modular arithmetic, the concept of **remainder classes** (also known as **congruence classes** or **equivalence classes**) is fundamental to understanding how numbers behave under modulo operations. These classes group integers into sets based on their remainders when divided by a given modulus. This discourse will explore the nature of remainder classes, their properties, and their applications in various mathematical contexts.
 
