@@ -5941,32 +5941,44 @@
 <p>Segmentation with respect to divisibility refers to dividing or partitioning a number or set of numbers into distinct sections based on divisibility properties. This concept can be applied in various mathematical fields, especially in number theory, to understand how numbers behave when divided by other numbers or when classified into groups based on divisibility rules. Here’s a breakdown of the idea:</p>
 <h2 id="1_basic_segmentation_by_divisibility">1. <strong>Basic Segmentation by Divisibility</strong><a class="headerlink" href="#1_basic_segmentation_by_divisibility" title="Permanent link">&para;</a></h2>
 <p>A set of integers can be segmented or partitioned into groups based on divisibility by a certain integer <span class="arithmatex">\( d \)</span>. For example, when dividing integers by <span class="arithmatex">\( d \)</span>, any integer <span class="arithmatex">\( n \)</span> will yield a remainder <span class="arithmatex">\( r \)</span>, where <span class="arithmatex">\( 0 \leq r &lt; d \)</span>. This remainder divides the integers into distinct classes (or segments) known as <strong>residue classes</strong>.</p>
-<p>Example: 
-   - If we consider divisibility by 3, the integers can be divided into 3 segments: numbers that give remainders 0, 1, or 2 when divided by 3.
-     - Numbers divisible by 3 (e.g., 3, 6, 9) fall into the "0" segment.
-     - Numbers giving a remainder of 1 (e.g., 1, 4, 7) fall into the "1" segment.
-     - Numbers giving a remainder of 2 (e.g., 2, 5, 8) fall into the "2" segment.</p>
+<p>Example:</p>
+<ul>
+<li>If we consider divisibility by 3, the integers can be divided into 3 segments: numbers that give remainders 0, 1, or 2 when divided by 3.<ul>
+<li>Numbers divisible by 3 (e.g., 3, 6, 9) fall into the "0" segment.</li>
+<li>Numbers giving a remainder of 1 (e.g., 1, 4, 7) fall into the "1" segment.</li>
+<li>Numbers giving a remainder of 2 (e.g., 2, 5, 8) fall into the "2" segment.</li>
+</ul>
+</li>
+</ul>
 <h2 id="2_modular_arithmetic_and_segmentation">2. <strong>Modular Arithmetic and Segmentation</strong><a class="headerlink" href="#2_modular_arithmetic_and_segmentation" title="Permanent link">&para;</a></h2>
 <p>Modular arithmetic is essentially segmentation based on divisibility. In this context, we divide numbers into distinct <strong>equivalence classes</strong> according to a modulus <span class="arithmatex">\( m \)</span>, where two numbers are considered equivalent if their difference is divisible by <span class="arithmatex">\( m \)</span>. Each equivalence class is a segment.</p>
-<p>Example:
-   - In modulo 4 arithmetic, numbers are segmented into four classes:
-     - <span class="arithmatex">\( 0 \mod 4 \)</span> segment: numbers like 0, 4, 8, 12, etc.
-     - <span class="arithmatex">\( 1 \mod 4 \)</span> segment: numbers like 1, 5, 9, 13, etc.
-     - <span class="arithmatex">\( 2 \mod 4 \)</span> segment: numbers like 2, 6, 10, 14, etc.
-     - <span class="arithmatex">\( 3 \mod 4 \)</span> segment: numbers like 3, 7, 11, 15, etc.</p>
+<p>Example:</p>
+<ul>
+<li>In modulo 4 arithmetic, numbers are segmented into four classes:<ul>
+<li><span class="arithmatex">\( 0 \mod 4 \)</span> segment: numbers like 0, 4, 8, 12, etc.</li>
+<li><span class="arithmatex">\( 1 \mod 4 \)</span> segment: numbers like 1, 5, 9, 13, etc.</li>
+<li><span class="arithmatex">\( 2 \mod 4 \)</span> segment: numbers like 2, 6, 10, 14, etc.</li>
+<li><span class="arithmatex">\( 3 \mod 4 \)</span> segment: numbers like 3, 7, 11, 15, etc.</li>
+</ul>
+</li>
+</ul>
 <h2 id="3_segmentation_in_divisibility_chains">3. <strong>Segmentation in Divisibility Chains</strong><a class="headerlink" href="#3_segmentation_in_divisibility_chains" title="Permanent link">&para;</a></h2>
-<p>When analyzing divisibility chains or hierarchical structures of numbers, segmentation can help. For instance, given a number, you can segment its divisors into levels:
-   - Prime factors at the first level.
-   - Divisors created by multiplying two prime factors at the second level, and so on.</p>
+<p>When analyzing divisibility chains or hierarchical structures of numbers, segmentation can help. For instance, given a number, you can segment its divisors into levels:</p>
+<ul>
+<li>Prime factors at the first level.</li>
+<li>Divisors created by multiplying two prime factors at the second level, and so on.</li>
+</ul>
 <p>This segmentation is useful in studying properties like greatest common divisors (GCD) and least common multiples (LCM).</p>
 <h2 id="4_applications_in_cryptography">4. <strong>Applications in Cryptography</strong><a class="headerlink" href="#4_applications_in_cryptography" title="Permanent link">&para;</a></h2>
 <p>In cryptography, segmentation with respect to divisibility is often used in <strong>hashing functions</strong> and <strong>cyclic groups</strong>, where numbers are segmented by modulus in a group. For example, in RSA encryption, large numbers are segmented using modulus to ensure the cyclic nature of the encryption process.</p>
 <h2 id="5_segmentation_in_algorithms_chinese_remainder_theorem">5. <strong>Segmentation in Algorithms (Chinese Remainder Theorem)</strong><a class="headerlink" href="#5_segmentation_in_algorithms_chinese_remainder_theorem" title="Permanent link">&para;</a></h2>
 <p>The <strong>Chinese Remainder Theorem (CRT)</strong> is an advanced example of segmentation by divisibility. It segments a set of congruences and provides a way to solve them simultaneously by converting them into a single solution over a larger modulus. This relies heavily on the segmentation of integers according to multiple moduli and divisibility properties.</p>
 <h2 id="6_segmentation_and_factorization">6. <strong>Segmentation and Factorization</strong><a class="headerlink" href="#6_segmentation_and_factorization" title="Permanent link">&para;</a></h2>
-<p>In the context of factorization, segmentation refers to partitioning numbers based on whether they can be factored by smaller primes. For example:
-   - Segment numbers by their prime divisors, e.g., numbers divisible by 2, by 3, by 5, etc.
-   - Segment numbers by their factorization complexity, such as prime numbers, semi-primes (products of two primes), and numbers with more complex factorization.</p>
+<p>In the context of factorization, segmentation refers to partitioning numbers based on whether they can be factored by smaller primes. For example:</p>
+<ul>
+<li>Segment numbers by their prime divisors, e.g., numbers divisible by 2, by 3, by 5, etc.</li>
+<li>Segment numbers by their factorization complexity, such as prime numbers, semi-primes (products of two primes), and numbers with more complex factorization.</li>
+</ul>
 <h3 id="summary">Summary<a class="headerlink" href="#summary" title="Permanent link">&para;</a></h3>
 <p>Segmentation with respect to divisibility allows for organizing and analyzing numbers based on how they behave under division by other numbers. This concept is foundational in number theory, cryptography, algorithms, and the study of divisibility properties such as prime factorization, residue classes, and modular systems.</p>
 
