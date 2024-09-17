@@ -31,6 +31,16 @@ For modulus \( n = 5 \), the remainder system is:
 
 This system allows us to work within a finite set of numbers, simplifying calculations in many situations.
 
+>Note:
+Residue and remainder are not exactly the same, although they can be similar in certain contexts. The distinction include:
+>
+1. **Remainder**: In arithmetic, when you divide one number by another, the remainder is what is left over after performing the division. For example, dividing 17 by 5 gives a quotient of 3 and a remainder of 2, because \(17 = 5 \times 3 + 2\). The remainder is specifically tied to division.
+>
+2. **Residue**: In modular arithmetic, the residue is the equivalent value of a number in a particular modulus system. For example, in modulo 5 arithmetic, the residue of 17 is 2 because \(17 \mod 5 = 2\). The residue is the value you get when you reduce a number according to some modulus.
+>
+**Key difference**: While both terms refer to what's left over, "remainder" is used in regular division, while "residue" is specifically used in modular arithmetic. Residue is usually part of a system (modulus) and is always smaller than the modulus, while the remainder might have a different interpretation in certain situations (e.g., negative division).
+
+
 ---
 
 ## **2. Reduced Remainder System (Reduced Residue System)**
