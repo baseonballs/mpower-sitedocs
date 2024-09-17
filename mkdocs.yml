@@ -74,6 +74,10 @@ nav:
   - "Art of Problem Solving":
     - "Critical Thinking": "mathematics/aops/critical_thinking.md"
     - "Critical Framework": "mathematics/aops/critical_thinking_framework.md"
+    - "Pillars of Cognition":
+      - "Foundation of Thinking": "mathematics/critical-thinking/cognition/pillars-of-cognition.md"
+      - "Developing Abstraction" : "mathematics/critical-thinking/cognition/abstraction.md"
+      - "Finding Patterns" : "mathematics/critical-thinking/cognition/finding-patterns.md"
     - "I ❤️ Puzzles":
       - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
       - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
@@ -136,6 +140,7 @@ nav:
         - "Exercises": "mathematics/elem/number-system/exercise/b10_to_b2-01.md"
       - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
     - "Segmentation": 
+      - "Segmentation in Mathematics": "mathematics/elem/segmentation/segmentation.md"
       - "Divisibility & Grouping": "mathematics/elem/segmentation/segmentation-grouping.md"
   - "Algebra 1":
     - "Class, Forms & Structures of Equations":
