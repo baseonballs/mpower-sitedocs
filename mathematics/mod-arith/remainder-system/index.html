@@ -5645,6 +5645,19 @@
 <li><span class="arithmatex">\( -4 \equiv 1 \pmod{5} \)</span>.</li>
 </ul>
 <p>This system allows us to work within a finite set of numbers, simplifying calculations in many situations.</p>
+<blockquote>
+<p>Note:
+Residue and remainder are not exactly the same, although they can be similar in certain contexts. The distinction include:</p>
+<ol>
+<li>
+<p><strong>Remainder</strong>: In arithmetic, when you divide one number by another, the remainder is what is left over after performing the division. For example, dividing 17 by 5 gives a quotient of 3 and a remainder of 2, because <span class="arithmatex">\(17 = 5 \times 3 + 2\)</span>. The remainder is specifically tied to division.</p>
+</li>
+<li>
+<p><strong>Residue</strong>: In modular arithmetic, the residue is the equivalent value of a number in a particular modulus system. For example, in modulo 5 arithmetic, the residue of 17 is 2 because <span class="arithmatex">\(17 \mod 5 = 2\)</span>. The residue is the value you get when you reduce a number according to some modulus.</p>
+</li>
+</ol>
+<p><strong>Key difference</strong>: While both terms refer to what's left over, "remainder" is used in regular division, while "residue" is specifically used in modular arithmetic. Residue is usually part of a system (modulus) and is always smaller than the modulus, while the remainder might have a different interpretation in certain situations (e.g., negative division).</p>
+</blockquote>
 <hr />
 <h2 id="2_reduced_remainder_system_reduced_residue_system"><strong>2. Reduced Remainder System (Reduced Residue System)</strong><a class="headerlink" href="#2_reduced_remainder_system_reduced_residue_system" title="Permanent link">&para;</a></h2>
 <p>In some cases, we are interested in numbers that are <strong>coprime</strong> with the modulus. A <strong>reduced remainder system</strong> (or <strong>reduced residue system</strong>) modulo <span class="arithmatex">\( n \)</span> consists of all integers between 0 and <span class="arithmatex">\( n - 1 \)</span> that are coprime with <span class="arithmatex">\( n \)</span>. This means that the greatest common divisor (GCD) of any element in the reduced system and <span class="arithmatex">\( n \)</span> is 1.</p>
