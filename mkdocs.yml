@@ -152,6 +152,9 @@ nav:
       - "Generalization Through Patterns":
         - "Generalization Process Using Patterns": "mathematics/elem/derivation/generations-through-patterns.md"
         - "Sum of First n Natural Numbers": "mathematics/elem/derivation/derivation-of-formulas.md"
+        - "Derived Formulas & Theorems through Pattern Observation":
+          - "Basic Formulas": "mathematics/elem/patterns/summary-derived-formulas.md"
+          - "Fundamental Theorems": "mathematics/elem/patterns/summary-derived-thorems.md"
       - "Montessori Bionmial Squares and Cubes":
         - "Bionomial Squares" : "mathematics/elem/patterns/montessori-cubes/bionomial-square-expansion.md"
         - "Bionomial Cubes" : "mathematics/elem/patterns/montessori-cubes/binomial-cube-expansion.md"
