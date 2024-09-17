@@ -4,7 +4,7 @@ Cognition encompasses the mental processes involved in acquiring knowledge and u
 
 ## **1. Perception**
 
-**Perception** is the process of organizing and interpreting sensory information to form a meaningful understanding of the world. It is the foundation upon which higher cognitive processes are built.
+**Perception**[^1] is the process of organizing and interpreting sensory information to form a meaningful understanding of the world. It is the foundation upon which higher cognitive processes are built.
 
 - **Sensory Input**: Perception begins with sensory input—information received from the environment through our senses (sight, hearing, touch, taste, and smell). Our brain processes these inputs to create a coherent representation of our surroundings.
 
@@ -18,7 +18,7 @@ Understanding perception is crucial for cognitive development, as it provides th
 
 ## **2. Attention**
 
-**Attention** is the cognitive process of focusing on specific stimuli or tasks while ignoring others. It is essential for processing information effectively and efficiently.
+**Attention[^2]** is the cognitive process of focusing on specific stimuli or tasks while ignoring others. It is essential for processing information effectively and efficiently.
 
 - **Selective Attention**: This involves focusing on one particular stimulus or task while excluding others. For example, concentrating on a conversation in a noisy room requires selective attention.
 
@@ -90,7 +90,7 @@ Executive function is essential for managing daily activities, making decisions,
 
 ## **7. Metacognition**
 
-**Metacognition** is the awareness and understanding of one’s own cognitive processes. It involves thinking about thinking and regulating one’s cognitive strategies.
+**Metacognition[^3]** is the awareness and understanding of one’s own cognitive processes. It involves thinking about thinking and regulating one’s cognitive strategies.
 
 - **Self-Monitoring**: This involves assessing and reflecting on one’s own thought processes and understanding. For example, recognizing when you don’t understand a concept and seeking help.
 
@@ -119,3 +119,7 @@ Understanding the impact of emotions and motivation on cognition helps in managi
 The pillars of cognition—perception, attention, memory, language, reasoning, executive function, metacognition, and emotion/motivation—are fundamental to understanding how we think, learn, and interact with the world. Each pillar supports various aspects of cognitive functioning, from processing sensory information to making decisions and solving problems.
 
 By studying and developing these cognitive pillars, individuals can enhance their ability to learn, adapt, and succeed in various cognitive tasks. Understanding these foundational elements provides valuable insights into how we process information and interact with our environment, leading to more effective learning and problem-solving strategies.
+
+[^1]: [Wikipedia: Perception, circa September 20, 2024](https://en.wikipedia.org/wiki/Perception)
+[^2]: [Wikipedia: Attention, circa September 20, 2024](https://en.wikipedia.org/wiki/Attention, circa September 20, 2024)
+[^3]: [Wikipedia: Metacognition, circa September 20, 2024](https://en.wikipedia.org/wiki/Metacognition, circa September 20, 2024)
