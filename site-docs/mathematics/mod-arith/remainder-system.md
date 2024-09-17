@@ -196,7 +196,7 @@ The **Chinese Remainder Theorem** (CRT) allows us to solve systems of simultaneo
 
 ---
 
-## **6. Conclusion**
+## **Summary**
 
 The concept of a **remainder system** is fundamental to modular arithmetic and has far-reaching implications across mathematics and computer science. By reducing numbers to their remainders, we create manageable systems where calculations are simpler and periodic. This modular behavior underpins key theories in number theory, cryptography, and algorithm design.
 

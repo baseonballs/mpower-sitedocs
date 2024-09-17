@@ -42,7 +42,7 @@ This is because when 23 is divided by 7, the quotient is 3 and the remainder is 
 
 Modulo operation has several useful properties, especially when dealing with large numbers or in modular arithmetic.
 
-### **i. Division Property**
+### **2.1 Division Property**
 When \( a \) is divisible by \( n \), \( a \mod n = 0 \). For example:
 
 \[
@@ -51,7 +51,7 @@ When \( a \) is divisible by \( n \), \( a \mod n = 0 \). For example:
 
 Since 12 is divisible by 4, the remainder is 0.
 
-### **ii. Cyclic Nature**
+### **2.2 Cyclic Nature**
 Modulo arithmetic is **cyclic**, meaning the results repeat in cycles. For example, with \( n = 5 \), the remainders (0, 1, 2, 3, 4) repeat every 5 numbers:
 
 \[
@@ -60,7 +60,7 @@ Modulo arithmetic is **cyclic**, meaning the results repeat in cycles. For examp
 
 The result is always in the set \( \{0, 1, 2, \dots, n-1\} \), making modular arithmetic periodic and predictable.
 
-### **iii. Congruence**
+### **3.3 Congruence**
 We say that two numbers are **congruent** modulo \( n \) if they have the same remainder when divided by \( n \). This is written as:
 
 \[
@@ -134,16 +134,16 @@ So, \( (17 + 8) \mod 5 = 0 \).
 
 Modulo has extensive applications in several fields of mathematics, computer science, cryptography, and more.
 
-### **i. Computer Science**
+### **4.1 Computer Science**
 - **Hashing:** In hash functions, modulo is often used to map large numbers to a smaller range, especially in constructing hash tables.
 - **Cycle detection:** Modulo is used in algorithms to detect cycles or periodicity in computations.
 - **Clock Arithmetic:** Modular arithmetic is the foundation of timekeeping, where after 12 or 24 hours, the clock wraps back to 0 or 12.
 
-### **ii. Cryptography**
+### **4.2 Cryptography**
 - **RSA Algorithm:** The RSA encryption algorithm is built on modular exponentiation and number theory principles. It uses modulo with large prime numbers for encoding and decoding messages.
 - **Elliptic Curve Cryptography:** Modulo operations are used extensively in defining elliptic curves over finite fields, making the cryptography secure and efficient.
 
-### **iii. Number Theory**
+### **4.3 Number Theory**
 Modulo plays a key role in solving Diophantine equations, congruences, and finding properties of integers such as divisibility.
 
 For example, **Fermat’s Little Theorem** states that for a prime \( p \) and an integer \( a \):
@@ -224,6 +224,6 @@ This is crucial in cryptographic systems like RSA, where we need to compute larg
 
 ---
 
-## **Conclusion**
+## **Summary**
 
 Modulo is a powerful concept that extends far beyond simple division remainders. Its cyclic and congruence properties make it a fundamental tool in many areas of mathematics and its applications, especially in number theory, cryptography, and algorithm design. Understanding how to work with modulo operations and modular arithmetic can unlock solutions to problems in computational efficiency, security, and the deeper properties of numbers themselves.

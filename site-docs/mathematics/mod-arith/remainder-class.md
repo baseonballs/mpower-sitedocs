@@ -18,7 +18,7 @@ Where:
 - \( n \) is the modulus,
 - \( b \) represents any integer that leaves the same remainder as \( a \) when divided by \( n \).
 
-### **Example:**
+### **Example 1:**
 
 For \( n = 4 \), consider the number \( a = 5 \). The remainder class of 5 modulo 4 is:
 
@@ -34,7 +34,7 @@ All these numbers give the same remainder of 1 when divided by 4.
 
 Remainder classes have several important properties that are useful in modular arithmetic and number theory.
 
-#### **i. Equivalence Relation**
+#### **2.1 Equivalence Relation**
 
 The concept of remainder classes is based on an **equivalence relation** defined by congruence modulo \( n \). Two integers \( a \) and \( b \) are considered equivalent modulo \( n \) if they leave the same remainder when divided by \( n \). This relation satisfies three properties:
 
@@ -44,7 +44,7 @@ The concept of remainder classes is based on an **equivalence relation** defined
 
 These properties ensure that congruence modulo \( n \) forms an equivalence relation, which partitions the set of integers into distinct remainder classes.
 
-### **ii. Partitioning Integers**
+### **2.2 Partitioning Integers**
 
 The set of all integers is partitioned into distinct remainder classes modulo \( n \). Each integer belongs to exactly one remainder class, and the number of distinct classes is equal to the modulus \( n \).
 
@@ -72,7 +72,7 @@ For example, with modulus \( n = 5 \), the integers are partitioned into the rem
 
 Each integer is congruent to one of the remainders 0, 1, 2, 3, or 4 modulo 5.
 
-### **iii. Unique Representative**
+### **2.3 Unique Representative**
 
 In a remainder class modulo \( n \), any integer in the class can be used as a representative. Typically, the smallest non-negative integer in the class is chosen as the standard representative. This is often denoted as:
 
@@ -88,7 +88,7 @@ These standard representatives provide a complete set of distinct classes for an
 
 When performing arithmetic operations on numbers within a remainder class, the results remain within the same class, as defined by modular arithmetic rules.
 
-### **i. Addition of Remainder Classes**
+### **3.1 Addition of Remainder Classes**
 
 For two integers \( a \) and \( b \), the sum of their remainder classes modulo \( n \) is given by:
 
@@ -98,7 +98,7 @@ For two integers \( a \) and \( b \), the sum of their remainder classes modulo 
 
 This means the sum of any two numbers within their respective classes results in a number that belongs to the remainder class of the sum modulo \( n \).
 
-### **Example:**
+### **Example 1:**
 
 For \( n = 6 \):
 
@@ -108,7 +108,7 @@ For \( n = 6 \):
 
 Here, \( 4 + 5 = 9 \), and 9 leaves a remainder of 3 when divided by 6.
 
-### **ii. Subtraction of Remainder Classes**
+### **3.2 Subtraction of Remainder Classes**
 
 The difference between two remainder classes modulo \( n \) is:
 
@@ -116,7 +116,7 @@ The difference between two remainder classes modulo \( n \) is:
 [a]_n - [b]_n = [a - b]_n
 \]
 
-### **Example:**
+### **Example 1:**
 For \( n = 7 \):
 
 \[
@@ -125,7 +125,7 @@ For \( n = 7 \):
 
 Here, \( 3 - 5 = -2 \), and -2 is equivalent to 5 modulo 7.
 
-### **iii. Multiplication of Remainder Classes**
+### **3.3 Multiplication of Remainder Classes**
 
 The product of two remainder classes modulo \( n \) is:
 
@@ -133,7 +133,7 @@ The product of two remainder classes modulo \( n \) is:
 [a]_n \times [b]_n = [a \times b]_n
 \]
 
-### **Example:**
+### **Example 2:**
 
 For \( n = 8 \):
 
@@ -143,7 +143,7 @@ For \( n = 8 \):
 
 Here, \( 3 \times 4 = 12 \), and 12 leaves a remainder of 4 when divided by 8.
 
-### **iv. Division of Remainder Classes**
+### **3.4 Division of Remainder Classes**
 
 Division in modular arithmetic requires finding the **modular inverse**. For two integers \( a \) and \( b \), to divide \( a \) by \( b \) modulo \( n \), we need to find an integer \( x \) such that:
 
@@ -159,7 +159,7 @@ If such \( x \) exists (i.e., \( b \) and \( n \) are coprime), then:
 
 Where \( b^{-1} \) is the modular inverse of \( b \) modulo \( n \).
 
-### **Example:**
+### **Example 3:**
 
 For \( n = 11 \), to divide \( [8]_11 \) by \( [3]_11 \):
 
@@ -176,19 +176,19 @@ For \( n = 11 \), to divide \( [8]_11 \) by \( [3]_11 \):
 
 Remainder classes have practical applications in various areas of mathematics and computer science.
 
-### **i. Number Theory**
+### **4.1 Number Theory**
 
 In number theory, remainder classes help solve congruences and systems of congruences. Techniques such as the **Chinese Remainder Theorem** use these concepts to find unique solutions to systems of modular equations.
 
-### **ii. Cryptography**
+### **4.2 Cryptography**
 
 In cryptographic algorithms like RSA and Diffie-Hellman, remainder classes are used to perform operations modulo large primes. This ensures security and efficiency in encrypting and decrypting messages.
 
-### **iii. Computer Algorithms**
+### **4.3 Computer Algorithms**
 
 In computer science, remainder classes are used in hashing functions and algorithms that rely on modular arithmetic. Hash tables, for instance, use modular hashing to distribute data evenly across a table.
 
-### **iv. Error Detection**
+### **4.4 Error Detection**
 
 In error detection and correction algorithms, such as checksums and cyclic redundancy checks (CRC), modular arithmetic is used to verify the integrity of data during transmission.
 
@@ -198,16 +198,16 @@ In error detection and correction algorithms, such as checksums and cyclic redun
 
 Beyond simple remainder classes, more advanced concepts extend the idea of congruence classes to various contexts.
 
-### **i. Modular Inverses and Rings**
+### **5.1 Modular Inverses and Rings**
 
 In abstract algebra, the concept of modular inverses extends to **rings** where every element has an inverse under multiplication if the element is coprime to the modulus. This concept is essential in fields like ring theory and algebraic number theory.
 
-### **ii. Polynomial Congruences**
+### **5.2 Polynomial Congruences**
 
 In polynomial algebra, remainder classes are used to study congruences involving polynomials. For example, two polynomials \( P(x) \) and \( Q(x) \) are congruent modulo another polynomial \( M(x) \) if their difference is divisible by \( M(x) \).
 
 ---
 
-## **Conclusion**
+## **Summary**
 
 The concept of **remainder classes** in modular arithmetic provides a powerful framework for understanding how integers are organized and manipulated under modular operations. By grouping integers into distinct classes based on their remainders, modular arithmetic simplifies calculations and reveals deeper properties of numbers. These concepts are integral

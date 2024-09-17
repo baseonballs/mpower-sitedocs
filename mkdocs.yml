@@ -211,11 +211,14 @@ nav:
   - "Logic":
     - "Introduction": "logic/intro.md"
   - "Modular Arithmetic":
+    - "Definition & Properties":
+      - "Remainder Class": "./mathematics/mod-arith/remainder-class.md"
+      - "Remainder System": "./mathematics/mod-arith/remainder-system.md"
+      - "Modulo": "./mathematics/mod-arith/modulo.md"
+      - "Modulus": "./mathematics/mod-arith/modulus.md"
     - "Clock Math": "./mathematics/mod-arith/clock-math.md"
-    - "Modulo": "./mathematics/mod-arith/modulo.md"
-    - "Modulus": "./mathematics/mod-arith/modulus.md"
-    - "Remainder System": "./mathematics/mod-arith/remainder-system.md"
-    - "Remainder Class": "./mathematics/mod-arith/remainder-class.md"
+    - "Exercises":
+      - "Problems Set 1": "mathematics/mod-arith/exercises/pset-01.md"
   - "Number Theory":
     - "Factors & Multiples": "./mathematics/nt/factors.md"
     - "Primality":

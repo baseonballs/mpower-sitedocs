@@ -1,7 +1,5 @@
 # Modulus
 
- ## **Modulus in Modular Arithmetic: A Detailed Discourse**
-
 In **modular arithmetic**, the modulus plays a crucial role in defining the structure of the arithmetic system. It essentially determines the size of the range in which numbers cycle, creating a "wrap-around" effect. In this discourse, we will explore the definition of modulus, how it governs the behavior of numbers in modular systems, and its applications in various fields like cryptography, number theory, and computer science.
 
 ---
@@ -24,7 +22,7 @@ a \mod n = b \mod n
 
 Where \( a \mod n \) refers to the **remainder** when \( a \) is divided by \( n \). The modulus \( n \) is the divisor that dictates the periodic behavior of the system.
 
-### **Example:**
+### **Example 1:**
 For modulus \( n = 5 \):
 - \( 12 \mod 5 = 2 \), since dividing 12 by 5 gives a remainder of 2.
 - \( 17 \equiv 2 \pmod{5} \), because \( 17 - 2 = 15 \), which is divisible by 5.
@@ -37,46 +35,46 @@ In this case, both 12 and 17 leave the same remainder when divided by 5, so they
 
 In modular arithmetic, standard operations like addition, subtraction, and multiplication can be performed, but their results are computed **modulo** the modulus \( n \).
 
-### **i. Addition Modulo \( n \):**
+### **2.1 Addition Modulo \( n \):**
 For two numbers \( a \) and \( b \), the sum \( (a + b) \mod n \) is computed as the remainder of \( a + b \) divided by \( n \).
 
 \[
 (a + b) \mod n
 \]
 
-### **Example:**
+### **Example 1:**
 \[
 (7 + 5) \mod 6 = 12 \mod 6 = 0
 \]
 Here, 7 plus 5 equals 12, and 12 divided by 6 leaves a remainder of 0, so \( 7 + 5 \equiv 0 \pmod{6} \).
 
-### **ii. Subtraction Modulo \( n \):**
+### **2.2 Subtraction Modulo \( n \):**
 Subtraction works similarly. For two numbers \( a \) and \( b \), the difference \( (a - b) \mod n \) is computed as:
 
 \[
 (a - b) \mod n
 \]
 
-### **Example:**
+### **Example 2:**
 \[
 (8 - 3) \mod 5 = 5 \mod 5 = 0
 \]
 In this case, the result of the subtraction is 5, and since 5 is divisible by the modulus 5, the remainder is 0.
 
-### **iii. Multiplication Modulo \( n \):**
+### **2.3 Multiplication Modulo \( n \):**
 Multiplication follows the same pattern, where the product of \( a \) and \( b \) is taken modulo \( n \):
 
 \[
 (a \times b) \mod n
 \]
 
-### **Example:**
+### **Example 3:**
 \[
 (4 \times 7) \mod 5 = 28 \mod 5 = 3
 \]
 Here, 4 times 7 is 28, and 28 divided by 5 leaves a remainder of 3.
 
-### **iv. Division Modulo \( n \):**
+### **2.4 Division Modulo \( n \):**
 Division is more complex in modular arithmetic because we need to find an **inverse**. To divide by a number \( b \), we need to find an integer \( x \) such that:
 
 \[
@@ -85,7 +83,7 @@ Division is more complex in modular arithmetic because we need to find an **inve
 
 This \( x \) is called the **modular inverse** of \( b \) modulo \( n \). It exists only if \( b \) and \( n \) are **coprime** (i.e., their greatest common divisor is 1).
 
-### **Example:**
+### **Example 5:**
 To divide by 3 modulo 7, we need to find \( x \) such that:
 
 \[
@@ -106,7 +104,7 @@ Thus, the modular inverse of 3 modulo 7 is 5.
 
 Modular arithmetic is not just a theoretical tool but has numerous real-world applications, particularly in areas that involve cyclic or periodic behavior.
 
-### **i. Cryptography:**
+### **3.1 Cryptography:**
 One of the most well-known applications of modular arithmetic is in **cryptography**, particularly in the **RSA encryption algorithm**. RSA relies on the difficulty of factoring large numbers and uses modular exponentiation to encrypt and decrypt messages.
 
 For example, in RSA:
@@ -128,7 +126,7 @@ M \equiv C^d \pmod{n}
 
 The security of RSA comes from the fact that modular exponentiation is computationally easy, but finding the inverse (i.e., decrypting without the private key) is extremely hard if \( n \) is large enough.
 
-### **ii. Computer Science:**
+### **3.2 Computer Science:**
 In **computer science**, modular arithmetic is widely used in hashing algorithms, checksums, and random number generation. For example, **hash functions** in data structures like hash tables often use modulus to ensure that indices are within a fixed range.
 
 **Example (Hashing):**
@@ -141,7 +139,7 @@ If you want to store an element at an index within a table of size \( n \), you 
 
 This ensures that the index is within the bounds of the table.
 
-### **iii. Number Theory:**
+### **3.3 Number Theory:**
 Modular arithmetic is a key tool in **number theory**. Many results and theorems, such as **Fermat's Little Theorem** and **Euler's Theorem**, are based on modular arithmetic.
 
 - **Fermat's Little Theorem:** If \( p \) is a prime number and \( a \) is an integer such that \( p \nmid a \), then:
@@ -160,7 +158,7 @@ a^{\phi(n)} \equiv 1 \pmod{n}
 
 These theorems are widely used in cryptography, as they form the basis for many algorithms involving modular exponentiation.
 
-### **iv. Clock Arithmetic:**
+### **3.4 Clock Arithmetic:**
 Modular arithmetic is often referred to as **clock arithmetic** because of its resemblance to how a clock works. For instance, a 12-hour clock "wraps around" after reaching 12. This can be seen as modular arithmetic modulo 12.
 
 For example:
@@ -171,7 +169,7 @@ For example:
 
 Here, adding 5 hours to 9 o’clock gives 14, but on a 12-hour clock, 14 is equivalent to 2.
 
-### **v. Pseudorandom Number Generation:**
+### **3.5 Pseudorandom Number Generation:**
 Many **pseudorandom number generators** (PRNGs) rely on modular arithmetic to produce sequences of numbers that approximate the properties of random numbers. A common algorithm is the **linear congruential generator**, defined as:
 
 \[
@@ -189,10 +187,10 @@ The modulus \( m \) determines the range of values that the PRNG can output.
 
 ## **4. Advanced Concepts:**
 
-### **i. Chinese Remainder Theorem:**
+### **4.1 Chinese Remainder Theorem:**
 The **Chinese Remainder Theorem** (CRT) is a powerful result in modular arithmetic that allows us to solve systems of simultaneous congruences with different moduli. The theorem states that if we have several moduli that are pairwise coprime, we can uniquely solve for a number that satisfies all the given congruences.
 
-### **Example:**
+### **Example 1:**
 Solve the system of congruences:
 
 \[
@@ -211,7 +209,7 @@ By the CRT, there is a unique solution modulo \( 3 \times 5 \times 7 = 105 \),
 
  and we can find it using a method called **back substitution**.
 
-### **ii. Modular Exponentiation:**
+### **4.2 Modular Exponentiation:**
 **Modular exponentiation** is a method of efficiently computing powers of numbers in modular systems. It is crucial in cryptography, particularly in algorithms like RSA and Diffie-Hellman key exchange. The challenge is to compute:
 
 \[
@@ -222,7 +220,7 @@ Efficient algorithms such as **exponentiation by squaring** are used to handle l
 
 ---
 
-## **5. Conclusion**
+## **Summary**
 
 Modular arithmetic is a foundational concept in mathematics with wide-ranging applications, from number theory and cryptography to computer science and daily life (such as timekeeping). The modulus in this system defines how numbers cycle and interact, providing a unique and versatile framework for solving problems involving periodicity and divisibility.
 
