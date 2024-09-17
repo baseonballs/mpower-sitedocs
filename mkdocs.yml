@@ -149,6 +149,13 @@ nav:
       - "Aggregation in Mathematics": "mathematics/elem/unification/aggregation.md"     
     - "Patterns":
       - "Finding Patterns, Why?": "mathematics/elem/patterns/why-find-patterns.md"
+      - "Generalization Through Patterns":
+        - "Generalization Process Using Patterns": "mathematics/elem/derivation/generations-through-patterns.md"
+        - "Sum of First n Natural Numbers": "mathematics/elem/derivation/derivation-of-formulas.md"
+      - "Montessori Bionmial Squares and Cubes":
+        - "Bionomial Squares" : "mathematics/elem/patterns/montessori-cubes/bionomial-square-expansion.md"
+        - "Bionomial Cubes" : "mathematics/elem/patterns/montessori-cubes/binomial-cube-expansion.md"
+        - "Bionomial Cubes & Pathagorean" : "mathematics/elem/patterns/montessori-cubes/binomial-cube-pythagorean.md"
   - "Algebra 1":
     - "Class, Forms & Structures of Equations":
       - "Equations, Functions, Curves & Graphs": "mathematics/a1/general/eqs-functions-curves-graphs.md"
