@@ -234,5 +234,6 @@ nav:
       - "Euler's Theorem" : "mathematics/nt/theorems/euler-theorem.md"
     - "Resources":
       - "Cheat-Sheets":
-        - "Number Theorem Theorems": "mathematics/nt/cheat-sheets/index.md"
+        - "Number Theory Theorems": "mathematics/nt/cheat-sheets/index.md"
         - "Count Number of Factors": "mathematics/nt/cheat-sheets/count-n-factors.md"
+        - "Exponentiation Method": "mathematics/nt/cheat-sheets/exponentiation-method.md"
