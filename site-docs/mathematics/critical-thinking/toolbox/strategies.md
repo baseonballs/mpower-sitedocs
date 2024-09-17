@@ -1,7 +1,7 @@
 
-# Strategies for Solving Problem Solving
+# Strategies for Problem Solving
 
-When tackling a mathematical question or problem, having a set of thinking tools or strategies can be really helpful. Here are some common and effective ones:
+Every child or individual is unique, and it's important for each to develop their own set of tools. The more tools a learner develops, the more capable and skilled they become as problem solvers. When tackling a mathematical question or problem, having a range of thinking tools and strategies can be extremely helpful. Here are some common and effective ones:
 
 ## 1. **Understand the Problem**
 

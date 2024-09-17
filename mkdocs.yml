@@ -73,13 +73,14 @@ nav:
   - "M-Power Mathmatics Sitedocs": "index.md"
   - "Art of Problem Solving":
     - "Critical Thinking": "mathematics/aops/critical_thinking.md"
-    - "Critical Framework": "mathematics/aops/critical_thinking_framework.md"
+    - "Critical Thinking Framework":
+      - "Mental Model": "mathematics/aops/critical_thinking_framework.md"
+      - "Individualized Toolset": "mathematics/critical-thinking/toolbox/strategies.md"
+      - "Make Learning Fun" : "mathematics/critical-thinking/cognition/learning-fun-motivator.md"
     - "Pillars of Cognition":
       - "Foundation of Thinking": "mathematics/critical-thinking/cognition/pillars-of-cognition.md"
       - "Developing Abstraction" : "mathematics/critical-thinking/cognition/abstraction.md"
-      - "Finding Patterns" : "mathematics/critical-thinking/cognition/finding-patterns.md"
-      - "Build Your Own Toolset": "mathematics/critical-thinking/toolbox/strategies.md"
-      - "Make Learning Fun" : "mathematics/critical-thinking/cognition/learning-fun-motivator.md"
+      - "Finding Patterns in Things" : "mathematics/critical-thinking/cognition/finding-patterns.md"
     - "I ❤️ Puzzles":
       - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
       - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
