@@ -78,6 +78,7 @@ nav:
       - "Foundation of Thinking": "mathematics/critical-thinking/cognition/pillars-of-cognition.md"
       - "Developing Abstraction" : "mathematics/critical-thinking/cognition/abstraction.md"
       - "Finding Patterns" : "mathematics/critical-thinking/cognition/finding-patterns.md"
+      - "Build Your Own Toolset": "mathematics/critical-thinking/toolbox/strategies.md"
     - "I ❤️ Puzzles":
       - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
       - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
