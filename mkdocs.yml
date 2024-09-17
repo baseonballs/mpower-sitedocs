@@ -233,7 +233,7 @@ nav:
     - "Shapes":
       - "Triangles": "./mathematics/geometry/triangle_overview.md"
   - "Logic":
-    - "Introduction": "logic/intro.md"
+    - "Foundation": "logic/intro.md"
   - "Modular Arithmetic":
     - "Definition & Properties":
       - "Remainder Class": "./mathematics/mod-arith/remainder-class.md"
