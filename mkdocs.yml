@@ -128,6 +128,8 @@ nav:
       - "Structure of Equalities": "./mathematics/a1/appendix/lang/structure_equations.md"
       - "Structure of Inequalities": "./mathematics/a1/appendix/lang/structure_inqualities.md"
       - "Structure of Polynomials": "./mathematics/a1/appendix/lang/structure_polynomials.md"
+    - "Objects & Labels":
+      - "Attributes & Properties": "mathematics/a1/appendix/lang/objects-labels/attributes-properties.md"
   - "Elementary Mathamatics":
     - "Number Sets" : 
       - "Classification of Numbers": "./mathematics/elem/number-sets/set_numbers.md"
