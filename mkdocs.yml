@@ -134,7 +134,7 @@ nav:
     - "Objects & Labels":
       - "Attributes & Properties": "mathematics/a1/appendix/lang/objects-labels/attributes-properties.md"
       - "Mathematical Objects": "mathematics/a1/appendix/lang/objects-labels/mathematical-objects.md"
-  - "Elementary Mathamatics":
+  - "Elementary Mathematics":
     - "Number Sets" : 
       - "Classification of Numbers": "./mathematics/elem/number-sets/set_numbers.md"
       - "Natural Numbers": "./mathematics/elem/number-sets/natural_numbers.md"
@@ -152,6 +152,7 @@ nav:
       - "Aggregation in Mathematics": "mathematics/elem/unification/aggregation.md"     
     - "Patterns":
       - "Finding Patterns, Why?": "mathematics/elem/patterns/why-find-patterns.md"
+      - "Paterns with Integers": "mathematics/elem/patterns/paterns-integers.md"
       - "Generalization Through Patterns":
         - "Generalization Process Using Patterns": "mathematics/elem/derivation/generations-through-patterns.md"
         - "Sum of First n Natural Numbers": "mathematics/elem/derivation/derivation-of-formulas.md"
