@@ -389,6 +389,18 @@
          <lastmod>2024-09-17</lastmod>
     </url>
     <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/cognition/abstraction/</loc>
+         <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/cognition/finding-patterns/</loc>
+         <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/cognition/pillars-of-cognition/</loc>
+         <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/critical-thinking/mental-excercise/6_equal_x/</loc>
          <lastmod>2024-09-17</lastmod>
     </url>
@@ -490,6 +502,10 @@
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/segmentation/segmentation-grouping/</loc>
+         <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/segmentation/segmentation/</loc>
          <lastmod>2024-09-17</lastmod>
     </url>
     <url>
