@@ -445,6 +445,14 @@
          <lastmod>2024-09-17</lastmod>
     </url>
     <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/derivation/derivation-of-formulas/</loc>
+         <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/derivation/generations-through-patterns/</loc>
+         <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/number-sets/integers/</loc>
          <lastmod>2024-09-17</lastmod>
     </url>
@@ -474,6 +482,18 @@
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/patterns/why-find-patterns/</loc>
+         <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/patterns/montessori-cubes/binomial-cube-expansion/</loc>
+         <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/patterns/montessori-cubes/binomial-cube-pythagorean/</loc>
+         <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/patterns/montessori-cubes/bionomial-square-expansion/</loc>
          <lastmod>2024-09-17</lastmod>
     </url>
     <url>
