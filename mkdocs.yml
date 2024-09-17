@@ -130,6 +130,7 @@ nav:
       - "Structure of Polynomials": "./mathematics/a1/appendix/lang/structure_polynomials.md"
     - "Objects & Labels":
       - "Attributes & Properties": "mathematics/a1/appendix/lang/objects-labels/attributes-properties.md"
+      - "Mathematical Objects": "mathematics/a1/appendix/lang/objects-labels/mathematical-objects.md"
   - "Elementary Mathamatics":
     - "Number Sets" : 
       - "Classification of Numbers": "./mathematics/elem/number-sets/set_numbers.md"
@@ -144,6 +145,10 @@ nav:
     - "Segmentation": 
       - "Segmentation in Mathematics": "mathematics/elem/segmentation/segmentation.md"
       - "Divisibility & Grouping": "mathematics/elem/segmentation/segmentation-grouping.md"
+    - "Aggregation":
+      - "Aggregation in Mathematics": "mathematics/elem/unification/aggregation.md"     
+    - "Patterns":
+      - "Finding Patterns, Why?": "mathematics/elem/patterns/why-find-patterns.md"
   - "Algebra 1":
     - "Class, Forms & Structures of Equations":
       - "Equations, Functions, Curves & Graphs": "mathematics/a1/general/eqs-functions-curves-graphs.md"
