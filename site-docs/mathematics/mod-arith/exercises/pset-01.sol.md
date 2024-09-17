@@ -15,6 +15,61 @@ Here are the solutions to the modulo arithmetic problems:
    \( 38 - (7 \times 5) = 38 - 35 = 3 \)  
    **Answer:** \( (25 + 13) \mod 7 = 3 \)
 
+#### Solution Walkthrough
+
+##### Step 1: Compute the Sum Inside the Parentheses
+
+**Rationale:** The parentheses indicate that the operations inside them should be completed first. Therefore, you need to add \( 25 \) and \( 13 \) before applying the modulo operation.
+
+\[
+25 + 13 = 38
+\]
+
+By performing this addition, you combine the numbers as instructed by the expression.
+
+##### Step 2: Find the Remainder When Dividing by 7
+
+**Rationale:** The modulo operation finds the remainder of a division. To find \( 38 \mod 7 \), you need to determine how many times \( 7 \) fits into \( 38 \) and then find the leftover part.
+
+1. **Perform Division:** Divide \( 38 \) by \( 7 \) to get an approximate result:
+
+\[
+38 \div 7 \approx 5.4286
+\]
+
+The integer part of this result is \( 5 \), which tells us that \( 7 \) fits into \( 38 \) exactly \( 5 \) times.
+
+2. **Calculate the Total Contribution:** Multiply \( 7 \) by \( 5 \) to find out the total amount contributed by these \( 5 \) fits:
+
+\[
+7 \times 5 = 35
+\]
+
+3. **Determine the Remainder:** Subtract this result from \( 38 \) to find out what’s left over:
+
+\[
+38 - 35 = 3
+\]
+
+The remainder is the part of \( 38 \) that is not covered by the full multiples of \( 7 \).
+
+##### Step 3: Write the Final Answer
+
+**Rationale:** After finding the remainder, you conclude that this remainder is the result of the modulo operation. Thus, the simplified result of \( (25 + 13) \mod 7 \) is:
+
+\[
+(25 + 13) \mod 7 = 3
+\]
+
+In summary, the steps ensure that you first handle the arithmetic operation inside the parentheses and then correctly apply the modulo operation to find the remainder.
+
+Solution:  \(28 \mod 7 = 3\), so the remainder is 3. Mathematically, this is:
+
+\[
+(25 + 13) \mod 7 = 3
+\]
+
+
 ### Problem 3. **Solve for \( x \):**  
 >   \( x \equiv 5 \mod 9 \)  
    \( x + 17 \equiv 5 + 17 \equiv 22 \mod 9 \)  
