@@ -135,6 +135,8 @@ nav:
         - "Introduction": "./mathematics/elem/number-system/binary.md"
         - "Exercises": "mathematics/elem/number-system/exercise/b10_to_b2-01.md"
       - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
+    - "Segmentation": 
+      - "Divisibility & Grouping": "mathematics/elem/segmentation/segmentation-grouping.md"
   - "Algebra 1":
     - "Class, Forms & Structures of Equations":
       - "Equations, Functions, Curves & Graphs": "mathematics/a1/general/eqs-functions-curves-graphs.md"
@@ -220,6 +222,8 @@ nav:
     - "Exercises":
       - "Problems Set 1": "mathematics/mod-arith/exercises/pset-01.md"
   - "Number Theory":
+    - "Definition & Properties":
+      - "Segmentation": "mathematics/nt/def/segmentation.md"
     - "Factors & Multiples": "./mathematics/nt/factors.md"
     - "Primality":
       - "What is a Prime?": "./mathematics/nt/primality/primality.md"
