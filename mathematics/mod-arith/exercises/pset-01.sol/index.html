@@ -5762,6 +5762,54 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Problem 2. Simplify using modulo:">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#solution_walkthrough" class="md-nav__link">
+    <span class="md-ellipsis">
+      Solution Walkthrough
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Solution Walkthrough">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step_1_compute_the_sum_inside_the_parentheses" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 1: Compute the Sum Inside the Parentheses
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step_2_find_the_remainder_when_dividing_by_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 2: Find the Remainder When Dividing by 7
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step_3_write_the_final_answer" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 3: Write the Final Answer
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
           <li class="md-nav__item">
@@ -5889,6 +5937,45 @@
 <span class="arithmatex">\( 38 - (7 \times 5) = 38 - 35 = 3 \)</span><br />
 <strong>Answer:</strong> <span class="arithmatex">\( (25 + 13) \mod 7 = 3 \)</span></p>
 </blockquote>
+<h4 id="solution_walkthrough">Solution Walkthrough<a class="headerlink" href="#solution_walkthrough" title="Permanent link">&para;</a></h4>
+<h5 id="step_1_compute_the_sum_inside_the_parentheses">Step 1: Compute the Sum Inside the Parentheses<a class="headerlink" href="#step_1_compute_the_sum_inside_the_parentheses" title="Permanent link">&para;</a></h5>
+<p><strong>Rationale:</strong> The parentheses indicate that the operations inside them should be completed first. Therefore, you need to add <span class="arithmatex">\( 25 \)</span> and <span class="arithmatex">\( 13 \)</span> before applying the modulo operation.</p>
+<div class="arithmatex">\[
+25 + 13 = 38
+\]</div>
+<p>By performing this addition, you combine the numbers as instructed by the expression.</p>
+<h5 id="step_2_find_the_remainder_when_dividing_by_7">Step 2: Find the Remainder When Dividing by 7<a class="headerlink" href="#step_2_find_the_remainder_when_dividing_by_7" title="Permanent link">&para;</a></h5>
+<p><strong>Rationale:</strong> The modulo operation finds the remainder of a division. To find <span class="arithmatex">\( 38 \mod 7 \)</span>, you need to determine how many times <span class="arithmatex">\( 7 \)</span> fits into <span class="arithmatex">\( 38 \)</span> and then find the leftover part.</p>
+<ol>
+<li><strong>Perform Division:</strong> Divide <span class="arithmatex">\( 38 \)</span> by <span class="arithmatex">\( 7 \)</span> to get an approximate result:</li>
+</ol>
+<div class="arithmatex">\[
+38 \div 7 \approx 5.4286
+\]</div>
+<p>The integer part of this result is <span class="arithmatex">\( 5 \)</span>, which tells us that <span class="arithmatex">\( 7 \)</span> fits into <span class="arithmatex">\( 38 \)</span> exactly <span class="arithmatex">\( 5 \)</span> times.</p>
+<ol>
+<li><strong>Calculate the Total Contribution:</strong> Multiply <span class="arithmatex">\( 7 \)</span> by <span class="arithmatex">\( 5 \)</span> to find out the total amount contributed by these <span class="arithmatex">\( 5 \)</span> fits:</li>
+</ol>
+<div class="arithmatex">\[
+7 \times 5 = 35
+\]</div>
+<ol>
+<li><strong>Determine the Remainder:</strong> Subtract this result from <span class="arithmatex">\( 38 \)</span> to find out what’s left over:</li>
+</ol>
+<div class="arithmatex">\[
+38 - 35 = 3
+\]</div>
+<p>The remainder is the part of <span class="arithmatex">\( 38 \)</span> that is not covered by the full multiples of <span class="arithmatex">\( 7 \)</span>.</p>
+<h5 id="step_3_write_the_final_answer">Step 3: Write the Final Answer<a class="headerlink" href="#step_3_write_the_final_answer" title="Permanent link">&para;</a></h5>
+<p><strong>Rationale:</strong> After finding the remainder, you conclude that this remainder is the result of the modulo operation. Thus, the simplified result of <span class="arithmatex">\( (25 + 13) \mod 7 \)</span> is:</p>
+<div class="arithmatex">\[
+(25 + 13) \mod 7 = 3
+\]</div>
+<p>In summary, the steps ensure that you first handle the arithmetic operation inside the parentheses and then correctly apply the modulo operation to find the remainder.</p>
+<p>Solution:  <span class="arithmatex">\(28 \mod 7 = 3\)</span>, so the remainder is 3. Mathematically, this is:</p>
+<div class="arithmatex">\[
+(25 + 13) \mod 7 = 3
+\]</div>
 <h3 id="problem_3_solve_for_x">Problem 3. <strong>Solve for <span class="arithmatex">\( x \)</span>:</strong><a class="headerlink" href="#problem_3_solve_for_x" title="Permanent link">&para;</a></h3>
 <blockquote>
 <p><span class="arithmatex">\( x \equiv 5 \mod 9 \)</span><br />
