@@ -1,6 +1,8 @@
-# **The Binomial Square: A Simpler Model for \( (a + b)^2 \)**
+# **The Binomial Square: A Simpler Model**
 
-The algebraic expansion for \( (a + b)^2 \) is:
+We will review the montoessori based bionomial expansion using 2D perspective.
+
+The algebraic identity expansion for \( (a + b)^2 \) is:
 
 \[
 (a + b)^2 = a^2 + 2ab + b^2
