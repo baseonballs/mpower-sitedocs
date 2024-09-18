@@ -158,8 +158,8 @@ nav:
     - "Aggregation":
       - "Aggregation in Mathematics": "mathematics/elem/unification/aggregation.md"     
     - "Patterns":
-      - "Finding Patterns, Why?": "mathematics/elem/patterns/why-find-patterns.md"
-      - "Paterns with Integers": "mathematics/elem/patterns/paterns-integers.md"
+      - "Why Find Patterns?": "mathematics/elem/patterns/why-find-patterns.md"
+      - "Patterns with Integers": "mathematics/elem/patterns/paterns-integers.md"
       - "Generalization Through Patterns":
         - "Generalization Process Using Patterns": "mathematics/elem/derivation/generations-through-patterns.md"
         - "Sum of First n Natural Numbers": "mathematics/elem/derivation/derivation-of-formulas.md"
