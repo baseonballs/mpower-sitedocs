@@ -170,8 +170,21 @@ nav:
         - "Bionomial Squares" : "mathematics/elem/patterns/montessori-cubes/bionomial-square-expansion.md"
         - "Bionomial Cubes" : "mathematics/elem/patterns/montessori-cubes/binomial-cube-expansion.md"
         - "Bionomial Cubes & Pathagorean" : "mathematics/elem/patterns/montessori-cubes/binomial-cube-pythagorean.md"
-    - "Properties of Numbers":
-      - "General Properties of Numbers": "mathematics/elem/properties/properties-arithmetic.md"
+    - "Definition & Properties":
+      - "Constructs Used in Proofs": "mathematics/elem/def/def-axioms-theorems.md"
+      - "Sets, Lists, Tuples": "mathematics/elem/properties/sets/sets-lists-tuples.md"
+      - "Properties of Numbers":
+        - "General Properties of Numbers": "mathematics/elem/properties/properties-arithmetic.md"
+        - "Properties of Zero": "mathematics/elem/properties/properties-of-zero.md"
+        - "Properties of One": "mathematics/elem/properties/properties-of-one.md"
+        - "Properties of Natural Numbers": "mathematics/elem/properties/properties-of-natural.md"
+        - "Properties of Negative Number": "mathematics/elem/properties/properties-of-negative.md"
+        - "Properties of Infinity": "mathematics/elem/properties/properties-of-infinity.md"
+        - "Properties of Real": "mathematics/elem/properties/properties-of-real.md"
+        - "Properties of Complex Numbers": "mathematics/elem/properties/properties-of-complex.md"
+      - "Properties of Structures":
+        - "Properties of Sets": "mathematics/elem/properties/sets/properties-of-sets.md"
+        - "Properties of Set-like Structures": "mathematics/elem/properties/sets/properties-of-sets-like.md"
   - "Algebra 1":
     - "Class, Forms & Structures of Equations":
       - "Equations, Functions, Curves & Graphs": "mathematics/a1/general/eqs-functions-curves-graphs.md"
