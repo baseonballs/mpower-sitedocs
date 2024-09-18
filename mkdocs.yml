@@ -191,8 +191,8 @@ nav:
         - "Introspection of Linear Forms": "mathematics/a1/eqs/linear/structures/semantics.md"
         - "Art of Deconstruction": "mathematics/a1/eqs/linear/structures/deconstruction.md"
         - "Forms of Linear Eq.": "mathematics/a1/eqs/linear/forms/forms-of-equations.md"
-      - "Functions": "./mathematics/a1/eqs/linear/functions.md"
-      - "Curves & Graphs": "mathematics/a1/eqs/linear/curves-and-graphs.md"
+      - "Linear Functions": "./mathematics/a1/eqs/linear/functions.md"
+      - "Linear Curves & Graphs": "mathematics/a1/eqs/linear/curves-and-graphs.md"
     - "Quadratic Equations":
       - "Form & Structure":
         - "Forms of Quadratics": "./mathematics/a1/eqs/quadratics/index.md"
