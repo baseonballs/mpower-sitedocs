@@ -22,6 +22,21 @@ n \equiv 0 \pmod{d}
 
 **Example:** For \( n = 30 \), the factors of 30 include 1, 2, 3, 5, 6, 10, 15, and 30.
 
+#### **1.1.1 Divisors and Factors**
+
+The term divisors and factors are used intechangeably. That being said, there are subtle nuasnce of the meaning. Factors and divisors are closely related terms in mathematics, but they are used in slightly different contexts:
+
+- **Factors**: When you say that \( a \) is a factor of \( b \), it means that you can multiply \( a \) by some other integer to get \( b \). In other words, \( b \) can be expressed as \( b = a \times k \), where \( k \) is another integer. Factors deal with the concept of multiples.
+
+- **Divisors**: When you say that \( a \) is a divisor of \( b \), it means that \( b \) can be divided by \( a \) without leaving a remainder. That is, \( b \div a \) is an integer. Divisor answers the quester whether it leaves a remainder or not.
+
+Essentially, every factor of a number is also a divisor, and vice versa. The difference is mainly in how the terms are used: 
+
+- "Factor" is often used when multiplying integers to get a product (e.g., 2 and 3 are factors of 6, but also including 1 and 6).
+- "Divisor" is typically used when dividing one integer by another (e.g., 2 is a divisor of 6).
+
+For example, the factors of 12 are 1, 2, 3, 4, 6, and 12. These same numbers are also divisors of 12 because 12 can be divided by each of them without leaving a remainder.
+
 ### **1.2 Multiples**
 
 A **multiple** of an integer \( n \) is any integer that can be expressed as \( n \times k \), where \( k \) is an integer. Formally:

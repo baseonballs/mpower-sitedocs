@@ -183,6 +183,8 @@ nav:
         - "Differences between Curves and Graphs": "mathematics/a1/resources/diff-curves-graphs.md"
     - "Solve for x":
       - "Single Variable Equations": "mathematics/a1/solve-for-x/single-variable-eqs.md"
+      - "Two Variable Equations": "mathematics/a1/solve-for-x/two-variable-eqs.md"
+      - "Multi-Variable Equations": "mathematics/a1/solve-for-x/multi-variable-eqs.md"
     - "Linear Equations":
       - "Introduction":
         - "Structures of Linear Equations": "mathematics/a1/eqs/linear/intro/intro.md"
