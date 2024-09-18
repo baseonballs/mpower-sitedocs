@@ -234,6 +234,8 @@ nav:
       - "Forms & Structures": "mathematics/a1/polynomials/forms-and-structure.md"
       - "Deconstruction of Polynomials": "mathematics/a1/polynomials/polynomials-deconstruction.md"
       - "Identification of Polynomials": "mathematics/a1/polynomials/polynomials-identification.md"
+      - "Excercises":
+        - "Problem Set 1": "mathematics/a1/polynomials/exercises/poly-id-pset-001.md"
     - "Appendix - Resources":
       - "Definitions":
         - "Equations, Functions, Curves & Graphs": "./mathematics/a1/defs/exp_rational.md"
