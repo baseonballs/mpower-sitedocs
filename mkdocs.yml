@@ -170,6 +170,8 @@ nav:
         - "Bionomial Squares" : "mathematics/elem/patterns/montessori-cubes/bionomial-square-expansion.md"
         - "Bionomial Cubes" : "mathematics/elem/patterns/montessori-cubes/binomial-cube-expansion.md"
         - "Bionomial Cubes & Pathagorean" : "mathematics/elem/patterns/montessori-cubes/binomial-cube-pythagorean.md"
+    - "Properties of Numbers":
+      - "General Properties of Numbers": "mathematics/elem/properties/properties-arithmetic.md"
   - "Algebra 1":
     - "Class, Forms & Structures of Equations":
       - "Equations, Functions, Curves & Graphs": "mathematics/a1/general/eqs-functions-curves-graphs.md"
