@@ -86,6 +86,12 @@ nav:
       - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
       - "Puzzle 3 - Magic Square, 4x4": "./mathematics/elem/puzzles/level-a/magic-squares/ms-4x4.md"
       - "Puzzle 4 - Frog and the Stairs": "mathematics/elem/puzzles/level-a/frog-and-stairs/frog-and-the-stairs.md"
+      - "Logic Puzzles": 
+        - "Fruit Basket": "logic/puzzles/logic-puzzle-001.md"
+        - "Three Weighty Coins": "logic/puzzles/three-coins.001.md"
+        - "River Crossing": "logic/puzzles/river-crossing-002.md"
+        - "Jeaulous Husband": "logic/puzzles/jealous-husband-003.md"
+        - "Counterfeit Coins": "logic/puzzles/counterfeit-coins.004.md"
     - "Math Competitions":
       - "AMC-8": 
         - "Problem Set 1": "math-comp/amc8/amc8.pset.01.md"
