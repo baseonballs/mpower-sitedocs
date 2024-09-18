@@ -164,4 +164,17 @@ https://docs.mathjax.org/en/latest/input/tex/extensions/color.html
 # set the text color
 <span style="color: orange; font-weight:bold; font-style: italic">TEXT</span>
 
+<div style="text-align: center;">
+  <img src="./assets/branding-icons/math-brand.png" alt="sitedocs">
+</div>
+
+<div style="text-align: center; background-color: transparent;">
+  <img src="../../../assets/images/tools-resources/critical-thinking.01.png" alt="sitedocs" style="width: 500px; max-width: 100%; height: auto;">
+</div>
+
+# this seems to work the best
+<p align="center">
+    <img src="../../../../../assets/images/math-expressions/bionomial-square.png" alt="binomial square">
+</p>
+
 ```

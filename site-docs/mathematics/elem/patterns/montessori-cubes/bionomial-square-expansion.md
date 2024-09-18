@@ -1,6 +1,6 @@
 # **The Binomial Square: A Simpler Model**
 
-The use of Montessori cubes is a great example of children naturally discovering patterns without needing prior knowledge of binomial identities. These patterns can be inferred and intuited by young children because they are inherent in the mathematical principles involved. We will review the Montessori-based binomial expansion using a 2D perspective.
+The use of Montessori cubes is a great example of children naturally discovering patterns without needing prior knowledge of binomial identities. These patterns can be inferred and intuited by young children because they are inherent in the mathematical principles involved. We will review the Montessori-based binomial expansion[^1] using a 2D perspective.
 
 The algebraic identity expansion for \( (a + b)^2 \) is:
 
@@ -13,6 +13,12 @@ This expression can be modeled geometrically using a **square** rather than a cu
 ---
 
 ## **1. Geometric Representation of \( (a + b)^2 \)**
+
+Figure 1: Bionomial Square Model
+
+<p align="center">
+    <img src="../../../../../assets/images/math-expressions/360_F_417776687_ji3gvKRHSexEWjPqmqqDr532YINxltPL.webp" alt="binomial square">
+</p>
 
 Imagine a large square with side length \( (a + b) \). The area of the square is \( (a + b)^2 \), which can be broken down into smaller squares and rectangles:
 
@@ -63,3 +69,10 @@ Just like with the binomial cube, the **binomial square** introduces students to
 ## **Conclusion: A Simpler Model for \( (a + b)^2 \)**
 
 The **binomial square** is a simpler, 2D version of the Montessori binomial cube, representing the expansion of \( (a + b)^2 \). It uses squares and rectangles to help children visualize and understand the binomial relationship, making it a great first step before progressing to the 3D binomial cube. By recognizing the geometric patterns and connecting them to the algebraic terms, students can begin to understand how binomial expansions work in a concrete, accessible way.
+
+## References
+
+[MathBitsNotebook - Special Binomials](https://mathbitsnotebook.com/Algebra1/Polynomials/PObispecial.html)
+
+[^1]: [MathBitsNotebook - Special Binomials](https://mathbitsnotebook.com/Algebra1/Polynomials/PObispecial.html)
+
