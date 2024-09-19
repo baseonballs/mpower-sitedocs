@@ -148,9 +148,11 @@ ax + by = c
 A solution exists if and only if \( \gcd(a, b) \) divides \( c \). The Extended Euclidean Algorithm can be used to find particular solutions.
 
 **Example:** For \( 6x + 9y = 15 \):
+
 \[
 \gcd(6, 9) = 3
 \]
+
 Since 3 divides 15, solutions exist. Using the Extended Euclidean Algorithm, we can find specific values for \( x \) and \( y \).
 
 ### **3.2 Modular Arithmetic**
