@@ -1,4 +1,4 @@
-# Fidning Patterns - An Intrinsic Human Trait
+# Finding Patterns - An Intrinsic Human Trait
 
 Finding patterns is a fundamental human instinct, deeply rooted in our cognitive processes. In mathematics, as in life, patterns help us make sense of complexity, predict future outcomes, and apply solutions efficiently. Let's explore **why we seek patterns, especially in mathematics**, and the benefits of this pursuit.
 
