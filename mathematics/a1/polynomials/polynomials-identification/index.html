@@ -7006,49 +7006,65 @@
 <div class="arithmatex">\[
 P(x) = a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0
 \]</div>
-<p>Where:
-- <span class="arithmatex">\( a_n, a_{n-1}, \dots, a_0 \)</span> are the <strong>coefficients</strong> (constant numbers),
-- <span class="arithmatex">\( x \)</span> is the <strong>variable</strong> or <strong>indeterminate</strong>,
-- <span class="arithmatex">\( n \)</span> is a non-negative integer representing the <strong>degree</strong> of the polynomial (if <span class="arithmatex">\( a_n \neq 0 \)</span>),
-- The degree <span class="arithmatex">\( n \)</span> indicates the highest power of the variable in the polynomial.</p>
+<p>Where:</p>
+<ul>
+<li><span class="arithmatex">\( a_n, a_{n-1}, \dots, a_0 \)</span> are the <strong>coefficients</strong> (constant numbers),</li>
+<li><span class="arithmatex">\( x \)</span> is the <strong>variable</strong> or <strong>indeterminate</strong>,</li>
+<li><span class="arithmatex">\( n \)</span> is a non-negative integer representing the <strong>degree</strong> of the polynomial (if <span class="arithmatex">\( a_n \neq 0 \)</span>),</li>
+<li>The degree <span class="arithmatex">\( n \)</span> indicates the highest power of the variable in the polynomial.</li>
+</ul>
 <p>Each of the individual components like <span class="arithmatex">\( a_n x^n \)</span> is called a <strong>term</strong>, and these terms are added or subtracted to form the polynomial. The key to identifying and working with polynomials is understanding the structure and nature of these terms.</p>
 <h3 id="terms_of_the_polynomial"><strong>Terms of the Polynomial</strong><a class="headerlink" href="#terms_of_the_polynomial" title="Permanent link">&para;</a></h3>
 <p>Each <strong>term</strong> in a polynomial is a product of a constant (called the <strong>coefficient</strong>) and a variable raised to an exponent. Terms can vary depending on the degree of the polynomial and the number of variables involved.</p>
-<p>For example, in the polynomial <span class="arithmatex">\( 3x^2 - 5x + 7 \)</span>:
-- <span class="arithmatex">\( 3x^2 \)</span> is a term with a coefficient of 3 and a variable <span class="arithmatex">\( x \)</span> raised to the power of 2.
-- <span class="arithmatex">\( -5x \)</span> is a term with a coefficient of -5 and a variable <span class="arithmatex">\( x \)</span> raised to the power of 1.
-- <span class="arithmatex">\( 7 \)</span> is a term with a coefficient of 7, but it contains no variable (called the <strong>constant term</strong>).</p>
+<p>For example, in the polynomial <span class="arithmatex">\( 3x^2 - 5x + 7 \)</span>:</p>
+<ul>
+<li><span class="arithmatex">\( 3x^2 \)</span> is a term with a coefficient of 3 and a variable <span class="arithmatex">\( x \)</span> raised to the power of 2.</li>
+<li><span class="arithmatex">\( -5x \)</span> is a term with a coefficient of -5 and a variable <span class="arithmatex">\( x \)</span> raised to the power of 1.</li>
+<li><span class="arithmatex">\( 7 \)</span> is a term with a coefficient of 7, but it contains no variable (called the <strong>constant term</strong>).</li>
+</ul>
 <h4 id="types_of_terms_based_on_degree">Types of Terms Based on Degree:<a class="headerlink" href="#types_of_terms_based_on_degree" title="Permanent link">&para;</a></h4>
 <ul>
-<li><strong>Constant term</strong>: A term where the variable is raised to the power of 0, effectively making the variable disappear. For example, in <span class="arithmatex">\( 5x^3 + 2x - 7 \)</span>, the term <span class="arithmatex">\( -7 \)</span> is the constant term.</li>
-<li><strong>Linear term</strong>: A term where the variable is raised to the power of 1. For example, in <span class="arithmatex">\( 4x - 9 \)</span>, the term <span class="arithmatex">\( 4x \)</span> is linear.</li>
+<li>
+<p><strong>Constant term</strong>: A term where the variable is raised to the power of 0, effectively making the variable disappear. For example, in <span class="arithmatex">\( 5x^3 + 2x - 7 \)</span>, the term <span class="arithmatex">\( -7 \)</span> is the constant term.</p>
+</li>
+<li>
+<p><strong>Linear term</strong>: A term where the variable is raised to the power of 1. For example, in <span class="arithmatex">\( 4x - 9 \)</span>, the term <span class="arithmatex">\( 4x \)</span> is linear.</p>
+</li>
 <li><strong>Quadratic term</strong>: A term where the variable is raised to the power of 2. For example, in <span class="arithmatex">\( 3x^2 + 5x + 2 \)</span>, the term <span class="arithmatex">\( 3x^2 \)</span> is quadratic.</li>
 <li><strong>Cubic term</strong>: A term where the variable is raised to the power of 3. For example, in <span class="arithmatex">\( 2x^3 - x + 4 \)</span>, the term <span class="arithmatex">\( 2x^3 \)</span> is cubic.</li>
 </ul>
 <h4 id="identification_based_on_number_of_terms">Identification Based on Number of Terms:<a class="headerlink" href="#identification_based_on_number_of_terms" title="Permanent link">&para;</a></h4>
 <p>Polynomials can also be categorized based on the number of terms they have. This classification helps in identifying and working with different kinds of polynomial expressions.</p>
 <ul>
-<li><strong>Monomial</strong>: A polynomial with just one term. For example, <span class="arithmatex">\( 4x^3 \)</span> or <span class="arithmatex">\( -2 \)</span> is a monomial.</li>
+<li>
+<p><strong>Monomial</strong>: A polynomial with just one term. For example, <span class="arithmatex">\( 4x^3 \)</span> or <span class="arithmatex">\( -2 \)</span> is a monomial.</p>
+<blockquote>
+<ul>
 <li><strong>Form</strong>: <span class="arithmatex">\( ax^n \)</span></li>
 <li>Examples: <span class="arithmatex">\( 5x^4 \)</span>, <span class="arithmatex">\( -3x \)</span>, <span class="arithmatex">\( 7 \)</span></li>
-<li>
-<p>Monomials are the simplest polynomials, consisting of a single variable term raised to a power, or a constant.</p>
+<li>Monomials are the simplest polynomials, consisting of a single variable term raised to a power, or a constant.</li>
+</ul>
+</blockquote>
 </li>
 <li>
 <p><strong>Binomial</strong>: A polynomial with two terms. For example, <span class="arithmatex">\( x^2 - 3 \)</span> or <span class="arithmatex">\( 4x + 5 \)</span> is a binomial.</p>
-</li>
+<blockquote>
+<ul>
 <li><strong>Form</strong>: <span class="arithmatex">\( ax^m + bx^n \)</span></li>
 <li>Examples: <span class="arithmatex">\( 2x^3 + 4x^2 \)</span>, <span class="arithmatex">\( x - 5 \)</span></li>
-<li>
-<p>Binomials often arise in expressions that can be factored or expanded using techniques such as the difference of squares or binomial expansion.</p>
+<li>Binomials often arise in expressions that can be factored or expanded using techniques such as the difference of squares or binomial expansion.</li>
+</ul>
+</blockquote>
 </li>
 <li>
 <p><strong>Trinomial</strong>: A polynomial with three terms. For example, <span class="arithmatex">\( x^2 + 3x + 2 \)</span> or <span class="arithmatex">\( x^3 - x + 4 \)</span> is a trinomial.</p>
-</li>
+<blockquote>
+<ul>
 <li><strong>Form</strong>: <span class="arithmatex">\( ax^n + bx^m + cx^k \)</span></li>
 <li>Examples: <span class="arithmatex">\( x^2 + 5x + 6 \)</span>, <span class="arithmatex">\( 3x^3 - 2x^2 + 1 \)</span></li>
-<li>
-<p>Trinomials, particularly quadratic trinomials, are important in factoring and solving quadratic equations.</p>
+<li>Trinomials, particularly quadratic trinomials, are important in factoring and solving quadratic equations.</li>
+</ul>
+</blockquote>
 </li>
 <li>
 <p><strong>Polynomial</strong>: A general term that refers to any algebraic expression with multiple terms. If it has four or more terms, we simply refer to it as a polynomial.</p>
@@ -7096,23 +7112,25 @@ P(x) = a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0
 <h3 id="forms_of_polynomials"><strong>Forms of Polynomials</strong><a class="headerlink" href="#forms_of_polynomials" title="Permanent link">&para;</a></h3>
 <p>Polynomials can be written in different forms, depending on the purpose and context:</p>
 <ol>
-<li><strong>Standard Form</strong>: A polynomial is in standard form when its terms are written in descending order of degree. For example:</li>
+<li>
+<p><strong>Standard Form</strong>: A polynomial is in standard form when its terms are written in descending order of degree. For example:
+[
+P(x) = 3x^4 - 5x^3 + 2x^2 + x - 7
+]</p>
+</li>
+<li>
+<p><strong>Factored Form</strong>: A polynomial can often be factored into a product of simpler polynomials or linear factors. Factored form is useful for finding the roots of the polynomial. For example:
+[
+P(x) = (x - 1)(x + 2)(x - 3)
+]</p>
+</li>
+<li>
+<p><strong>Vertex Form</strong> (Quadratics): For quadratics, the vertex form is often useful for identifying the vertex of a parabola. It is written as:
+[
+P(x) = a(x - h)^2 + k
+]</p>
+</li>
 </ol>
-<p>[
-   P(x) = 3x^4 - 5x^3 + 2x^2 + x - 7
-   ]</p>
-<ol>
-<li><strong>Factored Form</strong>: A polynomial can often be factored into a product of simpler polynomials or linear factors. Factored form is useful for finding the roots of the polynomial. For example:</li>
-</ol>
-<p>[
-   P(x) = (x - 1)(x + 2)(x - 3)
-   ]</p>
-<ol>
-<li><strong>Vertex Form</strong> (Quadratics): For quadratics, the vertex form is often useful for identifying the vertex of a parabola. It is written as:</li>
-</ol>
-<p>[
-   P(x) = a(x - h)^2 + k
-   ]</p>
 <p>where <span class="arithmatex">\( (h, k) \)</span> is the vertex of the parabola.</p>
 <h3 id="identifying_special_types_of_polynomials"><strong>Identifying Special Types of Polynomials</strong><a class="headerlink" href="#identifying_special_types_of_polynomials" title="Permanent link">&para;</a></h3>
 <ul>
@@ -7123,10 +7141,9 @@ P(x) = a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0
 <p><strong>Homogeneous Polynomials</strong>: Polynomials where all terms have the same total degree. For example, <span class="arithmatex">\( P(x, y) = 3x^2y + 2xy^2 \)</span> is homogeneous of degree 3.</p>
 </li>
 <li>
-<p><strong>Sparse Polynomials</strong>: Pol</p>
+<p><strong>Sparse Polynomials</strong>: Polynomials that have relatively few non-zero terms compared to the degree. For example, <span class="arithmatex">\( P(x) = x^5 - 7x + 2 \)</span> is sparse because most terms are missing.</p>
 </li>
 </ul>
-<p>ynomials that have relatively few non-zero terms compared to the degree. For example, <span class="arithmatex">\( P(x) = x^5 - 7x + 2 \)</span> is sparse because most terms are missing.</p>
 <h2 id="summary">Summary<a class="headerlink" href="#summary" title="Permanent link">&para;</a></h2>
 <p>Identifying polynomials involves examining their structure, terms, degree, coefficients, and forms. Understanding the individual terms, recognizing whether the polynomial is monomial, binomial, or trinomial, and identifying its degree allows for easier manipulation and application of algebraic techniques. Recognizing special forms such as factored or vertex form also aids in solving equations, analyzing graphs, and applying polynomials in real-world contexts.</p>
 
