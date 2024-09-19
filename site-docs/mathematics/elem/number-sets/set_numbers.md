@@ -64,7 +64,7 @@ Mathematics relies on various number systems, each serving different purposes an
 
 ---
 
-## **4. Rational Numbers (Q)**
+## **4. Rational Numbers (\( \mathbb{Q} \))**
 **Symbol**: \( \mathbb{Q} \) (from "quotient")
 
 - **Definition**: Rational numbers are numbers that can be expressed as the quotient of two integers, where the denominator is not zero.
@@ -101,7 +101,7 @@ Mathematics relies on various number systems, each serving different purposes an
 
 ---
 
-## **6. Real Numbers (R)**
+## **6. Real Numbers (\( \mathbb{R} \))**
 **Symbol**: \( \mathbb{R} \)
 
 - **Definition**: The set of real numbers includes all rational and irrational numbers. It represents all possible values on a continuous number line.
@@ -117,7 +117,7 @@ Mathematics relies on various number systems, each serving different purposes an
 
 ---
 
-## **7. Complex Numbers (C)**
+## **7. Complex Numbers (\( \mathbb{C} \))**
 **Symbol**: \( \mathbb{C} \)
 
 - **Definition**: Complex numbers consist of a real part and an imaginary part. They take the form \( a + bi \), where \( a \) and \( b \) are real numbers and \( i \) is the imaginary unit, defined as \( i^2 = -1 \).
