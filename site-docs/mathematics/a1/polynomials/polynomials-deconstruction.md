@@ -5,6 +5,7 @@ Deconstruction of polynomials refers to breaking down a polynomial into simpler 
 ## Why Deconstruct Polynomials?
 
 The deconstruction of polynomials is a valuable technique for solving polynomial equations, simplifying expressions, and revealing underlying properties such as symmetry, behavior at infinity, and root structure. Key goals include:
+
 - **Factoring** to find the roots of the polynomial.
 - **Simplifying** complex expressions for easier manipulation.
 - **Analyzing** the behavior of the polynomial, such as determining its end behavior, turning points, and inflection points.
@@ -12,41 +13,44 @@ The deconstruction of polynomials is a valuable technique for solving polynomial
 ### Methods of Polynomial Deconstruction
 
 ### 1. **Factoring Polynomials**
+
 Factoring is the most common method of deconstruction, where the polynomial is expressed as a product of simpler polynomials. Factoring reduces a higher-degree polynomial into linear or quadratic factors, revealing its roots.
 
 #### Factoring Techniques:
+
 - **Factoring out the greatest common factor (GCF)**: The simplest form of factoring involves identifying the largest factor common to all terms. For example:
 
-  \[
-  P(x) = 3x^3 + 6x^2 + 9x = 3x(x^2 + 2x + 3)
-  \]
+\[
+P(x) = 3x^3 + 6x^2 + 9x = 3x(x^2 + 2x + 3)
+\]
 
 - **Factoring by grouping**: For some polynomials with four or more terms, grouping terms allows us to factor them in pairs. For example:
 
-  \[
-  P(x) = x^3 + 3x^2 + 2x + 6 = (x^2 + 2)(x + 3)
-  \]
+\[
+P(x) = x^3 + 3x^2 + 2x + 6 = (x^2 + 2)(x + 3)
+\]
 
 - **Factoring quadratics**: For second-degree polynomials (quadratics), we look for two numbers that multiply to give the constant term and add to give the coefficient of the linear term. For example:
 
-  \[
-  P(x) = x^2 - 5x + 6 = (x - 2)(x - 3)
-  \]
+\[
+P(x) = x^2 - 5x + 6 = (x - 2)(x - 3)
+\]
 
 - **Difference of squares**: This method is used for polynomials that are the difference of two squares:
 
-  \[
-  P(x) = x^2 - 16 = (x - 4)(x + 4)
-  \]
+\[
+P(x) = x^2 - 16 = (x - 4)(x + 4)
+\]
 
 - **Sum and difference of cubes**: Polynomials that are the sum or difference of cubes can also be factored using special formulas:
 
-  \[
-  P(x) = x^3 - 27 = (x - 3)(x^2 + 3x + 9)
-  \]
-  \[
-  P(x) = x^3 + 8 = (x + 2)(x^2 - 2x + 4)
-  \]
+\[
+P(x) = x^3 - 27 = (x - 3)(x^2 + 3x + 9)
+\]
+
+\[
+P(x) = x^3 + 8 = (x + 2)(x^2 - 2x + 4)
+\]
 
 - **Rational Root Theorem**: This theorem helps identify potential rational roots by testing factors of the constant term and leading coefficient. Once a root is found, synthetic or long division can be used to deconstruct the polynomial further.
 
@@ -118,7 +122,9 @@ P'(x) = 3x^2 - 6x + 2
 Solving \( P'(x) = 0 \) gives the critical points, where the polynomial changes direction, aiding in graphing and understanding its behavior.
 
 ### 8. **Graphical Deconstruction**
+
 Graphical analysis allows us to visually deconstruct a polynomial. By examining the graph, we can infer key properties:
+
 - **Turning points**: Local maxima or minima.
 - **Inflection points**: Points where the curvature changes.
 - **End behavior**: The direction the graph heads as \( x \to \infty \) or \( x \to -\infty \).
