@@ -21,7 +21,7 @@ Here, you'll explore everything from **Elementary Mathematics** to **Advanced Co
 
 - **Elementary Math**: Master basic concepts with an emphasis on number theory exposure.
 - **Algebra I & II**: Master linear & non-linear equations, inequalities, class of polynomials, quadratic, cubic functions, and much more.
-- **Modular Arithmetic**: Develop proficiency in circle math by dissecting the underlying implications of **remainders** and **quotients**.
+- **Modular Arithmetic**: Develop proficiency in "circle math" by dissecting the underlying implications of **remainders** and **quotients**.
 - **Geometry**: Delve into the properties of shapes, theorems, and spatial reasoning.
 - **Number Theory**: Explore the fascinating world of integers, prime numbers, and divisibility.
 - **Logic**: Learn rigorous methods to state facts, make irrefutable arguments, and understand the nature of proofs
