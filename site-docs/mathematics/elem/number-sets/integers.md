@@ -1,6 +1,6 @@
 # Integers - \( \mathbb{Z} \)
 
-**Integers** are a fundamental concept in mathematics, extending the concept of natural numbers to include negative numbers and zero. They are used in a wide range of mathematical operations and theories and form the basis for more advanced number systems. This discourse provides an in-depth look at integers, their properties, and their role in mathematics.
+**Integers** are a fundamental concept in mathematics, extending the concept of natural numbers to include negative numbers and zero. They are used in a wide range of mathematical operations and theories and form the basis for more advanced number systems. This section provides an in-depth look at integers, their properties, and their role in mathematics.
 
 ---
 
