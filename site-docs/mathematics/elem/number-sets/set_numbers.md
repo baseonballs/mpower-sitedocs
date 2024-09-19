@@ -10,15 +10,18 @@ Mathematics relies on various number systems, each serving different purposes an
 - **Definition**: The set of natural numbers consists of the counting numbers used in daily life. They typically exclude zero, though in some definitions, zero is included.
   
 - **Set-Builder Notation**: 
-  \[
-  \mathbb{N} = \{x \in \mathbb{Z} \mid x > 0 \}
-  \]
+
+\[
+\mathbb{N} = \{x \in \mathbb{Z} \mid x > 0 \}
+\]
+
   (Natural numbers without zero)
 
   If we include zero:
-  \[
-  \mathbb{N}_0 = \{x \in \mathbb{Z} \mid x \geq 0 \}
-  \]
+
+\[
+\mathbb{N}_0 = \{x \in \mathbb{Z} \mid x \geq 0 \}
+\]
 
 - **Examples**: \( 1, 2, 3, 4, 5, \dots \)
 
@@ -32,9 +35,10 @@ Mathematics relies on various number systems, each serving different purposes an
 - **Definition**: Whole numbers include all natural numbers plus zero. Whole numbers do not include negative numbers or fractions.
 
 - **Set-Builder Notation**: 
-  \[
-  \mathbb{W} = \{x \in \mathbb{Z} \mid x \geq 0\}
-  \]
+
+\[
+\mathbb{W} = \{x \in \mathbb{Z} \mid x \geq 0\}
+\]
 
 - **Examples**: \( 0, 1, 2, 3, 4, \dots \)
 
@@ -43,14 +47,16 @@ Mathematics relies on various number systems, each serving different purposes an
 ---
 
 ## **3. Integers (\( \mathbb{Z} \))**
+
 **Symbol**: \( \mathbb{Z} \) (from the German word *Zahlen*, meaning "numbers")
 
 - **Definition**: The set of integers extends the whole numbers to include negative numbers. This set includes positive numbers, negative numbers, and zero.
 
 - **Set-Builder Notation**: 
-  \[
-  \mathbb{Z} = \{x \mid x \in \mathbb{N}_0 \cup (-x \mid x \in \mathbb{N}_0)\}
-  \]
+
+\[
+\mathbb{Z} = \{x \mid x \in \mathbb{N}_0 \cup (-x \mid x \in \mathbb{N}_0)\}
+\]
 
 - **Examples**: \( \dots, -3, -2, -1, 0, 1, 2, 3, \dots \)
 
@@ -63,10 +69,11 @@ Mathematics relies on various number systems, each serving different purposes an
 
 - **Definition**: Rational numbers are numbers that can be expressed as the quotient of two integers, where the denominator is not zero.
 
-- **Set-Builder Notation**: 
-  \[
-  \mathbb{Q} = \left\{ \frac{a}{b} \mid a \in \mathbb{Z}, b \in \mathbb{Z}, b \neq 0 \right\}
-  \]
+- **Set-Builder Notation**:
+
+\[
+\mathbb{Q} = \left\{ \frac{a}{b} \mid a \in \mathbb{Z}, b \in \mathbb{Z}, b \neq 0 \right\}
+\]
 
 - **Examples**: \( \frac{1}{2}, -\frac{5}{3}, 4, 0, \frac{22}{7} \)
 
@@ -77,14 +84,16 @@ Mathematics relies on various number systems, each serving different purposes an
 ---
 
 ## **5. Irrational Numbers**
+
 **Symbol**: No standard symbol, but these numbers belong to the set of real numbers.
 
 - **Definition**: Irrational numbers cannot be written as a simple fraction of two integers. Their decimal expansions are non-terminating and non-repeating.
 
-- **Set-Builder Notation**: 
-  \[
-  \text{Irrational} = \{x \mid x \in \mathbb{R} \setminus \mathbb{Q} \}
-  \]
+- **Set-Builder Notation**:
+
+\[
+\text{Irrational} = \{x \mid x \in \mathbb{R} \setminus \mathbb{Q} \}
+\]
 
 - **Examples**: \( \pi, \sqrt{2}, e \)
 
@@ -97,10 +106,10 @@ Mathematics relies on various number systems, each serving different purposes an
 
 - **Definition**: The set of real numbers includes all rational and irrational numbers. It represents all possible values on a continuous number line.
 
-- **Set-Builder Notation**: 
-  \[
-  \mathbb{R} = \{x \mid x \in \mathbb{Q} \cup (\mathbb{R} \setminus \mathbb{Q})\}
-  \]
+- **Set-Builder Notation**:
+\[
+\mathbb{R} = \{x \mid x \in \mathbb{Q} \cup (\mathbb{R} \setminus \mathbb{Q})\}
+\]
 
 - **Examples**: \( -2, 0, 1.5, \sqrt{3}, \pi \)
 
@@ -113,10 +122,10 @@ Mathematics relies on various number systems, each serving different purposes an
 
 - **Definition**: Complex numbers consist of a real part and an imaginary part. They take the form \( a + bi \), where \( a \) and \( b \) are real numbers and \( i \) is the imaginary unit, defined as \( i^2 = -1 \).
 
-- **Set-Builder Notation**: 
-  \[
-  \mathbb{C} = \{a + bi \mid a, b \in \mathbb{R} \}
-  \]
+- **Set-Builder Notation**:
+\[
+\mathbb{C} = \{a + bi \mid a, b \in \mathbb{R} \}
+\]
 
 - **Examples**: \( 3 + 4i, -2i, 5 \) (where \( 5 \) is purely real)
 
@@ -127,10 +136,11 @@ Mathematics relies on various number systems, each serving different purposes an
 ## **8. Counting Numbers**
 Counting numbers are simply another name for **natural numbers**, particularly in contexts where counting discrete objects is emphasized.
 
-- **Set-Builder Notation**: 
-  \[
-  \text{Counting Numbers} = \mathbb{N} = \{x \in \mathbb{Z} \mid x > 0 \}
-  \]
+- **Set-Builder Notation**:
+
+\[
+\text{Counting Numbers} = \mathbb{N} = \{x \in \mathbb{Z} \mid x > 0 \}
+\]
 
 - **Examples**: \( 1, 2, 3, 4, \dots \)
 
@@ -141,10 +151,11 @@ Counting numbers are simply another name for **natural numbers**, particularly i
 ## **9. Prime Numbers**
 **Prime numbers** are natural numbers greater than 1 that have no divisors other than 1 and themselves.
 
-- **Set-Builder Notation**: 
-  \[
-  \text{Primes} = \{p \in \mathbb{N} \mid p > 1 \text{ and has no divisors other than } 1 \text{ and } p \}
-  \]
+- **Set-Builder Notation**:
+
+\[
+\text{Primes} = \{p \in \mathbb{N} \mid p > 1 \text{ and has no divisors other than } 1 \text{ and } p \}
+\]
 
 - **Examples**: \( 2, 3, 5, 7, 11, 13, 17, \dots \)
 
@@ -155,10 +166,11 @@ Counting numbers are simply another name for **natural numbers**, particularly i
 ## **10. Composite Numbers**
 **Composite numbers** are natural numbers greater than 1 that are not prime, meaning they have divisors other than 1 and themselves.
 
-- **Set-Builder Notation**: 
-  \[
-  \text{Composites} = \{n \in \mathbb{N} \mid n > 1 \text{ and } n = a \cdot b \text{ for } a, b \in \mathbb{N}, a, b \neq 1\}
-  \]
+- **Set-Builder Notation**:
+
+\[
+\text{Composites} = \{n \in \mathbb{N} \mid n > 1 \text{ and } n = a \cdot b \text{ for } a, b \in \mathbb{N}, a, b \neq 1\}
+\]
 
 - **Examples**: \( 4, 6, 8, 9, 12, 15 \)
 
@@ -169,10 +181,11 @@ Counting numbers are simply another name for **natural numbers**, particularly i
 ## **11. Imaginary Numbers**
 Imaginary numbers are numbers that can be written as a real number multiplied by the imaginary unit \( i \), where \( i^2 = -1 \).
 
-- **Set-Builder Notation**: 
-  \[
-  \text{Imaginary} = \{bi \mid b \in \mathbb{R}, i^2 = -1\}
-  \]
+- **Set-Builder Notation**:
+
+\[
+\text{Imaginary} = \{bi \mid b \in \mathbb{R}, i^2 = -1\}
+\]
 
 - **Examples**: \( i, 3i, -2i \)
 
@@ -181,6 +194,7 @@ Imaginary numbers are numbers that can be written as a real number multiplied by
 ---
 
 ## **12. Real and Imaginary Parts of Complex Numbers**
+
 In a complex number \( z = a + bi \), \( a \) is the real part, and \( bi \) is the imaginary part.
 
 - **Example**: In \( 4 + 5i \), the real part is 4, and the imaginary part is \( 5i \).
