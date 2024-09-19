@@ -146,8 +146,6 @@ nav:
       - "Number Classification": "./mathematics/elem/number-sets/set_numbers.md"
       - "Natural Numbers": "./mathematics/elem/number-sets/natural_numbers.md"
       - "Integers": "./mathematics/elem/number-sets/integers.md"
-      - "Real Numbers": "mathematics/elem/number-sets/real-numbers.md"
-      - "Complex Numbers": "mathematics/elem/number-sets/complex-numbers.md"
     - "Number System":
       - "Decimal - Base 10": "./mathematics/elem/number-system/decimal.md"
       - "Binary - Base 2":
