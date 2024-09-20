@@ -143,7 +143,7 @@ nav:
       - "Mathematical Objects": "mathematics/a1/appendix/lang/objects-labels/mathematical-objects.md"
   - "Elementary Mathematics":
     - "Number Sets" : 
-      - "Number Classification": "./mathematics/elem/number-sets/set_numbers.md"
+      - "Number Class": "./mathematics/elem/number-sets/set_numbers.md"
       - "Natural Numbers": "./mathematics/elem/number-sets/natural_numbers.md"
       - "Integers": "./mathematics/elem/number-sets/integers.md"
     - "Number System":
