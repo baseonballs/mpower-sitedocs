@@ -5930,6 +5930,57 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Problem 2">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#problem_deconstruction_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problem Deconstruction:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#givens_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Givens:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#unknownsconstraints_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Unknowns/Constraints:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#strategy_hints_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Strategy Hints:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#problem_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problem 3
+    </span>
+  </a>
+  
 </li>
       
         <li class="md-nav__item">
@@ -7209,6 +7260,57 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Problem 2">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#problem_deconstruction_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problem Deconstruction:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#givens_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Givens:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#unknownsconstraints_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Unknowns/Constraints:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#strategy_hints_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Strategy Hints:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#problem_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problem 3
+    </span>
+  </a>
+  
 </li>
       
         <li class="md-nav__item">
@@ -7278,6 +7380,47 @@
 </ol>
 <p>By recognizing the cyclical nature of <span class="arithmatex">\(i\)</span>'s powers, you can reduce the problem from dealing with 2017 terms to handling just a few.</p>
 <h2 id="problem_2">Problem 2<a class="headerlink" href="#problem_2" title="Permanent link">&para;</a></h2>
+<p>Problem Statement:</p>
+<blockquote>
+<p>Find a complex number <span class="arithmatex">\(z\)</span> such that the real part and imaginary part of <span class="arithmatex">\(z\)</span> are both integers, and such that
+<span class="arithmatex">\(<span class="arithmatex">\(z\overline z = 89.\)</span>\)</span>Express your answer in the form <span class="arithmatex">\(a+bi\)</span>, where <span class="arithmatex">\(a\)</span> and <span class="arithmatex">\(b\)</span> are integers. Only enter one answer.</p>
+</blockquote>
+<h3 id="problem_deconstruction_1">Problem Deconstruction:<a class="headerlink" href="#problem_deconstruction_1" title="Permanent link">&para;</a></h3>
+<p>You need to find a complex number <span class="arithmatex">\( z \)</span> such that the real part <span class="arithmatex">\( \text{Re}(z) = a \)</span> and the imaginary part <span class="arithmatex">\( \text{Im}(z) = b \)</span> are both integers. The condition given is:</p>
+<div class="arithmatex">\[
+z \overline{z} = 89,
+\]</div>
+<p>where <span class="arithmatex">\( \overline{z} \)</span> is the complex conjugate of <span class="arithmatex">\( z \)</span>. This leads to a relationship between the real and imaginary parts of <span class="arithmatex">\( z \)</span>.</p>
+<h3 id="givens_1">Givens:<a class="headerlink" href="#givens_1" title="Permanent link">&para;</a></h3>
+<ul>
+<li><span class="arithmatex">\( z = a + bi \)</span>, where <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span> are integers.</li>
+<li><span class="arithmatex">\( \overline{z} = a - bi \)</span>, the complex conjugate of <span class="arithmatex">\( z \)</span>.</li>
+<li>The equation <span class="arithmatex">\( z \overline{z} = 89 \)</span>.</li>
+</ul>
+<h3 id="unknownsconstraints_1">Unknowns/Constraints:<a class="headerlink" href="#unknownsconstraints_1" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Unknown</strong>: The values of <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span> (integers) that satisfy the equation.</li>
+<li><strong>Constraints</strong>: </li>
+<li><span class="arithmatex">\( z \overline{z} = |z|^2 \)</span>, which gives the magnitude squared of <span class="arithmatex">\( z \)</span>.</li>
+<li>The equation becomes <span class="arithmatex">\( a^2 + b^2 = 89 \)</span>, which restricts <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span> to integers that satisfy this sum of squares equation.</li>
+</ul>
+<h3 id="strategy_hints_1">Strategy Hints:<a class="headerlink" href="#strategy_hints_1" title="Permanent link">&para;</a></h3>
+<ol>
+<li><strong>Use the formula for <span class="arithmatex">\( z \overline{z} \)</span></strong>: Expand <span class="arithmatex">\( z \overline{z} \)</span> to get <span class="arithmatex">\( a^2 + b^2 \)</span>, leading to the Diophantine equation:</li>
+</ol>
+<div class="arithmatex">\[
+a^2 + b^2 = 89.
+\]</div>
+<ol>
+<li>
+<p><strong>Find integer pairs</strong>: Look for integer values of <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span> such that their squares add up to 89. Test small integers for <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span> and check if they satisfy the equation.</p>
+</li>
+<li>
+<p><strong>Verify possible solutions</strong>: Once you find a pair of integers <span class="arithmatex">\( (a, b) \)</span> that work, express the complex number <span class="arithmatex">\( z \)</span> as <span class="arithmatex">\( a + bi \)</span>.</p>
+</li>
+</ol>
+<p>This method will give you the correct values for <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span>.</p>
+<h2 id="problem_3">Problem 3<a class="headerlink" href="#problem_3" title="Permanent link">&para;</a></h2>
 <p>Problem Statement:</p>
 <blockquote></blockquote>
 <h2 id="problem_xxx">Problem xxx<a class="headerlink" href="#problem_xxx" title="Permanent link">&para;</a></h2>
