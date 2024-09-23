@@ -151,7 +151,7 @@ nav:
       - "Binary - Base 2":
         - "Introduction": "./mathematics/elem/number-system/binary.md"
         - "Exercises": "mathematics/elem/number-system/exercise/b10_to_b2-01.md"
-      - "Hexdecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
+      - "Hexadecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
     - "Segmentation": 
       - "Segmentation in Mathematics": "mathematics/elem/segmentation/segmentation.md"
       - "Divisibility & Grouping": "mathematics/elem/segmentation/segmentation-grouping.md"
