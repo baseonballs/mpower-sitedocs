@@ -141,3 +141,57 @@ For \( 3 + 4i \), the exponential form is:
 \[
 z = 5e^{i(53.13^\circ)}
 \]
+
+## 5. **De Moivre's Theorem**
+
+De Moivre's Theorem provides a powerful way to raise complex numbers to integer powers:
+
+\[
+\left( r \left( \cos \theta + i \sin \theta \right) \right)^n = r^n \left( \cos(n\theta) + i \sin(n\theta) \right)
+\]
+
+This theorem is particularly useful in solving powers and roots of complex numbers.
+
+For example, \( (3 + 4i)^2 \) can be computed by converting it to polar form:
+
+\[
+z^2 = 5^2 \left( \cos(2 \times 53.13^\circ) + i \sin(2 \times 53.13^\circ) \right) = 25 \left( \cos 106.26^\circ + i \sin 106.26^\circ \right)
+\]
+
+## 6. **Complex Roots**
+
+To find the roots of a complex number, we use the formula for the nth roots of a complex number \( z = r e^{i\theta} \):
+
+\[
+z^{1/n} = r^{1/n} e^{i(\theta + 2k\pi)/n}
+\]
+
+where \( k = 0, 1, 2, \dots, n-1 \) represents the different roots.
+
+For example, the cube roots of \( 1 \) are:
+
+\[
+1^{1/3} = e^{i(0 + 2k\pi)/3} = e^{2k\pi i/3}
+\]
+
+giving three roots:
+
+\[
+e^{0}, e^{2\pi i / 3}, e^{4\pi i / 3}
+\]
+
+which correspond to \( 1 \), \( -\frac{1}{2} + i\frac{\sqrt{3}}{2} \), and \( -\frac{1}{2} - i\frac{\sqrt{3}}{2} \).
+
+## 7. **Applications of Complex Numbers**
+
+Complex numbers are essential in many real-world applications:
+
+- **Electrical engineering:** Impedance in AC circuits is modeled using complex numbers.
+- **Signal processing:** Fourier transforms, which convert signals from time to frequency domain, use complex exponentials.
+- **Quantum mechanics:** Wavefunctions are described using complex-valued functions.
+  
+#### Summary
+
+The study of complex numbers opens up a new dimension of mathematics. Starting from basic arithmetic operations to their geometric interpretation in the complex plane, through the polar and exponential forms, and up to advanced theorems like De Moivre's, complex numbers provide tools that extend far beyond the real numbers, offering a deeper understanding of mathematical relationships and real-world phenomena.
+
+Would you like a deeper exploration into any specific aspect of this lesson?
