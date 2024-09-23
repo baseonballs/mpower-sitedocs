@@ -8,19 +8,26 @@ Factors and multiples are essential concepts in number theory, providing a found
 
 ### **1.1 Factors**
 
-A **factor** (or divisor) of an integer \( n \) is an integer \( d \) such that \( n \) can be divided by \( d \) without leaving a remainder. Formally:
+A **factor** (or divisor) of an integer \( a \) is an integer \( b \) such that \( a \) can be divided by \( b \) without leaving a remainder. Formally:
 
 \[
-\frac{n}{d} = k \text{ (where \( k \) is an integer)}
+\frac{a}{b} = k \text{ (where \( k \) is an integer)}
 \]
 
 This can be expressed as:
 
 \[
-n \equiv 0 \pmod{d}
+a \equiv 0 \pmod{b}
 \]
 
-**Example:** For \( n = 30 \), the factors of 30 include 1, 2, 3, 5, 6, 10, 15, and 30.
+or
+
+\[
+a \pmod{b} = 0 \pmod{b} 
+\]
+
+
+**Example:** For \( a = 30 \), the factors of 30 include 1, 2, 3, 5, 6, 10, 15, and 30.
 
 #### **1.1.1 Divisors and Factors**
 
@@ -39,10 +46,10 @@ For example, the factors of 12 are 1, 2, 3, 4, 6, and 12. These same numbers are
 
 ### **1.2 Multiples**
 
-A **multiple** of an integer \( n \) is any integer that can be expressed as \( n \times k \), where \( k \) is an integer. Formally:
+A **multiple** of an integer \( n \) is any integer that can be expressed as \( a\times k \), where \( k \) is an integer. Formally:
 
 \[
-m = n \times k
+m = a \times k
 \]
 
 **Example:** The multiples of 4 include 4, 8, 12, 16, 20, and so on.
