@@ -38,7 +38,52 @@ By recognizing the cyclical nature of \(i\)'s powers, you can reduce the problem
 ## Problem 2
 
 Problem Statement:
+>Find a complex number $z$ such that the real part and imaginary part of $z$ are both integers, and such that
+$$z\overline z = 89.$$Express your answer in the form $a+bi$, where $a$ and $b$ are integers. Only enter one answer.
+
+### Problem Deconstruction:
+
+You need to find a complex number \( z \) such that the real part \( \text{Re}(z) = a \) and the imaginary part \( \text{Im}(z) = b \) are both integers. The condition given is:
+
+\[
+z \overline{z} = 89,
+\]
+
+where \( \overline{z} \) is the complex conjugate of \( z \). This leads to a relationship between the real and imaginary parts of \( z \).
+
+### Givens:
+
+- \( z = a + bi \), where \( a \) and \( b \) are integers.
+- \( \overline{z} = a - bi \), the complex conjugate of \( z \).
+- The equation \( z \overline{z} = 89 \).
+
+### Unknowns/Constraints:
+
+- **Unknown**: The values of \( a \) and \( b \) (integers) that satisfy the equation.
+- **Constraints**: 
+  - \( z \overline{z} = |z|^2 \), which gives the magnitude squared of \( z \).
+  - The equation becomes \( a^2 + b^2 = 89 \), which restricts \( a \) and \( b \) to integers that satisfy this sum of squares equation.
+
+### Strategy Hints:
+
+1. **Use the formula for \( z \overline{z} \)**: Expand \( z \overline{z} \) to get \( a^2 + b^2 \), leading to the Diophantine equation:
+
+\[
+a^2 + b^2 = 89.
+\]
+   
+2. **Find integer pairs**: Look for integer values of \( a \) and \( b \) such that their squares add up to 89. Test small integers for \( a \) and \( b \) and check if they satisfy the equation.
+
+3. **Verify possible solutions**: Once you find a pair of integers \( (a, b) \) that work, express the complex number \( z \) as \( a + bi \).
+
+This method will give you the correct values for \( a \) and \( b \).
+
+
+## Problem 3
+
+Problem Statement:
 >
+
 
 ## Problem xxx
 
