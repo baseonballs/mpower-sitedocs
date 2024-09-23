@@ -130,3 +130,98 @@ The horizontal shift \(x - 6\) does not affect the area, but the vertical scalin
 
 ### Final Answer:
 The area between the graph of \(y = 6f(x - 6)\) and the \(x\)-axis is \(10 \times 6 = 60\) square units.
+
+
+## **Problem 8**
+
+Problem Statement:
+
+>The region between the graph of $y = f (x)$ and the $x$-axis, shaded in this figure, has an area of 10 square units. What is the area between the graph of $y = \dfrac 12 f (-x)$ and the $x$-axis?
+
+### Deconstruction & Analysis:
+
+1. **Givens**:
+   - The area between the graph of \(y = f(x)\) and the \(x\)-axis is 10 square units.
+   - You need to find the area between the graph of \(y = \frac{1}{2} f(-x)\) and the \(x\)-axis.
+
+2. **Unknowns**:
+   - How the transformations \(\frac{1}{2}\) and \(f(-x)\) affect the area.
+
+### Hints & Strategy Outline:
+
+- **Hint 1**: The transformation \(f(-x)\) reflects the graph across the \(y\)-axis. Consider whether this reflection affects the area under the curve.
+
+- **Hint 2**: The factor of \(\frac{1}{2}\) scales the graph vertically. Think about how this scaling impacts the area under the curve. 
+
+- **Hint 3**: The area of the region under a curve is proportional to the vertical scaling factor. If the original area is 10 square units, how will the area change when you multiply the function by \(\frac{1}{2}\)?
+
+### Conclusion:
+The reflection does not change the area, but the vertical scaling by \(\frac{1}{2}\) reduces the area.
+
+
+
+## **Problem 9**
+
+Problem Statement:
+
+>When the graph of $y = 2x^2 - x + 7$ is shifted four units to the right, we obtain the graph of $y = ax^2 + bx + c$. Find $a + b + c$.
+
+
+Let's deconstruct the problem step by step.
+
+### Givens:
+1. The original function is \( y = 2x^2 - x + 7 \).
+2. The graph is shifted four units to the right.
+
+### Unknowns:
+1. The coefficients \(a\), \(b\), and \(c\) of the new function \(y = ax^2 + bx + c\) after the shift.
+2. The sum \(a + b + c\).
+
+### Conditions/Constraints:
+1. The transformation involves shifting the graph horizontally, which affects how the variable \(x\) is represented in the function.
+2. The new function's form remains quadratic, \(y = ax^2 + bx + c\).
+
+### Hints for Strategy:
+1. **Understand the Transformation:** Focus on how a horizontal shift affects the function. Recall that shifting the graph right involves replacing \(x\) with \(x - h\), where \(h\) is the shift amount.
+2. **Substitution:** Apply the transformation to the entire function, substituting \(x - 4\) into the original function.
+3. **Expand and Simplify:** After substitution, ensure to expand and combine like terms carefully to express the new function in the standard quadratic form.
+4. **Identify Coefficients:** Once you have the new function in the form \(y = ax^2 + bx + c\), clearly identify the coefficients \(a\), \(b\), and \(c\).
+5. **Calculate the Sum:** Finally, compute the sum \(a + b + c\) using the identified coefficients.
+
+By focusing on these elements, you can systematically approach the problem and arrive at the solution without rushing into calculations.
+
+
+## **Problem 10*
+
+Problem Statement:
+
+>The function $f(x)$ is invertible, but the function $g(x)=f(kx)$ is not invertible. Find the sum of all possible values of $k$.
+
+To analyze the problem, we start with the given functions and the conditions of invertibility.
+
+### Givens:
+1. The function \(f(x)\) is invertible. This means that \(f(x)\) is one-to-one, which implies it is either strictly increasing or strictly decreasing over its domain.
+2. The function \(g(x) = f(kx)\) is not invertible.
+
+### Unknowns:
+1. We need to find the sum of all possible values of \(k\) for which \(g(x)\) is not invertible.
+
+### Conditions/Constraints:
+1. A function is not invertible if it fails the horizontal line test, which occurs when it is not one-to-one.
+2. For \(g(x) = f(kx)\) to be non-invertible, the composition \(f(kx)\) must have the same output for different inputs.
+
+### Deconstruction:
+1. **Function \(g(x)\):** The expression \(g(x) = f(kx)\) suggests that we are transforming the input to \(f\) by multiplying \(x\) by \(k\). 
+2. **Behavior Based on \(k\):** 
+   - If \(k = 0\), then \(g(x) = f(0)\) is a constant function (which is not invertible).
+   - If \(k > 0\) or \(k < 0\), the behavior of \(g(x)\) depends on whether it stretches or compresses the input values into the domain of \(f\). 
+3. **Analyzing Non-Invertibility:** 
+   - The function \(g(x)\) could become non-invertible if \(kx\) takes on the same values for different \(x\). This can happen when \(k\) is such that it maps multiple \(x\) values to the same \(kx\) value. 
+
+### Hints for Strategy:
+1. **Investigate \(k\):** Start by setting up conditions under which \(kx_1 = kx_2\) for \(x_1 \neq x_2\). This typically occurs if \(k = 0\).
+2. **Consider the cases:** Analyze the case for \(k > 0\) and \(k < 0\) to determine whether they can lead to non-invertibility. Focus on how the multiplication by \(k\) changes the input domain.
+3. **Use derivative tests:** If \(f'(x) = 0\) at some point, \(f(kx)\) could also become non-invertible depending on \(k\) and where \(kx\) lands relative to the points where \(f'(x) = 0\).
+4. **Summation of \(k\) values:** Once the values of \(k\) are identified, compute their sum.
+
+By following these steps, you can systematically deduce the values of \(k\) for which \(g(x)\) is not invertible.
