@@ -257,6 +257,9 @@ nav:
           - "Problem 3 - Rational Powers": "./mathematics/a1/psets-a1/q3-solve-for-x.md"
           - "Problem 4 - Powers": "./mathematics/a1/psets-a1/q4-solve-for-x.md"
           - "Problem 5 - Linear Eq.": "./mathematics/a1/psets-a1/q5-solve-for-x.md"
+        - "AoPS-A1 Homework":
+          - "Lesson 1": "mathematics/a2/hw/aops/hw.04.md"
+          - "Lesson 2": "mathematics/a2/hw/aops/hw.05.md"
       - "Cheatsheets":
         - "Algebraic Identities":  "./mathematics/a1/appendix/algebraic_identities.md"
   - "Algebra 2":
@@ -264,6 +267,10 @@ nav:
       - "Forms & Structures": "mathematics/a2/eqs/cubic/cubic-forms-structures.md"
     - "Trignometic Functions":
       - "Identities": "./mathematics/a2/trig.md"
+    - "Appendix Resources":
+      - "AoPS-A2 Homework":
+        - "Lesson 4": "mathematics/a2/hw/aops/hw.04.md"
+        - "Lesson 5": "mathematics/a2/hw/aops/hw.05.md"
   - "Geometry":
     - "Circle":
       - "Form & Structures": "./mathematics/geometry/form-structures.md"
