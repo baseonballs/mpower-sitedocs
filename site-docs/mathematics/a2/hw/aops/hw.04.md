@@ -225,3 +225,24 @@ To analyze the problem, we start with the given functions and the conditions of 
 4. **Summation of \(k\) values:** Once the values of \(k\) are identified, compute their sum.
 
 By following these steps, you can systematically deduce the values of \(k\) for which \(g(x)\) is not invertible.
+
+
+## **Problem 11**
+
+Problem Statement:
+
+>
+
+
+## **Problem x**
+
+Problem Statement:
+
+>When the graph of a certain function $f(x)$ is shifted $2$ units to the right and stretched vertically by a factor of $2$ relative to the $x$-axis (meaning that all $y$-coordinates are doubled), the resulting graph is identical to the original graph.
+
+Given that $f(0)=1$, what is $f(10)$?
+
+
+## **Step-wise Solutions**
+
+Click [here](hw.04.sol.md) for solutions
