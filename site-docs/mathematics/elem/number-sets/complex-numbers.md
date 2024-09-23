@@ -196,10 +196,10 @@ The study of complex numbers opens up a new dimension of mathematics. Starting f
 
 Would you like a deeper exploration into any specific aspect of this lesson?
 
-## Exercises - Review your knowledge of complex numbers:
+## **Exercises - Review your knowledge of complex numbers**:
 
 
-### **Basic Operations with Complex Numbers**
+### **A. Basic Operations with Complex Numbers**
 
 1. **Addition and Subtraction:**
 
@@ -233,7 +233,7 @@ Would you like a deeper exploration into any specific aspect of this lesson?
 
 ---
 
-### **Modulus and Argument**
+### **B. Modulus and Argument**
 
 4. **Modulus:**
 
@@ -255,7 +255,7 @@ z = 1 + i
 
 ---
 
-### **Polar and Exponential Forms**
+### **C. Polar and Exponential Forms**
 
 6. **Convert to Polar Form:**
 
@@ -267,7 +267,7 @@ z = 1 + i
 
 ---
 
-### **Powers and Roots**
+### **D. Powers and Roots**
 
 8. **De Moivre’s Theorem (Powers):**
 
@@ -279,7 +279,7 @@ z = 1 + i
 
 ---
 
-### **Conjugates and Symmetry**
+### **E. Conjugates and Symmetry**
 
 10. **Complex Conjugate:**
 
@@ -297,7 +297,7 @@ Show all steps.
 
 ---
 
-### **Advanced Polar and Exponential Applications**
+### **F. Advanced Polar and Exponential Applications**
 
 12. **Polar to Rectangular Conversion:**
     Convert the following complex number from polar form to rectangular (standard) form:
