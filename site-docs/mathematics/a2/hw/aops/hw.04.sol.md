@@ -34,9 +34,10 @@ We need to find a point \((a, b)\) that lies on the graph of \(y = f(x) - 7\).
 2. **Apply the transformation to \(f(x)\):** The new function is \(y = f(x) - 7\), which means that for any given \(x\), the output will be \(f(x)\) decreased by 7. 
 
    Specifically, for \(x = 3\), the output will now be:
-   \[
-   f(3) - 7 = 15 - 7 = 8
-   \]
+   
+\[
+f(3) - 7 = 15 - 7 = 8
+\]
    
 3. **Form the new point:** The x-coordinate remains unchanged since the transformation affects only the output (y-value). Therefore, the point \((a, b)\) is \((3, 8)\).
 
@@ -46,9 +47,17 @@ The point that must be on the graph of \(y = f(x) - 7\) is \((3, 8)\).
 #### <span style="color: brown; font-weight:bold; font-style: normal">Thinking and Deconstruction of the Problem</span>:
 - **Givens:** The point \((3, 15)\) on the original graph, meaning \(f(3) = 15\).
 - **Transformation:** The function \(f(x)\) is shifted down by 7 units, so \(y = f(x) - 7\).
-- **Unknown solved:** The new point is \((3, 8)\), where the output is adjusted by the transformation.
+- **Unknown solved:** The new point is \(\boxed{(3, 8)}\), where the output is adjusted by the transformation.
 
 This problem illustrates how function transformations impact the graph, specifically vertical shifts.
+
+## **Problem 2**
+
+Looking at the graph, you can clearly see 3 line segements. This should tell you to immediate look at the slope of each segement. A line is defined by at least 2 points.  You can extract the two points in the first segment by looking at the xy coordinate.
+
+I have it as :  (-5, 0) nand  (-1, -4). These are your x1, y1 and x2, y2 points.  Now go find the slope.  Once you have the m-value, you should be able to come up with the function (eaution) for this line using the slope-intercept form (it's the easy): y = mx + b.
+
+Apply this strategy for the next two segments. By then you should be able to express the functions illustrated on the graph
 
 ## **Problem 6**
 
