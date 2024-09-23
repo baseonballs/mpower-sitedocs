@@ -219,3 +219,7 @@ Thus, the result is:
 
 Problem Statement:
 >
+
+## Solutions
+
+Click [here](hw.05.sol.m) for solutions.

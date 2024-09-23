@@ -1,4 +1,4 @@
-# AoPS Algebra 2 - Problem Sets 4
+# AoPS Algebra 2 - Lesson 4
 
 ## **Problem 1**
 
