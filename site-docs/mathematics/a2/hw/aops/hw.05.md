@@ -127,7 +127,93 @@ By following these steps, you can compute the quotient correctly.
 ## Problem 4
 
 Problem Statement:
+>Find all complex numbers $z$ satisfying the equation:
 >
+\[
+    \frac{z+1}{z-1} = i.
+\]
+
+### Problem Deconstruction:
+
+You are asked to find all complex numbers \( z \) that satisfy the equation
+
+\[
+\frac{z+1}{z-1} = i
+\]
+
+where \( i = \sqrt{-1} \).
+
+### Givens:
+
+- The equation is \( \frac{z+1}{z-1} = i \).
+- \( i \) is the imaginary unit, and \( i^2 = -1 \).
+
+### Unknowns/Constraints:
+
+- **Unknown**: The complex number \( z \) that satisfies the equation.
+- **Constraints**: 
+  - \( z \) is a complex number, which may be written as \( z = a + bi \), where \( a \) and \( b \) are real numbers.
+
+### Strategy Hints:
+
+1. **Multiply both sides by \( z-1 \)**: To eliminate the denominator, multiply both sides of the equation by \( z-1 \), giving you:
+
+\[
+z + 1 = i(z - 1).
+\]
+
+2. **Expand both sides**: Distribute \( i \) on the right-hand side to simplify:
+
+\[
+z + 1 = iz - i.
+\]
+
+3. **Isolate \( z \)**: Rearrange the terms to isolate \( z \) on one side. Group the terms involving \( z \) on one side and the constants on the other side.
+
+4. **Solve for \( z \)**: Simplify the resulting expression and solve for \( z \), keeping in mind that \( z \) can be expressed as a complex number in the form \( a + bi \).
+
+This approach will lead you to the complex number \( z \) that satisfies the equation.
+
+## Problem 5
+
+Problem Statement:
+>Compute $(2i-6)(5+i)$, where $i^2=-1$.
+
+Express your answer in the form $a+bi$, where $a$ and $b$ are real numbers.
+
+We are tasked with computing \( (2i - 6)(5 + i) \) and expressing the result in the form \( a + bi \), where \( a \) and \( b \) are real numbers.
+
+### Step-by-Step Solution:
+
+1. **Expand using the distributive property** (FOIL):
+
+\[
+(2i - 6)(5 + i) = (2i)(5) + (2i)(i) + (-6)(5) + (-6)(i)
+\]
+
+2. **Simplify each term**:
+
+   - \( (2i)(5) = 10i \)
+   - \( (2i)(i) = 2i^2 = 2(-1) = -2 \) (since \( i^2 = -1 \))
+   - \( (-6)(5) = -30 \)
+   - \( (-6)(i) = -6i \)
+
+3. **Combine like terms**:
+
+\[
+10i - 2 - 30 - 6i = (-2 - 30) + (10i - 6i)
+\]
+
+\[
+= -32 + 4i
+\]
+
+Thus, the result is:
+
+\[
+\boxed{-32 + 4i}
+\]
+
 
 ## Problem xxx
 
