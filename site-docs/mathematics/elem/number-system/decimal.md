@@ -6,13 +6,13 @@ Base 10, also known as the **decimal system**, is the most common number system 
 
 1. **Place Value**:
    Each digit in a number has a place value based on its position relative to the decimal point. The value of each place is a power of 10. For example, in the number 472, the place values are:
-   - 4 is in the hundreds place (10²),
-   - 7 is in the tens place (10¹),
-   - 2 is in the ones place (10⁰).
+      - 4 is in the hundreds place (10²),
+      - 7 is in the tens place (10¹),
+      - 2 is in the ones place (10⁰).
 
 2. **Decomposition**:
    Students learn to break down numbers by their place values. For example:
-   - 472 = 400 + 70 + 2.
+      - 472 = 400 + 70 + 2.
    This helps in understanding addition, subtraction, multiplication, and division.
 
 3. **Addition and Subtraction**:
@@ -23,9 +23,9 @@ Base 10, also known as the **decimal system**, is the most common number system 
 
 5. **Powers of 10**:
    Powers of 10 are important in understanding how larger and smaller numbers are formed. For example:
-   - \( 10^1 = 10 \),
-   - \( 10^2 = 100 \),
-   - \( 10^3 = 1,000 \),
+      - \( 10^1 = 10 \),
+      - \( 10^2 = 100 \),
+      - \( 10^3 = 1,000 \),
    and so on.
 
 ### Real-World Relevance:
