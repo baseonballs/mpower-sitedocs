@@ -2437,9 +2437,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#conclusion" class="md-nav__link">
+  <a href="#summary" class="md-nav__link">
     <span class="md-ellipsis">
-      Conclusion
+      Summary
     </span>
   </a>
   
@@ -6828,9 +6828,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#conclusion" class="md-nav__link">
+  <a href="#summary" class="md-nav__link">
     <span class="md-ellipsis">
-      Conclusion
+      Summary
     </span>
   </a>
   
@@ -6857,9 +6857,9 @@
 <ol>
 <li>
 <p><strong>Binary Representation</strong>:</p>
-</li>
-<li>
-<p>In the binary system, numbers are expressed as sums of powers of 2. For example, the binary number <span class="arithmatex">\( 1101_2 \)</span> can be interpreted as:</p>
+<ul>
+<li>In the binary system, numbers are expressed as sums of powers of 2. For example, the binary number <span class="arithmatex">\( 1101_2 \)</span> can be interpreted as:</li>
+</ul>
 </li>
 </ol>
 <div class="arithmatex">\[
@@ -6871,11 +6871,9 @@
 </li>
 <li>
 <p><strong>Boolean Algebra</strong>:</p>
-</li>
-<li>Binary systems are closely tied to <strong>Boolean algebra</strong>, a branch of mathematics that deals with true/false values. Boolean algebra underpins the logic gates used in digital circuits.</li>
-<li>
-<p>The basic Boolean operations—<strong>AND</strong>, <strong>OR</strong>, <strong>NOT</strong>, and <strong>XOR</strong>—are essential for building complex computational logic. These operations are analogous to binary operations:</p>
 <ul>
+<li>Binary systems are closely tied to <strong>Boolean algebra</strong>, a branch of mathematics that deals with true/false values. Boolean algebra underpins the logic gates used in digital circuits.</li>
+<li>The basic Boolean operations—<strong>AND</strong>, <strong>OR</strong>, <strong>NOT</strong>, and <strong>XOR</strong>—are essential for building complex computational logic. These operations are analogous to binary operations:</li>
 <li>AND: <span class="arithmatex">\( 1 \land 1 = 1 \)</span>, otherwise 0.</li>
 <li>OR: <span class="arithmatex">\( 1 \lor 0 = 1 \)</span>, <span class="arithmatex">\( 0 \lor 0 = 0 \)</span>.</li>
 <li>XOR: <span class="arithmatex">\( 1 \oplus 0 = 1 \)</span>, but <span class="arithmatex">\( 1 \oplus 1 = 0 \)</span>.</li>
@@ -6884,25 +6882,23 @@
 </li>
 <li>
 <p><strong>Information Theory</strong>:</p>
-</li>
+<ul>
 <li><strong>Claude Shannon</strong>, in his pioneering work on information theory, demonstrated that all forms of information (text, images, sound, etc.) can be represented using binary. Shannon showed that the <strong>bit</strong> is the fundamental unit of information, with each bit representing a binary choice between two equally probable states.</li>
-<li>
-<p>Shannon’s work laid the theoretical foundation for digital communication, showing that any message could be encoded as a sequence of bits, transmitted over a channel, and decoded with minimal error using redundancy and error-correction techniques.</p>
+<li>Shannon’s work laid the theoretical foundation for digital communication, showing that any message could be encoded as a sequence of bits, transmitted over a channel, and decoded with minimal error using redundancy and error-correction techniques.</li>
+</ul>
 </li>
 <li>
 <p><strong>Digital Logic and Circuits</strong>:</p>
-</li>
+<ul>
 <li>Computers are built from circuits that perform operations using binary logic. At the hardware level, binary states (0 and 1) correspond to low and high voltage levels in electronic circuits. <strong>Transistors</strong>, the basic building blocks of processors, act as switches that either allow or block the flow of current, representing binary states.</li>
 <li><strong>Logic gates</strong> (AND, OR, XOR, etc.) are used to perform basic operations on binary inputs, and more complex circuits like <strong>multiplexers</strong>, <strong>flip-flops</strong>, and <strong>adders</strong> are built by combining logic gates.</li>
-<li>
-<p>A binary adder, for instance, adds two binary numbers bit by bit, taking into account the carry from each position.</p>
+<li>A binary adder, for instance, adds two binary numbers bit by bit, taking into account the carry from each position.</li>
+</ul>
 </li>
 <li>
 <p><strong>Data Representation</strong>:</p>
-</li>
-<li>
-<p>In computers, all data—whether numbers, text, or multimedia—is stored in binary form. This is done using various encoding schemes.</p>
 <ul>
+<li>In computers, all data—whether numbers, text, or multimedia—is stored in binary form. This is done using various encoding schemes.</li>
 <li><strong>Integer Representation</strong>: Computers represent integers in binary, using fixed-width formats such as 8-bit, 16-bit, 32-bit, and 64-bit integers.</li>
 <li><strong>Floating-Point Representation</strong>: For real numbers, computers use floating-point binary representation (following IEEE 754 standards), where numbers are represented in scientific notation as <span class="arithmatex">\( m \times 2^e \)</span>, where <span class="arithmatex">\( m \)</span> is the mantissa and <span class="arithmatex">\( e \)</span> is the exponent.</li>
 <li><strong>Character Encoding</strong>: Text is represented in binary using character encoding schemes like <strong>ASCII</strong> or <strong>UTF-8</strong>, where each character is assigned a unique binary code.</li>
@@ -6910,77 +6906,69 @@
 </li>
 <li>
 <p><strong>Computation and Algorithms</strong>:</p>
-</li>
-<li>
-<p><strong>Bitwise Operations</strong>: Binary numbers enable <strong>bitwise operations</strong>, which manipulate individual bits. These operations are fundamental in many algorithms for optimizing performance, encryption, compression, and error detection.</p>
 <ul>
+<li><strong>Bitwise Operations</strong>: Binary numbers enable <strong>bitwise operations</strong>, which manipulate individual bits. These operations are fundamental in many algorithms for optimizing performance, encryption, compression, and error detection.</li>
 <li>Bitwise AND, OR, XOR, NOT, and shifts (left and right shifts) are common operations.</li>
 <li><strong>Bit Manipulation</strong> is used in low-level programming, particularly in areas like systems programming, cryptography, and network protocols.</li>
+<li><strong>Binary Search</strong>: In computer science, <strong>binary search</strong> is a fundamental algorithm that exploits the binary nature of ordered lists. By repeatedly halving the search space, binary search achieves a time complexity of <span class="arithmatex">\( O(\log n) \)</span>, which is highly efficient compared to linear search.</li>
+<li><strong>Binary Heap</strong>: A <strong>binary heap</strong> is a tree-based data structure used to implement priority queues. The binary heap's structure, which maintains the "heap property" (each node is either greater or less than its children), lends itself well to fast insertions, deletions, and retrieval of the maximum or minimum value.</li>
+<li><strong>Binary Decision Diagrams</strong> (BDDs): These are data structures used to represent Boolean functions. BDDs provide a compact representation and are useful in hardware design and formal verification.</li>
 </ul>
 </li>
 <li>
-<p><strong>Binary Search</strong>: In computer science, <strong>binary search</strong> is a fundamental algorithm that exploits the binary nature of ordered lists. By repeatedly halving the search space, binary search achieves a time complexity of <span class="arithmatex">\( O(\log n) \)</span>, which is highly efficient compared to linear search.</p>
-</li>
-<li>
-<p><strong>Binary Heap</strong>: A <strong>binary heap</strong> is a tree-based data structure used to implement priority queues. The binary heap's structure, which maintains the "heap property" (each node is either greater or less than its children), lends itself well to fast insertions, deletions, and retrieval of the maximum or minimum value.</p>
-</li>
-<li>
-<p><strong>Binary Decision Diagrams</strong> (BDDs): These are data structures used to represent Boolean functions. BDDs provide a compact representation and are useful in hardware design and formal verification.</p>
-</li>
-<li>
 <p><strong>Complexity and Computability</strong>:</p>
-</li>
-<li>
-<p><strong>Turing Machines</strong>: The concept of the <strong>Turing machine</strong>, a theoretical model of computation, relies on binary symbols (0 and 1) as the simplest means of encoding instructions and data. A Turing machine manipulates binary data on an infinite tape according to a set of rules, and the machine’s ability to simulate any algorithm (given enough time and tape) underpins the <strong>Church-Turing thesis</strong>—the idea that any computational problem solvable by an algorithm can be solved by a Turing machine.</p>
-</li>
-<li>
-<p><strong>Binary Representation in Algorithms</strong>: Many algorithms rely on binary representation for efficiency:</p>
 <ul>
+<li><strong>Turing Machines</strong>: The concept of the <strong>Turing machine</strong>, a theoretical model of computation, relies on binary symbols (0 and 1) as the simplest means of encoding instructions and data. A Turing machine manipulates binary data on an infinite tape according to a set of rules, and the machine’s ability to simulate any algorithm (given enough time and tape) underpins the <strong>Church-Turing thesis</strong>—the idea that any computational problem solvable by an algorithm can be solved by a Turing machine.</li>
+<li><strong>Binary Representation in Algorithms</strong>: Many algorithms rely on binary representation for efficiency:</li>
 <li><strong>Exponentiation by Squaring</strong>: This algorithm for computing powers of a number uses the binary expansion of the exponent to reduce the number of multiplications.</li>
 <li><strong>Fast Fourier Transform (FFT)</strong>: This algorithm, used in signal processing, relies on decomposing a sequence of values into powers of two. The binary representation of indices plays a critical role in optimizing the recursive structure of the FFT.</li>
 </ul>
 </li>
 <li>
 <p><strong>Binary in Cryptography</strong>:</p>
-</li>
+<ul>
 <li>
 <p><strong>Binary Fields</strong>: In cryptography, certain encryption algorithms, such as <strong>Elliptic Curve Cryptography (ECC)</strong>, operate over finite fields of binary numbers (called <strong>GF(2^n)</strong>). These fields consist of binary numbers and are used because of their efficiency in hardware implementations.</p>
 </li>
 <li>
 <p><strong>Bit-Level Encryption</strong>: Many cryptographic algorithms work directly at the binary level, manipulating bits through exclusive-or (XOR) operations and bit shifts. This is evident in algorithms like the <strong>Advanced Encryption Standard (AES)</strong>, where encryption keys are binary sequences processed by the encryption function.</p>
 </li>
-<li>
-<p><strong>Binary Trees</strong>:</p>
+</ul>
 </li>
 <li>
-<p><strong>Binary trees</strong> are a fundamental data structure in computer science, used in searching, sorting, and organizing data hierarchically.</p>
+<p><strong>Binary Trees</strong>:</p>
 <ul>
+<li><strong>Binary trees</strong> are a fundamental data structure in computer science, used in searching, sorting, and organizing data hierarchically.</li>
 <li><strong>Binary Search Trees (BSTs)</strong>: Each node in a binary search tree has at most two children, and the left child contains values less than the parent node, while the right child contains values greater. This allows for efficient search, insert, and delete operations.</li>
-<li><strong>Balanced Binary Trees</strong>: Variants like <strong>AVL trees</strong> and <strong>Red-Black trees</strong> maintain balance, ensuring that operations remain efficient with a time complexity of <span class="arithmatex">\( O(\log n) \)</span>.</li>
-</ul>
+<li>
+<p><strong>Balanced Binary Trees</strong>: Variants like <strong>AVL trees</strong> and <strong>Red-Black trees</strong> maintain balance, ensuring that operations remain efficient with a time complexity of <span class="arithmatex">\( O(\log n) \)</span>.</p>
 </li>
 <li>
 <p><strong>Huffman Coding</strong>: A compression algorithm that uses binary trees to generate optimal prefix codes for data, minimizing the total number of bits used to encode a set of characters. Each character is assigned a binary code such that no code is a prefix of another, allowing for efficient and unambiguous decoding.</p>
 </li>
 </ul>
+</li>
+</ul>
 <h3 id="theoretical_implications">Theoretical Implications<a class="headerlink" href="#theoretical_implications" title="Permanent link">&para;</a></h3>
 <ol>
-<li><strong>Efficiency of Binary Representation</strong>:</li>
-<li>The binary system is optimal for computer systems because it is inherently compatible with <strong>digital circuits</strong>. A system based on two states is the simplest and most reliable to implement in physical hardware, reducing errors and minimizing energy consumption.</li>
 <li>
-<p>The logarithmic relationship between binary and decimal numbers means that binary can represent any number efficiently. For example, an 8-bit binary number can represent any integer from 0 to 255, while a 32-bit binary number can represent integers up to over 4 billion.</p>
+<p><strong>Efficiency of Binary Representation</strong>:</p>
+<ul>
+<li>The binary system is optimal for computer systems because it is inherently compatible with <strong>digital circuits</strong>. A system based on two states is the simplest and most reliable to implement in physical hardware, reducing errors and minimizing energy consumption.</li>
+<li>The logarithmic relationship between binary and decimal numbers means that binary can represent any number efficiently. For example, an 8-bit binary number can represent any integer from 0 to 255, while a 32-bit binary number can represent integers up to over 4 billion.</li>
+</ul>
 </li>
 <li>
 <p><strong>Universality of Binary in Computation</strong>:</p>
-</li>
-<li>
-<p>The binary number system plays a crucial role in the theoretical foundation of computation. All algorithms and data can ultimately be expressed in terms of binary operations, as demonstrated by the <strong>Church-Turing thesis</strong>. This universality shows that binary is not just a practical system but also a deeply theoretical one, with profound implications for what can and cannot be computed.</p>
+<ul>
+<li>The binary number system plays a crucial role in the theoretical foundation of computation. All algorithms and data can ultimately be expressed in terms of binary operations, as demonstrated by the <strong>Church-Turing thesis</strong>. This universality shows that binary is not just a practical system but also a deeply theoretical one, with profound implications for what can and cannot be computed.</li>
+</ul>
 </li>
 <li>
 <p><strong>Lambda Calculus and Binary</strong>: In the theoretical realm, systems like <strong>lambda calculus</strong> can encode binary data and Boolean logic, further showing how binary representation underpins the foundations of programming languages and computability.</p>
 </li>
 </ol>
-<h3 id="conclusion">Conclusion<a class="headerlink" href="#conclusion" title="Permanent link">&para;</a></h3>
+<h3 id="summary">Summary<a class="headerlink" href="#summary" title="Permanent link">&para;</a></h3>
 <p>Base 2 (binary) is central to computer science both practically and theoretically. Its simplicity, efficiency, and direct correspondence to digital systems make it the ideal number system for computation. From the structure of algorithms and data representation to the fundamental nature of Boolean logic and theoretical models like Turing machines, binary is woven into the fabric of modern computing. Its role extends beyond hardware into the abstract realms of computation theory, data structures, cryptography, and beyond.</p>
 
 
