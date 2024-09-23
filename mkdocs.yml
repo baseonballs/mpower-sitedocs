@@ -258,8 +258,8 @@ nav:
           - "Problem 4 - Powers": "./mathematics/a1/psets-a1/q4-solve-for-x.md"
           - "Problem 5 - Linear Eq.": "./mathematics/a1/psets-a1/q5-solve-for-x.md"
         - "AoPS-A1 Homework":
-          - "Lesson 1": "mathematics/a2/hw/aops/hw.04.md"
-          - "Lesson 2": "mathematics/a2/hw/aops/hw.05.md"
+          - "Lesson 1": "mathematics/a1/exercises/aops-a1-hw/hw.01.md"
+          - "Lesson 2": "mathematics/a1/exercises/aops-a1-hw/hw.02.md"
       - "Cheatsheets":
         - "Algebraic Identities":  "./mathematics/a1/appendix/algebraic_identities.md"
   - "Algebra 2":
