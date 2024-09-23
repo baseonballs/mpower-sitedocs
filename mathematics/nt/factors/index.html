@@ -7492,15 +7492,19 @@
 <hr />
 <h2 id="1_definitions_and_basic_concepts"><strong>1. Definitions and Basic Concepts</strong><a class="headerlink" href="#1_definitions_and_basic_concepts" title="Permanent link">&para;</a></h2>
 <h3 id="11_factors"><strong>1.1 Factors</strong><a class="headerlink" href="#11_factors" title="Permanent link">&para;</a></h3>
-<p>A <strong>factor</strong> (or divisor) of an integer <span class="arithmatex">\( n \)</span> is an integer <span class="arithmatex">\( d \)</span> such that <span class="arithmatex">\( n \)</span> can be divided by <span class="arithmatex">\( d \)</span> without leaving a remainder. Formally:</p>
+<p>A <strong>factor</strong> (or divisor) of an integer <span class="arithmatex">\( a \)</span> is an integer <span class="arithmatex">\( b \)</span> such that <span class="arithmatex">\( a \)</span> can be divided by <span class="arithmatex">\( b \)</span> without leaving a remainder. Formally:</p>
 <div class="arithmatex">\[
-\frac{n}{d} = k \text{ (where \( k \) is an integer)}
+\frac{a}{b} = k \text{ (where \( k \) is an integer)}
 \]</div>
 <p>This can be expressed as:</p>
 <div class="arithmatex">\[
-n \equiv 0 \pmod{d}
+a \equiv 0 \pmod{b}
 \]</div>
-<p><strong>Example:</strong> For <span class="arithmatex">\( n = 30 \)</span>, the factors of 30 include 1, 2, 3, 5, 6, 10, 15, and 30.</p>
+<p>or</p>
+<div class="arithmatex">\[
+a \pmod{b} = 0 \pmod{b} 
+\]</div>
+<p><strong>Example:</strong> For <span class="arithmatex">\( a = 30 \)</span>, the factors of 30 include 1, 2, 3, 5, 6, 10, 15, and 30.</p>
 <h4 id="111_divisors_and_factors"><strong>1.1.1 Divisors and Factors</strong><a class="headerlink" href="#111_divisors_and_factors" title="Permanent link">&para;</a></h4>
 <p>The term divisors and factors are used intechangeably. That being said, there are subtle nuasnce of the meaning. Factors and divisors are closely related terms in mathematics, but they are used in slightly different contexts:</p>
 <ul>
@@ -7518,9 +7522,9 @@ n \equiv 0 \pmod{d}
 </ul>
 <p>For example, the factors of 12 are 1, 2, 3, 4, 6, and 12. These same numbers are also divisors of 12 because 12 can be divided by each of them without leaving a remainder.</p>
 <h3 id="12_multiples"><strong>1.2 Multiples</strong><a class="headerlink" href="#12_multiples" title="Permanent link">&para;</a></h3>
-<p>A <strong>multiple</strong> of an integer <span class="arithmatex">\( n \)</span> is any integer that can be expressed as <span class="arithmatex">\( n \times k \)</span>, where <span class="arithmatex">\( k \)</span> is an integer. Formally:</p>
+<p>A <strong>multiple</strong> of an integer <span class="arithmatex">\( n \)</span> is any integer that can be expressed as <span class="arithmatex">\( a\times k \)</span>, where <span class="arithmatex">\( k \)</span> is an integer. Formally:</p>
 <div class="arithmatex">\[
-m = n \times k
+m = a \times k
 \]</div>
 <p><strong>Example:</strong> The multiples of 4 include 4, 8, 12, 16, 20, and so on.</p>
 <h3 id="13_prime_factorization"><strong>1.3 Prime Factorization</strong><a class="headerlink" href="#13_prime_factorization" title="Permanent link">&para;</a></h3>
