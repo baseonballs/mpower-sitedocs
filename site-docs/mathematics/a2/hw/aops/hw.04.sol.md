@@ -59,6 +59,42 @@ I have it as :  (-5, 0) nand  (-1, -4). These are your x1, y1 and x2, y2 points.
 
 Apply this strategy for the next two segments. By then you should be able to express the functions illustrated on the graph
 
+### Solution:
+
+Line Segment 1:
+
+\[
+f(x) = 2x - 2 \quad \text{for } x \in [0, 3]
+\]
+
+Line Segment 2:
+Here’s the equation rendered nicely in LaTeX:
+
+\[
+f(x) = -x - 5 \quad \text{for } x \in [-5, -1]
+\]
+
+Line Segment 3:
+
+\[
+f(x) = 4 \quad \text{for } x \geq 3
+\]
+
+You aren't expected to know this, but you can add each of the expression as polynomials; since P(x) = M(x)+ N(x) + O(x)
+
+so:
+
+\[
+f(x) =  2x - 2 + -x - 5 + 4
+\]
+
+Simplify and you get:
+
+\[
+f(x) =  x - 3
+\]
+
+
 ## **Problem 6**
 
 The solution relies on understanding that a horizontal shift of a graph does not change the area under the curve, only its position along the \(x\)-axis.
