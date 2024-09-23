@@ -214,3 +214,124 @@ Real numbers are used in a wide variety of real-world applications:
 ## Summary
 
 Real numbers form the basis of much of arithmetic and algebra. They can be classified into subsets like natural numbers, integers, rational numbers, and irrational numbers. Their properties, including closure, commutativity, associativity, and the existence of inverses, make them fundamental to solving a wide range of problems in mathematics and science.
+
+Here are 12 exercises to test knowledge of real numbers, focusing on algebraic concepts.
+
+---
+
+## **Exercises: Basic Arithmetic and Properties of Real Numbers**
+
+These exercises range from basic arithmetic operations and properties of real numbers to more advanced topics like solving equations and working with square roots and powers. Each problem reinforces core algebraic skills while focusing knowledge o real numbers.
+
+1. **Addition and Subtraction of Real Numbers:**
+   Simplify the expression:
+
+\[
+7.5 - 3.2 + 8.6 - 1.4
+\]
+
+   Show all steps.
+
+2. **Multiplication and Division of Real Numbers:**
+
+   Evaluate:
+
+\[
+\frac{6.4 \times 2.5}{5} - 3
+\]
+
+3. **Absolute Value:**
+
+   Simplify the following:
+
+\[
+| -5 | + | 3.7 | - | -2.4 |
+\]
+
+4. **Commutative and Associative Properties:**
+
+   Using the commutative and associative properties, rewrite and simplify:
+
+\[
+4 + (7 + 2) + 3
+\]
+   
+---
+
+### **Solving Equations Involving Real Numbers**
+
+5. **Solving Linear Equations:**
+
+   Solve for \( x \):
+
+\[
+3x - 5 = 2x + 7
+\]
+
+6. **Solving Equations with Absolute Values:**
+
+   Solve for \( x \):
+
+\[
+| 2x - 3 | = 7
+\]
+
+   Give all possible solutions.
+
+---
+
+### **Operations with Fractions and Decimals**
+
+7. **Addition and Subtraction of Fractions:**
+
+   Simplify:
+
+\[
+\frac{5}{6} + \frac{7}{12} - \frac{2}{3}
+\]
+
+8. **Multiplying and Dividing Fractions:**
+
+   Simplify the expression:
+
+\[
+\frac{3}{8} \times \frac{4}{5} \div \frac{2}{7}
+\]
+
+9. **Operations with Decimals:**
+
+   Evaluate:
+\[
+0.75 \times 2.6 - 1.3^2
+\]
+
+---
+
+### **Square Roots and Powers**
+
+10. **Simplifying Square Roots:**
+
+    Simplify:
+
+\[
+\sqrt{144} - \sqrt{81} + \sqrt{25}
+\]
+
+11. **Operations with Powers:**
+
+    Simplify the expression:
+
+\[
+3^2 - 4^3 + 2^4
+\]
+
+---
+
+### **Solving Quadratic Equations**
+
+12. **Quadratic Equation (Factoring):**
+
+    Solve for \( x \) by factoring:
+\[
+x^2 - 5x + 6 = 0
+\]
