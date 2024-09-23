@@ -104,29 +104,34 @@ y = 2(x - 4)^2 - (x - 4) + 7
 Now we will expand the expression step-by-step:
 
 1. **Calculate \((x - 4)^2\):**
-   \[
-   (x - 4)^2 = x^2 - 8x + 16
-   \]
+
+\[
+(x - 4)^2 = x^2 - 8x + 16
+\]
 
 2. **Substitute this into the equation:**
-   \[
-   y = 2(x^2 - 8x + 16) - (x - 4) + 7
-   \]
+
+\[
+y = 2(x^2 - 8x + 16) - (x - 4) + 7
+\]
 
 3. **Distribute the 2:**
-   \[
-   y = 2x^2 - 16x + 32 - (x - 4) + 7
-   \]
+
+\[
+y = 2x^2 - 16x + 32 - (x - 4) + 7
+\]
 
 4. **Distribute the negative sign:**
-   \[
-   y = 2x^2 - 16x + 32 - x + 4 + 7
-   \]
+
+\[
+y = 2x^2 - 16x + 32 - x + 4 + 7
+\]
 
 5. **Combine like terms:**
-   \[
-   y = 2x^2 - 17x + 43
-   \]
+
+\[
+y = 2x^2 - 17x + 43
+\]
 
 ### Step 4: Identify \(a\), \(b\), and \(c\)
 
@@ -143,9 +148,11 @@ Now we compute \(a + b + c\):
 \[
 a + b + c = 2 - 17 + 43
 \]
+
 \[
 = 2 + 43 - 17
 \]
+
 \[
 = 45 - 17 = 28
 \]
@@ -169,18 +176,21 @@ Let's analyze the given transformations step by step.
 ### Step 1: Identify the transformations
 
 1. **Shifting the graph 2 units to the right:** This means that if \(y = f(x)\), the new function after the shift becomes:
-   \[
-   y = f(x - 2)
-   \]
+
+\[
+y = f(x - 2)
+\]
 
 2. **Stretching vertically by a factor of 2:** This transformation modifies the function to:
-   \[
-   y = 2f(x)
-   \]
+
+\[
+y = 2f(x)
+\]
 
 ### Step 2: Set up the equation
 
 After applying both transformations, the resulting graph is identical to the original graph \(y = f(x)\). Thus, we have:
+
 \[
 f(x) = 2f(x - 2)
 \]
@@ -190,25 +200,31 @@ f(x) = 2f(x - 2)
 We need to express \(f(x)\) in a way that allows us to solve this equation. 
 
 1. Start with the equation:
-   \[
-   f(x) = 2f(x - 2)
-   \]
+
+\[
+f(x) = 2f(x - 2)
+\]
 
 2. Substitute \(x - 2\) into the equation:
-   \[
-   f(x - 2) = 2f(x - 4)
-   \]
+
+\[
+f(x - 2) = 2f(x - 4)
+\]
+
    Substituting this back into the original equation gives:
-   \[
-   f(x) = 2(2f(x - 4)) = 4f(x - 4)
-   \]
+
+\[
+f(x) = 2(2f(x - 4)) = 4f(x - 4)
+\]
 
 3. We can continue this process:
-   \[
-   f(x) = 4f(x - 4) = 4(2f(x - 6)) = 8f(x - 6)
-   \]
+
+\[
+f(x) = 4f(x - 4) = 4(2f(x - 6)) = 8f(x - 6)
+\]
 
 Continuing this pattern, we can express \(f(x)\) in terms of \(f(x - 2n)\):
+
 \[
 f(x) = 2^n f(x - 2n)
 \]
@@ -218,6 +234,7 @@ f(x) = 2^n f(x - 2n)
 Since this relationship holds for all \(n\), let's consider what happens as \(n\) increases. Eventually, as \(n\) becomes large enough, \(x - 2n\) will reach negative values. We know \(f(0) = 1\), so we need to find a specific \(n\) such that \(x - 2n = 0\).
 
 Let's set \(x - 2n = 0\):
+
 \[
 x = 2n \implies n = \frac{x}{2}
 \]
@@ -225,10 +242,13 @@ x = 2n \implies n = \frac{x}{2}
 ### Step 5: Substitute \(x = 10\)
 
 Now, substituting \(x = 10\):
+
 \[
 n = \frac{10}{2} = 5
 \]
+
 So,
+
 \[
 f(10) = 2^5 f(10 - 10) = 32 f(0) = 32 \cdot 1 = 32
 \]
@@ -236,6 +256,7 @@ f(10) = 2^5 f(10 - 10) = 32 f(0) = 32 \cdot 1 = 32
 ### Conclusion
 
 Thus, the value of \(f(10)\) is:
+
 \[
 \boxed{32}
 \]
