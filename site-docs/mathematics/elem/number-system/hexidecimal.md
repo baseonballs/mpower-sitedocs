@@ -1,4 +1,4 @@
-# Hexidecimal System
+# Hexadecimal System
 
 The hexadecimal number system, or base 16, is a positional numeral system that uses sixteen distinct symbols to represent values. It is widely used in computing and digital electronics due to its compact representation of binary data. Here's a comprehensive discussion on the hexadecimal system:
 
