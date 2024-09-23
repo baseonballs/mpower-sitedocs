@@ -95,6 +95,7 @@ The Pythagorean Theorem also underpins the definitions of trigonometric function
 \[
 \sin^2 \theta + \cos^2 \theta = 1
 \]
+
 where \(\sin \theta\) and \(\cos \theta\) are the ratios of the sides of the triangle.
 
 ## **Proofs Using Algebra**
@@ -109,6 +110,6 @@ By constructing squares on the sides of a right triangle and comparing the areas
 
 Using similarity of triangles, we can demonstrate that the ratios of corresponding sides are preserved, leading to the conclusion that \(a^2 + b^2 = c^2\).
 
-## **Conclusion**
+## **Summary**
 
 The **Pythagorean Theorem** is a cornerstone of geometry with profound implications in algebra. It not only provides a fundamental relationship between the sides of a right triangle but also serves as a basis for various algebraic techniques and applications. From solving for unknowns to applying in coordinate systems and vector spaces, the theorem is a critical tool in mathematical problem-solving and analysis.
