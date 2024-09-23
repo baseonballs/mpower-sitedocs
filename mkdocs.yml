@@ -257,7 +257,7 @@ nav:
           - "Problem 3 - Rational Powers": "./mathematics/a1/psets-a1/q3-solve-for-x.md"
           - "Problem 4 - Powers": "./mathematics/a1/psets-a1/q4-solve-for-x.md"
           - "Problem 5 - Linear Eq.": "./mathematics/a1/psets-a1/q5-solve-for-x.md"
-        - "AoPS-A1 Homework":
+        - "AoPS-A1":
           - "Lesson 1": "mathematics/a1/exercises/aops-a1-hw/hw.01.md"
           - "Lesson 2": "mathematics/a1/exercises/aops-a1-hw/hw.02.md"
       - "Cheatsheets":
@@ -268,7 +268,7 @@ nav:
     - "Trignometic Functions":
       - "Identities": "./mathematics/a2/trig.md"
     - "Appendix Resources":
-      - "AoPS-A2 Homework":
+      - "AoPS-A2":
         - "Lesson 4": "mathematics/a2/hw/aops/hw.04.md"
         - "Lesson 5": "mathematics/a2/hw/aops/hw.05.md"
   - "Geometry":
