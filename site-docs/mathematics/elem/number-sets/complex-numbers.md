@@ -190,8 +190,122 @@ Complex numbers are essential in many real-world applications:
 - **Signal processing:** Fourier transforms, which convert signals from time to frequency domain, use complex exponentials.
 - **Quantum mechanics:** Wavefunctions are described using complex-valued functions.
   
-#### Summary
+## Summary
 
 The study of complex numbers opens up a new dimension of mathematics. Starting from basic arithmetic operations to their geometric interpretation in the complex plane, through the polar and exponential forms, and up to advanced theorems like De Moivre's, complex numbers provide tools that extend far beyond the real numbers, offering a deeper understanding of mathematical relationships and real-world phenomena.
 
 Would you like a deeper exploration into any specific aspect of this lesson?
+
+## Exercises - Review your knowledge of complex numbers:
+
+
+### **Basic Operations with Complex Numbers**
+
+1. **Addition and Subtraction:**
+
+   Simplify the following:
+
+\[
+(5 + 3i) + (2 - 7i) - (4 + 2i)
+\]
+
+   Find the real and imaginary parts of the result.
+
+2. **Multiplication:**
+
+   Multiply the complex numbers:
+
+\[
+(3 + 4i)(2 - i)
+\]
+
+   Express your answer in the form \( a + bi \).
+
+3. **Division:**
+
+   Divide the following complex numbers and simplify:
+
+\[
+\frac{6 + 8i}{2 + 3i}
+\]
+
+   Express the result in standard form.
+
+---
+
+### **Modulus and Argument**
+
+4. **Modulus:**
+
+   Find the modulus of the following complex number:
+
+\[
+z = -7 + 24i
+\]
+
+5. **Argument:**
+
+   Calculate the argument of the complex number:
+
+\[
+z = 1 + i
+\]
+
+   Give your answer in radians.
+
+---
+
+### **Polar and Exponential Forms**
+
+6. **Convert to Polar Form:**
+
+   Convert the complex number \( z = -1 + i \) into polar form \( r(\cos \theta + i \sin \theta) \).
+
+7. **Convert to Exponential Form:**
+
+   Express the complex number \( z = 5\left( \cos \frac{\pi}{4} + i \sin \frac{\pi}{4} \right) \) in exponential form using Euler’s formula.
+
+---
+
+### **Powers and Roots**
+
+8. **De Moivre’s Theorem (Powers):**
+
+   Use De Moivre’s Theorem to compute \( (1 + i)^4 \).
+
+9. **Cube Roots of a Complex Number:**
+
+   Find the three cube roots of the complex number \( 8 \). Express each root in polar form.
+
+---
+
+### **Conjugates and Symmetry**
+
+10. **Complex Conjugate:**
+
+    For \( z = 4 - 3i \), find its complex conjugate \( \bar{z} \) and verify that \( z \cdot \bar{z} = |z|^2 \).
+
+11. **Conjugate in Division:**
+
+    Use the conjugate to simplify:
+
+\[
+\frac{2 + 3i}{3 - 4i}
+\]
+
+Show all steps.
+
+---
+
+### **Advanced Polar and Exponential Applications**
+
+12. **Polar to Rectangular Conversion:**
+    Convert the following complex number from polar form to rectangular (standard) form:
+
+\[
+z = 10e^{i\frac{2\pi}{3}}
+\]
+
+---
+
+These exercises progress from fundamental operations with complex numbers to more advanced topics, including modulus, argument, polar and exponential forms, and De Moivre’s Theorem.
