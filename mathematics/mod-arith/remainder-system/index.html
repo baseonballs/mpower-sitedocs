@@ -7497,10 +7497,9 @@ ax \equiv b \pmod{n}
 <p>Beyond simple remainder systems, there are more generalized concepts that extend the idea of remainders to different settings.</p>
 <h3 id="51_modular_inverses"><strong>5.1 Modular Inverses:</strong><a class="headerlink" href="#51_modular_inverses" title="Permanent link">&para;</a></h3>
 <p>A <strong>modular inverse</strong> of an integer <span class="arithmatex">\( a \)</span> modulo <span class="arithmatex">\( n \)</span> is a number <span class="arithmatex">\( x \)</span> such that:</p>
-<p>[
-a \times x \equ</p>
-<p>iv 1 \pmod{n}
-]</p>
+<div class="arithmatex">\[
+a \times x \equiv 1 \pmod{n}
+\]</div>
 <p>Finding modular inverses is critical in solving modular equations, especially in cryptographic algorithms. In a reduced remainder system, every number has an inverse if and only if it is coprime with <span class="arithmatex">\( n \)</span>.</p>
 <h3 id="52_chinese_remainder_theorem"><strong>5.2 Chinese Remainder Theorem:</strong><a class="headerlink" href="#52_chinese_remainder_theorem" title="Permanent link">&para;</a></h3>
 <p>The <strong>Chinese Remainder Theorem</strong> (CRT) allows us to solve systems of simultaneous congruences with different moduli. Given multiple moduli <span class="arithmatex">\( n_1, n_2, \dots, n_k \)</span>, where the moduli are pairwise coprime, the CRT guarantees a unique solution modulo <span class="arithmatex">\( n_1 \times n_2 \times \dots \times n_k \)</span>.</p>
