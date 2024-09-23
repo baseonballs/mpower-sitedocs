@@ -332,6 +332,7 @@ These exercises range from basic arithmetic operations and properties of real nu
 12. **Quadratic Equation (Factoring):**
 
     Solve for \( x \) by factoring:
+
 \[
 x^2 - 5x + 6 = 0
 \]
