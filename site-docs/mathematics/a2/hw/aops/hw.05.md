@@ -82,12 +82,54 @@ This method will give you the correct values for \( a \) and \( b \).
 ## Problem 3
 
 Problem Statement:
->
+>Compute $\dfrac{-47 +69i}{7+6i}$ where $i = \sqrt{-1}$.
 
+Express your answer in the form $a+bi$, where $a$ and $b$ are real numbers.
+
+
+### Problem Deconstruction:
+
+You are asked to divide two complex numbers:
+
+\[
+\dfrac{-47 + 69i}{7 + 6i}
+\]
+
+and express the result in the form \(a + bi\), where \(a\) and \(b\) are real numbers.
+
+### Givens:
+
+- The numerator is \( -47 + 69i \).
+- The denominator is \( 7 + 6i \).
+- \( i = \sqrt{-1} \), so \( i^2 = -1 \).
+
+### Unknowns/Constraints:
+
+- **Unknown**: The real part \(a\) and the imaginary part \(b\) of the quotient.
+- **Constraints**: 
+  - You must express the result in the form \( a + bi \).
+  - Division of complex numbers requires multiplying both the numerator and denominator by the complex conjugate of the denominator.
+
+### Strategy Hints:
+
+1. **Multiply by the conjugate**: To simplify the division of complex numbers, multiply both the numerator and denominator by the conjugate of the denominator. The conjugate of \( 7 + 6i \) is \( 7 - 6i \).
+
+2. **Perform the multiplication**: Expand both the numerator and denominator using the distributive property.
+
+3. **Simplify the denominator**: The product of a complex number and its conjugate results in a real number (since \( (7 + 6i)(7 - 6i) = 7^2 - (6i)^2 = 49 + 36 = 85 \)).
+
+4. **Separate real and imaginary parts**: Once you’ve simplified both the numerator and denominator, separate the real and imaginary parts to express the result as \( a + bi \).
+
+By following these steps, you can compute the quotient correctly.
+
+
+
+## Problem 4
+
+Problem Statement:
+>
 
 ## Problem xxx
 
 Problem Statement:
 >
-
-
