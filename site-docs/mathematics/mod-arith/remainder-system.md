@@ -191,12 +191,11 @@ Such equations can be solved by finding integers \( x \) that satisfy the congru
 Beyond simple remainder systems, there are more generalized concepts that extend the idea of remainders to different settings.
 
 ### **5.1 Modular Inverses:**
+
 A **modular inverse** of an integer \( a \) modulo \( n \) is a number \( x \) such that:
 
 \[
-a \times x \equ
-
-iv 1 \pmod{n}
+a \times x \equiv 1 \pmod{n}
 \]
 
 Finding modular inverses is critical in solving modular equations, especially in cryptographic algorithms. In a reduced remainder system, every number has an inverse if and only if it is coprime with \( n \).
