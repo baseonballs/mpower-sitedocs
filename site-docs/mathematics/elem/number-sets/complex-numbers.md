@@ -1,6 +1,6 @@
 # Complex Numbers
 
-## 1. Overview
+## 1. Introduction
 
 ### What Are Complex Numbers?
 
@@ -36,7 +36,7 @@ So, the complex number \(3 + 4i\) would be a point located 3 spaces along the ho
 - They help us solve special math problems that regular numbers can't solve.
 - You can think of them as points on a graph.
 
-## 2. **Introduction to Complex Numbers**
+## 2. **Complex Numbers**
 Complex numbers extend the idea of the number system, starting with real numbers and introducing an imaginary component. They are used in many fields such as engineering, physics, and applied mathematics to handle quantities that real numbers alone cannot represent.
 
 **Definition:**
