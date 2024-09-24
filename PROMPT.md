@@ -17,6 +17,10 @@ Problem Statment:
 
 ## mcdocx/plugin 
 
+### Markdown Include Plugin
+https://github.com/mondeja/mkdocs-include-markdown-plugin
+
+### Markdown Color Plugin
 https://docs.mathjax.org/en/latest/input/tex/extensions/color.html
 
 ```html

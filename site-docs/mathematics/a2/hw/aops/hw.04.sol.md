@@ -6,16 +6,6 @@ Problem Statement:
 
 >Given that $(3,15)$ is on the graph of $y = f(x)$, find a point that must be on the graph of $y = f(x) - 7$. Express your answer as an ordered pair $(a,b)$ where $a$ and $b$ are real numbers.
 
-
-### **Analysis**
-
-Let's break down the problem using the critical thinking framework:
-
-    - Analysis - deconstruct the problems into simpler components. Identify context.
-    - Evalulate - affirm the understing and validity (reasonableness) of info/data.
-    - Inference - making connections between ideas or drawing the conclusion of data.
-
-
 #### <span style="color: orange; font-weight:bold; font-style: normal">Identify the Givens</span>:
 
 1. The point \((3, 15)\) is on the graph of \(y = f(x)\).
@@ -53,11 +43,11 @@ This problem illustrates how function transformations impact the graph, specific
 
 ## **Problem 2**
 
-Looking at the graph, you can clearly see 3 line segements. This should tell you to immediate look at the slope of each segement. A line is defined by at least 2 points.  You can extract the two points in the first segment by looking at the xy coordinate.
+>Looking at the graph, you can clearly see three line segments. This should immediately prompt you to examine the slope of each segment. A line is defined by at least two points, so you can extract two points from the first segment by checking the coordinates.
 
-I have it as :  (-5, 0) nand  (-1, -4). These are your x1, y1 and x2, y2 points.  Now go find the slope.  Once you have the m-value, you should be able to come up with the function (eaution) for this line using the slope-intercept form (it's the easy): y = mx + b.
+>In this case, the points are (-5, 0) and (-1, -4). These represent your \(x_1, y_1\) and \(x_2, y_2\) values. Now, calculate the slope. Once you have the slope (the \(m\)-value), you can use the slope-intercept form to find the equation of the line: \(y = mx + b\).
 
-Apply this strategy for the next two segments. By then you should be able to express the functions illustrated on the graph
+>Apply this same strategy for the next two segments. By the end, you should be able to express the equations for all the functions represented on the graph.
 
 ### Solution:
 
@@ -80,7 +70,12 @@ Line Segment 3:
 f(x) = 4 \quad \text{for } x \geq 3
 \]
 
-You aren't expected to know this, but you can add each of the expression as polynomials; since P(x) = M(x)+ N(x) + O(x)
+You aren't expected to know this, but you can add each of the expression as polynomials, but I would aggregate the functions in proper polynomial form, where each of the function represents polynomial $p$, $q$, $r$.
+
+\[
+P(x) = p(x) + q(x) + r(x)
+\]
+
 
 so:
 

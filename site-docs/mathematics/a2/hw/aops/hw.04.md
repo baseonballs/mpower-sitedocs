@@ -19,7 +19,7 @@ Problem Statement:
 1. **Givens**:
 
       - The point \((3, 15)\) is on the graph of the function \( y = f(x) \).
-   - You need to find a point on the graph of the new function \( y = f(x) - 7 \).
+      - You need to find a point on the graph of the new function \( y = f(x) - 7 \).
 
 2. **Unknowns**:
       - The new \(y\)-coordinate for the given \(x = 3\) after the transformation is applied.
