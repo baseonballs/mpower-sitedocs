@@ -1,14 +1,34 @@
-# AoPS - Lesson 5
+# AoPS - Lesson 5, Complex Numbers
+
+---
+
+>**Critical Thinking Framework** - Word of Advise
+>
+>When problem-solving, remember to apply the tools from your critical thinking framework. Problem-solving requires deliberate mental effort to maximize a successful outcome. You must persist, even if the result isn't what you expected or seems negative. Remember, it’s not about getting the “right” answer; it's more about the process you followed and how you rationalized your way to the end. Solving math problems is a reasoning skill.
+
+>To improve your chances of success, follow these steps:
+
+>- **Read the problem statement carefully.** Make it a habit to read it 2-3 times, even if you think you understand it.
+- **Deconstruct the problem**, arguably the most important phase of analysis. Identify the key components:
+  1. Identify the **Givens**, **Unknowns**, **Constraints**, and/or **Conditions**.
+  2. Break the problem into smaller parts and use a divide-and-conquer strategy.
+- **Apply inference** — draw connections between the data and information you’ve collected or concluded.
+
+>If you need a refresher on the [critical thinking framework](../../../critical-thinking/toolbox/strategies.md), review the material for guidance and formal methodology.
+
+---
 
 ## **Problem 1**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 >Compute $i+i^2+i^3+\cdots+i^{2016}+i^{2017}$.
 
-### Problem Deconstruction:
+### <span style="color: brown; font-weight:bold; font-style: normal">Critical Thinking Analysis</span>:
+
+### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
 You are tasked with computing the sum of powers of the imaginary unit \(i\), ranging from \(i^1\) to \(i^{2017}\). The imaginary unit \(i\) is defined by the property that \(i^2 = -1\). This problem involves understanding the cyclical nature of powers of \(i\) and leveraging that to simplify the sum.
 
-### Givens:
+### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
   - \(i\) is the imaginary unit, and it satisfies \(i^2 = -1\).
   - The sum runs from \(i^1\) to \(i^{2017}\), i.e., the expression to evaluate is:
 
@@ -16,7 +36,7 @@ You are tasked with computing the sum of powers of the imaginary unit \(i\), ran
 i + i^2 + i^3 + \cdots + i^{2017}
 \]
 
-### Unknowns/Constraints:
+### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns/Constraints</span>::
 
 - **Unknown**: The total value of the sum \(i + i^2 + \cdots + i^{2017}\).
 - **Constraints**: 
@@ -29,7 +49,7 @@ i^1 = i, \quad i^2 = -1, \quad i^3 = -i, \quad i^4 = 1
 
   - This cyclical pattern will be key in simplifying the sum.
 
-### Strategy Hints:
+### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
 
 1. **Identify the cycle**: Notice that powers of \(i\) repeat every 4 terms. Break the sum into groups of 4 powers (i.e., \(i^1 + i^2 + i^3 + i^4\), \(i^5 + i^6 + i^7 + i^8\), etc.).
    
