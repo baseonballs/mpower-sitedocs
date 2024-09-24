@@ -2,7 +2,7 @@
 
 ## **Problem Set 1**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >Given that $(3,15)$ is on the graph of $y = f(x)$, find a point that must be on the graph of $y = f(x) - 7$. Express your answer as an ordered pair $(a,b)$ where $a$ and $b$ are real numbers.
 
@@ -41,7 +41,7 @@ The point that must be on the graph of \(y = f(x) - 7\) is \((3, 8)\).
 
 This problem illustrates how function transformations impact the graph, specifically vertical shifts.
 
-## **Probmem 2**
+## **Problem 2**
 
 Let's carefully analyze the problem again to ensure we determine the correct values for \(a\) and \(b\) based on the information given about the quadratic function \(f(x)\).
 
@@ -299,7 +299,7 @@ The area between the graph of \(y = f(x + 2)\) and the \(x\)-axis is also **10 s
 
 ## **Problem 7**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >The region between the graph of $y = f (x)$ and the $x$-axis, shaded in this figure, has an area of 10 square units. What is the area between the graph of $y = 6f (x - 6)$ and the $x$-axis?
 
@@ -402,9 +402,9 @@ Thus, the final answer is:
 \]
 
 
-## Problem 11
+## **Problem 11**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 >When the graph of a certain function $f(x)$ is shifted $2$ units to the right and stretched vertically by a factor of $2$ relative to the $x$-axis (meaning that all $y$-coordinates are doubled), the resulting graph is identical to the original graph.
 
 Given that $f(0)=1$, what is $f(10)$?

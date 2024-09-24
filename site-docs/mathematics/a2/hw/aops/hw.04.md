@@ -10,7 +10,7 @@
 
 ## **Problem 1**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >Given that $(3,15)$ is on the graph of $y = f(x)$, find a point that must be on the graph of $y = f(x) - 7$. Express your answer as an ordered pair $(a,b)$ where $a$ and $b$ are real numbers.
 
@@ -35,7 +35,7 @@ Problem Statement:
 
 ## **Problem 3**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >Given that $(2,-7)$ is on the graph of $y = f(x)$, find a point that must be on the graph of $y = f(x - 3)$. Express your answer as an ordered pair $(a,b)$ where $a$ and $b$ are real numbers.
 
@@ -60,7 +60,7 @@ Problem Statement:
 
 ## **Problem 4**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >Given that $(-2,3)$ is on the graph of $y=f(x)$, find a point that must be on the graph of $y=f(2x+1)+3$. Express your answer as an ordered pair $(a,b)$ where $a$ and $b$ are real numbers.
 
@@ -89,7 +89,7 @@ Problem Statement:
 
 ## **Problem 6**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >The region between the graph of $y = f (x)$ and the $x$-axis, shaded in this figure, has an area of 10 square units. What is the area between the graph of $y = f (x +2)$ and the $x$-axis?
 
@@ -112,7 +112,7 @@ Problem Statement:
 
 ## **Problem 7**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >The region between the graph of $y = f (x)$ and the $x$-axis, shaded in this figure, has an area of 10 square units. What is the area between the graph of $y = 6f (x - 6)$ and the $x$-axis?
 
@@ -143,7 +143,7 @@ The area between the graph of \(y = 6f(x - 6)\) and the \(x\)-axis is \(10 \time
 
 ## **Problem 8**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >The region between the graph of $y = f (x)$ and the $x$-axis, shaded in this figure, has an area of 10 square units. What is the area between the graph of $y = \dfrac 12 f (-x)$ and the $x$-axis?
 
@@ -171,7 +171,7 @@ The reflection does not change the area, but the vertical scaling by \(\frac{1}{
 
 ## **Problem 9**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >When the graph of $y = 2x^2 - x + 7$ is shifted four units to the right, we obtain the graph of $y = ax^2 + bx + c$. Find $a + b + c$.
 
@@ -202,7 +202,7 @@ By focusing on these elements, you can systematically approach the problem and a
 
 ## **Problem 10**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >The function $f(x)$ is invertible, but the function $g(x)=f(kx)$ is not invertible. Find the sum of all possible values of $k$.
 
@@ -237,7 +237,7 @@ By following these steps, you can systematically deduce the values of \(k\) for 
 
 ## **Problem 11**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >When the graph of a certain function $f(x)$ is shifted $2$ units to the right and stretched vertically by a factor of $2$ relative to the $x$-axis (meaning that all $y$-coordinates are doubled), the resulting graph is identical to the original graph.
 
