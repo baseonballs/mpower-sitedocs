@@ -13,12 +13,14 @@
 ### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 >Compute $i+i^2+i^3+\cdots+i^{2016}+i^{2017}$.
 
-### <span style="color: brown; font-weight:bold; font-style: normal">Critical Thinking Analysis</span>:
+### <span style="color: brown; font-weight:bold; font-style: normal">Strategy for Solving</span>:
 
-### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
+
 You are tasked with computing the sum of powers of the imaginary unit \(i\), ranging from \(i^1\) to \(i^{2017}\). The imaginary unit \(i\) is defined by the property that \(i^2 = -1\). This problem involves understanding the cyclical nature of powers of \(i\) and leveraging that to simplify the sum.
 
-### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
+
   - \(i\) is the imaginary unit, and it satisfies \(i^2 = -1\).
   - The sum runs from \(i^1\) to \(i^{2017}\), i.e., the expression to evaluate is:
 
@@ -26,7 +28,7 @@ You are tasked with computing the sum of powers of the imaginary unit \(i\), ran
 i + i^2 + i^3 + \cdots + i^{2017}
 \]
 
-### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns/Constraints</span>::
+#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns/Constraints</span>:
 
 - **Unknown**: The total value of the sum \(i + i^2 + \cdots + i^{2017}\).
 - **Constraints**: 
@@ -39,7 +41,7 @@ i^1 = i, \quad i^2 = -1, \quad i^3 = -i, \quad i^4 = 1
 
   - This cyclical pattern will be key in simplifying the sum.
 
-### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
 
 1. **Identify the cycle**: Notice that powers of \(i\) repeat every 4 terms. Break the sum into groups of 4 powers (i.e., \(i^1 + i^2 + i^3 + i^4\), \(i^5 + i^6 + i^7 + i^8\), etc.).
    
@@ -53,11 +55,15 @@ By recognizing the cyclical nature of \(i\)'s powers, you can reduce the problem
 
 ## **Problem 2**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+
 >Find a complex number $z$ such that the real part and imaginary part of $z$ are both integers, and such that
 $$z\overline z = 89.$$Express your answer in the form $a+bi$, where $a$ and $b$ are integers. Only enter one answer.
 
-### Problem Deconstruction:
+### <span style="color: brown; font-weight:bold; font-style: normal">Strategy for Solving</span>:
+
+
+#### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
 
 You need to find a complex number \( z \) such that the real part \( \text{Re}(z) = a \) and the imaginary part \( \text{Im}(z) = b \) are both integers. The condition given is:
 
@@ -67,20 +73,20 @@ z \overline{z} = 89,
 
 where \( \overline{z} \) is the complex conjugate of \( z \). This leads to a relationship between the real and imaginary parts of \( z \).
 
-### Givens:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
 
 - \( z = a + bi \), where \( a \) and \( b \) are integers.
 - \( \overline{z} = a - bi \), the complex conjugate of \( z \).
 - The equation \( z \overline{z} = 89 \).
 
-### Unknowns/Constraints:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns/Constraints</span>:
 
 - **Unknown**: The values of \( a \) and \( b \) (integers) that satisfy the equation.
 - **Constraints**: 
   - \( z \overline{z} = |z|^2 \), which gives the magnitude squared of \( z \).
   - The equation becomes \( a^2 + b^2 = 89 \), which restricts \( a \) and \( b \) to integers that satisfy this sum of squares equation.
 
-### Strategy Hints:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
 
 1. **Use the formula for \( z \overline{z} \)**: Expand \( z \overline{z} \) to get \( a^2 + b^2 \), leading to the Diophantine equation:
 
@@ -97,13 +103,16 @@ This method will give you the correct values for \( a \) and \( b \).
 
 ## **Problem 3**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+
 >Compute $\dfrac{-47 +69i}{7+6i}$ where $i = \sqrt{-1}$.
 
 Express your answer in the form $a+bi$, where $a$ and $b$ are real numbers.
 
+### <span style="color: brown; font-weight:bold; font-style: normal">Strategy for Solving</span>:
 
-### Problem Deconstruction:
+
+#### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
 
 You are asked to divide two complex numbers:
 
@@ -113,20 +122,20 @@ You are asked to divide two complex numbers:
 
 and express the result in the form \(a + bi\), where \(a\) and \(b\) are real numbers.
 
-### Givens:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
 
 - The numerator is \( -47 + 69i \).
 - The denominator is \( 7 + 6i \).
 - \( i = \sqrt{-1} \), so \( i^2 = -1 \).
 
-### Unknowns/Constraints:
+#### Unknowns/Constraints:#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns/Constraints</span>:
 
 - **Unknown**: The real part \(a\) and the imaginary part \(b\) of the quotient.
 - **Constraints**: 
   - You must express the result in the form \( a + bi \).
   - Division of complex numbers requires multiplying both the numerator and denominator by the complex conjugate of the denominator.
 
-### Strategy Hints:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
 
 1. **Multiply by the conjugate**: To simplify the division of complex numbers, multiply both the numerator and denominator by the conjugate of the denominator. The conjugate of \( 7 + 6i \) is \( 7 - 6i \).
 
@@ -142,14 +151,18 @@ By following these steps, you can compute the quotient correctly.
 
 ## **Problem 4**
 
-Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+
 >Find all complex numbers $z$ satisfying the equation:
 >
 \[
     \frac{z+1}{z-1} = i.
 \]
 
-### Problem Deconstruction:
+### <span style="color: brown; font-weight:bold; font-style: normal">Strategy for Solving</span>:
+
+
+#### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
 
 You are asked to find all complex numbers \( z \) that satisfy the equation
 
@@ -159,18 +172,18 @@ You are asked to find all complex numbers \( z \) that satisfy the equation
 
 where \( i = \sqrt{-1} \).
 
-### Givens:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
 
 - The equation is \( \frac{z+1}{z-1} = i \).
 - \( i \) is the imaginary unit, and \( i^2 = -1 \).
 
-### Unknowns/Constraints:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns/Constraints</span>:
 
 - **Unknown**: The complex number \( z \) that satisfies the equation.
 - **Constraints**: 
   - \( z \) is a complex number, which may be written as \( z = a + bi \), where \( a \) and \( b \) are real numbers.
 
-### Strategy Hints:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
 
 1. **Multiply both sides by \( z-1 \)**: To eliminate the denominator, multiply both sides of the equation by \( z-1 \), giving you:
 
@@ -192,35 +205,36 @@ This approach will lead you to the complex number \( z \) that satisfies the equ
 
 ## **Problem 5**
 
-### Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+
 >Compute $(2i-6)(5+i)$, where $i^2=-1$.
 
 Express your answer in the form $a+bi$, where $a$ and $b$ are real numbers.
 
 We are tasked with computing \( (2i - 6)(5 + i) \) and expressing the result in the form \( a + bi \), where \( a \) and \( b \) are real numbers.
 
-### Strategy for Solving
+### <span style="color: brown; font-weight:bold; font-style: normal">Strategy for Solving</span>:
 
-#### Deconstruction:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
 
 The problem involves multiplying two complex numbers and expressing the result in the form \(a + bi\), where \(a\) and \(b\) are real numbers. The imaginary unit \(i\) has the property \(i^2 = -1\), which is crucial to simplifying the result.
 
-#### Givens:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
 
 - Two complex numbers: \((2i - 6)\) and \((5 + i)\)
 - The property \(i^2 = -1\)
 
-#### Unknowns:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns</span>:
 
 - The real part \(a\) of the product.
 - The imaginary part \(b\) of the product.
 
-#### Constraints:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Constraints</span>:
 
 - Ensure proper distribution (multiplication) between the terms.
 - Correctly apply the rule \(i^2 = -1\) during simplification.
 
-#### Hints for Strategy:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
 
 1. **Distribute the terms**: Use the distributive property to expand the expression \((2i - 6)(5 + i)\). This will give four terms.
    
@@ -235,34 +249,35 @@ Click [here](hw.05.sol.md) for solutions.
 
 ## **Problem 6**
 
-### Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >Compute $(5+3i)(5-3i)$.
 
 Express your answer in the form $a+bi$, where $a$ and $b$ are real numbers.
 
-### Strategy for Solving
+### <span style="color: brown; font-weight:bold; font-style: normal">Strategy for Solving</span>:
 
-#### Deconstruction:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
 
 The problem asks for the product of two complex numbers in the form \((5 + 3i)(5 - 3i)\), which is a difference of squares. The goal is to express the result in the form \(a + bi\), where \(a\) and \(b\) are real numbers. Using the property \(i^2 = -1\) will be important for simplifying the result.
 
-#### Givens:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
 
 - Two complex numbers: \((5 + 3i)\) and \((5 - 3i)\)
 - The property \(i^2 = -1\)
 
-##### Unknowns:
+##### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns</span>:
 
 - The real part \(a\) of the product.
 - The imaginary part \(b\) of the product (though it might turn out to be zero).
 
-### Constraints:
+##### <span style="color: gray; font-weight:bold; font-style: normal">Constraints</span>:
 
 - Correctly apply the **difference of squares** formula: \((a + b)(a - b) = a^2 - b^2\).
 - Ensure proper application of \(i^2 = -1\).
 
-#### Hints for Strategy:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
+
 1. **Recognize the difference of squares**: This product is of the form \((a + b)(a - b) = a^2 - b^2\), where \(a = 5\) and \(b = 3i\).
 
 2. **Simplify**: Compute \(a^2 - b^2\) while remembering that \(i^2 = -1\), so \(b^2 = (3i)^2 = -9\).
@@ -273,32 +288,32 @@ The problem asks for the product of two complex numbers in the form \((5 + 3i)(5
 
 ## **Problem 7**
 
-### Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >Problem:	Report Error
 Express $\frac{2+i}{4+i}$ in the form $a+bi$, where $a$ and $b$ are real numbers.
 
-### Strategy for Solving
+### <span style="color: brown; font-weight:bold; font-style: normal">Strategy for Solving</span>:
 
-#### Deconstruction:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
 
 This problem involves simplifying the expression \(\frac{2+i}{4+i}\) and expressing it in the form \(a + bi\), where \(a\) and \(b\) are real numbers. The denominator contains a complex number, so we need to rationalize the denominator.
 
-#### Givens:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
 
 - The complex fraction: \(\frac{2+i}{4+i}\)
 - The property \(i^2 = -1\)
 
-#### Unknowns:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns</span>:
 
 - The real part \(a\) of the simplified expression.
 - The imaginary part \(b\) of the simplified expression.
 
-#### Constraints:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Constraints</span>:
 
 - The denominator should be a real number, requiring the multiplication by the conjugate of the denominator.
   
-#### Hints for Strategy:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
 
 1. **Multiply by the conjugate**: Multiply both the numerator and denominator by the conjugate of the denominator \(4 - i\). This step will eliminate the imaginary part in the denominator.
 
@@ -315,17 +330,17 @@ This problem involves simplifying the expression \(\frac{2+i}{4+i}\) and express
 
 ## **Problem 8**
 
-### Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >Find the value of $(1+i)^{16}$.
 
-### Strategy for Solving
+### <span style="color: brown; font-weight:bold; font-style: normal">Strategy for Solving</span>:
 
-#### Deconstruction:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
 
 We need to find the value of \((1 + i)^{16}\) using only elementary algebraic methods (Algebra 1 level). This involves expanding powers of complex numbers by repeated multiplication. We can break the problem down by finding patterns in the powers of \((1 + i)\).
 
-#### Givens:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
 
 - The complex number \(1 + i\)
 - The exponent \(16\)
@@ -339,7 +354,7 @@ We need to find the value of \((1 + i)^{16}\) using only elementary algebraic me
 
 - Only use basic algebraic methods (no polar form or De Moivre's Theorem).
   
-#### Hints for Strategy:
+### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
 
 1. **Find lower powers of \((1+i)\)**: First, calculate small powers of \(1 + i\) and look for a repeating pattern.
    
@@ -395,18 +410,18 @@ Thus, \((1 + i)^{16} = 256\).
 
 ## **Problem 9**
 
-### Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >Simplify $(1+i)^{2016}-(1-i)^{2016}$.
 
-### Strategy for Solving
+### <span style="color: brown; font-weight:bold; font-style: normal">Strategy for Solving</span>:
 
 
-#### Deconstruction:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
 
 We are tasked with simplifying \((1+i)^{2016} - (1-i)^{2016}\). The goal is to use elementary algebraic methods (Algebra 1 level) to simplify this expression without resorting to polar form or advanced theorems.
 
-#### Givens:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
 
 - The two complex numbers: \(1+i\) and \(1-i\)
 - The exponent \(2016\)
@@ -420,7 +435,8 @@ We are tasked with simplifying \((1+i)^{2016} - (1-i)^{2016}\). The goal is to u
 
 - We are restricted to basic algebraic manipulation methods only.
 
-#### Hints for Strategy:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
+
 1. **Recognize patterns in powers**: Start by observing how the powers of \((1+i)\) and \((1-i)\) behave. We know from earlier results that these powers tend to repeat over a cycle of 4.
 
 2. **Explore lower powers to detect patterns**: By calculating small powers of \((1+i)\) and \((1-i)\), we can deduce a cyclical pattern that will help in simplifying large exponents like \(2016\).
@@ -480,11 +496,14 @@ The simplified expression is:
 
 ## **Problem 10**
 
-### Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >Compute the product \((1-3i)(1-2i)(1-i)(1+i)(1+2i)(1+3i).\)
 
-#### Deconstruction:
+### <span style="color: brown; font-weight:bold; font-style: normal">Strategy for Solving</span>:
+
+
+#### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
 
 We are tasked with computing the product:
 
@@ -494,7 +513,7 @@ We are tasked with computing the product:
 
 This involves multiplying six complex numbers. The goal is to simplify this expression using elementary algebraic methods, focusing on the properties of complex conjugates.
 
-#### Givens:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
 
 - The complex numbers: \((1-3i)\), \((1-2i)\), \((1-i)\), \((1+i)\), \((1+2i)\), \((1+3i)\)
 - The property \(i^2 = -1\)
@@ -507,7 +526,7 @@ This involves multiplying six complex numbers. The goal is to simplify this expr
 
 - Only use elementary algebraic methods, focusing on Algebra 1 techniques.
 
-#### Hints for Strategy:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
 
 1. **Pair complex conjugates**: Notice that each pair of terms, \((1 - 3i)\) and \((1 + 3i)\), \((1 - 2i)\) and \((1 + 2i)\), \((1 - i)\) and \((1 + i)\), are complex conjugates. Multiplying a complex number by its conjugate simplifies the expression into a difference of squares.
 
@@ -523,19 +542,19 @@ This involves multiplying six complex numbers. The goal is to simplify this expr
 
 ## **Problem 11**
 
-### Problem Statement:
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
 
 >Express $\frac 1{1+\frac 1{1-\frac 1{1+i}}}$ in the form $a+bi$, where $a$ and $b$ are real numbers.
 
 In case you have trouble reading that, here's the same expression written with the other type of fraction notation: $1/\Big(1+1/\big(1-1/(1+i)\big)\Big)$.
 
-### Strategy for Solving
+### <span style="color: brown; font-weight:bold; font-style: normal">Strategy for Solving</span>:
 
-#### Deconstruction:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Problem Deconstruction</span>:
 
 We need to express \(\frac{1}{1+\frac{1}{1-\frac{1}{1+i}}}\) in the form \(a + bi\) using elementary algebraic methods.
 
-#### Givens:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Givens</span>:
 
 - The expression: \(\frac{1}{1+\frac{1}{1-\frac{1}{1+i}}}\)
 - The property \(i^2 = -1\)
@@ -548,7 +567,7 @@ We need to express \(\frac{1}{1+\frac{1}{1-\frac{1}{1+i}}}\) in the form \(a + b
 
 - Only use basic algebraic manipulation methods.
 
-#### Hints for Strategy:
+#### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
 
 1. **Work from the inside out**: Start with the innermost fraction \(\frac{1}{1+i}\) and simplify it.
   
