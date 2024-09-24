@@ -1,4 +1,12 @@
-# AoPS Algebra 2 - Lesson 4
+# AoPS Algebra 2 - Lesson 4, Functions
+
+---
+
+>**Critical Thinking Framework**
+
+> Remind yourself of the [problem solving strategy/approach recommendations](../../../critical-thinking/toolbox/advice.md) before you tackle the problems.
+
+---
 
 ## **Problem 1**
 
@@ -192,7 +200,7 @@ Let's deconstruct the problem step by step.
 By focusing on these elements, you can systematically approach the problem and arrive at the solution without rushing into calculations.
 
 
-## **Problem 10*
+## **Problem 10**
 
 Problem Statement:
 
