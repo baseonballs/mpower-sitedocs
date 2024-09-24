@@ -11,4 +11,4 @@
   2. Break the problem into smaller parts and use a divide-and-conquer strategy.
 - **Apply inference** — draw connections between the data and information you’ve collected or concluded.
 
->If you need a refresher on the [critical thinking framework](../../../critical-thinking/toolbox/strategies.md), review the material for guidance and formal methodology.
+>If you need a refresher on the [critical thinking framework](strategies.md), review the material for guidance and formal methodology.
