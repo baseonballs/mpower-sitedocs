@@ -131,7 +131,7 @@ So, the answer to the sum \( i + i^2 + i^3 + \cdots + i^{2016} + i^{2017} \) is:
 Next, we find the remainder when \( 2017 \) is divided by \( 4 \):
 
 \[
-\text{Remainder} = 2017 \mod 4 = 1
+\text{the remainder} \Rightarrow (2017 \mod 4 = 1)
 \]
 
 This means we have \( 504 \) complete cycles of \( (i + i^2 + i^3 + i^4) \) and an additional \( i^1 \) from the leftover terms.
@@ -407,24 +407,26 @@ To compute the product \((2i - 6)(5 + i)\), we can use the distributive property
 \]
 
 Now we will calculate each term separately:
+    
+**First term**:
 
-1. **First term**: 
 \[
 2i \cdot 5 = 10i.
 \]
 
-2. **Second term**:
+**Second term**:
+
 \[
 2i \cdot i = 2i^2 = 2(-1) = -2.
 \]
 
-3. **Third term**:
+**Third term**:
 
 \[
 -6 \cdot 5 = -30.
 \]
 
-4. **Fourth term**:
+**Fourth term**:
 
 \[
 -6 \cdot i = -6i.
