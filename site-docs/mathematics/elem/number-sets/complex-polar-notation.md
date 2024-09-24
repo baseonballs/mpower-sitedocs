@@ -1,6 +1,8 @@
+# Polar Notation
+
 Polar notation is a way to express complex numbers using their magnitude and angle instead of their rectangular coordinates (real and imaginary parts). This representation is particularly useful in various applications, including engineering, physics, and mathematics, because it simplifies many operations, especially multiplication and division.
 
-### Polar Representation of Complex Numbers
+## 1. Polar Representation of Complex Numbers
 
 A complex number in rectangular form is given by:
 
@@ -39,7 +41,7 @@ r = |z| = \sqrt{a^2 + b^2}
 \theta = \tan^{-1}\left(\frac{b}{a}\right)
 \]
 
-### Steps to Convert to Polar Form
+## 2. Steps to Convert to Polar Form
 
 1. **Calculate the Magnitude**:
 
@@ -63,7 +65,7 @@ r = \sqrt{a^2 + b^2}
 
    - Substitute \(r\) and \(\theta\) into the polar form \(z = re^{i\theta}\).
 
-### Example
+## 3. Example Usage of Polr Notation
 
 For the complex number \(z = 3 + 4i\):
 
@@ -85,7 +87,7 @@ r = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5
 z = 5\left(\cos(0.93) + i\sin(0.93)\right) \quad \text{or} \quad z = 5e^{i0.93}
 \]
 
-### Applications of Polar Notation
+## 4, Applications of Polar Notation
 
 - **Multiplication and Division**: In polar form, multiplying two complex numbers involves multiplying their magnitudes and adding their angles:
 
@@ -101,6 +103,16 @@ z_1 \cdot z_2 = r_1 r_2 e^{i(\theta_1 + \theta_2)}
 
 - **Signal Processing**: In engineering, polar form simplifies the analysis of sinusoidal signals and AC circuits.
 
-### Summary
+## Summary
 
-Polar notation provides a powerful way to represent complex numbers, focusing on their magnitude and angle. This representation simplifies various mathematical operations and is widely used in science and engineering. If you have more questions or need further examples, feel free to ask!
+Polar notation provides a powerful way to represent complex numbers, focusing on their magnitude and angle. This representation simplifies various mathematical operations and is widely used in science and engineering.
+
+**References**:
+
+1. **Weisstein, Eric W.** "Polar Form of a Complex Number." *MathWorld—A Wolfram Web Resource*. [Website Link](https://mathworld.wolfram.com/PolarFormofComplexNumber.html)
+
+2. **Stewart, James.** *Calculus: Early Transcendentals.* Cengage Learning, 2015. (This textbook discusses polar coordinates and complex numbers in detail.)
+
+3. **Miller, I., & Freund, J.** *Probability and Statistics.* Prentice Hall, 1990. (This book includes sections on complex numbers and their polar representation.)
+
+4. **Lay, David C.** *Linear Algebra and Its Applications.* Cengage Learning, 2012. (Discusses applications of complex numbers in linear algebra contexts, including polar notation.)
