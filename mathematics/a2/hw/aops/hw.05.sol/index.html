@@ -22,7 +22,7 @@
     
     
       
-        <title>Hw.05.sol - M-Power Sitedocs</title>
+        <title>AoPS - Lession 5 Solutions - M-Power Sitedocs</title>
       
     
     
@@ -73,6 +73,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#aops_-_lession_5_solutions" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -105,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Hw.05.sol
+              AoPS - Lession 5 Solutions
             
           </span>
         </div>
@@ -7016,6 +7021,172 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#problem_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problem 1
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Problem 1">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#solution_approach" class="md-nav__link">
+    <span class="md-ellipsis">
+      Solution Approach:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step_1_identify_the_number_of_complete_cycles" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 1: Identify the number of complete cycles
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#11_not_convinced" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1 Not Convinced?
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1.1 Not Convinced?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#111_understanding_the_powers_of_i" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.1 Understanding the Powers of \( i \)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#112_observing_the_pattern" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.2 Observing the Pattern
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#113_complete_cycles" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.3 Complete Cycles
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#114_grouping_the_terms" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.4 Grouping the Terms
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#115_sum_of_each_cycle" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.5 Sum of Each Cycle
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#116_final_calculation" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.6 Final Calculation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#117_final_resolution" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.7 Final Resolution
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step_2_calculate_the_remainder" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 2: Calculate the remainder
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step_3_sum_of_one_complete_cycle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 3: Sum of one complete cycle
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step_4_total_sum_calculation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 4: Total sum calculation
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conclusion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusion
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#problem_xx" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problem xx
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -7030,9 +7201,149 @@
                   
 
 
-  <h1>Hw.05.sol</h1>
-
-
+<h1 id="aops_-_lession_5_solutions">AoPS - Lession 5 Solutions<a class="headerlink" href="#aops_-_lession_5_solutions" title="Permanent link">&para;</a></h1>
+<h2 id="problem_1">Problem 1<a class="headerlink" href="#problem_1" title="Permanent link">&para;</a></h2>
+<p>Problem Statement:</p>
+<blockquote>
+<p>Compute <span class="arithmatex">\(i+i^2+i^3+\cdots+i^{2016}+i^{2017}\)</span>.</p>
+</blockquote>
+<h3 id="solution_approach">Solution Approach:<a class="headerlink" href="#solution_approach" title="Permanent link">&para;</a></h3>
+<p>To compute the sum <span class="arithmatex">\( i + i^2 + i^3 + \cdots + i^{2016} + i^{2017} \)</span>, we can start by observing the powers of the imaginary unit <span class="arithmatex">\( i \)</span>. The powers of <span class="arithmatex">\( i \)</span> cycle every four terms:</p>
+<ul>
+<li><span class="arithmatex">\( i^1 = i \)</span></li>
+<li><span class="arithmatex">\( i^2 = -1 \)</span></li>
+<li><span class="arithmatex">\( i^3 = -i \)</span></li>
+<li><span class="arithmatex">\( i^4 = 1 \)</span></li>
+<li><span class="arithmatex">\( i^5 = i \)</span> (and the cycle repeats)</li>
+</ul>
+<p>This means that the series <span class="arithmatex">\( i + i^2 + i^3 + i^4 + \ldots \)</span> can be grouped into cycles of four. Let's analyze the sum more closely.</p>
+<h3 id="step_1_identify_the_number_of_complete_cycles">Step 1: Identify the number of complete cycles<a class="headerlink" href="#step_1_identify_the_number_of_complete_cycles" title="Permanent link">&para;</a></h3>
+<p>The total number of terms from <span class="arithmatex">\( i^1 \)</span> to <span class="arithmatex">\( i^{2017} \)</span> is <span class="arithmatex">\( 2017 \)</span>.</p>
+<p>Since the powers of <span class="arithmatex">\( i \)</span> repeat every 4 terms, we can calculate the number of complete cycles of 4 within 2017 terms:</p>
+<div class="arithmatex">\[
+\text{Number of complete cycles} = \left\lfloor \frac{2017}{4} \right\rfloor = 504
+\]</div>
+<h3 id="11_not_convinced"><strong>1.1 Not Convinced?</strong><a class="headerlink" href="#11_not_convinced" title="Permanent link">&para;</a></h3>
+<p>Let's look into how the patterns is discovered:</p>
+<h4 id="111_understanding_the_powers_of_i">1.1.1 Understanding the Powers of <span class="arithmatex">\( i \)</span><a class="headerlink" href="#111_understanding_the_powers_of_i" title="Permanent link">&para;</a></h4>
+<ol>
+<li>
+<p><strong>Definition</strong>: The imaginary unit <span class="arithmatex">\( i \)</span> is defined as <span class="arithmatex">\( i = \sqrt{-1} \)</span>.</p>
+</li>
+<li>
+<p><strong>Calculating the First Few Powers</strong>:</p>
+</li>
+<li><span class="arithmatex">\( i^1 = i \)</span> (the first power)</li>
+<li><span class="arithmatex">\( i^2 = -1 \)</span> (the second power)</li>
+<li><span class="arithmatex">\( i^3 = -i \)</span> (the third power)</li>
+<li>
+<p><span class="arithmatex">\( i^4 = 1 \)</span> (the fourth power)</p>
+</li>
+<li>
+<p><strong>Continuing Beyond <span class="arithmatex">\( i^4 \)</span></strong>:</p>
+</li>
+<li><span class="arithmatex">\( i^5 = i^4 \cdot i = 1 \cdot i = i \)</span></li>
+<li><span class="arithmatex">\( i^6 = i^5 \cdot i = i \cdot i = -1 \)</span></li>
+<li><span class="arithmatex">\( i^7 = i^6 \cdot i = -1 \cdot i = -i \)</span></li>
+<li><span class="arithmatex">\( i^8 = i^7 \cdot i = -i \cdot i = 1 \)</span></li>
+</ol>
+<h4 id="112_observing_the_pattern">1.1.2 Observing the Pattern<a class="headerlink" href="#112_observing_the_pattern" title="Permanent link">&para;</a></h4>
+<p>From the calculations above, we can see that the powers of <span class="arithmatex">\( i \)</span> repeat every four steps:</p>
+<div class="arithmatex">\[
+\begin{align*}
+i^1 &amp; = i \\
+i^2 &amp; = -1 \\
+i^3 &amp; = -i \\
+i^4 &amp; = 1 \\
+\end{align*}
+\]</div>
+<p>Then it starts over:</p>
+<div class="arithmatex">\[
+\begin{align*}
+i^5 &amp; = i \\
+i^6 &amp; = -1 \\
+i^7 &amp; = -i \\
+i^8 &amp; = 1 \\
+\end{align*}
+\]</div>
+<h4 id="113_complete_cycles">1.1.3 Complete Cycles<a class="headerlink" href="#113_complete_cycles" title="Permanent link">&para;</a></h4>
+<p>Now let's summarize what we have learned about the pattern of powers of <span class="arithmatex">\( i \)</span>:</p>
+<ul>
+<li><strong>Cycle</strong>: Every four terms, the values cycle back to the beginning.</li>
+<li><strong>Cycle Pattern</strong>: <span class="arithmatex">\( i, -1, -i, 1 \)</span></li>
+</ul>
+<h4 id="114_grouping_the_terms">1.1.4 Grouping the Terms<a class="headerlink" href="#114_grouping_the_terms" title="Permanent link">&para;</a></h4>
+<p>When we want to calculate <span class="arithmatex">\( i + i^2 + i^3 + \cdots + i^{2016} + i^{2017} \)</span>:</p>
+<ol>
+<li>
+<p><strong>Count of Terms</strong>: There are <span class="arithmatex">\( 2017 \)</span> terms total.</p>
+</li>
+<li>
+<p><strong>Complete Cycles</strong>: Since the cycle repeats every 4 terms, we find how many complete cycles fit into <span class="arithmatex">\( 2017 \)</span>:</p>
+</li>
+<li><span class="arithmatex">\( 2017 \div 4 = 504\)</span> complete cycles with a remainder of <span class="arithmatex">\( 1 \)</span>.</li>
+</ol>
+<h4 id="115_sum_of_each_cycle">1.1.5 Sum of Each Cycle<a class="headerlink" href="#115_sum_of_each_cycle" title="Permanent link">&para;</a></h4>
+<p>Let's sum the values in one complete cycle:</p>
+<div class="arithmatex">\[
+i + (-1) + (-i) + 1
+\]</div>
+<p>Breaking it down:</p>
+<ul>
+<li>Combine the imaginary parts: <span class="arithmatex">\( i + (-i) = 0 \)</span></li>
+<li>Combine the real parts: <span class="arithmatex">\( -1 + 1 = 0 \)</span></li>
+</ul>
+<p>So, each complete cycle sums to:</p>
+<div class="arithmatex">\[
+0 + 0 = 0
+\]</div>
+<h4 id="116_final_calculation">1.1.6 Final Calculation<a class="headerlink" href="#116_final_calculation" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Total from Complete Cycles</strong>: <span class="arithmatex">\( 504 \text{ cycles} \times 0 = 0 \)</span></li>
+<li><strong>Adding Remaining Term</strong>: The remaining term is <span class="arithmatex">\( i^1 = i \)</span>.</li>
+</ul>
+<h4 id="117_final_resolution">1.1.7 Final Resolution<a class="headerlink" href="#117_final_resolution" title="Permanent link">&para;</a></h4>
+<p>Therefore, the total sum is:</p>
+<div class="arithmatex">\[
+0 + i = i
+\]</div>
+<p>So, the answer to the sum <span class="arithmatex">\( i + i^2 + i^3 + \cdots + i^{2016} + i^{2017} \)</span> is:</p>
+<div class="arithmatex">\[
+\boxed{i}
+\]</div>
+<h3 id="step_2_calculate_the_remainder">Step 2: Calculate the remainder<a class="headerlink" href="#step_2_calculate_the_remainder" title="Permanent link">&para;</a></h3>
+<p>Next, we find the remainder when <span class="arithmatex">\( 2017 \)</span> is divided by <span class="arithmatex">\( 4 \)</span>:</p>
+<div class="arithmatex">\[
+\text{Remainder} = 2017 \mod 4 = 1
+\]</div>
+<p>This means we have <span class="arithmatex">\( 504 \)</span> complete cycles of <span class="arithmatex">\( (i + i^2 + i^3 + i^4) \)</span> and an additional <span class="arithmatex">\( i^1 \)</span> from the leftover terms.</p>
+<h3 id="step_3_sum_of_one_complete_cycle">Step 3: Sum of one complete cycle<a class="headerlink" href="#step_3_sum_of_one_complete_cycle" title="Permanent link">&para;</a></h3>
+<p>Now, let's calculate the sum of one complete cycle:</p>
+<div class="arithmatex">\[
+i + i^2 + i^3 + i^4 = i + (-1) + (-i) + 1
+\]</div>
+<p>Grouping the real and imaginary parts:</p>
+<div class="arithmatex">\[
+(i - i) + (-1 + 1) = 0
+\]</div>
+<p>So the sum of each complete cycle is <span class="arithmatex">\( 0 \)</span>.</p>
+<h3 id="step_4_total_sum_calculation">Step 4: Total sum calculation<a class="headerlink" href="#step_4_total_sum_calculation" title="Permanent link">&para;</a></h3>
+<p>Since each of the <span class="arithmatex">\( 504 \)</span> complete cycles sums to <span class="arithmatex">\( 0 \)</span>, the contribution from these cycles is:</p>
+<div class="arithmatex">\[
+504 \times 0 = 0
+\]</div>
+<p>Now, we also need to include the remaining term <span class="arithmatex">\( i^1 \)</span>:</p>
+<div class="arithmatex">\[
+\text{Total sum} = 0 + i = i
+\]</div>
+<h3 id="conclusion">Conclusion<a class="headerlink" href="#conclusion" title="Permanent link">&para;</a></h3>
+<p>Thus, the final result of the sum <span class="arithmatex">\( i + i^2 + i^3 + \cdots + i^{2016} + i^{2017} \)</span> is:</p>
+<div class="arithmatex">\[
+\boxed{i}
+\]</div>
+<h2 id="problem_xx">Problem xx<a class="headerlink" href="#problem_xx" title="Permanent link">&para;</a></h2>
+<p>Problem Statement:</p>
+<blockquote></blockquote>
 
 
 
