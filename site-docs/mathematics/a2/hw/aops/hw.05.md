@@ -386,7 +386,7 @@ Thus, \((1 + i)^{16} = 256\).
 ### Strategy for Solving
 
 
-### #Deconstruction:
+#### Deconstruction:
 
 We are tasked with simplifying \((1+i)^{2016} - (1-i)^{2016}\). The goal is to use elementary algebraic methods (Algebra 1 level) to simplify this expression without resorting to polar form or advanced theorems.
 
@@ -462,10 +462,82 @@ The simplified expression is:
 (1+i)^{2016} - (1-i)^{2016} = 0
 \]
 
-## **Problem xx**
+## **Problem 10**
 
 ### Problem Statement:
 
->
+>Compute the product \((1-3i)(1-2i)(1-i)(1+i)(1+2i)(1+3i).\)
+
+#### Deconstruction:
+
+We are tasked with computing the product:
+
+\[
+(1-3i)(1-2i)(1-i)(1+i)(1+2i)(1+3i)
+\]
+
+This involves multiplying six complex numbers. The goal is to simplify this expression using elementary algebraic methods, focusing on the properties of complex conjugates.
+
+#### Givens:
+
+- The complex numbers: \((1-3i)\), \((1-2i)\), \((1-i)\), \((1+i)\), \((1+2i)\), \((1+3i)\)
+- The property \(i^2 = -1\)
+
+#### Unknown:
+
+- The simplified result of the entire product
+
+#### Constraints:
+
+- Only use elementary algebraic methods, focusing on Algebra 1 techniques.
+
+#### Hints for Strategy:
+
+1. **Pair complex conjugates**: Notice that each pair of terms, \((1 - 3i)\) and \((1 + 3i)\), \((1 - 2i)\) and \((1 + 2i)\), \((1 - i)\) and \((1 + i)\), are complex conjugates. Multiplying a complex number by its conjugate simplifies the expression into a difference of squares.
+
+2. **Simplify step-by-step**: Multiply the conjugate pairs and simplify using the difference of squares formula:
+
+\[
+(a - bi)(a + bi) = a^2 - (bi)^2 = a^2 + b^2
+\]
+
+3. **Multiply the results**: Once you have simplified each conjugate pair, multiply the remaining real numbers together.
+
+
+
+## **Problem 11**
+
+### Problem Statement:
+
+>Express $\frac 1{1+\frac 1{1-\frac 1{1+i}}}$ in the form $a+bi$, where $a$ and $b$ are real numbers.
+
+In case you have trouble reading that, here's the same expression written with the other type of fraction notation: $1/\Big(1+1/\big(1-1/(1+i)\big)\Big)$.
 
 ### Strategy for Solving
+
+#### Deconstruction:
+
+We need to express \(\frac{1}{1+\frac{1}{1-\frac{1}{1+i}}}\) in the form \(a + bi\) using elementary algebraic methods.
+
+#### Givens:
+
+- The expression: \(\frac{1}{1+\frac{1}{1-\frac{1}{1+i}}}\)
+- The property \(i^2 = -1\)
+
+#### Unknown:
+
+- The values of \(a\) and \(b\) in the expression \(a + bi\)
+
+#### Constraints:
+
+- Only use basic algebraic manipulation methods.
+
+#### Hints for Strategy:
+
+1. **Work from the inside out**: Start with the innermost fraction \(\frac{1}{1+i}\) and simplify it.
+  
+2. **Continue simplifying**: Substitute this result into the next layer of the expression, simplifying step by step.
+
+3. **Use the properties of complex numbers**: Remember to simplify using the conjugate when necessary to eliminate the imaginary unit from the denominators.
+
+4. **Final computation**: After simplifying all layers, express the final result in the form \(a + bi\).
