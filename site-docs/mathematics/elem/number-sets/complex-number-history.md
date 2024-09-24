@@ -41,4 +41,12 @@ The concept of complex numbers has an interesting history that goes back several
 - The term "imaginary" was coined in the 16th century, and mathematicians like Euler and Gauss helped formalize and visualize them.
 - Today, complex numbers are widely used in science and engineering.
 
-Complex numbers may have started as a curiosity, but they have become a crucial part of mathematics! If you’d like to know more about any specific part, just let me know!
+Complex numbers may have started as a curiosity, but they have become a crucial part of mathematics!
+
+## References
+
+1. Cataneo, A. (2016). "The Origins of Complex Numbers." *The Mathematical Association of America*. [Website Link](https://www.maa.org/press/periodicals/loci/columns/the-origins-of-complex-numbers)
+2. Hawking, S. (1993). *Black Holes and Baby Universes and Other Essays.* Bantam Books.
+3. Weisstein, Eric W. "Complex Number." *MathWorld—A Wolfram Web Resource*. [Website Link](https://mathworld.wolfram.com/ComplexNumber.html)
+4. Strogatz, S. (2012). *The Joy of x: A Guided Tour of Math, from One to Infinity.* Basic Books.
+```
