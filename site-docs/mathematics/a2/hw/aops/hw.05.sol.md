@@ -389,6 +389,102 @@ Thus, the complex number \( z \) that satisfies the equation is:
 \boxed{-i}.
 \]
 
+
+
+## Problem 6
+
+### Problem Statment:
+>Compute $(2i-6)(5+i)$, where $i^2=-1$.
+
+>Express your answer in the form $a+bi$, where $a$ and $b$ are real numbers.
+
+### Solution Approach:
+
+To compute the product \((2i - 6)(5 + i)\), we can use the distributive property (also known as the FOIL method for binomials):
+
+\[
+(2i - 6)(5 + i) = 2i \cdot 5 + 2i \cdot i - 6 \cdot 5 - 6 \cdot i.
+\]
+
+Now we will calculate each term separately:
+
+1. **First term**: 
+\[
+2i \cdot 5 = 10i.
+\]
+
+2. **Second term**:
+\[
+2i \cdot i = 2i^2 = 2(-1) = -2.
+\]
+
+3. **Third term**:
+
+\[
+-6 \cdot 5 = -30.
+\]
+
+4. **Fourth term**:
+
+\[
+-6 \cdot i = -6i.
+\]
+
+Now, we combine all these results:
+
+\[
+10i - 2 - 30 - 6i.
+\]
+
+Next, we can combine the like terms (real and imaginary parts):
+
+- Real part:
+
+\[
+-2 - 30 = -32.
+\]
+
+- Imaginary part:
+
+\[
+10i - 6i = 4i.
+\]
+
+Putting it all together, we have:
+
+\[
+-32 + 4i.
+\]
+
+### Final Answer
+
+Thus, the result of the computation is:
+
+\[
+\boxed{-32 + 4i}.
+\]
+
+
+
+## Problem 7
+
+### Problem Statment:
+
+
+### Solution Approach:
+
+
+
+## Problem 8
+
+### Problem Statment:
+
+
+### Solution Approach:
+
+
+
+
 ## Problem xx
 
 ### Problem Statment:
