@@ -601,6 +601,319 @@ Therefore, the answer is:
 \boxed{\frac{9}{17} + \frac{2}{17}i}.
 \]
 
+## Problem 8
+
+### Problem Statment:
+>Find the value of $(1+i)^{16}$.
+
+### Solution Approach:
+
+To find the value of \((1+i)^{16}\), we can start by expressing \(1+i\) in polar form. 
+
+### Step 1: Calculate the Modulus and Argument
+
+1. **Modulus**: 
+
+\[
+r = |1+i| = \sqrt{1^2 + 1^2} = \sqrt{2}.
+\]
+
+2. **Argument**:
+
+\[
+\theta = \tan^{-1}\left(\frac{1}{1}\right) = \frac{\pi}{4}.
+\]
+
+So, we can express \(1+i\) in polar form as:
+
+\[
+1+i = \sqrt{2} \left(\cos\frac{\pi}{4} + i\sin\frac{\pi}{4}\right).
+\]
+
+### Step 2: Use De Moivre's Theorem
+
+Now, using De Moivre's Theorem, we can calculate \((1+i)^{16}\):
+
+\[
+(1+i)^{16} = \left(\sqrt{2}\right)^{16} \left(\cos\left(16 \cdot \frac{\pi}{4}\right) + i\sin\left(16 \cdot \frac{\pi}{4}\right)\right).
+\]
+
+Calculating each part:
+
+1. **Modulus**:
+
+\[
+\left(\sqrt{2}\right)^{16} = 2^{8} = 256.
+\]
+
+2. **Argument**:
+
+\[
+16 \cdot \frac{\pi}{4} = 4\pi.
+\]
+
+Since \(4\pi\) corresponds to a full rotation, we can simplify the trigonometric functions:
+
+\[
+\cos(4\pi) = 1, \quad \sin(4\pi) = 0.
+\]
+
+### Step 3: Combine the Results
+
+Putting it all together, we have:
+
+\[
+(1+i)^{16} = 256 \left(1 + 0i\right) = 256.
+\]
+
+### Final Answer
+
+Thus, the value of \((1+i)^{16}\) is:
+
+\[
+\boxed{256}.
+\]
+
+
+## Problem 9
+
+### Problem Statment:
+>Simplify $(1+i)^{2016}-(1-i)^{2016}$.
+
+
+### Solution Approach #1
+
+#### Step 1: Recognize the Binomial Form
+
+We can use the Binomial Theorem to expand \((1+i)^{n}\) and \((1-i)^{n}\):
+
+\[
+(1+i)^{n} = \sum_{k=0}^{n} \binom{n}{k} i^k
+\]
+
+\[
+(1-i)^{n} = \sum_{k=0}^{n} \binom{n}{k} (-i)^k
+\]
+
+#### Step 2: Compute Each Expansion
+
+1. **Expansion of \((1+i)^{2016}\)**:
+
+   Using the Binomial Theorem:
+
+\[
+(1+i)^{2016} = \sum_{k=0}^{2016} \binom{2016}{k} i^k.
+\]
+
+2. **Expansion of \((1-i)^{2016}\)**:
+
+   Similarly,
+
+\[
+(1-i)^{2016} = \sum_{k=0}^{2016} \binom{2016}{k} (-i)^k = \sum_{k=0}^{2016} \binom{2016}{k} (-1)^k i^k.
+\]
+
+#### Step 3: Combine the Expansions
+
+Now, we want to find:
+
+\[
+(1+i)^{2016} - (1-i)^{2016}.
+\]
+
+This can be written as:
+
+\[
+\sum_{k=0}^{2016} \binom{2016}{k} i^k - \sum_{k=0}^{2016} \binom{2016}{k} (-1)^k i^k.
+\]
+
+#### Step 4: Combine the Sums
+
+We can combine these sums:
+
+\[
+\sum_{k=0}^{2016} \binom{2016}{k} i^k \left(1 - (-1)^k\right).
+\]
+
+#### Step 5: Evaluate the Expression
+
+The term \(1 - (-1)^k\) behaves differently based on whether \(k\) is even or odd:
+
+- If \(k\) is even, \(1 - (-1)^k = 1 - 1 = 0\).
+- If \(k\) is odd, \(1 - (-1)^k = 1 + 1 = 2\).
+
+Thus, only the odd terms survive in the sum:
+
+\[
+\sum_{k \text{ odd}} \binom{2016}{k} i^k \cdot 2.
+\]
+
+#### Step 6: Simplifying Further
+
+We can factor out the 2:
+
+\[
+2 \sum_{k \text{ odd}} \binom{2016}{k} i^k.
+\]
+
+#### Step 7: Recognizing the Pattern
+
+Since \(2016\) is even, we can recognize that for every odd \(k\), the sum will include all the odd-indexed terms, which results in a cancellation of positive and negative components.
+
+Ultimately, the odd terms add up to 0 because they are symmetric, just as we saw when we examined the polar forms earlier.
+
+#### Conclusion
+
+Thus:
+
+\[
+(1+i)^{2016} - (1-i)^{2016} = 0.
+\]
+
+#### Final Answer
+
+The final result remains:
+
+\[
+\boxed{0}.
+\] 
+
+This method uses algebraic concepts and avoids complex numbers' trigonometric properties, making it accessible using basic algebra techniques.
+
+### Solution Approach #2, Advanced:
+
+
+To simplify \((1+i)^{2016} - (1-i)^{2016}\), we can use the polar form of the complex numbers \(1+i\) and \(1-i\).
+
+### Step 1: Convert to Polar Form
+
+1. **For \(1+i\)**:
+   - Modulus:
+
+\[
+r = |1+i| = \sqrt{1^2 + 1^2} = \sqrt{2}.
+\]
+
+   - Argument: 
+
+\[
+\theta = \tan^{-1}\left(\frac{1}{1}\right) = \frac{\pi}{4}.
+\]
+
+   - Therefore:
+
+\[
+1+i = \sqrt{2} \left(\cos\frac{\pi}{4} + i\sin\frac{\pi}{4}\right).
+\]
+
+2. **For \(1-i\)**:
+   - Modulus: 
+
+\[
+r = |1-i| = \sqrt{1^2 + (-1)^2} = \sqrt{2}.
+\]
+
+   - Argument: 
+
+\[
+\theta = \tan^{-1}\left(\frac{-1}{1}\right) = -\frac{\pi}{4}.
+\]
+
+   - Therefore:
+
+\[
+1-i = \sqrt{2} \left(\cos\left(-\frac{\pi}{4}\right) + i\sin\left(-\frac{\pi}{4}\right)\right).
+\]
+
+### Step 2: Use De Moivre's Theorem
+
+Now we can express both \( (1+i)^{2016} \) and \( (1-i)^{2016} \):
+
+1. **For \( (1+i)^{2016} \)**:
+
+\[
+(1+i)^{2016} = \left(\sqrt{2}\right)^{2016} \left(\cos\left(2016 \cdot \frac{\pi}{4}\right) + i\sin\left(2016 \cdot \frac{\pi}{4}\right)\right).
+\]
+
+2. **For \( (1-i)^{2016} \)**:
+
+\[
+(1-i)^{2016} = \left(\sqrt{2}\right)^{2016} \left(\cos\left(2016 \cdot -\frac{\pi}{4}\right) + i\sin\left(2016 \cdot -\frac{\pi}{4}\right)\right).
+\]
+
+### Step 3: Calculate the Modulus
+
+Both moduli are the same:
+
+\[
+\left(\sqrt{2}\right)^{2016} = 2^{1008}.
+\]
+
+### Step 4: Calculate the Arguments
+
+Now, we calculate the arguments:
+
+1. **For \((1+i)^{2016}\)**:
+
+\[
+2016 \cdot \frac{\pi}{4} = 504\pi.
+\]
+
+2. **For \((1-i)^{2016}\)**:
+
+\[
+2016 \cdot -\frac{\pi}{4} = -504\pi.
+\]
+
+Since \(504\pi\) is an integer multiple of \(2\pi\), we have:
+
+\[
+\cos(504\pi) = 1, \quad \sin(504\pi) = 0,
+\]
+
+and for \(-504\pi\):
+
+\[
+\cos(-504\pi) = 1, \quad \sin(-504\pi) = 0.
+\]
+
+### Step 5: Putting it Together
+
+Now we can write:
+
+\[
+(1+i)^{2016} = 2^{1008} (1 + 0i) = 2^{1008},
+\]
+
+\[
+(1-i)^{2016} = 2^{1008} (1 + 0i) = 2^{1008}.
+\]
+
+### Final Calculation
+
+Now we subtract:
+
+\[
+(1+i)^{2016} - (1-i)^{2016} = 2^{1008} - 2^{1008} = 0.
+\]
+
+### Final Answer
+
+Thus, the result is:
+
+\[
+\boxed{0}.
+\]
+
+## Problem 10
+
+### Problem Statment:
+
+
+### Solution Approach:
+
+
+
 ## Problem xx
 
 ### Problem Statment:
