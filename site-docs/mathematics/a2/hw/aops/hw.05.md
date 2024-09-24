@@ -1,6 +1,6 @@
 # AoPS - Lesson 5
 
-## Problem 1
+## **Problem 1**
 
 Problem Statement:
 >Compute $i+i^2+i^3+\cdots+i^{2016}+i^{2017}$.
@@ -35,7 +35,7 @@ You are tasked with computing the sum of powers of the imaginary unit \(i\), ran
 
 By recognizing the cyclical nature of \(i\)'s powers, you can reduce the problem from dealing with 2017 terms to handling just a few.
 
-## Problem 2
+## **Problem 2**
 
 Problem Statement:
 >Find a complex number $z$ such that the real part and imaginary part of $z$ are both integers, and such that
@@ -79,7 +79,7 @@ a^2 + b^2 = 89.
 This method will give you the correct values for \( a \) and \( b \).
 
 
-## Problem 3
+## **Problem 3**
 
 Problem Statement:
 >Compute $\dfrac{-47 +69i}{7+6i}$ where $i = \sqrt{-1}$.
@@ -124,7 +124,7 @@ By following these steps, you can compute the quotient correctly.
 
 
 
-## Problem 4
+## **Problem 4**
 
 Problem Statement:
 >Find all complex numbers $z$ satisfying the equation:
@@ -174,15 +174,101 @@ z + 1 = iz - i.
 
 This approach will lead you to the complex number \( z \) that satisfies the equation.
 
-## Problem 5
+## **Problem 5**
 
-Problem Statement:
+### Problem Statement:
 >Compute $(2i-6)(5+i)$, where $i^2=-1$.
 
 Express your answer in the form $a+bi$, where $a$ and $b$ are real numbers.
 
 We are tasked with computing \( (2i - 6)(5 + i) \) and expressing the result in the form \( a + bi \), where \( a \) and \( b \) are real numbers.
 
-## **Solutions**
+### Strategy for Solving
+
+#### Deconstruction:
+
+The problem involves multiplying two complex numbers and expressing the result in the form \(a + bi\), where \(a\) and \(b\) are real numbers. The imaginary unit \(i\) has the property \(i^2 = -1\), which is crucial to simplifying the result.
+
+#### Givens:
+
+- Two complex numbers: \((2i - 6)\) and \((5 + i)\)
+- The property \(i^2 = -1\)
+
+#### Unknowns:
+
+- The real part \(a\) of the product.
+- The imaginary part \(b\) of the product.
+
+#### Constraints:
+
+- Ensure proper distribution (multiplication) between the terms.
+- Correctly apply the rule \(i^2 = -1\) during simplification.
+
+#### Hints for Strategy:
+
+1. **Distribute the terms**: Use the distributive property to expand the expression \((2i - 6)(5 + i)\). This will give four terms.
+   
+2. **Combine like terms**: Separate the real parts (those without \(i\)) and the imaginary parts (those with \(i\)).
+
+3. **Use the property of \(i^2\)**: When you encounter \(i^2\), replace it with \(-1\) to simplify the expression.
+
+4. **Group the result**: Express the final result in the form \(a + bi\) by identifying the real part \(a\) and the imaginary part \(b\).
 
 Click [here](hw.05.sol.md) for solutions.
+
+
+## **Problem 6**
+
+### Problem Statement:
+
+>Compute $(5+3i)(5-3i)$.
+
+Express your answer in the form $a+bi$, where $a$ and $b$ are real numbers.
+
+### Strategy for Solving
+
+#### Deconstruction:
+
+The problem asks for the product of two complex numbers in the form \((5 + 3i)(5 - 3i)\), which is a difference of squares. The goal is to express the result in the form \(a + bi\), where \(a\) and \(b\) are real numbers. Using the property \(i^2 = -1\) will be important for simplifying the result.
+
+#### Givens:
+
+- Two complex numbers: \((5 + 3i)\) and \((5 - 3i)\)
+- The property \(i^2 = -1\)
+
+##### Unknowns:
+
+- The real part \(a\) of the product.
+- The imaginary part \(b\) of the product (though it might turn out to be zero).
+
+### Constraints:
+
+- Correctly apply the **difference of squares** formula: \((a + b)(a - b) = a^2 - b^2\).
+- Ensure proper application of \(i^2 = -1\).
+
+#### Hints for Strategy:
+1. **Recognize the difference of squares**: This product is of the form \((a + b)(a - b) = a^2 - b^2\), where \(a = 5\) and \(b = 3i\).
+
+2. **Simplify**: Compute \(a^2 - b^2\) while remembering that \(i^2 = -1\), so \(b^2 = (3i)^2 = -9\).
+
+3. **Combine results**: The final result will be a purely real number because the imaginary parts cancel out.
+
+
+
+## **Problem 7**
+
+### Problem Statement:
+
+>
+
+### Strategy for Solving
+
+
+
+## **Problem xx**
+
+### Problem Statement:
+
+>
+
+### Strategy for Solving
