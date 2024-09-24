@@ -202,7 +202,7 @@ nav:
       - "Resources":
         - "Differences between Equations and Functions": "mathematics/a1/resources/diff-eqs-functions.md"
         - "Differences between Curves and Graphs": "mathematics/a1/resources/diff-curves-graphs.md"
-    - "Solve for x":
+    - "Methods of Solving for Variables":
       - "Single Variable Equations": "mathematics/a1/solve-for-x/single-variable-eqs.md"
       - "Two Variable Equations": "mathematics/a1/solve-for-x/two-variable-eqs.md"
       - "Multi-Variable Equations": "mathematics/a1/solve-for-x/multi-variable-eqs.md"
