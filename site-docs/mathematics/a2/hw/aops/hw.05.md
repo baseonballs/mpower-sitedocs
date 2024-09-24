@@ -381,10 +381,86 @@ Thus, \((1 + i)^{16} = 256\).
 
 ### Problem Statement:
 
->
+>Simplify $(1+i)^{2016}-(1-i)^{2016}$.
 
 ### Strategy for Solving
 
+
+### #Deconstruction:
+
+We are tasked with simplifying \((1+i)^{2016} - (1-i)^{2016}\). The goal is to use elementary algebraic methods (Algebra 1 level) to simplify this expression without resorting to polar form or advanced theorems.
+
+#### Givens:
+
+- The two complex numbers: \(1+i\) and \(1-i\)
+- The exponent \(2016\)
+- The property \(i^2 = -1\)
+
+#### Unknown:
+
+- The simplified expression of \((1+i)^{2016} - (1-i)^{2016}\)
+
+#### Constraints:
+
+- We are restricted to basic algebraic manipulation methods only.
+
+#### Hints for Strategy:
+1. **Recognize patterns in powers**: Start by observing how the powers of \((1+i)\) and \((1-i)\) behave. We know from earlier results that these powers tend to repeat over a cycle of 4.
+
+2. **Explore lower powers to detect patterns**: By calculating small powers of \((1+i)\) and \((1-i)\), we can deduce a cyclical pattern that will help in simplifying large exponents like \(2016\).
+
+---
+
+##### Step-by-Step Expansion:
+
+1. **First few powers of \((1+i)\) and \((1-i)\)**:
+   
+   - \((1+i)^1 = 1 + i\)
+   - \((1+i)^2 = 2i\)
+   - \((1+i)^3 = -2 + 2i\)
+   - \((1+i)^4 = -4\)
+
+   - \((1-i)^1 = 1 - i\)
+   - \((1-i)^2 = -2i\)
+   - \((1-i)^3 = -2 - 2i\)
+   - \((1-i)^4 = -4\)
+
+   Notice that the powers of \((1+i)\) and \((1-i)\) follow a repeating cycle every 4 terms. This means:
+   
+\[
+(1+i)^n \text{ and } (1-i)^n \text{ repeat every 4 terms.}
+\]
+
+2. **Using the cyclic nature of powers**:
+   Since both \((1+i)\) and \((1-i)\) repeat every 4 terms, we can divide \(2016\) by 4 to determine the equivalent smaller power.
+
+\[
+2016 \div 4 = 504 \text{ remainder } 0
+\]
+
+   Therefore:
+
+\[
+(1+i)^{2016} = (1+i)^0 = 1
+\]
+
+\[
+(1-i)^{2016} = (1-i)^0 = 1
+\]
+
+3. **Final subtraction**:
+
+\[
+(1+i)^{2016} - (1-i)^{2016} = 1 - 1 = 0
+\]
+
+#### Conclusion:
+
+The simplified expression is:
+
+\[
+(1+i)^{2016} - (1-i)^{2016} = 0
+\]
 
 ## **Problem xx**
 
