@@ -11,7 +11,7 @@ You are tasked with computing the sum of powers of the imaginary unit \(i\), ran
 ### Givens:
   - \(i\) is the imaginary unit, and it satisfies \(i^2 = -1\).
   - The sum runs from \(i^1\) to \(i^{2017}\), i.e., the expression to evaluate is:
-  
+
 \[
 i + i^2 + i^3 + \cdots + i^{2017}
 \]
@@ -22,9 +22,11 @@ i + i^2 + i^3 + \cdots + i^{2017}
 - **Constraints**: 
 
   - Powers of \(i\) follow a repeating cycle every 4 terms:
-    \[
-    i^1 = i, \quad i^2 = -1, \quad i^3 = -i, \quad i^4 = 1
-    \]
+
+\[
+i^1 = i, \quad i^2 = -1, \quad i^3 = -i, \quad i^4 = 1
+\]
+
   - This cyclical pattern will be key in simplifying the sum.
 
 ### Strategy Hints:
