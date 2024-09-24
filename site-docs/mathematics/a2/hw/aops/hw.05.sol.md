@@ -391,7 +391,7 @@ Thus, the complex number \( z \) that satisfies the equation is:
 
 
 
-## Problem 6
+## Problem 5
 
 ### Problem Statment:
 >Compute $(2i-6)(5+i)$, where $i^2=-1$.
@@ -466,24 +466,140 @@ Thus, the result of the computation is:
 
 
 
+## Problem 6
+
+### Problem Statment:
+>Compute $(5+3i)(5-3i)$.
+
+>Express your answer in the form $a+bi$, where $a$ and $b$ are real numbers.
+
+### Solution Approach:
+
+To express \(\frac{2+i}{4+i}\) in the form \(a + bi\), we can multiply the numerator and the denominator by the conjugate of the denominator. The conjugate of \(4 + i\) is \(4 - i\).
+
+### Step 1: Multiply by the Conjugate
+
+\[
+\frac{2+i}{4+i} \cdot \frac{4-i}{4-i} = \frac{(2+i)(4-i)}{(4+i)(4-i)}.
+\]
+
+### Step 2: Calculate the Denominator
+
+The denominator is:
+
+\[
+(4+i)(4-i) = 4^2 - i^2 = 16 - (-1) = 16 + 1 = 17.
+\]
+
+### Step 3: Calculate the Numerator
+
+Now, let's calculate the numerator:
+
+\[
+(2+i)(4-i) = 2 \cdot 4 + 2 \cdot (-i) + i \cdot 4 + i \cdot (-i).
+\]
+
+Calculating each term:
+
+1. \(2 \cdot 4 = 8\)
+2. \(2 \cdot (-i) = -2i\)
+3. \(i \cdot 4 = 4i\)
+4. \(i \cdot (-i) = -i^2 = -(-1) = 1\)
+
+Now, combine these results:
+
+\[
+8 - 2i + 4i + 1 = (8 + 1) + (-2i + 4i) = 9 + 2i.
+\]
+
+### Step 4: Combine the Results
+
+Now we can put the numerator and denominator together:
+
+\[
+\frac{(9 + 2i)}{17} = \frac{9}{17} + \frac{2}{17}i.
+\]
+
+### Final Answer
+
+Thus, in the form \(a + bi\), we have:
+
+\[
+\frac{2+i}{4+i} = \frac{9}{17} + \frac{2}{17}i.
+\]
+
+Therefore, the answer is:
+
+\[
+\boxed{\frac{9}{17} + \frac{2}{17}i}.
+\]
+
 ## Problem 7
 
 ### Problem Statment:
-
-
-### Solution Approach:
-
-
-
-## Problem 8
-
-### Problem Statment:
-
+>Express $\frac{2+i}{4+i}$ in the form $a+bi$, where $a$ and $b$ are real numbers.
 
 ### Solution Approach:
 
 
+To express \(\frac{2+i}{4+i}\) in the form \(a + bi\), we will multiply the numerator and denominator by the conjugate of the denominator, which is \(4 - i\).
 
+### Step 1: Multiply by the Conjugate
+
+\[
+\frac{2+i}{4+i} \cdot \frac{4-i}{4-i} = \frac{(2+i)(4-i)}{(4+i)(4-i)}.
+\]
+
+### Step 2: Calculate the Denominator
+
+The denominator is:
+
+\[
+(4+i)(4-i) = 4^2 - i^2 = 16 - (-1) = 16 + 1 = 17.
+\]
+
+### Step 3: Calculate the Numerator
+
+Now, let's calculate the numerator:
+
+\[
+(2+i)(4-i) = 2 \cdot 4 + 2 \cdot (-i) + i \cdot 4 + i \cdot (-i).
+\]
+
+Calculating each term:
+
+1. \(2 \cdot 4 = 8\)
+2. \(2 \cdot (-i) = -2i\)
+3. \(i \cdot 4 = 4i\)
+4. \(i \cdot (-i) = -i^2 = -(-1) = 1\)
+
+Now, combine these results:
+
+\[
+8 - 2i + 4i + 1 = (8 + 1) + (-2i + 4i) = 9 + 2i.
+\]
+
+### Step 4: Combine the Results
+
+Now we can put the numerator and denominator together:
+
+\[
+\frac{(9 + 2i)}{17} = \frac{9}{17} + \frac{2}{17}i.
+\]
+
+### Final Answer
+
+Thus, in the form \(a + bi\), we have:
+
+\[
+\frac{2+i}{4+i} = \frac{9}{17} + \frac{2}{17}i.
+\]
+
+Therefore, the answer is:
+
+\[
+\boxed{\frac{9}{17} + \frac{2}{17}i}.
+\]
 
 ## Problem xx
 
