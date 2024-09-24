@@ -149,7 +149,7 @@ nav:
       - "Real Numbers": "mathematics/elem/number-sets/real-numbers.md"
       - "Complex Numbers":
         - "Introduction": "mathematics/elem/number-sets/complex-numbers.md"
-        - "A Brief History": "page-404.md"
+        - "A Brief History": "mathematics/elem/number-sets/complex-number-history.md"
     - "Number System":
       - "Decimal - Base 10": "./mathematics/elem/number-system/decimal.md"
       - "Binary - Base 2":
