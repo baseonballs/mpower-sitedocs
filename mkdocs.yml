@@ -272,8 +272,8 @@ nav:
     - "Appendix Resources":
       - "Challenging Problems":
         - "AoPS-A2":
-          - "Lesson 4": "mathematics/a2/hw/aops/hw.04.md"
-          - "Lesson 5": "mathematics/a2/hw/aops/hw.05.md"
+          - "Lesson 4 - Functions": "mathematics/a2/hw/aops/hw.04.md"
+          - "Lesson 5 - Complex Numbers": "mathematics/a2/hw/aops/hw.05.md"
   - "Geometry":
     - "Circle":
       - "Form & Structures": "./mathematics/geometry/form-structures.md"
