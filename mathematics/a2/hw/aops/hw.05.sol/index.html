@@ -7178,6 +7178,57 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#problem_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problem 2
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Problem 2">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#valid_pairs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Valid Pairs
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#forming_the_complex_numbers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Forming the Complex Numbers
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#final_answer" class="md-nav__link">
+    <span class="md-ellipsis">
+      Final Answer
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#problem_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problem 3
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#problem_xx" class="md-nav__link">
     <span class="md-ellipsis">
       Problem xx
@@ -7341,9 +7392,65 @@ i + i^2 + i^3 + i^4 = i + (-1) + (-i) + 1
 <div class="arithmatex">\[
 \boxed{i}
 \]</div>
-<h2 id="problem_xx">Problem xx<a class="headerlink" href="#problem_xx" title="Permanent link">&para;</a></h2>
+<h2 id="problem_2">Problem 2<a class="headerlink" href="#problem_2" title="Permanent link">&para;</a></h2>
 <p>Problem Statement:</p>
+<blockquote>
+<p>Find a complex number <span class="arithmatex">\(z\)</span> such that the real part and imaginary part of <span class="arithmatex">\(z\)</span> are both integers, and such that
+$$z\overline z = 89.  $$Express your answer in the form <span class="arithmatex">\(a+bi\)</span>, where <span class="arithmatex">\(a\)</span> and <span class="arithmatex">\(b\)</span> are integers. Only enter one answer.</p>
+</blockquote>
+<hr />
+<p>To find a complex number <span class="arithmatex">\( z = a + bi \)</span> where both <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span> are integers, and the condition <span class="arithmatex">\( z \overline{z} = 89 \)</span> holds, we start by using the property of the modulus of a complex number:</p>
+<div class="arithmatex">\[
+z \overline{z} = |z|^2 = a^2 + b^2
+\]</div>
+<p>Given that <span class="arithmatex">\( z \overline{z} = 89 \)</span>, we have:</p>
+<div class="arithmatex">\[
+a^2 + b^2 = 89
+\]</div>
+<p>Next, we need to find integer pairs <span class="arithmatex">\( (a, b) \)</span> such that their squares sum to 89. We can list the perfect squares less than or equal to 89:</p>
+<div class="arithmatex">\[
+0^2 = 0, \quad 1^2 = 1, \quad 2^2 = 4, \quad 3^2 = 9, \quad 4^2 = 16, \quad 5^2 = 25, \quad 6^2 = 36, \quad 7^2 = 49, \quad 8^2 = 64, \quad 9^2 = 81
+\]</div>
+<p>Now, we can find pairs <span class="arithmatex">\( (a^2, b^2) \)</span> that add up to 89:</p>
+<ul>
+<li><strong>If <span class="arithmatex">\( a = 0 \)</span></strong>: <span class="arithmatex">\( b^2 = 89 \)</span> (not a perfect square)</li>
+<li><strong>If <span class="arithmatex">\( a = 1 \)</span></strong>: <span class="arithmatex">\( b^2 = 89 - 1 = 88 \)</span> (not a perfect square)</li>
+<li><strong>If <span class="arithmatex">\( a = 2 \)</span></strong>: <span class="arithmatex">\( b^2 = 89 - 4 = 85 \)</span> (not a perfect square)</li>
+<li><strong>If <span class="arithmatex">\( a = 3 \)</span></strong>: <span class="arithmatex">\( b^2 = 89 - 9 = 80 \)</span> (not a perfect square)</li>
+<li><strong>If <span class="arithmatex">\( a = 4 \)</span></strong>: <span class="arithmatex">\( b^2 = 89 - 16 = 73 \)</span> (not a perfect square)</li>
+<li><strong>If <span class="arithmatex">\( a = 5 \)</span></strong>: <span class="arithmatex">\( b^2 = 89 - 25 = 64 \)</span> → <span class="arithmatex">\( b = 8 \)</span> (valid)</li>
+<li><strong>If <span class="arithmatex">\( a = 6 \)</span></strong>: <span class="arithmatex">\( b^2 = 89 - 36 = 53 \)</span> (not a perfect square)</li>
+<li><strong>If <span class="arithmatex">\( a = 7 \)</span></strong>: <span class="arithmatex">\( b^2 = 89 - 49 = 40 \)</span> (not a perfect square)</li>
+<li><strong>If <span class="arithmatex">\( a = 8 \)</span></strong>: <span class="arithmatex">\( b^2 = 89 - 64 = 25 \)</span> → <span class="arithmatex">\( b = 5 \)</span> (valid)</li>
+<li><strong>If <span class="arithmatex">\( a = 9 \)</span></strong>: <span class="arithmatex">\( b^2 = 89 - 81 = 8 \)</span> (not a perfect square)</li>
+</ul>
+<h3 id="valid_pairs">Valid Pairs<a class="headerlink" href="#valid_pairs" title="Permanent link">&para;</a></h3>
+<p>From the calculations above, we found the following valid pairs:</p>
+<ol>
+<li><span class="arithmatex">\( (a, b) = (5, 8) \)</span></li>
+<li><span class="arithmatex">\( (a, b) = (8, 5) \)</span></li>
+</ol>
+<h3 id="forming_the_complex_numbers">Forming the Complex Numbers<a class="headerlink" href="#forming_the_complex_numbers" title="Permanent link">&para;</a></h3>
+<p>This gives us two complex numbers:</p>
+<ol>
+<li><span class="arithmatex">\( z = 5 + 8i \)</span></li>
+<li><span class="arithmatex">\( z = 8 + 5i \)</span></li>
+</ol>
+<h3 id="final_answer">Final Answer<a class="headerlink" href="#final_answer" title="Permanent link">&para;</a></h3>
+<p>Either of these will satisfy the conditions. We can express the answer as:</p>
+<div class="arithmatex">\[
+\boxed{5 + 8i}
+\]</div>
+<p>or equivalently, </p>
+<div class="arithmatex">\[
+\boxed{8 + 5i}
+\]</div>
+<p>If only one answer is requested, we can stick with <span class="arithmatex">\( 5 + 8i \)</span>.</p>
+<h2 id="problem_3">Problem 3<a class="headerlink" href="#problem_3" title="Permanent link">&para;</a></h2>
+<p>Problem Statment:</p>
 <blockquote></blockquote>
+<h2 id="problem_xx">Problem xx<a class="headerlink" href="#problem_xx" title="Permanent link">&para;</a></h2>
+<p>Problem Statment:</p>
 
 
 
