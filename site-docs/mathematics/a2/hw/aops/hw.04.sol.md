@@ -41,7 +41,141 @@ The point that must be on the graph of \(y = f(x) - 7\) is \((3, 8)\).
 
 This problem illustrates how function transformations impact the graph, specifically vertical shifts.
 
-## **Problem 2**
+## **Probmem 2**
+
+## **Problem 3**
+
+We are given that the point \((2, -7)\) is on the graph of \(y = f(x)\). This means that when \(x = 2\), the function \(f(x)\) outputs \(-7\). In other words:
+
+\[
+f(2) = -7
+\]
+
+We need to find a point that must be on the graph of \(y = f(x - 3)\).
+
+### Step 1: Understanding the transformation
+The expression \(f(x - 3)\) represents a horizontal shift of the function \(f(x)\). Specifically:
+- The graph of \(y = f(x - 3)\) is the graph of \(y = f(x)\) shifted 3 units to the right.
+
+### Step 2: Adjusting the input \(x\)
+To find the new point on the graph of \(y = f(x - 3)\), note that if the original function \(f(x)\) has the point \((2, -7)\), this tells us that:
+
+\[
+f(2) = -7
+\]
+
+For the transformed function \(f(x - 3)\), we want to find a point \((a, b)\) such that:
+
+\[
+b = f(a - 3)
+\]
+
+In this case, we know that \(f(2) = -7\), so to preserve the same output \(-7\) for the new function \(f(x - 3)\), the input \(a\) must satisfy:
+
+\[
+a - 3 = 2
+\]
+
+### Step 3: Solve for \(a\)
+Solving for \(a\):
+
+\[
+a = 2 + 3 = 5
+\]
+
+### Step 4: Determine the corresponding output \(b\)
+Since \(f(2) = -7\), the point \((a, b)\) on the graph of \(y = f(x - 3)\) will be:
+
+\[
+b = f(2) = -7
+\]
+
+Thus, the corresponding point on the graph of \(y = f(x - 3)\) is:
+
+\[
+(5, -7)
+\]
+
+### Solution:
+The point that must be on the graph of \(y = f(x - 3)\) is \((5, -7)\).
+
+## **Problem 4**
+
+Given the point \((-2, 3)\) on the graph of \(y = f(x)\), we know that:
+
+\[
+f(-2) = 3
+\]
+
+We need to find a point that must be on the graph of \(y = f(2x + 1) + 3\).
+
+### Step 1: Understand the transformation
+
+The expression \(y = f(2x + 1) + 3\) involves two transformations of the original function \(f(x)\):
+1. A horizontal compression and shift.
+2. A vertical shift.
+
+### Step 2: Analyze the horizontal transformation
+
+The term \(2x + 1\) suggests a horizontal transformation:
+- The function \(f(2x + 1)\) indicates that we should set \(2x + 1 = -2\) (the x-coordinate from our known point) to find the corresponding \(x\) value for the new function.
+
+### Step 3: Solve for \(x\)
+
+Setting up the equation:
+
+\[
+2x + 1 = -2
+\]
+
+Now, we solve for \(x\):
+
+\[
+2x = -2 - 1
+\]
+\[
+2x = -3
+\]
+\[
+x = -\frac{3}{2}
+\]
+
+### Step 4: Find the corresponding \(y\) value
+
+Next, we find the \(y\) value. Since \(f(-2) = 3\), we substitute this into the new function:
+
+\[
+y = f(2(-\frac{3}{2}) + 1) + 3
+\]
+
+Calculating the inside:
+
+\[
+2(-\frac{3}{2}) + 1 = -3 + 1 = -2
+\]
+
+Thus,
+
+\[
+y = f(-2) + 3 = 3 + 3 = 6
+\]
+
+### Final Answer
+
+The point that must be on the graph of \(y = f(2x + 1) + 3\) is:
+
+\[
+\left(-\frac{3}{2}, 6\right)
+\]
+
+So the ordered pair is:
+
+\[
+\boxed{\left(-\frac{3}{2}, 6\right)}
+\]
+
+
+## **Problem 5**
 
 >Looking at the graph, you can clearly see three line segments. This should immediately prompt you to examine the slope of each segment. A line is defined by at least two points, so you can extract two points from the first segment by checking the coordinates.
 
