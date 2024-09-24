@@ -68,9 +68,9 @@ This representation allows for easy visualization and manipulation of complex nu
 
 **References**:
 
-1. **Weisstein, Eric W.** "Complex Number." *MathWorld—A Wolfram Web Resource*. [Link](https://mathworld.wolfram.com/ComplexNumber.html)
+1. **Weisstein, Eric W.** "Complex Number." *MathWorld—A Wolfram Web Resource*. [Website Link](https://mathworld.wolfram.com/ComplexNumber.html)
 
-2. **M. Anthony, N. Biggs.** "Complex Numbers: A Visual Introduction." *Mathematics in Action: Teaching Secondary Mathematics*. [Link](https://www.cambridge.org/core/books/abs/mathematics-in-action/complex-numbers-a-visual-introduction/FFA285A571F8001E4683F63FC895FC0F)
+2. **M. Anthony, N. Biggs.** "Complex Numbers: A Visual Introduction." *Mathematics in Action: Teaching Secondary Mathematics*. [Website Link](https://www.cambridge.org/core/books/abs/mathematics-in-action/complex-numbers-a-visual-introduction/FFA285A571F8001E4683F63FC895FC0F)
 
 3. **Stewart, James.** *Calculus: Early Transcendentals.* Cengage Learning, 2015. (Discusses complex numbers and their applications in calculus.)
 
