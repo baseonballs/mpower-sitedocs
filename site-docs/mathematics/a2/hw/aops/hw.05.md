@@ -220,6 +220,6 @@ Thus, the result is:
 Problem Statement:
 >
 
-## Solutions
+## **Solutions**
 
-Click [here](hw.05.sol.m) for solutions.
+Click [here](hw.05.sol.md) for solutions.
