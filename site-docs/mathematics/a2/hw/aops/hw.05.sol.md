@@ -908,17 +908,119 @@ Thus, the result is:
 ## Problem 10
 
 ### Problem Statment:
+>Compute the product$$(1-3i)(1-2i)(1-i)(1+i)(1+2i)(1+3i).$$
 
 
 ### Solution Approach:
 
+To compute the product 
+
+\[
+(1-3i)(1-2i)(1-i)(1+i)(1+2i)(1+3i),
+\]
+
+we can group the terms strategically and use the fact that \((1 - ai)(1 + ai) = 1 + a^2\) for complex numbers.
+
+### Step 1: Grouping Terms
+
+We can group the factors into pairs:
+
+\[
+(1 - 3i)(1 + 3i), \quad (1 - 2i)(1 + 2i), \quad (1 - i)(1 + i).
+\]
+
+### Step 2: Calculate Each Pair
+
+1. **First Pair:**
+
+\[
+(1 - 3i)(1 + 3i) = 1^2 - (3i)^2 = 1 - 9(-1) = 1 + 9 = 10.
+\]
+
+2. **Second Pair:**
+
+\[
+(1 - 2i)(1 + 2i) = 1^2 - (2i)^2 = 1 - 4(-1) = 1 + 4 = 5.
+\]
+
+3. **Third Pair:**
+
+\[
+(1 - i)(1 + i) = 1^2 - i^2 = 1 - (-1) = 1 + 1 = 2.
+\]
+
+### Step 3: Multiply the Results
+
+Now we multiply the results of the three pairs together:
+
+\[
+10 \cdot 5 \cdot 2 = 50 \cdot 2 = 100.
+\]
+
+### Final Answer
+
+Thus, the value of the product is 
+
+\[
+\boxed{100}.
+\]
 
 
-## Problem xx
+## Problem 11 - Beast Problem
 
 ### Problem Statment:
+>Express $\frac 1{1+\frac 1{1-\frac 1{1+i}}}$ in the form $a+bi$, where $a$ and $b$ are real numbers.
 
+In case you have trouble reading that, here's the same expression written with the other type of fraction notation: $1/\Big(1+1/\big(1-1/(1+i)\big)\Big)$.
 
 ### Solution Approach:
 
+To express \(\frac{1}{1+\frac{1}{1-\frac{1}{1+i}}}\) in the form \(a + bi\), we will work from the innermost fraction outward. 
 
+### Step 1: Simplify the Innermost Fraction
+
+First, simplify \(\frac{1}{1+i}\):
+
+\[
+\frac{1}{1+i} \cdot \frac{1-i}{1-i} = \frac{1-i}{(1+i)(1-i)} = \frac{1-i}{1^2 - i^2} = \frac{1-i}{1 - (-1)} = \frac{1-i}{2} = \frac{1}{2} - \frac{1}{2}i.
+\]
+
+### Step 2: Substitute and Simplify the Next Fraction
+
+Now substitute \(\frac{1}{1+i}\) into \(1 - \frac{1}{1+i}\):
+
+\[
+1 - \frac{1}{1+i} = 1 - \left(\frac{1}{2} - \frac{1}{2}i\right) = 1 - \frac{1}{2} + \frac{1}{2}i = \frac{1}{2} + \frac{1}{2}i.
+\]
+
+### Step 3: Simplify the Next Fraction
+
+Now, we find \(\frac{1}{1 - \frac{1}{1+i}}\):
+
+\[
+\frac{1}{\frac{1}{2} + \frac{1}{2}i} \cdot \frac{\frac{1}{2} - \frac{1}{2}i}{\frac{1}{2} - \frac{1}{2}i} = \frac{\frac{1}{2} - \frac{1}{2}i}{\left(\frac{1}{2}\right)^2 + \left(\frac{1}{2}\right)^2} = \frac{\frac{1}{2} - \frac{1}{2}i}{\frac{1}{4} + \frac{1}{4}} = \frac{\frac{1}{2} - \frac{1}{2}i}{\frac{1}{2}} = 1 - i.
+\]
+
+### Step 4: Substitute Back
+
+Now substitute \(1 - \frac{1}{1+i}\) into \(1 + \frac{1}{1 - \frac{1}{1+i}}\):
+
+\[
+1 + \frac{1}{1 - \frac{1}{1+i}} = 1 + (1 - i) = 2 - i.
+\]
+
+### Step 5: Find the Final Fraction
+
+Now, we find \(\frac{1}{2 - i}\):
+
+\[
+\frac{1}{2 - i} \cdot \frac{2 + i}{2 + i} = \frac{2 + i}{(2 - i)(2 + i)} = \frac{2 + i}{4 + 1} = \frac{2 + i}{5} = \frac{2}{5} + \frac{1}{5}i.
+\]
+
+### Final Result
+
+Thus, the expression \(\frac{1}{1+\frac{1}{1-\frac{1}{1+i}}}\) in the form \(a + bi\) is:
+
+\[
+\boxed{\frac{2}{5} + \frac{1}{5}i}.
+\]
