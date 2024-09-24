@@ -65,7 +65,7 @@ r = \sqrt{a^2 + b^2}
 
    - Substitute \(r\) and \(\theta\) into the polar form \(z = re^{i\theta}\).
 
-## 3. Example Usage of Polr Notation
+## 3. Example Usage of Polar Notation
 
 For the complex number \(z = 3 + 4i\):
 
