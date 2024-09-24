@@ -147,7 +147,9 @@ nav:
       - "Natural Numbers": "./mathematics/elem/number-sets/natural_numbers.md"
       - "Integers": "./mathematics/elem/number-sets/integers.md"
       - "Real Numbers": "mathematics/elem/number-sets/real-numbers.md"
-      - "Complex Numbers": "mathematics/elem/number-sets/complex-numbers.md"
+      - "Complex Numbers":
+        - "Introduction": "mathematics/elem/number-sets/complex-numbers.md"
+        - "A Brief History...": "mathematics/elem/number-sets/complex-number-history.md"
     - "Number System":
       - "Decimal - Base 10": "./mathematics/elem/number-system/decimal.md"
       - "Binary - Base 2":
