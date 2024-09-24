@@ -30,8 +30,9 @@ i + i^2 + i^3 + \cdots + i^{2017}
 
 #### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns/Constraints</span>:
 
-- **Unknown**: The total value of the sum \(i + i^2 + \cdots + i^{2017}\).
-- **Constraints**: 
+  - The total value of the sum \(i + i^2 + \cdots + i^{2017}\).
+
+#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns/Constraints</span>:
 
   - Powers of \(i\) follow a repeating cycle every 4 terms:
 
@@ -79,10 +80,12 @@ where \( \overline{z} \) is the complex conjugate of \( z \). This leads to a re
 - \( \overline{z} = a - bi \), the complex conjugate of \( z \).
 - The equation \( z \overline{z} = 89 \).
 
-#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns/Constraints</span>:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns</span>:
 
-- **Unknown**: The values of \( a \) and \( b \) (integers) that satisfy the equation.
-- **Constraints**: 
+  - The values of \( a \) and \( b \) (integers) that satisfy the equation.
+
+#### <span style="color: gray; font-weight:bold; font-style: normal">Constraints</span>:
+
   - \( z \overline{z} = |z|^2 \), which gives the magnitude squared of \( z \).
   - The equation becomes \( a^2 + b^2 = 89 \), which restricts \( a \) and \( b \) to integers that satisfy this sum of squares equation.
 
@@ -128,10 +131,12 @@ and express the result in the form \(a + bi\), where \(a\) and \(b\) are real nu
 - The denominator is \( 7 + 6i \).
 - \( i = \sqrt{-1} \), so \( i^2 = -1 \).
 
-#### Unknowns/Constraints:#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns/Constraints</span>:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns</span>:
 
-- **Unknown**: The real part \(a\) and the imaginary part \(b\) of the quotient.
-- **Constraints**: 
+  - The real part \(a\) and the imaginary part \(b\) of the quotient.
+
+#### <span style="color: gray; font-weight:bold; font-style: normal">Constraints</span>:
+
   - You must express the result in the form \( a + bi \).
   - Division of complex numbers requires multiplying both the numerator and denominator by the complex conjugate of the denominator.
 
@@ -177,10 +182,12 @@ where \( i = \sqrt{-1} \).
 - The equation is \( \frac{z+1}{z-1} = i \).
 - \( i \) is the imaginary unit, and \( i^2 = -1 \).
 
-#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns/Constraints</span>:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns</span>:
 
-- **Unknown**: The complex number \( z \) that satisfies the equation.
-- **Constraints**: 
+  - The complex number \( z \) that satisfies the equation.
+
+#### <span style="color: gray; font-weight:bold; font-style: normal">Constraints</span>:
+
   - \( z \) is a complex number, which may be written as \( z = a + bi \), where \( a \) and \( b \) are real numbers.
 
 #### <span style="color: orange; font-weight:bold; font-style: normal">Strategy Hints</span>:
@@ -266,12 +273,12 @@ The problem asks for the product of two complex numbers in the form \((5 + 3i)(5
 - Two complex numbers: \((5 + 3i)\) and \((5 - 3i)\)
 - The property \(i^2 = -1\)
 
-##### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns</span>:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Unknowns</span>:
 
 - The real part \(a\) of the product.
 - The imaginary part \(b\) of the product (though it might turn out to be zero).
 
-##### <span style="color: gray; font-weight:bold; font-style: normal">Constraints</span>:
+#### <span style="color: gray; font-weight:bold; font-style: normal">Constraints</span>:
 
 - Correctly apply the **difference of squares** formula: \((a + b)(a - b) = a^2 - b^2\).
 - Ensure proper application of \(i^2 = -1\).
