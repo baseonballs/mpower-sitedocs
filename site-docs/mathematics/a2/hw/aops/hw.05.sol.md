@@ -174,12 +174,85 @@ Thus, the final result of the sum \( i + i^2 + i^3 + \cdots + i^{2016} + i^{2017
 \boxed{i}
 \]
 
+## Problem 2
+
+Problem Statement:
+
+>Find a complex number $z$ such that the real part and imaginary part of $z$ are both integers, and such that
+$$z\overline z = 89.  $$Express your answer in the form $a+bi$, where $a$ and $b$ are integers. Only enter one answer.
+
+---
+
+To find a complex number \( z = a + bi \) where both \( a \) and \( b \) are integers, and the condition \( z \overline{z} = 89 \) holds, we start by using the property of the modulus of a complex number:
+
+\[
+z \overline{z} = |z|^2 = a^2 + b^2
+\]
+
+Given that \( z \overline{z} = 89 \), we have:
+
+\[
+a^2 + b^2 = 89
+\]
+
+Next, we need to find integer pairs \( (a, b) \) such that their squares sum to 89. We can list the perfect squares less than or equal to 89:
+
+\[
+0^2 = 0, \quad 1^2 = 1, \quad 2^2 = 4, \quad 3^2 = 9, \quad 4^2 = 16, \quad 5^2 = 25, \quad 6^2 = 36, \quad 7^2 = 49, \quad 8^2 = 64, \quad 9^2 = 81
+\]
+
+Now, we can find pairs \( (a^2, b^2) \) that add up to 89:
+
+- **If \( a = 0 \)**: \( b^2 = 89 \) (not a perfect square)
+- **If \( a = 1 \)**: \( b^2 = 89 - 1 = 88 \) (not a perfect square)
+- **If \( a = 2 \)**: \( b^2 = 89 - 4 = 85 \) (not a perfect square)
+- **If \( a = 3 \)**: \( b^2 = 89 - 9 = 80 \) (not a perfect square)
+- **If \( a = 4 \)**: \( b^2 = 89 - 16 = 73 \) (not a perfect square)
+- **If \( a = 5 \)**: \( b^2 = 89 - 25 = 64 \) → \( b = 8 \) (valid)
+- **If \( a = 6 \)**: \( b^2 = 89 - 36 = 53 \) (not a perfect square)
+- **If \( a = 7 \)**: \( b^2 = 89 - 49 = 40 \) (not a perfect square)
+- **If \( a = 8 \)**: \( b^2 = 89 - 64 = 25 \) → \( b = 5 \) (valid)
+- **If \( a = 9 \)**: \( b^2 = 89 - 81 = 8 \) (not a perfect square)
+
+### Valid Pairs
+
+From the calculations above, we found the following valid pairs:
+
+1. \( (a, b) = (5, 8) \)
+2. \( (a, b) = (8, 5) \)
+
+### Forming the Complex Numbers
+
+This gives us two complex numbers:
+
+1. \( z = 5 + 8i \)
+2. \( z = 8 + 5i \)
+
+### Final Answer
+
+Either of these will satisfy the conditions. We can express the answer as:
+
+\[
+\boxed{5 + 8i}
+\] 
+
+or equivalently, 
+
+\[
+\boxed{8 + 5i}
+\] 
+
+If only one answer is requested, we can stick with \( 5 + 8i \).
+
+## Problem 3
+
+Problem Statment:
+>
+
+
 
 
 ## Problem xx
 
-Problem Statement:
->
-
-
+Problem Statment:
 
