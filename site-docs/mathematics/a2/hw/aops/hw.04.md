@@ -9,11 +9,12 @@ Problem Statement:
 ### Deconstruction & Analysis:
 
 1. **Givens**:
-   - The point \((3, 15)\) is on the graph of the function \( y = f(x) \).
+
+      - The point \((3, 15)\) is on the graph of the function \( y = f(x) \).
    - You need to find a point on the graph of the new function \( y = f(x) - 7 \).
 
 2. **Unknowns**:
-   - The new \(y\)-coordinate for the given \(x = 3\) after the transformation is applied.
+      - The new \(y\)-coordinate for the given \(x = 3\) after the transformation is applied.
 
 ### Hints & Strategy Outline:
 
@@ -33,11 +34,11 @@ Problem Statement:
 ### Deconstruction & Analysis:
 
 1. **Givens**:
-   - The point \((2, -7)\) is on the graph of \(y = f(x)\).
-   - You are asked to find a point on the graph of \(y = f(x - 3)\).
+      - The point \((2, -7)\) is on the graph of \(y = f(x)\).
+      - You are asked to find a point on the graph of \(y = f(x - 3)\).
 
 2. **Unknowns**:
-   - The new \(x\)-coordinate after the transformation of the function, while the \(y\)-coordinate remains unchanged.
+   -   The new \(x\)-coordinate after the transformation of the function, while the \(y\)-coordinate remains unchanged.
 
 ### Hints & Strategy Outline:
 
@@ -59,12 +60,12 @@ Problem Statement:
 ### Deconstruction & Analysis:
 
 1. **Givens**:
-   - The point \((-2, 3)\) is on the graph of \(y = f(x)\).
-   - You need to find a point on the graph of the transformed function \(y = f(2x + 1) + 3\).
+      - The point \((-2, 3)\) is on the graph of \(y = f(x)\).
+      - You need to find a point on the graph of the transformed function \(y = f(2x + 1) + 3\).
 
 2. **Unknowns**:
-   - The new \(x\)-coordinate after applying the transformation inside the function.
-   - The new \(y\)-coordinate after considering both the transformation inside and the vertical shift outside the function.
+      - The new \(x\)-coordinate after applying the transformation inside the function.
+      - The new \(y\)-coordinate after considering both the transformation inside and the vertical shift outside the function.
 
 ### Hints & Strategy Outline:
 
@@ -87,11 +88,11 @@ Problem Statement:
 ### Deconstruction & Analysis:
 
 1. **Givens**:
-   - The area between the graph of \(y = f(x)\) and the \(x\)-axis is 10 square units.
-   - You need to determine the area between the graph of \(y = f(x + 2)\) and the \(x\)-axis.
+      - The area between the graph of \(y = f(x)\) and the \(x\)-axis is 10 square units.
+      - You need to determine the area between the graph of \(y = f(x + 2)\) and the \(x\)-axis.
 
 2. **Unknowns**:
-   - The area between \(y = f(x + 2)\) and the \(x\)-axis, and how the horizontal shift affects the area.
+      - The area between \(y = f(x + 2)\) and the \(x\)-axis, and how the horizontal shift affects the area.
 
 ### Hints & Strategy Outline:
 
@@ -111,11 +112,11 @@ Problem Statement:
 ### Deconstruction & Analysis:
 
 1. **Givens**:
-   - The area between the graph of \(y = f(x)\) and the \(x\)-axis is 10 square units.
-   - You are asked to find the area between the graph of \(y = 6f(x - 6)\) and the \(x\)-axis.
+      - The area between the graph of \(y = f(x)\) and the \(x\)-axis is 10 square units.
+      - You are asked to find the area between the graph of \(y = 6f(x - 6)\) and the \(x\)-axis.
 
 2. **Unknowns**:
-   - How the transformation \(6f(x - 6)\) affects the area between the graph and the \(x\)-axis.
+      - How the transformation \(6f(x - 6)\) affects the area between the graph and the \(x\)-axis.
 
 ### Hints & Strategy Outline:
 
@@ -141,11 +142,11 @@ Problem Statement:
 ### Deconstruction & Analysis:
 
 1. **Givens**:
-   - The area between the graph of \(y = f(x)\) and the \(x\)-axis is 10 square units.
-   - You need to find the area between the graph of \(y = \frac{1}{2} f(-x)\) and the \(x\)-axis.
+      - The area between the graph of \(y = f(x)\) and the \(x\)-axis is 10 square units.
+      - You need to find the area between the graph of \(y = \frac{1}{2} f(-x)\) and the \(x\)-axis.
 
 2. **Unknowns**:
-   - How the transformations \(\frac{1}{2}\) and \(f(-x)\) affect the area.
+      - How the transformations \(\frac{1}{2}\) and \(f(-x)\) affect the area.
 
 ### Hints & Strategy Outline:
 
