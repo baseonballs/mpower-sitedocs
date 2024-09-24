@@ -77,6 +77,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#polar_representation_of_complex_numbers" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -2395,6 +2400,17 @@
       
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Polar Notation
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -2404,6 +2420,68 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#polar_representation_of_complex_numbers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Polar Representation of Complex Numbers
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#steps_to_convert_to_polar_form" class="md-nav__link">
+    <span class="md-ellipsis">
+      Steps to Convert to Polar Form
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#example" class="md-nav__link">
+    <span class="md-ellipsis">
+      Example
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#applications_of_polar_notation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Applications of Polar Notation
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      Summary
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -7141,6 +7219,59 @@
   
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#polar_representation_of_complex_numbers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Polar Representation of Complex Numbers
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#steps_to_convert_to_polar_form" class="md-nav__link">
+    <span class="md-ellipsis">
+      Steps to Convert to Polar Form
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#example" class="md-nav__link">
+    <span class="md-ellipsis">
+      Example
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#applications_of_polar_notation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Applications of Polar Notation
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      Summary
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -7156,7 +7287,110 @@
 
   <h1>Polar Notation</h1>
 
-
+<p>Polar notation is a way to express complex numbers using their magnitude and angle instead of their rectangular coordinates (real and imaginary parts). This representation is particularly useful in various applications, including engineering, physics, and mathematics, because it simplifies many operations, especially multiplication and division.</p>
+<h3 id="polar_representation_of_complex_numbers">Polar Representation of Complex Numbers<a class="headerlink" href="#polar_representation_of_complex_numbers" title="Permanent link">&para;</a></h3>
+<p>A complex number in rectangular form is given by:</p>
+<div class="arithmatex">\[
+z = a + bi
+\]</div>
+<p>where:</p>
+<ul>
+<li><span class="arithmatex">\(a\)</span> is the real part,</li>
+<li><span class="arithmatex">\(b\)</span> is the imaginary part.</li>
+</ul>
+<p>In polar form, a complex number is expressed as:</p>
+<div class="arithmatex">\[
+z = r(\cos \theta + i \sin \theta)
+\]</div>
+<p>or more compactly using Euler's formula:</p>
+<div class="arithmatex">\[
+z = re^{i\theta}
+\]</div>
+<p>where:</p>
+<ul>
+<li><span class="arithmatex">\(r\)</span> is the <strong>magnitude</strong> (or <strong>modulus</strong>) of the complex number, calculated as:</li>
+</ul>
+<div class="arithmatex">\[
+r = |z| = \sqrt{a^2 + b^2}
+\]</div>
+<ul>
+<li><span class="arithmatex">\(\theta\)</span> is the <strong>argument</strong> (or <strong>angle</strong>) of the complex number, calculated using:</li>
+</ul>
+<div class="arithmatex">\[
+\theta = \tan^{-1}\left(\frac{b}{a}\right)
+\]</div>
+<h3 id="steps_to_convert_to_polar_form">Steps to Convert to Polar Form<a class="headerlink" href="#steps_to_convert_to_polar_form" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p><strong>Calculate the Magnitude</strong>:</p>
+</li>
+<li>
+<p>Find the distance from the origin to the point <span class="arithmatex">\((a, b)\)</span> using:</p>
+</li>
+</ol>
+<div class="arithmatex">\[
+r = \sqrt{a^2 + b^2}
+\]</div>
+<ol>
+<li>
+<p><strong>Calculate the Angle</strong>:</p>
+</li>
+<li>
+<p>Find the angle using the arctangent function:</p>
+</li>
+</ol>
+<div class="arithmatex">\[
+\theta = \tan^{-1}\left(\frac{b}{a}\right)
+\]</div>
+<p>Be mindful of the quadrant in which the point <span class="arithmatex">\((a, b)\)</span> lies to determine the correct angle.</p>
+<ol>
+<li>
+<p><strong>Write in Polar Form</strong>:</p>
+</li>
+<li>
+<p>Substitute <span class="arithmatex">\(r\)</span> and <span class="arithmatex">\(\theta\)</span> into the polar form <span class="arithmatex">\(z = re^{i\theta}\)</span>.</p>
+</li>
+</ol>
+<h3 id="example">Example<a class="headerlink" href="#example" title="Permanent link">&para;</a></h3>
+<p>For the complex number <span class="arithmatex">\(z = 3 + 4i\)</span>:</p>
+<ol>
+<li><strong>Calculate the Magnitude</strong>:</li>
+</ol>
+<div class="arithmatex">\[
+r = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5
+\]</div>
+<ol>
+<li><strong>Calculate the Angle</strong>:</li>
+</ol>
+<div class="arithmatex">\[
+\theta = \tan^{-1}\left(\frac{4}{3}\right) \approx 0.93 \text{ radians} \text{ (or } 53.13^\circ\text{)}
+\]</div>
+<ol>
+<li><strong>Write in Polar Form</strong>:</li>
+</ol>
+<div class="arithmatex">\[
+z = 5\left(\cos(0.93) + i\sin(0.93)\right) \quad \text{or} \quad z = 5e^{i0.93}
+\]</div>
+<h3 id="applications_of_polar_notation">Applications of Polar Notation<a class="headerlink" href="#applications_of_polar_notation" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Multiplication and Division</strong>: In polar form, multiplying two complex numbers involves multiplying their magnitudes and adding their angles:</li>
+</ul>
+<div class="arithmatex">\[
+z_1 = r_1 e^{i\theta_1}, \quad z_2 = r_2 e^{i\theta_2}
+\]</div>
+<div class="arithmatex">\[
+z_1 \cdot z_2 = r_1 r_2 e^{i(\theta_1 + \theta_2)}
+\]</div>
+<ul>
+<li>
+<p><strong>Euler's Formula</strong>: Polar notation allows for elegant expressions of periodic functions and solutions to differential equations.</p>
+</li>
+<li>
+<p><strong>Signal Processing</strong>: In engineering, polar form simplifies the analysis of sinusoidal signals and AC circuits.</p>
+</li>
+</ul>
+<h3 id="summary">Summary<a class="headerlink" href="#summary" title="Permanent link">&para;</a></h3>
+<p>Polar notation provides a powerful way to represent complex numbers, focusing on their magnitude and angle. This representation simplifies various mathematical operations and is widely used in science and engineering. If you have more questions or need further examples, feel free to ask!</p>
 
 
 
