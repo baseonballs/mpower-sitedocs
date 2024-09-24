@@ -179,7 +179,7 @@ Thus, the final result of the sum \( i + i^2 + i^3 + \cdots + i^{2016} + i^{2017
 Problem Statement:
 
 >Find a complex number $z$ such that the real part and imaginary part of $z$ are both integers, and such that
-$$z\overline z = 89.  $$Express your answer in the form $a+bi$, where $a$ and $b$ are integers. Only enter one answer.
+$$z\overline z = 89. $$Express your answer in the form $a+bi$, where $a$ and $b$ are integers. Only enter one answer.
 
 ---
 
@@ -246,13 +246,154 @@ If only one answer is requested, we can stick with \( 5 + 8i \).
 
 ## Problem 3
 
-Problem Statment:
->
+### Problem Statment:
+>Find a complex number $z$ such that the real part and imaginary part of $z$ are both integers, and such that
+$$z\overline z = 89. $$Express your answer in the form $a+bi$, where $a$ and $b$ are integers. Only enter one answer.
+
+### Solution Approach
+
+To find a complex number \( z = a + bi \) where both \( a \) and \( b \) are integers, and the condition \( z \overline{z} = 89 \) holds, we start by using the property of the modulus of a complex number:
+
+\[
+z \overline{z} = |z|^2 = a^2 + b^2
+\]
+
+Given that \( z \overline{z} = 89 \), we have:
+
+\[
+a^2 + b^2 = 89
+\]
+
+Next, we need to find integer pairs \( (a, b) \) such that their squares sum to 89. We can list the perfect squares less than or equal to 89:
+
+\[
+0^2 = 0, \quad 1^2 = 1, \quad 2^2 = 4, \quad 3^2 = 9, \quad 4^2 = 16, \quad 5^2 = 25, \quad 6^2 = 36, \quad 7^2 = 49, \quad 8^2 = 64, \quad 9^2 = 81
+\]
+
+Now, we can find pairs \( (a^2, b^2) \) that add up to 89:
+
+- **If \( a = 0 \)**: \( b^2 = 89 \) (not a perfect square)
+- **If \( a = 1 \)**: \( b^2 = 89 - 1 = 88 \) (not a perfect square)
+- **If \( a = 2 \)**: \( b^2 = 89 - 4 = 85 \) (not a perfect square)
+- **If \( a = 3 \)**: \( b^2 = 89 - 9 = 80 \) (not a perfect square)
+- **If \( a = 4 \)**: \( b^2 = 89 - 16 = 73 \) (not a perfect square)
+- **If \( a = 5 \)**: \( b^2 = 89 - 25 = 64 \) → \( b = 8 \) (valid)
+- **If \( a = 6 \)**: \( b^2 = 89 - 36 = 53 \) (not a perfect square)
+- **If \( a = 7 \)**: \( b^2 = 89 - 49 = 40 \) (not a perfect square)
+- **If \( a = 8 \)**: \( b^2 = 89 - 64 = 25 \) → \( b = 5 \) (valid)
+- **If \( a = 9 \)**: \( b^2 = 89 - 81 = 8 \) (not a perfect square)
+
+### Valid Pairs
+
+From the calculations above, we found the following valid pairs:
+
+1. \( (a, b) = (5, 8) \)
+2. \( (a, b) = (8, 5) \)
+
+### Forming the Complex Numbers
+
+This gives us two complex numbers:
+
+1. \( z = 5 + 8i \)
+2. \( z = 8 + 5i \)
+
+### Final Answer
+
+Either of these will satisfy the conditions. We can express the answer as:
+
+\[
+\boxed{5 + 8i}
+\] 
+
+or equivalently, 
+
+\[
+\boxed{8 + 5i}
+\] 
+
+If only one answer is requested, we can stick with \( 5 + 8i \).
 
 
+## Problem 4
 
+### Problem Statment:
+>Find all complex numbers $z$ satisfying the equation \(\frac{z+1}{z-1} = i.\).
+
+### Solution Approach:
+
+To solve the equation 
+
+\[
+\frac{z+1}{z-1} = i,
+\]
+
+we can start by cross-multiplying to eliminate the fraction:
+
+\[
+z + 1 = i(z - 1).
+\]
+
+Next, we distribute \( i \) on the right side:
+
+\[
+z + 1 = iz - i.
+\]
+
+Now, we can rearrange the equation to get all terms involving \( z \) on one side:
+
+\[
+z - iz = -i - 1.
+\]
+
+Factoring out \( z \) from the left side gives:
+
+\[
+z(1 - i) = -i - 1.
+\]
+
+Next, we can isolate \( z \):
+
+\[
+z = \frac{-i - 1}{1 - i}.
+\]
+
+To simplify this expression, we multiply the numerator and denominator by the conjugate of the denominator:
+
+\[
+z = \frac{(-i - 1)(1 + i)}{(1 - i)(1 + i)}.
+\]
+
+Calculating the denominator first:
+
+\[
+(1 - i)(1 + i) = 1^2 - i^2 = 1 - (-1) = 2.
+\]
+
+Now, calculate the numerator:
+
+\[
+(-i - 1)(1 + i) = -i(1) - i(i) - 1(1) - 1(i) = -i + 1 - 1 - i = -2i.
+\]
+
+Putting it all together, we have:
+
+\[
+z = \frac{-2i}{2} = -i.
+\]
+
+### Conclusion
+
+Thus, the complex number \( z \) that satisfies the equation is:
+
+\[
+\boxed{-i}.
+\]
 
 ## Problem xx
 
-Problem Statment:
+### Problem Statment:
+
+
+### Solution Approach:
+
 
