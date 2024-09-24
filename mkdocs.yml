@@ -158,11 +158,6 @@ nav:
         - "Introduction": "./mathematics/elem/number-system/binary.md"
         - "Exercises": "mathematics/elem/number-system/exercise/b10_to_b2-01.md"
       - "Hexadecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
-    - "Segmentation": 
-      - "Segmentation in Mathematics": "mathematics/elem/segmentation/segmentation.md"
-      - "Divisibility & Grouping": "mathematics/elem/segmentation/segmentation-grouping.md"
-    - "Aggregation":
-      - "Aggregation in Mathematics": "mathematics/elem/unification/aggregation.md"     
     - "Number Patterns":
       - "Why Find Patterns?": "mathematics/elem/patterns/why-find-patterns.md"
       - "Patterns with Integers": "mathematics/elem/patterns/paterns-integers.md"
@@ -176,6 +171,12 @@ nav:
         - "Bionomial Squares" : "mathematics/elem/patterns/montessori-cubes/bionomial-square-expansion.md"
         - "Bionomial Cubes" : "mathematics/elem/patterns/montessori-cubes/binomial-cube-expansion.md"
         - "Bionomial Cubes & Pathagorean" : "mathematics/elem/patterns/montessori-cubes/binomial-cube-pythagorean.md"
+    - "Number Operations":
+      - "Aggregation":
+        - "Aggregation in Mathematics": "mathematics/elem/unification/aggregation.md"
+      - "Segmentation": 
+        - "Segmentation in Mathematics": "mathematics/elem/segmentation/segmentation.md"
+        - "Divisibility & Grouping": "mathematics/elem/segmentation/segmentation-grouping.md"
     - "Definition & Properties":
       - "Constructs Used in Proofs": "mathematics/elem/def/def-axioms-theorems.md"
       - "Sets, Lists, Tuples": "mathematics/elem/properties/sets/sets-lists-tuples.md"
