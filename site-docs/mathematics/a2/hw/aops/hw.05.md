@@ -183,43 +183,6 @@ Express your answer in the form $a+bi$, where $a$ and $b$ are real numbers.
 
 We are tasked with computing \( (2i - 6)(5 + i) \) and expressing the result in the form \( a + bi \), where \( a \) and \( b \) are real numbers.
 
-### Step-by-Step Solution:
-
-1. **Expand using the distributive property** (FOIL):
-
-\[
-(2i - 6)(5 + i) = (2i)(5) + (2i)(i) + (-6)(5) + (-6)(i)
-\]
-
-2. **Simplify each term**:
-
-   - \( (2i)(5) = 10i \)
-   - \( (2i)(i) = 2i^2 = 2(-1) = -2 \) (since \( i^2 = -1 \))
-   - \( (-6)(5) = -30 \)
-   - \( (-6)(i) = -6i \)
-
-3. **Combine like terms**:
-
-\[
-10i - 2 - 30 - 6i = (-2 - 30) + (10i - 6i)
-\]
-
-\[
-= -32 + 4i
-\]
-
-Thus, the result is:
-
-\[
-\boxed{-32 + 4i}
-\]
-
-
-## Problem xxx
-
-Problem Statement:
->
-
 ## **Solutions**
 
 Click [here](hw.05.sol.md) for solutions.
