@@ -5,12 +5,9 @@ Complex numbers can be represented using coordinates in a two-dimensional space,
 ## The Complex Plane
 
 1. **Axes**:
-
     - The horizontal axis (often called the **real axis**) represents the **real part** of the complex number.
     - The vertical axis (often called the **imaginary axis**) represents the **imaginary part** of the complex number.
-
 2. **Coordinate Representation**:
-
     - A complex number is typically expressed in the form \(a + bi\), where:
         - \(a\) is the **real part**.
         - \(b\) is the **imaginary part** (the coefficient of \(i\)).
@@ -25,10 +22,9 @@ For the complex number \(3 + 4i\):
 - In the complex plane, this number corresponds to the point \((3, 4)\).
 
 ## Visualizing Complex Numbers
-
 - When you plot complex numbers on the complex plane, you can see how they relate to one another.
 - The distance from the origin (0, 0) to the point \((a, b)\) can be found using the **Pythagorean theorem**, which gives the **magnitude** (or **modulus**) of the complex number:
-  
+
 \[
 |z| = \sqrt{a^2 + b^2}
 \]
