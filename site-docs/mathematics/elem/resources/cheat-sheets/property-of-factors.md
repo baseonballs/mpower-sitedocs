@@ -32,6 +32,14 @@
 
     - Example: \(4 \div 2 = 2\), so 2 is a factor of 4.
 
+9. **Greatest Common Factor (GCF)**: The GCF of two numbers is the largest factor they share.
+
+    - Example: \(\text{gcf}(36, 48) = 12\).
+
+10. **Negative Factors**: Every positive factor has a corresponding negative factor.
+
+    - Example: Factors of 12 include \(-1, -2, -3, -4, -6, -12\).
+
 ---
 
 These properties form the foundation of understanding number theory, divisibility, and the structure of integers.
