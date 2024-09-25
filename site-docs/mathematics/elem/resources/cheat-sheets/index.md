@@ -21,7 +21,7 @@ and the GCF is:
 \text{GCF}(a, b) = \frac{|a \times b|}{\text{LCM}(a, b)}
 \]
 
-- **<span style="color: brown; font-weight:bold; font-style: normal">PRIME</span>**:
+- **<span style="color: brown; font-weight:bold; font-style: normal">Prime</span>**:
     - for $n$ > 1, 2 distinct factors: 1 and itself
     - building blocks of all natural numbers > 1
 
