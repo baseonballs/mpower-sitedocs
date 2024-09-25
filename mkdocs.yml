@@ -209,8 +209,8 @@ nav:
     - "Appendix - Resources":
       - "Cheatsheets": 
         - "General": "mathematics/elem/resources/cheat-sheets/index.md"
-        - "Factors Properties": "mathematics/elem/resources/cheat-sheets/properties-of-factors.md"
-        - "Multiples Properties": "mathematics/elem/resources/cheat-sheets/properties-of-factors.md"
+        - "Factors Properties": ""
+        - "Multiples Properties": ""
       - "Problem Solving": "page-404.md"
   - "Algebra 1":
     - "Class, Forms & Structures of Equations":
