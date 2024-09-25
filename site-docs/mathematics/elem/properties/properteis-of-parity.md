@@ -18,40 +18,46 @@ Parity refers to the classification of integers into two categories:
 ## **2. Properties of Parity**
 
 ### 2.1 **Addition and Subtraction**:
+
 The parity of the result of addition or subtraction of two integers depends on the parities of the integers involved:
+
 - **Even + Even = Even**
-  - Example: \(4 + 6 = 10\)
+    - Example: \(4 + 6 = 10\)
 - **Odd + Odd = Even**
-  - Example: \(3 + 5 = 8\)
+    - Example: \(3 + 5 = 8\)
 - **Even + Odd = Odd**
-  - Example: \(4 + 5 = 9\)
+    - Example: \(4 + 5 = 9\)
 
 The same rules apply to subtraction.
 
 ### 2.2 **Multiplication**:
 The parity of the product of two integers also follows predictable patterns:
+
 - **Even × Even = Even**
-  - Example: \(4 \times 6 = 24\)
+    - Example: \(4 \times 6 = 24\)
 - **Odd × Odd = Odd**
-  - Example: \(3 \times 5 = 15\)
+    - Example: \(3 \times 5 = 15\)
 - **Even × Odd = Even**
-  - Example: \(4 \times 5 = 20\)
+    - Example: \(4 \times 5 = 20\)
 
 ### 2.3 **Division**:
 Parity under division is less straightforward. While dividing an even number by 2 yields an integer, dividing an odd number by 2 results in a non-integer:
+
 - **Even ÷ 2** results in an integer.
-  - Example: \(8 ÷ 2 = 4\)
+    - Example: \(8 ÷ 2 = 4\)
 - **Odd ÷ 2** results in a fraction or non-integer.
-  - Example: \(9 ÷ 2 = 4.5\)
+    - Example: \(9 ÷ 2 = 4.5\)
 
 ### 2.4 **Parity in Modular Arithmetic**:
-Parity can be expressed using **modular arithmetic**, specifically modulo 2. 
+
+Parity can be expressed using **modular arithmetic**, specifically modulo 2.
+
 - For even numbers, \( n \equiv 0 \ (\text{mod}\ 2) \).
 - For odd numbers, \( n \equiv 1 \ (\text{mod}\ 2) \).
 
 ### 2.5 **Parity in Sequences**:
 - Alternating sequences often involve parity, such as in arithmetic sequences where each successive term changes parity.  
-  **Example**: The sequence \(1, 2, 3, 4, 5, \dots\) alternates between odd and even.
+    - Example: The sequence \(1, 2, 3, 4, 5, \dots\) alternates between odd and even.
 
 ---
 
@@ -71,12 +77,15 @@ Parity is often used to check the validity of solutions in various problems. For
 ## **4. Applications of Parity**
 
 ### 4.1 **Graph Theory**:
+
 In **graph theory**, parity is used to analyze the degree of vertices in a graph. For instance, Euler's theorem on the existence of an **Eulerian circuit** in a graph depends on the parity of vertex degrees (all vertices must have an even degree for such a circuit to exist).
 
 ### 4.2 **Number Theory**:
+
 Parity is fundamental in **number theory**. Many theorems and problems, such as Fermat’s Little Theorem or the analysis of Diophantine equations, rely on parity arguments to reduce the complexity of computations.
 
 ### 4.3 **Algebra**:
+
 Parity also shows up in linear algebra, particularly in the study of permutations. The **sign of a permutation** is related to the parity of the number of transpositions in its decomposition (even or odd permutations).
 
 ---
@@ -84,9 +93,11 @@ Parity also shows up in linear algebra, particularly in the study of permutation
 ## **5. Generalizations and Extensions**
 
 ### 5.1 **Generalized Parity**:
+
 While parity typically applies to integers, similar notions can be extended to other algebraic structures. For instance, in **finite fields** or **ring theory**, parity-like concepts can help classify elements and operations.
 
 ### 5.2 **Higher Dimensions**:
+
 Parity can be extended to multidimensional problems. For example, the **parity of a vector** can be defined in terms of the parities of its components.
 
 ---
@@ -99,7 +110,6 @@ Parity is a powerful and versatile concept that underpins a wide range of mathem
 
 **Citations**:
 
-```markdown
 1. Apostol, T. M. (1976). *Introduction to Analytic Number Theory*. Springer.  
    This book provides detailed discussions on number theory topics, including the properties of even and odd numbers and modular arithmetic.
 
@@ -114,4 +124,3 @@ Parity is a powerful and versatile concept that underpins a wide range of mathem
 
 5. Biggs, N. L. (2002). *Discrete Mathematics*. Oxford University Press.  
    A comprehensive resource on discrete mathematics, covering graph theory, number theory, and modular arithmetic, with a focus on parity arguments.
-```
