@@ -91,3 +91,20 @@ Two or more numbers are said to be **coprime** (or relatively prime) if their gr
 ## **Summary**
 
 Prime numbers and coprime numbers are both fundamental concepts in mathematics, with distinct but interrelated properties. Prime numbers are the indivisible building blocks of all integers, while coprime numbers are pairs of integers that share no common divisors other than 1. The interplay between these two concepts is essential in fields such as cryptography, number theory, and modular arithmetic, making them both foundational to deeper mathematical inquiry.
+
+**Citations**:
+
+1. Hardy, G. H., & Wright, E. M. (2008). *An Introduction to the Theory of Numbers*. Oxford University Press.  
+   This book is a classical reference in number theory that discusses prime numbers, their properties, and the Fundamental Theorem of Arithmetic.
+
+2. Crandall, R., & Pomerance, C. (2005). *Prime Numbers: A Computational Perspective*. Springer.  
+   This source offers insights into the properties of prime numbers and their applications in cryptography.
+
+3. Burton, D. M. (2010). *Elementary Number Theory*. McGraw-Hill.  
+   This text covers key topics in number theory, including coprime numbers, greatest common divisors, and Euler's Totient Function.
+
+4. Apostol, T. M. (1976). *Introduction to Analytic Number Theory*. Springer.  
+   This book explains the connection between primes and coprimes, discussing applications in modular arithmetic and number theory.
+
+5. Rosen, K. H. (2012). *Elementary Number Theory and Its Applications*. Pearson.  
+   This resource offers a deep dive into number theory concepts, including coprime relations and prime factorization.
