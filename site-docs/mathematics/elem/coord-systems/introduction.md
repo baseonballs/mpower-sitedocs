@@ -29,13 +29,3 @@ Coordinate systems are essential in mathematics for locating points in a space d
 ### Summary
 These coordinate systems provide different ways to represent points in space, each suited for specific applications and geometries. Understanding these systems is crucial for solving a wide range of mathematical problems and for applications in science and engineering.
 
-
-**References**:
-
-"Calculus" by James Stewart - This textbook covers various coordinate systems, including Cartesian, polar, cylindrical, and spherical coordinates, along with their applications in calculus.
-
-"Geometry" by David A. Brannan, Matthew F. Esplen, and Jeremy J. Gray - This book discusses coordinate systems in the context of geometry, including both Cartesian and polar systems.
-
-"Linear Algebra and Its Applications" by Gilbert Strang - This book touches on homogeneous coordinates and their applications in linear algebra and geometry.
-
-Khan Academy - The online educational platform provides a wealth of resources on various coordinate systems, including videos and exercises that explain their use and applications. (Website: Khan Academy)
