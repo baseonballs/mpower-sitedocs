@@ -13,6 +13,13 @@
 3. **1 and the Number Itself**: Every number has 1 and itself as factors.
 
     - Example: Factors of 7 include 1 and 7.
+
+4. **Finite Set of Factors**: A non-zero integer has a finite number of factors, determined by its prime factorization.
+
+    - Example: \(36 = 2^2 \times 3^2\) has 9 factors.
+
+5. **Symmetry in Factors**: If \(a\) divides \(b\), then \(b/a\) is also a factor of \(b\), forming symmetrical pairs.
+
 ---
 
 These properties form the foundation of understanding number theory, divisibility, and the structure of integers.
