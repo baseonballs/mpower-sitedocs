@@ -218,4 +218,4 @@ The sequence \(3, 6, 9, 12, \dots\) is the set of multiples of 3, and each term 
 
 Multiples are a powerful tool in arithmetic and number theory. They reveal patterns in the behavior of numbers, help solve real-world problems involving cycles and repetition, and allow for the identification of common ground between different quantities. By understanding the properties of multiples—such as their infinite nature, relationship with division, and connection to the least common multiple (LCM)—you can solve a wide variety of mathematical problems with greater ease.
 
-Refer to cheatsheets for the [properties of multiples summarization](../../resources/cheat-sheets/property-of-multiples.md).
+Refer to cheatsheets for the [properties of multiples summarization](../../resources/cheat-sheets/properties-of-multiples.md).
