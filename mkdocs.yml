@@ -210,7 +210,7 @@ nav:
       - "Cheatsheets": 
         - "General": "mathematics/elem/resources/cheat-sheets/index.md"
         - "Factors Properties": "mathematics/elem/resources/cheat-sheets/properties-of-factors.md"
-        - "Multiples Properties": ""
+        - "Multiples Properties": "mathematics/elem/resources/cheat-sheets/properties-of-multiples.md"
       - "Problem Solving": "page-404.md"
   - "Algebra 1":
     - "Class, Forms & Structures of Equations":
