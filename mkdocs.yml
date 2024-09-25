@@ -294,7 +294,7 @@ nav:
       - "Forms & Structures": "mathematics/a2/eqs/cubic/cubic-forms-structures.md"
     - "Trignometic Functions":
       - "Identities": "./mathematics/a2/trig.md"
-    - "Appendix Resources":
+    - "Appendix - Resources":
       - "Problem Solving":
         - "AoPS-A2":
           - "Lesson 4 - Functions": "mathematics/a2/hw/aops/hw.04.md"
