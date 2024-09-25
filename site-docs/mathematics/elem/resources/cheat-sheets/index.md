@@ -3,10 +3,22 @@
 
 - LCM - The **LCM** (Lowest Common Multiple) is the product of the highest powers of all prime factors
 - GCF - The **GCF** (Greatest Common Factor) is the product of the lowest powers of common prime factors.
-- The relationship between the **Least Common Multiple (LCM)** and the **Greatest Common Factor (GCF)** (also known as Greatest Common Divisor, GCD) of two numbers \( a \) and \( b \) can be expressed by the following formula:
+- The relationship between the **Least Common Multiple (LCM)** and the **Greatest Common Factor (GCF)** of two numbers \( a \) and \( b \) can be expressed by the following formula:
 
 \[
 \text{LCM}(a, b) \times \text{GCF}(a, b) = |a \times b|
+\]
+
+thus the LCM is:
+
+\[
+\text{LCM}(a, b) = \frac{|a \times b|}{\text{GCF}(a, b)}
+\]
+
+and the GCF is:
+
+\[
+\text{GCF}(a, b) = \frac{|a \times b|}{\text{LCM}(a, b)}
 \]
 
 - Prime:
