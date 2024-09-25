@@ -192,6 +192,15 @@ nav:
       - "Properties of Structures":
         - "Properties of Sets": "mathematics/elem/properties/sets/properties-of-sets.md"
         - "Properties of Set-like Structures": "mathematics/elem/properties/sets/properties-of-sets-like.md"
+    - "Factors & Multiples":
+      - "Propeties of Factors": "mathematics/elem/core-concepts/factors-multiples/factors-properties.md"
+      - "Propeties of Multiples": ""
+      - "Prime Factorization": ""
+      - "Relation of Factors & Multiples": ""
+    - "GCF & LCM":
+      - "Propeties of GCF": ""
+      - "Propeties of LCM": ""
+      - "Relationship of LCM & GCF": ""
     - "Coordinate Systems":
       - "Introduction": "mathematics/elem/coord-systems/introduction.md"
     - "Appendix - Resources":
