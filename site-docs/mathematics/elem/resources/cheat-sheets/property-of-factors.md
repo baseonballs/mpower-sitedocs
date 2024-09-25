@@ -40,6 +40,9 @@
 
     - Example: Factors of 12 include \(-1, -2, -3, -4, -6, -12\).
 
+11. **Coprime (Relatively Prime) Numbers**: Two or more numbers are **coprime** if their greatest common factor (GCF) is 1, meaning they share no factors other than 1.
+    - Example: \(15\) and \(8\) are coprime because \(\text{gcf}(15, 8) = 1\).
+
 ---
 
 These properties form the foundation of understanding number theory, divisibility, and the structure of integers.
