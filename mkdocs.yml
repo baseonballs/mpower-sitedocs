@@ -192,6 +192,8 @@ nav:
       - "Properties of Structures":
         - "Properties of Sets": "mathematics/elem/properties/sets/properties-of-sets.md"
         - "Properties of Set-like Structures": "mathematics/elem/properties/sets/properties-of-sets-like.md"
+    - "Coordinate Systems":
+      - "Introduction": "mathematics/elem/coord-systems/introduction.md"
     - "Appendix - Resources":
       - "Cheatsheets": "mathematics/elem/resources/cheat-sheets/index.md"
       - "Problem Solving": "page-404.md"
