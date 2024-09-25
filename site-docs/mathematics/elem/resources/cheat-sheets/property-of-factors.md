@@ -20,6 +20,18 @@
 
 5. **Symmetry in Factors**: If \(a\) divides \(b\), then \(b/a\) is also a factor of \(b\), forming symmetrical pairs.
 
+6. **Prime Numbers**: Prime numbers have exactly two factors: 1 and the prime itself.
+
+    - Example: The prime number 13 has factors 1 and 13.
+
+7. **Composite Numbers**: Composite numbers have more than two factors.
+
+    - Example: 18 is composite, with factors \(1, 2, 3, 6, 9, 18\).
+
+8. **Divisibility**: Factors relate directly to divisibility. If \(a\) divides \(b\), \(a\) is a factor of \(b\).
+
+    - Example: \(4 \div 2 = 2\), so 2 is a factor of 4.
+
 ---
 
 These properties form the foundation of understanding number theory, divisibility, and the structure of integers.
