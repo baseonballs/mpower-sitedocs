@@ -189,7 +189,7 @@ nav:
         - "Properties of Infinity": "mathematics/elem/properties/properties-of-infinity.md"
         - "Properties of Real": "mathematics/elem/properties/properties-of-real.md"
         - "Properties of Complex Numbers": "mathematics/elem/properties/properties-of-complex.md"
-        - "Properties of Primes & Coprimes": "page-404.md"
+        - "Properties of Primes & Coprimes": "mathematics/elem/properties/properties-of-primes-coprimes.md"
       - "Properties of Structures":
         - "Properties of Sets": "mathematics/elem/properties/sets/properties-of-sets.md"
         - "Properties of Set-like Structures": "mathematics/elem/properties/sets/properties-of-sets-like.md"
