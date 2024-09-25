@@ -194,6 +194,7 @@ nav:
         - "Properties of Set-like Structures": "mathematics/elem/properties/sets/properties-of-sets-like.md"
     - "Appendix - Resources":
       - "Cheatsheets": "mathematics/elem/resources/cheat-sheets/index.md"
+      - "Problem Solving": "page-404.md"
   - "Algebra 1":
     - "Class, Forms & Structures of Equations":
       - "Equations, Functions, Curves & Graphs": "mathematics/a1/general/eqs-functions-curves-graphs.md"

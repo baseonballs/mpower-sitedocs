@@ -24,6 +24,7 @@ and the GCF is:
 - **<span style="color: brown; font-weight:bold; font-style: normal">PRIME</span>**:
     - for $n$ > 1, 2 distinct factors: 1 and itself
     - building blocks of all natural numbers > 1
+    - 2 is the smallest and the only even prime number since $2n$ are no longer primes.
 
 - **<span style="color: brown; font-weight:bold; font-style: normal">Fundamental Theorem of Arithmetic</span>**: Every natural number greater > 1 can be uniquely expressed as a product of prime numbers, disregarding the order of the factors.
 
