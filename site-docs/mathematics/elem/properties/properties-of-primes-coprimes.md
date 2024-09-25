@@ -1,6 +1,6 @@
 # Properties of Prime Numbers and Coprimes
 
-Prime numbers and coprime numbers are central concepts in number theory, each with unique properties that play a crucial role in areas ranging from factorization to modular arithmetic. This discourse will explore the properties of both primes and coprimes, highlighting their definitions, characteristics, and relationships to each other.
+Prime numbers and coprime numbers are central concepts in number theory, each with unique properties that play a crucial role in areas ranging from factorization to modular arithmetic. This seciton will explore the properties of both primes and coprimes, highlighting their definitions, characteristics, and relationships to each other.
 
 ---
 
