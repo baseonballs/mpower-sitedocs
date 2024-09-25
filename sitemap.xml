@@ -713,10 +713,6 @@
          <lastmod>2024-09-25</lastmod>
     </url>
     <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/elem/properties/properties-of-coprimes/</loc>
-         <lastmod>2024-09-25</lastmod>
-    </url>
-    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/properties/properties-of-infinity/</loc>
          <lastmod>2024-09-25</lastmod>
     </url>
@@ -733,15 +729,15 @@
          <lastmod>2024-09-25</lastmod>
     </url>
     <url>
+         <loc>http://localhost:8080/sitedocs/mathematics/elem/properties/properties-of-primes-coprimes/</loc>
+         <lastmod>2024-09-25</lastmod>
+    </url>
+    <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/properties/properties-of-real/</loc>
          <lastmod>2024-09-25</lastmod>
     </url>
     <url>
          <loc>http://localhost:8080/sitedocs/mathematics/elem/properties/properties-of-zero/</loc>
-         <lastmod>2024-09-25</lastmod>
-    </url>
-    <url>
-         <loc>http://localhost:8080/sitedocs/mathematics/elem/properties/properties%3Dof-primes/</loc>
          <lastmod>2024-09-25</lastmod>
     </url>
     <url>
