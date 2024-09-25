@@ -334,7 +334,7 @@ nav:
       - "Chicken McNugget Theorem": "mathematics/nt/theorems/Chicken-McNugget.md"
       - "Fermat's Little Theorem" : "mathematics/nt/primality/fermat.md"
       - "Euler's Theorem" : "mathematics/nt/theorems/euler-theorem.md"
-    - "Resources":
+    - "Appendix - Resources":
       - "Cheat-Sheets":
         - "Number Theory Theorems": "mathematics/nt/cheat-sheets/index.md"
         - "Count Number of Factors": "mathematics/nt/cheat-sheets/count-n-factors.md"
