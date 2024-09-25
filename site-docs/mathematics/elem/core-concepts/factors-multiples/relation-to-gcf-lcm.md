@@ -43,3 +43,20 @@ The LCM is the product of the highest powers of all primes:
 The smallest common multiple of 48 and 60 is 240. All other common multiples will be multiples of 240 (e.g., 480, 720, 960, etc.).
 
 - **Common Multiples of 48 and 60**: \( 240, 480, 720, 960, \ldots \).
+
+# Application Example: Scheduling Problem
+
+Suppose you have two tasks, one that repeats every 48 minutes and another every 60 minutes. You want to know when both tasks will occur simultaneously.
+
+- The **LCM(48, 60)** is 240, so both tasks will occur together every 240 minutes (or 4 hours).
+
+## Application Example: Dividing Items into Groups
+
+You have 48 apples and 60 oranges. You want to divide them into the largest possible equal groups of apples and oranges, without any leftover.
+
+- The **GCF(48, 60)** is 12, so you can divide them into 12 equal groups, each containing 4 apples and 5 oranges.
+
+## Key Insights:
+
+- The **GCF** helps with division problems where you're trying to break something into the largest possible equal groups.
+- The **LCM** helps with scheduling or combining events/tasks that happen at different intervals.
