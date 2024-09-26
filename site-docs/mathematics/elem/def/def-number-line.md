@@ -20,3 +20,16 @@ The number line serves as a mental model for understanding numbers and their rel
 4. **Negative Numbers**:
     - The inclusion of negative numbers on the number line expands the mental model to encompass a broader range of mathematical concepts. Understanding that negative numbers are positioned to the left of zero helps students visualize and internalize their meaning in relation to positive numbers.
 
+## Number Line in Two-Dimensional Space
+
+The number line can be extended into two-dimensional space, where it forms the basis for the Cartesian coordinate system:
+
+1. **Coordinate Plane**:
+    - In the Cartesian plane, two perpendicular number lines intersect at the origin (0,0), creating a grid of coordinates. The horizontal line (x-axis) represents one dimension, while the vertical line (y-axis) represents another. Each point on this plane is defined by an ordered pair \((x, y)\), where \(x\) and \(y\) are real numbers.
+
+2. **Graphing Functions**:
+    - The number line's principles apply to graphing functions and equations. For example, the line \(y = mx + b\) can be plotted by identifying points that satisfy the equation and connecting them. The slope \(m\) and y-intercept \(b\) derive meaning from their respective positions on the number lines.
+
+3. **Distance in 2D**:
+    - The distance between two points in two-dimensional space can be calculated using the distance formula, which is a direct application of the Pythagorean theorem. This formula builds on the number line's representation of distances, extending it to calculate the hypotenuse of a right triangle formed by the differences in the x and y coordinates.
+
