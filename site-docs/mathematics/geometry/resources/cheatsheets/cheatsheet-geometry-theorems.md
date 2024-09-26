@@ -1,11 +1,13 @@
 # CheatSheet - Geometry Theorems
 
 ### 1. **Pythagorean Theorem**
+
 - **Statement**: In a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.
 
 \[
 a^2 + b^2 = c^2
 \]
+
   where \( a \) and \( b \) are the legs, and \( c \) is the hypotenuse.
 
 ### 2. **Triangle Sum Theorem**
