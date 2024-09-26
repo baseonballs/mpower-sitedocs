@@ -318,9 +318,10 @@ nav:
       - "Circle Math": "./mathematics/geometry/circle-math.md"
     - "Shapes":
       - "Triangles": "./mathematics/geometry/triangle_overview.md"
-    - "Cheatsheets":
-      - "Geometry Properties & Formulas": "mathematics/geometry/resources/cheatsheets/cheatsheet-geometry.md"
-      - "Geometry Theorems":  "mathematics/geometry/resources/cheatsheets/cheatsheet-geometry-theorems.md"
+    - "Appendix - Resources":
+      - "Cheatsheets":
+        - "Geometry Properties & Formulas": "mathematics/geometry/resources/cheatsheets/cheatsheet-geometry.md"
+        - "Geometry Theorems":  "mathematics/geometry/resources/cheatsheets/cheatsheet-geometry-theorems.md"
   - "Logic":
     - "Foundation": "logic/intro.md"
   - "Modular Arithmetic":
@@ -332,6 +333,9 @@ nav:
     - "Clock Math": "./mathematics/mod-arith/clock-math.md"
     - "Exercises":
       - "Problems Set 1": "mathematics/mod-arith/exercises/pset-01.md"
+    - "Appendix - Resources":
+      - "Cheatsheets":
+        "General": ""
   - "Number Theory":
     - "Definition & Properties":
       - "Segmentation": "mathematics/nt/def/segmentation.md"
