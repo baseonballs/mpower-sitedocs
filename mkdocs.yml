@@ -333,7 +333,7 @@ nav:
     - "Clock Math": "./mathematics/mod-arith/clock-math.md"
     - "Appendix - Resources":
       - "Cheatsheets":
-        - "General": ""
+        - "General": "mathematics/mod-arith/resources/cheatsheets/cheatsheet-mod-arith.md"
       - "Exercises":
         - "Problems Set 1": "mathematics/mod-arith/exercises/pset-01.md"
   - "Number Theory":
