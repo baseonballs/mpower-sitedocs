@@ -63,7 +63,7 @@ For example, the number 12 can be broken down into **prime factors**: 12 = 2 × 
 
 ---
 
-By learning about factors and multiples, students can better understand how numbers relate to each other. This understanding will help in more advanced areas of math like fractions, algebra, and number theory.
+By learning about factors and multiples, you can better understand how numbers relate to each other. This understanding will help in more advanced areas of math like fractions, algebra, and number theory.
 
 ---
 
