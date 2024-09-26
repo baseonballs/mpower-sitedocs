@@ -48,9 +48,10 @@ f(4) = 3(4) + 1 = 12 + 1 = 13
 
 1. **Substitution**:
    Evaluating a function involves substituting a specific value for the variable. For example, to evaluate \(f(x) = 2x + 3\) at \(x = 5\):
-   \[
-   f(5) = 2(5) + 3 = 10 + 3 = 13
-   \]
+
+\[
+f(5) = 2(5) + 3 = 10 + 3 = 13
+\]
 
 2. **Domain and Range**:
    - **Domain**: The set of all possible input values for a function.
@@ -76,4 +77,4 @@ Foundational references that can be used to explore functions in more detail:
 
 - **Hirsch, R. A., & McEwen, J. (2005).** *Algebra and Trigonometry*. 5th Edition. Pearson.
 - **Blitzer, R. (2014).** *Algebra and Trigonometry*. 6th Edition. Pearson.
-- **Stitz, S., & Zeager, M. (2016).** *Precalculus*. Available at: [OpenStax](https://openstax.org/books/precalculus/pages/1-introduction). 
+- **Stitz, S., & Zeager, M. (2016).** *Precalculus*. Available at: [OpenStax](https://openstax.org/books/precalculus). 
