@@ -58,4 +58,7 @@ For example, in the equation for gravitational force, \( F = \frac{G m_1 m_2}{r^
 
 **Summary**
 
-The notion of units in mathematics is integral to effective measurement, calculation, and communication across disciplines. By providing a standard for quantifying various physical properties, units enhance clarity, consistency, and accuracy in mathematical operations. Understanding units and their applications is essential for anyone engaging with mathematics, science, or engineering, as they form the backbone of quantitative reasoning and analysis. As our understanding of the world evolves, so too will the systems of units we employ, making this an ever-relevant topic in the realm of mathematics.
+---
+
+**Reference**:
+   - **International Bureau of Weights and Measures (BIPM)**. *The International System of Units (SI)*. Available at: [https://www.bipm.org/en/measurement-units](https://www.bipm.org/en/measurement-units)
