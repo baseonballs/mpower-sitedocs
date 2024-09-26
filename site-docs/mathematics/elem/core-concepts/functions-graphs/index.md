@@ -58,3 +58,15 @@ Functions have practical applications in everyday life, enabling students to mod
 2. **Physics**: Functions are used to describe motion, such as speed or distance over time. The equation for distance can be modeled as a function of time, indicating how far an object travels at a constant speed.
 
 3. **Science**: Functions are prevalent in biology and chemistry, where they can describe relationships between variables, such as growth rates or concentrations.
+
+# **Summary**
+
+Functions are a vital concept in elementary mathematics, serving as a bridge between abstract numbers and real-world applications. By understanding the definition, types, and graphical representations of functions, students gain essential skills for further mathematical study and practical problem-solving. The ability to evaluate functions and recognize their applications reinforces the importance of functions in various fields, laying a solid foundation for future mathematical concepts.
+
+**References**:
+
+Foundational references that can be used to explore functions in more detail:
+
+- **Hirsch, R. A., & McEwen, J. (2005).** *Algebra and Trigonometry*. 5th Edition. Pearson.
+- **Blitzer, R. (2014).** *Algebra and Trigonometry*. 6th Edition. Pearson.
+- **Stitz, S., & Zeager, M. (2016).** *Precalculus*. Available at: [OpenStax](https://openstax.org/books/precalculus/pages/1-introduction). 
