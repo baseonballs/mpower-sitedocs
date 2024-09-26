@@ -1,6 +1,6 @@
 # Notion of Units in Mathematics
 
-**Introduction to Units**
+**Introduction**
 
 Units are fundamental to mathematics, particularly in the fields of science, engineering, and economics. They provide a standard measure for quantities, enabling clear communication, comparison, and calculations. The notion of units is pivotal for interpreting numerical values and ensuring that mathematical operations yield meaningful results.
 
