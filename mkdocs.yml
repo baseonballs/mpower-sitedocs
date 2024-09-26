@@ -331,11 +331,11 @@ nav:
       - "Modulo": "./mathematics/mod-arith/modulo.md"
       - "Modulus": "./mathematics/mod-arith/modulus.md"
     - "Clock Math": "./mathematics/mod-arith/clock-math.md"
-    - "Exercises":
-      - "Problems Set 1": "mathematics/mod-arith/exercises/pset-01.md"
     - "Appendix - Resources":
       - "Cheatsheets":
         - "General": ""
+      - "Exercises":
+        - "Problems Set 1": "mathematics/mod-arith/exercises/pset-01.md"
   - "Number Theory":
     - "Definition & Properties":
       - "Segmentation": "mathematics/nt/def/segmentation.md"
