@@ -64,3 +64,21 @@
     - \( (a^m)^n = a^{mn} \)
 - **Square Root**: 
     - \( \sqrt{a^2} = a \)
+
+## 9. **Polynomials**
+- **Addition/Subtraction**: Combine like terms.
+- **Multiplication**: 
+    - \( (a + b)(c + d) = ac + ad + bc + bd \) (FOIL for binomials)
+- **Degree of a Polynomial**: Highest exponent of a term.
+
+## 10. **Statistics**
+- **Mean (Average)**: 
+    - \( \text{Mean} = \frac{\text{Sum of Values}}{\text{Number of Values}} \)
+- **Median**: Middle value in a sorted list.
+- **Mode**: Most frequently occurring value.
+
+## 11. **Coordinate Geometry**
+- **Distance Formula**: 
+    - \( d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} \)
+- **Midpoint Formula**: 
+    - \( M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right) \)
