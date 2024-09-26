@@ -32,16 +32,13 @@ Units are fundamental to mathematics, particularly in the fields of science, eng
 **Importance of Units in Mathematics**
 
 1. **Clarity and Communication**:
-
-   - Units provide clarity when presenting numerical data. For instance, stating a distance as "100 kilometers" communicates significantly more than simply "100." Without units, the interpretation of a numerical value becomes ambiguous.
+    - Units provide clarity when presenting numerical data. For instance, stating a distance as "100 kilometers" communicates significantly more than simply "100." Without units, the interpretation of a numerical value becomes ambiguous.
 
 2. **Consistency in Operations**:
-
-   - Mathematical operations involving different units must adhere to specific rules to maintain consistency. For example, adding lengths measured in meters and feet directly is not valid unless a conversion is performed. Understanding how to manipulate units is vital for achieving correct results.
+    - Mathematical operations involving different units must adhere to specific rules to maintain consistency. For example, adding lengths measured in meters and feet directly is not valid unless a conversion is performed. Understanding how to manipulate units is vital for achieving correct results.
 
 3. **Interdisciplinary Applications**:
-
-   - Units bridge the gap between various fields of study. In physics, units help quantify concepts such as velocity, acceleration, and energy. In economics, they are used to express quantities like price per unit and inflation rates. This interdisciplinary nature highlights the foundational role of units in both theoretical and applied mathematics.
+    - Units bridge the gap between various fields of study. In physics, units help quantify concepts such as velocity, acceleration, and energy. In economics, they are used to express quantities like price per unit and inflation rates. This interdisciplinary nature highlights the foundational role of units in both theoretical and applied mathematics.
 
 **Units and Dimensional Analysis**
 
