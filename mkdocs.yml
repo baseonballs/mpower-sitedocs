@@ -298,6 +298,7 @@ nav:
           - "Lesson 2": "mathematics/a1/exercises/aops-a1-hw/hw.02.md"
       - "Cheatsheets":
         - "Algebraic Identities":  "./mathematics/a1/appendix/algebraic_identities.md"
+        - "Alegrba 1 Properties & Formulas": "mathematics/a1/resources/cheatsheets/cheatsheets-a1-formulas.md"
   - "Algebra 2":
     - "Cubic Equations":  
       - "Forms & Structures": "mathematics/a2/eqs/cubic/cubic-forms-structures.md"
