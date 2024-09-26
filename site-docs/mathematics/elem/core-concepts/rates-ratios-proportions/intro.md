@@ -74,8 +74,6 @@ The concepts of ratios, rates, and proportions are indispensable across multiple
 
 **References**:
 
-## Rates, Ratios, and Proportions: Citations
-
 1. **Ratios**: Ratios are a comparison of two quantities by division. For an in-depth discussion, you can refer to:
       - Larson, Ron, and Laurie Boswell. *Big Ideas Math: Advanced 2*. Big Ideas Learning, 2014. Chapter 5: "Ratios and Proportions."
       - Smith, Karl J. *Precalculus: A Functional Approach to Graphing and Problem Solving*. 6th Edition, Cengage Learning, 2017. Chapter 2: "Ratios and Proportions."
