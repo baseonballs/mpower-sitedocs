@@ -92,3 +92,43 @@
 - **Slope-Intercept Form**: \( y = mx + b \)
 - **Point-Slope Form**: \( y - y_1 = m(x - x_1) \)
 - **Standard Form**: \( Ax + By = C \)
+
+---
+
+## 6. **Transformations**
+
+### **Translation**: Moves a figure a certain distance.
+- \( (x, y) \to (x + a, y + b) \)
+
+### **Rotation**: Rotates a figure around a point.
+- 90° rotation: \( (x, y) \to (-y, x) \)
+- 180° rotation: \( (x, y) \to (-x, -y) \)
+- 270° rotation: \( (x, y) \to (y, -x) \)
+
+### **Reflection**:
+- Over the x-axis: \( (x, y) \to (x, -y) \)
+- Over the y-axis: \( (x, y) \to (-x, y) \)
+
+### **Dilation**: Enlarges or reduces a figure by a scale factor \( k \).
+- \( (x, y) \to (kx, ky) \)
+
+---
+
+## 7. **Similarity and Congruence**
+
+### **Similarity**:
+- Two figures are similar if their corresponding angles are congruent and corresponding sides are proportional.
+    - **Ratio of Similarity**: \( \frac{\text{Side}_1}{\text{Side}_2} = k \)
+
+### **Congruence**:
+- Two figures are congruent if they have the same shape and size.
+  - \( \triangle ABC \cong \triangle DEF \) means all corresponding sides and angles are equal.
+
+---
+
+## 8. **Trigonometry (Right Triangles)**
+
+- **Sine**: \( \sin(\theta) = \frac{\text{opposite}}{\text{hypotenuse}} \)
+- **Cosine**: \( \cos(\theta) = \frac{\text{adjacent}}{\text{hypotenuse}} \)
+- **Tangent**: \( \tan(\theta) = \frac{\text{opposite}}{\text{adjacent}} \)
+- **Pythagorean Identity**: \( \sin^2(\theta) + \cos^2(\theta) = 1 \)
