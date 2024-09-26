@@ -217,6 +217,7 @@ nav:
     - "Appendix - Resources":
       - "Cheatsheets": 
         - "Core Ideas": "mathematics/elem/resources/cheat-sheets/index.md"
+        - "Arithmetic Formulas": "mathematics/elem/resources/cheat-sheets/arith-formulas.md"
         - "Factors Properties": "mathematics/elem/resources/cheat-sheets/properties-of-factors.md"
         - "Multiples Properties": "mathematics/elem/resources/cheat-sheets/properties-of-multiples.md"
       - "Problem Solving": "page-404.md"
