@@ -22,6 +22,30 @@ So, the factors of 12 are: **1, 2, 3, 4, 6, and 12**.
 
 The key idea here is that a factor is a number that can be multiplied by another whole number to result in the original number. For example, 2 × 6 = 12, and both 2 and 6 are factors of 12.
 
+---
+
+## **Distinction between Factors and Divisors**
+
+The terms **factors** and **divisors** are often used interchangeably in mathematics, but there are subtle distinctions in their usage depending on context. Here’s a breakdown:
+
+### Factors
+- **Definition**: A factor of a number is any integer that can be multiplied by another integer to yield that number. For example, if \( a \) is a factor of \( b \), then there exists an integer \( k \) such that \( b = a \times k \).
+- **Example**: For the number \( 12 \), the factors are \( 1, 2, 3, 4, 6, \) and \( 12 \) because:
+      - \( 1 \times 12 = 12 \)
+      - \( 2 \times 6 = 12 \)
+      - \( 3 \times 4 = 12 \)
+
+### Divisors
+- **Definition**: A divisor is generally defined as a number that divides another number without leaving a remainder. Thus, if \( a \) divides \( b \) (denoted \( a \mid b \)), then \( a \) is a divisor of \( b \).
+- **Example**: Using the same number \( 12 \), the divisors are also \( 1, 2, 3, 4, 6, \) and \( 12 \) because \( \frac{12}{a} \) results in an integer for each divisor \( a \).
+
+### Key Distinction
+- In many contexts, **factors** and **divisors** refer to the same set of numbers, especially when discussing whole numbers. 
+- The term **factors** is often used in a more general sense, particularly in discussions about multiplying to form numbers (e.g., prime factorization).
+- The term **divisor** can sometimes be used more formally in the context of divisibility, especially in higher mathematics and number theory.
+
+While the distinction is subtle, it’s important to note the context in which each term is used. In general arithmetic, both terms will yield the same set of integers for a given number.
+
 ## **What are Multiples?**
 
 Multiples, on the other hand, are what you get when you multiply a number by whole numbers. For example, let's look at the multiples of 4:
