@@ -200,12 +200,12 @@ nav:
       - "Properties of Factors": "mathematics/elem/core-concepts/factors-multiples/factors-properties.md"
       - "Properties of Multiples": "mathematics/elem/core-concepts/factors-multiples/multiples-properties.md"
       - "Prime Factorization": "mathematics/elem/core-concepts/factors-multiples/prime-factorization.md"
-      - "Relation of Factors & Multiples": "mathematics/elem/core-concepts/factors-multiples/relation-factors-multiples.md"
-      - "Relation to GCF & LCM": "mathematics/elem/core-concepts/factors-multiples/relation-to-gcf-lcm.md"
+      - "Relationship of Factors & Multiples": "mathematics/elem/core-concepts/factors-multiples/relation-factors-multiples.md"
+      - "Relationship to GCF & LCM": "mathematics/elem/core-concepts/factors-multiples/relationship-of-factor-multiples-to-gcf-lcm.md"
     - "GCF & LCM":
       - "Properties of GCF": "mathematics/elem/core-concepts/gcf-lcm/properties-gcf.md"
       - "Properties of LCM": "mathematics/elem/core-concepts/gcf-lcm/properties-lcm.md"
-      - "Relationship of LCM & GCF": "mathematics/elem/core-concepts/gcf-lcm/relation-gcf-lcm.md"
+      - "Relationship of GCF & LCM": "mathematics/elem/core-concepts/gcf-lcm/relation-gcf-lcm.md"
     - "Coordinate Systems":
       - "Introduction": "mathematics/elem/coord-systems/introduction.md"
     - "Appendix - Resources":
