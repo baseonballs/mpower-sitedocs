@@ -174,3 +174,15 @@ The GCF is critical in modular arithmetic, a foundational concept in cryptograph
 The GCF is important in solving **Diophantine equations**, which are equations of the form \( ax + by = c \), where solutions for \( x \) and \( y \) must be integers. For such an equation to have integer solutions, \( \gcd(a, b) \) must divide \( c \). This condition leads to rich results in number theory and algebra.
 
 ---
+
+## **Summary**
+
+The Greatest Common Factor (GCF) is more than just a tool for simplifying fractions; it plays a critical role in number theory, problem-solving, and practical applications like cryptography. Through its properties—commutativity, associativity, its relationship with LCM, and its role in the Euclidean algorithm—the GCF is a versatile concept that reveals deep relationships between numbers. Understanding and applying the GCF not only helps solve elementary-level problems but also provides insight into advanced mathematical structures and applications.
+
+---
+
+**Citations:**
+
+- Hardy, G. H., & Wright, E. M. (1979). *An Introduction to the Theory of Numbers*. Oxford University Press.
+- Niven, I., Zuckerman, H. S., & Montgomery, H. L. (1991). *An Introduction to the Theory of Numbers*. Wiley.
+- Rosen, K. H. (2012). *Elementary Number Theory and Its Applications*. Pearson.
