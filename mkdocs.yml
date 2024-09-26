@@ -205,7 +205,7 @@ nav:
     - "GCF & LCM":
       - "Properties of GCF": "mathematics/elem/core-concepts/gcf-lcm/properties-gcf.md"
       - "Properties of LCM": "mathematics/elem/core-concepts/gcf-lcm/properties-lcm.md"
-      - "Relationship of LCM & GCF": ""
+      - "Relationship of LCM & GCF": "mathematics/elem/core-concepts/gcf-lcm/relation-gcf-lcm.md"
     - "Coordinate Systems":
       - "Introduction": "mathematics/elem/coord-systems/introduction.md"
     - "Appendix - Resources":
