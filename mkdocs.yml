@@ -203,8 +203,8 @@ nav:
       - "Relation of Factors & Multiples": "mathematics/elem/core-concepts/factors-multiples/relation-factors-multiples.md"
       - "Relation to GCF & LCM": "mathematics/elem/core-concepts/factors-multiples/relation-to-gcf-lcm.md"
     - "GCF & LCM":
-      - "Properties of GCF": ""
-      - "Properties of LCM": ""
+      - "Properties of GCF": "mathematics/elem/core-concepts/gcf-lcm/properties-gcf.md"
+      - "Properties of LCM": "mathematics/elem/core-concepts/gcf-lcm/properties-lcm.md"
       - "Relationship of LCM & GCF": ""
     - "Coordinate Systems":
       - "Introduction": "mathematics/elem/coord-systems/introduction.md"
