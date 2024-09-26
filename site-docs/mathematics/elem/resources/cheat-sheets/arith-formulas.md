@@ -43,3 +43,34 @@
 - **Finding the Whole**: 
   - \( \text{Whole} = \frac{\text{Part}}{\text{Percentage}} \times 100 \)
 
+## 6. **Ratios and Proportions**
+
+- **Ratio**: \( a:b \) or \( \frac{a}{b} \)
+- **Proportion**: If \( \frac{a}{b} = \frac{c}{d} \), then \( ad = bc \)
+
+## 7. **Exponents**
+
+- \( a^m \times a^n = a^{m+n} \)
+- \( \frac{a^m}{a^n} = a^{m-n} \)
+- \( (a^m)^n = a^{mn} \)
+
+## 8. **Square and Square Root**
+
+- **Square of a Number**: \( a^2 \)
+- **Square Root**: \( \sqrt{a} \)
+
+## 9. **Basic Geometric Formulas**
+
+- **Area of Rectangle**: \( A = l \times w \)
+- **Area of Triangle**: \( A = \frac{1}{2} \times b \times h \)
+- **Area of Circle**: \( A = \pi r^2 \)
+- **Perimeter of Rectangle**: \( P = 2(l + w) \)
+- **Circumference of Circle**: \( C = 2\pi r \)
+
+## 10. **Statistics**
+
+- **Mean (Average)**: 
+  - \( \text{Mean} = \frac{\text{Sum of Values}}{\text{Number of Values}} \)
+- **Median**: Middle value in a sorted list.
+- **Mode**: Most frequently occurring value.
+
