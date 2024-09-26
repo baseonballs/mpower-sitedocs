@@ -305,6 +305,9 @@ nav:
     - "Trignometic Functions":
       - "Identities": "./mathematics/a2/trig.md"
     - "Appendix - Resources":
+      - "Cheatsheets":
+        - "Algebraic Identities":  ""
+        - "Alegrba 2 Properties & Formulas": "mathematics/a2/resources/cheatsheets/cheatsheets-a2-formulas.md"
       - "Problem Solving":
         - "AoPS-A2":
           - "Lesson 4 - Functions": "mathematics/a2/hw/aops/hw.04.md"
