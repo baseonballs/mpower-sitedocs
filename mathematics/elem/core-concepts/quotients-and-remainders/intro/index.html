@@ -8000,6 +8000,43 @@ a = bq + r \quad \text{where} \quad 0 \leq r &lt; |b|.
 \]</div>
 <h2 id="quotient"><strong>Quotient</strong><a class="headerlink" href="#quotient" title="Permanent link">&para;</a></h2>
 <p>The quotient, <span class="arithmatex">\( q \)</span>, represents how many times the divisor <span class="arithmatex">\( b \)</span> fits wholly into the dividend <span class="arithmatex">\( a \)</span>. For example, in the division of 23 by 5, <span class="arithmatex">\( 5 \)</span> fits into <span class="arithmatex">\( 23 \)</span> a total of <span class="arithmatex">\( 4 \)</span> times, so the quotient is 4.</p>
+<blockquote>
+<p>Let <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span> be elements of a set <span class="arithmatex">\( \mathbb{Z} \)</span> (the set of intergers), with the condition that <span class="arithmatex">\( b \neq 0 \)</span>. The quotient <span class="arithmatex">\( q \)</span> is defined as:</p>
+<div class="arithmatex">\[
+q = \frac{a}{b} \quad \text{if} \quad b \neq 0
+\]</div>
+</blockquote>
+<p>In logical terms<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>, this can be expressed as:</p>
+<blockquote>
+<div class="arithmatex">\[
+\forall a, b \in \mathbb{Z}, \; (b \neq 0) \implies \exists q \in \mathbb{R} \; \text{such that} \; q = \frac{a}{b}
+\]</div>
+</blockquote>
+<p>This states that for any integers <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span>, if <span class="arithmatex">\( b \)</span> is not equal to zero, then there exists a real number <span class="arithmatex">\( q \)</span> that is the quotient of <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span>.</p>
+<p>The quotient in the context of the equation <span class="arithmatex">\( a = bq + r \)</span>, where <span class="arithmatex">\( a \)</span> is the dividend, <span class="arithmatex">\( b \)</span> is the divisor, <span class="arithmatex">\( q \)</span> is the quotient, and <span class="arithmatex">\( r \)</span> is the remainder, the notation can be expressed formally as follows:</p>
+<p>Let <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span> be integers, where <span class="arithmatex">\( b \neq 0 \)</span>. The relationship can be described as:</p>
+<div class="arithmatex">\[
+a = bq + r
+\]</div>
+<p>with the following conditions:</p>
+<ol>
+<li><span class="arithmatex">\( r \)</span> is the <strong>remainder</strong> of the division of <span class="arithmatex">\( a \)</span> by <span class="arithmatex">\( b \)</span>.</li>
+<li>The remainder <span class="arithmatex">\( r \)</span> must satisfy the constraint <span class="arithmatex">\( 0 \leq r &lt; |b| \)</span>.</li>
+</ol>
+<p>In logical notation, this can be expressed as:</p>
+<div class="arithmatex">\[
+\forall a, b \in \mathbb{Z}, \; (b \neq 0) \implies \exists q \in \mathbb{Z}, \; \exists r \in \mathbb{Z} \; \text{such that} \; a = bq + r \land (0 \leq r &lt; |b|)
+\]</div>
+<p>This indicates that for any integers <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span> (where <span class="arithmatex">\( b \neq 0 \)</span>), there exist integers <span class="arithmatex">\( q \)</span> (the quotient) and <span class="arithmatex">\( r \)</span> (the remainder) such that the equation holds true, with the remainder being non-negative and less than the absolute value of the divisor. </p>
+<p>If we also want to address the case when <span class="arithmatex">\( b = 0 \)</span>:</p>
+<div class="arithmatex">\[
+(b = 0) \implies a \text{ is undefined}
+\]</div>
+<p>Thus, the complete logical definition can be summarized as:</p>
+<div class="arithmatex">\[
+\forall a, b \in \mathbb{Z}, \; \left( (b \neq 0) \implies \exists q, r \in \mathbb{Z} \; \text{such that} \; a = bq + r \land (0 \leq r &lt; |b|) \right) \land \left( (b = 0) \implies a \text{ is undefined} \right)
+\]</div>
+<p>This formal logical statement provides a comprehensive view of the relationship between <span class="arithmatex">\( a \)</span>, <span class="arithmatex">\( b \)</span>, <span class="arithmatex">\( q \)</span>, and <span class="arithmatex">\( r \)</span>, including the implications when <span class="arithmatex">\( b \)</span> equals zero.</p>
 <h2 id="remainder"><strong>Remainder</strong><a class="headerlink" href="#remainder" title="Permanent link">&para;</a></h2>
 <p>The remainder, <span class="arithmatex">\( r \)</span>, is the portion of the dividend that is left over after the division. In the same example (23 ÷ 5), after taking out <span class="arithmatex">\( 4 \times 5 = 20 \)</span>, the leftover part is <span class="arithmatex">\( 23 - 20 = 3 \)</span>, so the remainder is 3.</p>
 <h3 id="example"><strong>Example</strong><a class="headerlink" href="#example" title="Permanent link">&para;</a></h3>
@@ -8044,6 +8081,14 @@ a = bq + r \quad \text{where} \quad 0 \leq r &lt; |b|.
 <li>Schneier, Bruce. <em>Applied Cryptography: Protocols, Algorithms, and Source Code in C</em>. 2nd Edition, Wiley, 1996. Chapter 14: "The RSA Algorithm."</li>
 <li>Cormen, Thomas H., et al. <em>Introduction to Algorithms</em>. 3rd Edition, MIT Press, 2009. Chapter 31: "Number-Theoretic Algorithms."</li>
 </ol>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Refer to Language of Mathematics: <a href="../../../../a1/appendix/lang/notation_logic/">Logic Notation</a>&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
 
 
 
