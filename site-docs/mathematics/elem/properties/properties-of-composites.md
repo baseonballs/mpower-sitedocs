@@ -10,9 +10,9 @@ A **composite number** is a natural number \( n > 1 \) that can be written as th
 
 - **Example**: 
 
-  - \(4 = 2 \times 2\)
-  - \(6 = 2 \times 3\)
-  - \(15 = 3 \times 5\)
+    - \(4 = 2 \times 2\)
+    - \(6 = 2 \times 3\)
+    - \(15 = 3 \times 5\)
 
 Numbers like \(4\), \(6\), and \(15\) are composite because they can be factored into smaller integers.
 
@@ -30,8 +30,8 @@ Every composite number can be expressed as a product of prime numbers, which is 
 
 - **Example**:
 
-  - \(12 = 2^2 \times 3\)
-  - \(18 = 2 \times 3^2\)
+    - \(12 = 2^2 \times 3\)
+    - \(18 = 2 \times 3^2\)
 
 The prime factorization of a composite number is unique for each number, and it provides insight into the structure of the number.
 

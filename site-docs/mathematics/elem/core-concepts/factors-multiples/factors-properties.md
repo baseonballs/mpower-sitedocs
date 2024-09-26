@@ -6,10 +6,10 @@ Factors are fundamental in understanding number theory and arithmetic. A **facto
 
 ## **1. Definition of a Factor**
 
-For any integers \(a\) and \(b\), we say that \(a\) is a factor of \(b\) if:
+For any integers \(a\) and \(b\) and \(b \neq 0\), we say that \(a\) is a factor of \(b\) if:
 
 \[
-b \div a = \text{an integer}
+b \mid a \implies k \in \mathbb{Z}
 \]
 
 In other words, if dividing \(b\) by \(a\) leaves no remainder, then \(a\) is a factor of \(b\).
