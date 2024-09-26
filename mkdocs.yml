@@ -335,7 +335,7 @@ nav:
       - "Problems Set 1": "mathematics/mod-arith/exercises/pset-01.md"
     - "Appendix - Resources":
       - "Cheatsheets":
-        "General": ""
+        - "General": ""
   - "Number Theory":
     - "Definition & Properties":
       - "Segmentation": "mathematics/nt/def/segmentation.md"
