@@ -210,7 +210,7 @@ nav:
       - "Introduction": "mathematics/elem/coord-systems/introduction.md"
     - "Appendix - Resources":
       - "Cheatsheets": 
-        - "Elementary Ideas": "mathematics/elem/resources/cheat-sheets/index.md"
+        - "Core Ideas": "mathematics/elem/resources/cheat-sheets/index.md"
         - "Factors Properties": "mathematics/elem/resources/cheat-sheets/properties-of-factors.md"
         - "Multiples Properties": "mathematics/elem/resources/cheat-sheets/properties-of-multiples.md"
       - "Problem Solving": "page-404.md"
