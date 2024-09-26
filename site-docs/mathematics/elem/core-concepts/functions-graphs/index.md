@@ -1,4 +1,4 @@
-# Discourse on Functions in Elementary Mathematics
+# Functions in Elementary Mathematics
 
 ## 1. **Introduction to Functions**
 
