@@ -105,13 +105,13 @@ Refer to documentation for details: https://github.com/GoogleCloudPlatform/cloud
 # Use the go toolkit: cloud-run-proxy: note it must be installed. @see doc referenced above.
 
 ```
-URL=https://cmm-pif-sitedocs-e7wyuaseoa-uc.a.run.app/
+URL=https://mpower-sitedocs-e7wyuaseoa-uc.a.run.app/
 cloud-run-proxy -token $(gcloud auth print-identity-token)  -host $URL -bind "127.0.0.1:9080"
 ```sh
 
 # Use the glcoud:  Note this isn't working
 ```sh
-CLOUDRUN_SITEDOCS_URL=mpower-sitedocs #https://cmm-pif-sitedocs-e7wyuaseoa-uc.a.run.app
+CLOUDRUN_SITEDOCS_URL=mpower-sitedocs #https://mpower-sitedocs-e7wyuaseoa-uc.a.run.app
 
 # open the url using default browser and localhost address
 open 127.0.0.1:8080
