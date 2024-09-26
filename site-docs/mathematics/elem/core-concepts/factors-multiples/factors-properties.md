@@ -12,7 +12,7 @@ For any integers \(a\) and \(b\) and \(b \neq 0\), we say that \(a\) is a factor
 b \mid a \implies k \in \mathbb{Z}
 \]
 
-In other words, if dividing \(b\) by \(a\) leaves no remainder, then \(a\) is a factor of \(b\).
+In other words, if dividing \(a\) by \(b\) leaves no remainder, then \(b\) is a factor of \(a\).
 
 ### Example:
 
