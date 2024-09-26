@@ -68,5 +68,6 @@ By learning about factors and multiples, you can better understand how numbers r
 ---
 
 **Citations:**
+
 - Burns, M. (2000). *About Teaching Mathematics*. Math Solutions Publications.
 - National Council of Teachers of Mathematics (NCTM). (2000). *Principles and Standards for School Mathematics*.
