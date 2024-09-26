@@ -6,13 +6,13 @@ A **multiple** of a number is the result of multiplying that number by an intege
 
 ## **1. Definition of a Multiple**
 
-A number \(b\) is a multiple of a number \(a\) if there exists an integer \(n\) such that:
-
+>A number \(b\) is a multiple of a number \(a\) if there exists an integer \(n\) such that:
+>
 \[
 b = a \times n
 \]
-
-Here, \(a\) is a factor of \(b\), and \(b\) is a multiple of \(a\).
+>
+>Here, \(a\) is a factor of \(b\), and \(b\) is a multiple of \(a\).
 
 ### Example:
 
