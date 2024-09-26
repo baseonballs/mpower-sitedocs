@@ -22,22 +22,28 @@ Consider dividing 23 by 5:
 \[
 23 = 5 \times 4 + 3,
 \]
+
 where:
+
 - \( q = 4 \) (quotient),
 - \( r = 3 \) (remainder).
 
 ## **Euclidean Division**
+
 This principle, also known as **Euclidean division**, highlights that the remainder is always non-negative and strictly less than the divisor. It is widely used in computer science and number theory, particularly in algorithms that involve integer division, such as the **greatest common divisor** algorithm.
 
 ## **Modulo Operation**
+
 The remainder is also the result of the modulo operation, often written as \( a \mod b \). In programming and mathematics, this operation gives the remainder when \( a \) is divided by \( b \). For instance, \( 23 \mod 5 = 3 \), aligning with the remainder in the example above.
 
 ## **Applications**
+
 - **Cryptography**: The modulo operation is crucial in algorithms like RSA, where it secures communications by leveraging the properties of large prime numbers and modular arithmetic.
 - **Programming**: In many algorithms, such as cyclic processes (e.g., circular arrays or hash tables), the remainder helps wrap values around a fixed boundary.
 - **Number Theory**: Euclidean division is foundational in solving **Diophantine equations** and understanding properties of divisibility and primes.
 
 ## **Theoretical Context**
+
 The division algorithm's concept traces back to ancient Greek mathematicians like Euclid, whose **Euclidean algorithm** for finding the greatest common divisor uses repeated division to express a number in terms of quotients and remainders  .
 
 In summary, quotients and remainders are essential in breaking down integer division into understandable parts, with numerous applications ranging from everyday arithmetic to complex algorithmic structures. The distinction between how many times one number fits into another and what remains is pivotal for many branches of mathematics.
