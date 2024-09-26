@@ -86,7 +86,8 @@
 - \( M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right) \)
 
 ### **Slope of a Line**
-- \( m = \frac{y_2 - y_1}{x_2 - x_1} \)
+- \( m = \frac{\text{rise}}{\text{run}} = \frac{y_2 - y_1}{x_2 - x_1} = \frac{\Delta y}{\Delta x}\)
+
 
 ### **Equation of a Line**
 - **Slope-Intercept Form**: \( y = mx + b \)
