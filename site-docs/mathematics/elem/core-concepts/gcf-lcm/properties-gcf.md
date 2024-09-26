@@ -118,3 +118,59 @@ Thus:
 \gcd(60, 36) = 2^2 \times 3 = 12
 \]
 
+
+### **6. GCF of Co-prime Numbers**
+
+If two numbers have no common factors other than 1, they are called **co-prime** or **relatively prime**. For two co-prime numbers \( a \) and \( b \), the GCF is always 1:
+
+\[
+\gcd(a, b) = 1
+\]
+
+For example, \( \gcd(9, 28) = 1 \) because 9 and 28 share no common factors.
+
+### **7. GCF and Euclidean Algorithm**
+
+The **Euclidean algorithm** is an efficient method to compute the GCF of two numbers. It relies on the principle that:
+
+\[
+\gcd(a, b) = \gcd(b, a \mod b)
+\]
+
+where \( a \mod b \) is the remainder when \( a \) is divided by \( b \). This process is repeated until one of the numbers becomes 0, at which point the other number is the GCF.
+
+For example, to find \( \gcd(48, 18) \):
+
+1. \( 48 \mod 18 = 12 \)
+2. \( 18 \mod 12 = 6 \)
+3. \( 12 \mod 6 = 0 \)
+
+Thus, \( \gcd(48, 18) = 6 \).
+
+---
+
+## **Applications of the GCF**
+
+### **1. Simplifying Fractions**
+
+The GCF is essential in simplifying fractions. To reduce a fraction to its simplest form, we divide both the numerator and the denominator by their GCF. For example, to simplify \( \frac{18}{24} \):
+
+\[
+\gcd(18, 24) = 6
+\]
+
+Thus, \( \frac{18}{24} = \frac{18 \div 6}{24 \div 6} = \frac{3}{4} \).
+
+### **2. Problem Solving with Ratios**
+
+In problems involving ratios, the GCF can be used to simplify or compare ratios. For example, in reducing the ratio 36:60 to its simplest form, we divide both numbers by their GCF (which is 12), yielding 3:5.
+
+### **3. Modular Arithmetic and Cryptography**
+
+The GCF is critical in modular arithmetic, a foundational concept in cryptography. In systems like RSA encryption, the security of the algorithm relies on properties of the GCF, particularly when working with large prime numbers. The Euclidean algorithm is used to compute the multiplicative inverses in modular systems, ensuring secure data encryption and decryption.
+
+### **4. Diophantine Equations**
+
+The GCF is important in solving **Diophantine equations**, which are equations of the form \( ax + by = c \), where solutions for \( x \) and \( y \) must be integers. For such an equation to have integer solutions, \( \gcd(a, b) \) must divide \( c \). This condition leads to rich results in number theory and algebra.
+
+---
