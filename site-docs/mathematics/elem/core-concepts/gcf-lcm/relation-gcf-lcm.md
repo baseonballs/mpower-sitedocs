@@ -11,7 +11,7 @@ In this discourse, we will explore the key relations between GCF and LCM, unders
 The most famous and useful relationship between GCF and LCM is given by:
 
 \[
-\mathrm{gcf}(a, b) \times \mathrm{lcm}(a, b) = a \times b
+\mathrm{GCF}(a, b) \times \mathrm{LCM}(a, b) = a \times b
 \]
 
 This formula shows that the product of the GCF and the LCM of two numbers is always equal to the product of the numbers themselves.
@@ -23,8 +23,8 @@ For any two numbers \( a \) and \( b \), the GCF finds the largest number that d
 For example:
 
 - Consider \( a = 12 \) and \( b = 18 \).
-    - \( \mathrm{gcf}(12, 18) = 6 \)
-    - \( \mathrm{lcm}(12, 18) = 36 \)
+    - \( \mathrm{GCF}(12, 18) = 6 \)
+    - \( \mathrm{LCM}(12, 18) = 36 \)
 
 Thus, \( 6 \times 36 = 12 \times 18 = 216 \), verifying the relationship.
 
@@ -54,7 +54,7 @@ where \( p_i \) are primes, and \( e_i, f_i \) are their respective exponents in
 The GCF is determined by taking the lowest power of each prime common to both numbers:
 
 \[
-\mathrm{gcf}(a, b) = p_1^{\min(e_1, f_1)} \times p_2^{\min(e_2, f_2)} \times \cdots \times p_n^{\min(e_n, f_n)}
+\mathrm{GCF}(a, b) = p_1^{\min(e_1, f_1)} \times p_2^{\min(e_2, f_2)} \times \cdots \times p_n^{\min(e_n, f_n)}
 \]
 
 ### **LCM from Prime Factorization:**
@@ -62,7 +62,7 @@ The GCF is determined by taking the lowest power of each prime common to both nu
 The LCM is determined by taking the highest power of each prime that appears in either number:
 
 \[
-\mathrm{lcm}(a, b) = p_1^{\max(e_1, f_1)} \times p_2^{\max(e_2, f_2)} \times \cdots \times p_n^{\max(e_n, f_n)}
+\mathrm{LCM}(a, b) = p_1^{\max(e_1, f_1)} \times p_2^{\max(e_2, f_2)} \times \cdots \times p_n^{\max(e_n, f_n)}
 \]
 
 ### **Complementary Relationship:**
@@ -74,8 +74,8 @@ For example:
 - Consider \( a = 12 \) and \( b = 18 \).
 
   - Prime factorizations: \( 12 = 2^2 \times 3 \) and \( 18 = 2 \times 3^2 \).
-  - \( \mathrm{gcf}(12, 18) = 2 \times 3 = 6 \).
-  - \( \mathrm{lcm}(12, 18) = 2^2 \times 3^2 = 36 \).
+  - \( \mathrm{GCF}(12, 18) = 2 \times 3 = 6 \).
+  - \( \mathrm{LCM}(12, 18) = 2^2 \times 3^2 = 36 \).
   - \( 6 \times 36 = 12 \times 18 = 216 \).
 
 ---
@@ -85,29 +85,29 @@ For example:
 The Euclidean Algorithm is a well-known method to calculate the GCF of two numbers, particularly useful for large integers. The LCM can then be determined using the relationship:
 
 \[
-\mathrm{lcm}(a, b) = \frac{a \times b}{\mathrm{gcf}(a, b)}
+\mathrm{LCM}(a, b) = \frac{a \times b}{\mathrm{gcf}(a, b)}
 \]
 
 This formula is especially helpful because once the GCF is computed (using the Euclidean Algorithm), the LCM can be quickly found by dividing the product of the two numbers by their GCF.
 
 ### **Steps to Apply the Euclidean Algorithm and Calculate LCM:**
 
-1. Use the Euclidean Algorithm to find \( \mathrm{gcf}(a, b) \). This involves repeatedly applying the division algorithm:
+1. Use the Euclidean Algorithm to find \( \mathrm{GCF}(a, b) \). This involves repeatedly applying the division algorithm:
 
 \[
-\mathrm{gcf}(a, b) = \mathrm{gcf}(b, a \mod b)
+\mathrm{GCF}(a, b) = \mathrm{GCF}(b, a \mod b)
 \]
 
    until \( a \mod b = 0 \).
 2. Once the GCF is found, calculate the LCM using:
 
 \[
-\mathrm{lcm}(a, b) = \frac{a \times b}{\mathrm{gcf}(a, b)}
+\mathrm{LCM}(a, b) = \frac{a \times b}{\mathrm{GCF}(a, b)}
 \]
 
 For example:
 
-- To find \( \mathrm{gcf}(48, 18) \) using the Euclidean Algorithm:
+- To find \( \mathrm{GCF}(48, 18) \) using the Euclidean Algorithm:
 
 \[
 48 \div 18 = 2 \quad \text{remainder} \, 12
@@ -121,12 +121,12 @@ For example:
 12 \div 6 = 2 \quad \text{remainder} \, 0
 \]
 
-  So, \( \mathrm{gcf}(48, 18) = 6 \).
+  So, \( \mathrm{GCFcf}(48, 18) = 6 \).
   
 - Now, use the relationship:
 
 \[
-\mathrm{lcm}(48, 18) = \frac{48 \times 18}{6} = 144
+\mathrm{LCM}(48, 18) = \frac{48 \times 18}{6} = 144
 \]
 
 ---
@@ -168,7 +168,7 @@ In modular arithmetic, particularly in systems of congruences (like those solved
 If two numbers are co-prime, i.e., \( \mathrm{gcf}(a, b) = 1 \), the relationship simplifies to:
 
 \[
-\mathrm{lcm}(a, b) = a \times b
+\mathrm{LCM}(a, b) = a \times b
 \]
 
 This happens because the GCF is 1, and no factors are shared between the numbers. As a result, the LCM must be the product of the two numbers themselves.
