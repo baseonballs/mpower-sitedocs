@@ -178,6 +178,7 @@ nav:
         - "Segmentation in Mathematics": "mathematics/elem/segmentation/segmentation.md"
         - "Divisibility & Grouping": "mathematics/elem/segmentation/segmentation-grouping.md"
     - "Definition & Properties":
+      - "Notion of Units": "mathematics/elem/def/def-units.md"
       - "Constructs Used in Proofs": "mathematics/elem/def/def-axioms-theorems.md"
       - "Sets, Lists, Tuples": "mathematics/elem/properties/sets/sets-lists-tuples.md"
       - "Properties of Numbers":
