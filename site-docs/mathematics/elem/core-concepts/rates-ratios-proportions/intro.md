@@ -33,6 +33,19 @@ which means "the ratio of \( a \) to \( b \) is equal to the ratio of \( c \) to
 
 Proportions are often used to solve for unknown quantities. For example, in scaling recipes, map reading, or any instance where maintaining a consistent relationship between quantities is important, proportions are key.
 
+## **Differences between Ratios & Rates**
+
+When comparing $a$ and $b$ consider the follow conditions:
+
+1. **Same Units**:
+   - When \( a \) and \( b \) have the same units (e.g., both are measured in meters, dollars, etc.), the expression \( \frac{a}{b} \) represents a **ratio**. Ratios compare two quantities of the same kind, indicating how many times one quantity contains another. For instance, if \( a = 10 \) meters and \( b = 5 \) meters, then \( \frac{a}{b} = \frac{10}{5} = 2 \), which means that \( a \) is twice \( b \).
+
+2. **Different Units**:
+   - If \( a \) and \( b \) have different units (e.g., distance in meters and time in seconds), then \( \frac{a}{b} \) represents a **rate**. Rates provide a comparison between quantities of different kinds, such as speed (meters per second) or price per item (dollars per item). For example, if \( a = 100 \) kilometers and \( b = 2 \) hours, then \( \frac{a}{b} = \frac{100 \text{ km}}{2 \text{ hours}} = 50 \text{ km/hour} \), which describes how far something travels in a given time.
+
+In brief, when \( a \) and \( b \) share the same units, their quotient is a ratio, indicating a direct comparison of quantities. Conversely, if they have different units, the quotient is a rate, representing a relationship between different types of quantities. This distinction is crucial in various applications, such as physics, economics, and everyday life.
+
+
 ## **Applications**
 
 1. **Ratios** are widely used in financial contexts (such as debt-to-income ratios), scale models, or data analysis (like odds ratios).
