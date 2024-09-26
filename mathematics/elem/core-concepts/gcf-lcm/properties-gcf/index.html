@@ -3908,6 +3908,75 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#6_gcf_of_co-prime_numbers" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. GCF of Co-prime Numbers
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7_gcf_and_euclidean_algorithm" class="md-nav__link">
+    <span class="md-ellipsis">
+      7. GCF and Euclidean Algorithm
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#applications_of_the_gcf" class="md-nav__link">
+    <span class="md-ellipsis">
+      Applications of the GCF
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Applications of the GCF">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1_simplifying_fractions" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Simplifying Fractions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2_problem_solving_with_ratios" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Problem Solving with Ratios
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3_modular_arithmetic_and_cryptography" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Modular Arithmetic and Cryptography
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4_diophantine_equations" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Diophantine Equations
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -7932,6 +8001,75 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#6_gcf_of_co-prime_numbers" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. GCF of Co-prime Numbers
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7_gcf_and_euclidean_algorithm" class="md-nav__link">
+    <span class="md-ellipsis">
+      7. GCF and Euclidean Algorithm
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#applications_of_the_gcf" class="md-nav__link">
+    <span class="md-ellipsis">
+      Applications of the GCF
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Applications of the GCF">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1_simplifying_fractions" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Simplifying Fractions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2_problem_solving_with_ratios" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Problem Solving with Ratios
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3_modular_arithmetic_and_cryptography" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Modular Arithmetic and Cryptography
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4_diophantine_equations" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Diophantine Equations
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -8029,6 +8167,40 @@ b = p_1^{f_1} \times p_2^{f_2} \times \cdots \times p_n^{f_n}
 <div class="arithmatex">\[
 \gcd(60, 36) = 2^2 \times 3 = 12
 \]</div>
+<h3 id="6_gcf_of_co-prime_numbers"><strong>6. GCF of Co-prime Numbers</strong><a class="headerlink" href="#6_gcf_of_co-prime_numbers" title="Permanent link">&para;</a></h3>
+<p>If two numbers have no common factors other than 1, they are called <strong>co-prime</strong> or <strong>relatively prime</strong>. For two co-prime numbers <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span>, the GCF is always 1:</p>
+<div class="arithmatex">\[
+\gcd(a, b) = 1
+\]</div>
+<p>For example, <span class="arithmatex">\( \gcd(9, 28) = 1 \)</span> because 9 and 28 share no common factors.</p>
+<h3 id="7_gcf_and_euclidean_algorithm"><strong>7. GCF and Euclidean Algorithm</strong><a class="headerlink" href="#7_gcf_and_euclidean_algorithm" title="Permanent link">&para;</a></h3>
+<p>The <strong>Euclidean algorithm</strong> is an efficient method to compute the GCF of two numbers. It relies on the principle that:</p>
+<div class="arithmatex">\[
+\gcd(a, b) = \gcd(b, a \mod b)
+\]</div>
+<p>where <span class="arithmatex">\( a \mod b \)</span> is the remainder when <span class="arithmatex">\( a \)</span> is divided by <span class="arithmatex">\( b \)</span>. This process is repeated until one of the numbers becomes 0, at which point the other number is the GCF.</p>
+<p>For example, to find <span class="arithmatex">\( \gcd(48, 18) \)</span>:</p>
+<ol>
+<li><span class="arithmatex">\( 48 \mod 18 = 12 \)</span></li>
+<li><span class="arithmatex">\( 18 \mod 12 = 6 \)</span></li>
+<li><span class="arithmatex">\( 12 \mod 6 = 0 \)</span></li>
+</ol>
+<p>Thus, <span class="arithmatex">\( \gcd(48, 18) = 6 \)</span>.</p>
+<hr />
+<h2 id="applications_of_the_gcf"><strong>Applications of the GCF</strong><a class="headerlink" href="#applications_of_the_gcf" title="Permanent link">&para;</a></h2>
+<h3 id="1_simplifying_fractions"><strong>1. Simplifying Fractions</strong><a class="headerlink" href="#1_simplifying_fractions" title="Permanent link">&para;</a></h3>
+<p>The GCF is essential in simplifying fractions. To reduce a fraction to its simplest form, we divide both the numerator and the denominator by their GCF. For example, to simplify <span class="arithmatex">\( \frac{18}{24} \)</span>:</p>
+<div class="arithmatex">\[
+\gcd(18, 24) = 6
+\]</div>
+<p>Thus, <span class="arithmatex">\( \frac{18}{24} = \frac{18 \div 6}{24 \div 6} = \frac{3}{4} \)</span>.</p>
+<h3 id="2_problem_solving_with_ratios"><strong>2. Problem Solving with Ratios</strong><a class="headerlink" href="#2_problem_solving_with_ratios" title="Permanent link">&para;</a></h3>
+<p>In problems involving ratios, the GCF can be used to simplify or compare ratios. For example, in reducing the ratio 36:60 to its simplest form, we divide both numbers by their GCF (which is 12), yielding 3:5.</p>
+<h3 id="3_modular_arithmetic_and_cryptography"><strong>3. Modular Arithmetic and Cryptography</strong><a class="headerlink" href="#3_modular_arithmetic_and_cryptography" title="Permanent link">&para;</a></h3>
+<p>The GCF is critical in modular arithmetic, a foundational concept in cryptography. In systems like RSA encryption, the security of the algorithm relies on properties of the GCF, particularly when working with large prime numbers. The Euclidean algorithm is used to compute the multiplicative inverses in modular systems, ensuring secure data encryption and decryption.</p>
+<h3 id="4_diophantine_equations"><strong>4. Diophantine Equations</strong><a class="headerlink" href="#4_diophantine_equations" title="Permanent link">&para;</a></h3>
+<p>The GCF is important in solving <strong>Diophantine equations</strong>, which are equations of the form <span class="arithmatex">\( ax + by = c \)</span>, where solutions for <span class="arithmatex">\( x \)</span> and <span class="arithmatex">\( y \)</span> must be integers. For such an equation to have integer solutions, <span class="arithmatex">\( \gcd(a, b) \)</span> must divide <span class="arithmatex">\( c \)</span>. This condition leads to rich results in number theory and algebra.</p>
+<hr />
 
 
 
