@@ -1,8 +1,8 @@
-# mpower-sitedocs
+# M-Power-Sitedocs
 
 The M-Power Math Static Site for Documentation of the MPower Math Compendium
 
-This is the primary documentation for M-Power Math Compendoum. It is based on mkdocs using material theme.  The protocol for manged documentation under BDIF is intrinsically tied to a static site generator then can be served by any http server.  It is sourced, edited, and versioned under git with appropraite PR review, versioned and release life cycle management.
+This is the primary documentation for M-Power Math Compendium. It is based on mkdocs using material theme.  The protocol for manged documentation under BDIF is intrinsically tied to a static site generator then can be served by any http server.  It is sourced, edited, and versioned under git with appropraite PR review, versioned and release life cycle management.
 
 ## Reference
 
