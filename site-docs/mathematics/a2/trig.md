@@ -1,6 +1,6 @@
 # Trignometry Identities
 
-Trigonometric identities are essential in mathematics, especially in solving problems involving angles and periodic functions. These identities relate the trigonometric functions—sine (\( \sin \)), cosine (\( \cos \)), tangent (\( \tan \)), and others—to each other, making it easier to simplify expressions, solve equations, and prove more complex results.
+Trigonometric identities are essential in mathematics, especially in solving problems involving angles and periodic functions. These identities relate the trigonometric functions — sine (\( \sin \)), cosine (\( \cos \)), tangent (\( \tan \)), and others — to each other, making it easier to simplify expressions, solve equations, and prove more complex results.
 
 Here’s a structured breakdown of the most fundamental **trigonometric identities**:
 
