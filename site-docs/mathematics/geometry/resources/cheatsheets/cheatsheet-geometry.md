@@ -1,4 +1,4 @@
-# Cheatsheets - Geometry Properties & Formulas
+# Cheatsheet - Geometry Properties & Formulas
 
 ## 1. **Basic Shapes and Their Properties**
 

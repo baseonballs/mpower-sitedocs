@@ -320,7 +320,7 @@ nav:
       - "Triangles": "./mathematics/geometry/triangle_overview.md"
     - "Cheatsheets":
       - "Geometry Theorems":  "mathematics/geometry/resources/cheatsheets/cheatsheet-geometry-theorems.md"
-      - "Geometry Properties & Formulas": "mathematics/geometry/resources/cheatsheets/cheatsheets-geometry.md"
+      - "Geometry Properties & Formulas": "mathematics/geometry/resources/cheatsheets/cheatsheet-geometry.md"
   - "Logic":
     - "Foundation": "logic/intro.md"
   - "Modular Arithmetic":
