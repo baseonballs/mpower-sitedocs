@@ -6,17 +6,17 @@ Factors are fundamental in understanding number theory and arithmetic. A **facto
 
 ## **1. Definition of a Factor**
 
-For any integers \(a\) and \(b\) and \(b \neq 0\), we say that \(a\) is a factor of \(b\) if:
+For any integers \(a\) & \(b\) and \(b \neq 0\), we say that \(b\) is a factor of \(a\) if and only if:
 
 \[
-b \mid a \implies k \in \mathbb{Z}
+k \in \mathbb{Z} \implies b \mid a
 \]
 
-In other words, if dividing \(a\) by \(b\) leaves no remainder, then \(b\) is a factor of \(a\).
+In other words, $b$ is a factor of $a$ if there exists an integer $k$ such that \(a = b \times k\). This means that dividing $a$ by $b$ results in a whole number (an integer, $k$) with no remainder.
 
 ### Example:
 
-For \(b = 12\), the factors of 12 are: \( 1, 2, 3, 4, 6, 12 \), because each divides 12 exactly.
+For \(a = 12\), the factors of 12 are: \( 1, 2, 3, 4, 6, 12 \), because each factor $b$ divides 12 exactly.
 
 ## **2. Factor Pairs**
 
