@@ -306,7 +306,7 @@ nav:
       - "Identities": "./mathematics/a2/trig.md"
     - "Appendix - Resources":
       - "Cheatsheets":
-        - "Algebraic Identities":  ""
+        - "Algebraic Identities":  "mathematics/a2/resources/cheatsheets/cheatsheet-a2-identities.md"
         - "Alegrba 2 Properties & Formulas": "mathematics/a2/resources/cheatsheets/cheatsheets-a2-formulas.md"
       - "Problem Solving":
         - "AoPS-A2":
