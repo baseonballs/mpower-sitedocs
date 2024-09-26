@@ -27,6 +27,9 @@ and the GCF is:
 
     - 2 is the smallest and the only even prime number since $2n$ are no longer primes.
 
+- **<span style="color: brown; font-weight:bold; font-style: normal">Coprime or Relative Prime</span>**:
+    - when \(\text{GCF}(a, b) = 1\); In other words, no common factors other than 1.
+
 - **<span style="color: brown; font-weight:bold; font-style: normal">Fundamental Theorem of Arithmetic</span>**: Every natural number greater > 1 can be uniquely expressed as a product of prime numbers, disregarding the order of the factors.
 
 - **<span style="color: brown; font-weight:bold; font-style: normal">Fundamental Rule of Algebra</span>** - states that every non-constant polynomial function with complex coefficients has at least one complex root. Moreover, a polynomial of degree $n$ will have exactly $n$ roots in the complex number system, counting multiplicities.
