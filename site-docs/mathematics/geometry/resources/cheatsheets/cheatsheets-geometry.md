@@ -7,8 +7,8 @@
 - **Perimeter**: \( P = a + b + c \) (sum of all sides)
 - **Pythagorean Theorem** (Right Triangle): \( a^2 + b^2 = c^2 \), where \( c \) is the hypotenuse.
 - **Equilateral Triangle**:
-  - Area: \( A = \frac{\sqrt{3}}{4} \times s^2 \)
-  - Height: \( h = \frac{\sqrt{3}}{2} \times s \)
+    - Area: \( A = \frac{\sqrt{3}}{4} \times s^2 \)
+    - Height: \( h = \frac{\sqrt{3}}{2} \times s \)
 
 ### **Rectangle**
 - **Area**: \( A = \text{length} \times \text{width} \)
@@ -118,7 +118,7 @@
 
 ### **Similarity**:
 - Two figures are similar if their corresponding angles are congruent and corresponding sides are proportional.
-  - **Ratio of Similarity**: \( \frac{\text{Side}_1}{\text{Side}_2} = k \)
+    - **Ratio of Similarity**: \( \frac{\text{Side}_1}{\text{Side}_2} = k \)
 
 ### **Congruence**:
 - Two figures are congruent if they have the same shape and size.
