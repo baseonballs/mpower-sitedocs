@@ -55,3 +55,66 @@ or
 \[
 \gcd(\gcd(60, 24), 36) = \gcd(12, 36) = 12
 \]
+
+
+### **3. Distributive Property Over LCM**
+
+The GCF has a distributive property when combined with the Least Common Multiple (LCM), where:
+
+\[
+\gcd(a, b) \times \mathrm{lcm}(a, b) = a \times b
+\]
+
+This property shows a deep connection between the GCF and LCM. The product of the GCF and LCM of two numbers is equal to the product of the numbers themselves. This relationship is particularly useful when one value is known, and the other needs to be calculated.
+
+For example, if \( a = 18 \) and \( b = 24 \), we know:
+
+\[
+\gcd(18, 24) \times \mathrm{lcm}(18, 24) = 18 \times 24
+\]
+
+\[
+6 \times 72 = 432
+\]
+
+### **4. Divisibility Property**
+
+If \( d = \gcd(a, b) \), then \( d \) divides any integer linear combination of \( a \) and \( b \). That is, for any integers \( x \) and \( y \), we have:
+
+\[
+d \mid (ax + by)
+\]
+
+This property connects the GCF to the concept of **Diophantine equations**, where integer solutions are sought for equations of the form \( ax + by = c \).
+
+### **5. Relationship with Prime Factorization**
+
+The GCF of two numbers can be found using their prime factorizations. If the prime factorizations of \( a \) and \( b \) are given as:
+
+\[
+a = p_1^{e_1} \times p_2^{e_2} \times \cdots \times p_n^{e_n}
+\]
+
+\[
+b = p_1^{f_1} \times p_2^{f_2} \times \cdots \times p_n^{f_n}
+\]
+
+where \( p_i \) are primes and \( e_i, f_i \) are the corresponding exponents, the GCF is given by:
+
+\[
+\gcd(a, b) = p_1^{\min(e_1, f_1)} \times p_2^{\min(e_2, f_2)} \times \cdots \times p_n^{\min(e_n, f_n)}
+\]
+
+In other words, the GCF takes the lowest powers of all the prime factors common to both numbers.
+
+For example:
+
+- \( 60 = 2^2 \times 3 \times 5 \)
+- \( 36 = 2^2 \times 3^2 \)
+
+Thus:
+
+\[
+\gcd(60, 36) = 2^2 \times 3 = 12
+\]
+
