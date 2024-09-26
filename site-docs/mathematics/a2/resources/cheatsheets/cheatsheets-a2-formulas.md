@@ -1,6 +1,6 @@
 # Cheatsheets - Algebra 2 Properties & Formulas
 
-Here’s a comprehensive cheat sheet for **Algebra 2**, covering advanced topics and concepts commonly explored at this level:
+A comprehensive cheat sheet for **Algebra 2**, covering advanced topics and concepts commonly explored at this level:
 
 ### 1. **Complex Numbers**
 - **Imaginary Unit**: \( i = \sqrt{-1} \)

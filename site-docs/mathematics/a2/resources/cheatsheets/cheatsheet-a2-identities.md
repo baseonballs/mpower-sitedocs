@@ -1,6 +1,6 @@
 # Algebra 2 Identities
 
-Here’s a list of essential **Algebra 2 identities** and formulas that are widely used:
+A list of essential **Algebra 2 identities** and formulas that are widely used:
 
 ### 1. **Polynomial Identities**
 
