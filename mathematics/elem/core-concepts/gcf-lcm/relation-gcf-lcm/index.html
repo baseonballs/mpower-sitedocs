@@ -8193,7 +8193,7 @@
 <h2 id="1_the_fundamental_relationship_product_of_gcf_and_lcm"><strong>1. The Fundamental Relationship: Product of GCF and LCM</strong><a class="headerlink" href="#1_the_fundamental_relationship_product_of_gcf_and_lcm" title="Permanent link">&para;</a></h2>
 <p>The most famous and useful relationship between GCF and LCM is given by:</p>
 <div class="arithmatex">\[
-\mathrm{gcf}(a, b) \times \mathrm{lcm}(a, b) = a \times b
+\mathrm{GCF}(a, b) \times \mathrm{LCM}(a, b) = a \times b
 \]</div>
 <p>This formula shows that the product of the GCF and the LCM of two numbers is always equal to the product of the numbers themselves.</p>
 <h3 id="understanding_the_formula"><strong>Understanding the Formula:</strong><a class="headerlink" href="#understanding_the_formula" title="Permanent link">&para;</a></h3>
@@ -8201,8 +8201,8 @@
 <p>For example:</p>
 <ul>
 <li>Consider <span class="arithmatex">\( a = 12 \)</span> and <span class="arithmatex">\( b = 18 \)</span>.<ul>
-<li><span class="arithmatex">\( \mathrm{gcf}(12, 18) = 6 \)</span></li>
-<li><span class="arithmatex">\( \mathrm{lcm}(12, 18) = 36 \)</span></li>
+<li><span class="arithmatex">\( \mathrm{GCF}(12, 18) = 6 \)</span></li>
+<li><span class="arithmatex">\( \mathrm{LCM}(12, 18) = 36 \)</span></li>
 </ul>
 </li>
 </ul>
@@ -8223,12 +8223,12 @@ b = p_1^{f_1} \times p_2^{f_2} \times \cdots \times p_n^{f_n}
 <h3 id="gcf_from_prime_factorization"><strong>GCF from Prime Factorization:</strong><a class="headerlink" href="#gcf_from_prime_factorization" title="Permanent link">&para;</a></h3>
 <p>The GCF is determined by taking the lowest power of each prime common to both numbers:</p>
 <div class="arithmatex">\[
-\mathrm{gcf}(a, b) = p_1^{\min(e_1, f_1)} \times p_2^{\min(e_2, f_2)} \times \cdots \times p_n^{\min(e_n, f_n)}
+\mathrm{GCF}(a, b) = p_1^{\min(e_1, f_1)} \times p_2^{\min(e_2, f_2)} \times \cdots \times p_n^{\min(e_n, f_n)}
 \]</div>
 <h3 id="lcm_from_prime_factorization"><strong>LCM from Prime Factorization:</strong><a class="headerlink" href="#lcm_from_prime_factorization" title="Permanent link">&para;</a></h3>
 <p>The LCM is determined by taking the highest power of each prime that appears in either number:</p>
 <div class="arithmatex">\[
-\mathrm{lcm}(a, b) = p_1^{\max(e_1, f_1)} \times p_2^{\max(e_2, f_2)} \times \cdots \times p_n^{\max(e_n, f_n)}
+\mathrm{LCM}(a, b) = p_1^{\max(e_1, f_1)} \times p_2^{\max(e_2, f_2)} \times \cdots \times p_n^{\max(e_n, f_n)}
 \]</div>
 <h3 id="complementary_relationship"><strong>Complementary Relationship:</strong><a class="headerlink" href="#complementary_relationship" title="Permanent link">&para;</a></h3>
 <p>The GCF and LCM, when multiplied, cover the entire range of prime powers for both numbers. The lowest powers of the primes are counted in the GCF, while the highest powers are counted in the LCM, ensuring that their product reconstructs the full prime factorization of <span class="arithmatex">\( a \times b \)</span>.</p>
@@ -8240,32 +8240,32 @@ b = p_1^{f_1} \times p_2^{f_2} \times \cdots \times p_n^{f_n}
 <li>
 <p>Prime factorizations: <span class="arithmatex">\( 12 = 2^2 \times 3 \)</span> and <span class="arithmatex">\( 18 = 2 \times 3^2 \)</span>.</p>
 </li>
-<li><span class="arithmatex">\( \mathrm{gcf}(12, 18) = 2 \times 3 = 6 \)</span>.</li>
-<li><span class="arithmatex">\( \mathrm{lcm}(12, 18) = 2^2 \times 3^2 = 36 \)</span>.</li>
+<li><span class="arithmatex">\( \mathrm{GCF}(12, 18) = 2 \times 3 = 6 \)</span>.</li>
+<li><span class="arithmatex">\( \mathrm{LCM}(12, 18) = 2^2 \times 3^2 = 36 \)</span>.</li>
 <li><span class="arithmatex">\( 6 \times 36 = 12 \times 18 = 216 \)</span>.</li>
 </ul>
 <hr />
 <h2 id="3_gcf_and_lcm_using_the_euclidean_algorithm"><strong>3. GCF and LCM Using the Euclidean Algorithm</strong><a class="headerlink" href="#3_gcf_and_lcm_using_the_euclidean_algorithm" title="Permanent link">&para;</a></h2>
 <p>The Euclidean Algorithm is a well-known method to calculate the GCF of two numbers, particularly useful for large integers. The LCM can then be determined using the relationship:</p>
 <div class="arithmatex">\[
-\mathrm{lcm}(a, b) = \frac{a \times b}{\mathrm{gcf}(a, b)}
+\mathrm{LCM}(a, b) = \frac{a \times b}{\mathrm{gcf}(a, b)}
 \]</div>
 <p>This formula is especially helpful because once the GCF is computed (using the Euclidean Algorithm), the LCM can be quickly found by dividing the product of the two numbers by their GCF.</p>
 <h3 id="steps_to_apply_the_euclidean_algorithm_and_calculate_lcm"><strong>Steps to Apply the Euclidean Algorithm and Calculate LCM:</strong><a class="headerlink" href="#steps_to_apply_the_euclidean_algorithm_and_calculate_lcm" title="Permanent link">&para;</a></h3>
 <ol>
-<li>Use the Euclidean Algorithm to find <span class="arithmatex">\( \mathrm{gcf}(a, b) \)</span>. This involves repeatedly applying the division algorithm:</li>
+<li>Use the Euclidean Algorithm to find <span class="arithmatex">\( \mathrm{GCF}(a, b) \)</span>. This involves repeatedly applying the division algorithm:</li>
 </ol>
 <div class="arithmatex">\[
-\mathrm{gcf}(a, b) = \mathrm{gcf}(b, a \mod b)
+\mathrm{GCF}(a, b) = \mathrm{GCF}(b, a \mod b)
 \]</div>
 <p>until <span class="arithmatex">\( a \mod b = 0 \)</span>.
 2. Once the GCF is found, calculate the LCM using:</p>
 <div class="arithmatex">\[
-\mathrm{lcm}(a, b) = \frac{a \times b}{\mathrm{gcf}(a, b)}
+\mathrm{LCM}(a, b) = \frac{a \times b}{\mathrm{GCF}(a, b)}
 \]</div>
 <p>For example:</p>
 <ul>
-<li>To find <span class="arithmatex">\( \mathrm{gcf}(48, 18) \)</span> using the Euclidean Algorithm:</li>
+<li>To find <span class="arithmatex">\( \mathrm{GCF}(48, 18) \)</span> using the Euclidean Algorithm:</li>
 </ul>
 <div class="arithmatex">\[
 48 \div 18 = 2 \quad \text{remainder} \, 12
@@ -8276,12 +8276,12 @@ b = p_1^{f_1} \times p_2^{f_2} \times \cdots \times p_n^{f_n}
 <div class="arithmatex">\[
 12 \div 6 = 2 \quad \text{remainder} \, 0
 \]</div>
-<p>So, <span class="arithmatex">\( \mathrm{gcf}(48, 18) = 6 \)</span>.</p>
+<p>So, <span class="arithmatex">\( \mathrm{GCFcf}(48, 18) = 6 \)</span>.</p>
 <ul>
 <li>Now, use the relationship:</li>
 </ul>
 <div class="arithmatex">\[
-\mathrm{lcm}(48, 18) = \frac{48 \times 18}{6} = 144
+\mathrm{LCM}(48, 18) = \frac{48 \times 18}{6} = 144
 \]</div>
 <hr />
 <h2 id="4_applications_of_the_relationship_between_gcf_and_lcm"><strong>4. Applications of the Relationship Between GCF and LCM</strong><a class="headerlink" href="#4_applications_of_the_relationship_between_gcf_and_lcm" title="Permanent link">&para;</a></h2>
@@ -8306,7 +8306,7 @@ b = p_1^{f_1} \times p_2^{f_2} \times \cdots \times p_n^{f_n}
 <h3 id="1_gcf_and_lcm_of_co-prime_numbers"><strong>1. GCF and LCM of Co-prime Numbers</strong><a class="headerlink" href="#1_gcf_and_lcm_of_co-prime_numbers" title="Permanent link">&para;</a></h3>
 <p>If two numbers are co-prime, i.e., <span class="arithmatex">\( \mathrm{gcf}(a, b) = 1 \)</span>, the relationship simplifies to:</p>
 <div class="arithmatex">\[
-\mathrm{lcm}(a, b) = a \times b
+\mathrm{LCM}(a, b) = a \times b
 \]</div>
 <p>This happens because the GCF is 1, and no factors are shared between the numbers. As a result, the LCM must be the product of the two numbers themselves.</p>
 <h3 id="2_powers_of_two_and_their_relatives"><strong>2. Powers of Two and Their Relatives</strong><a class="headerlink" href="#2_powers_of_two_and_their_relatives" title="Permanent link">&para;</a></h3>
