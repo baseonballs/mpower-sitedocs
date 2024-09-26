@@ -1,4 +1,4 @@
-# Relation of Factors & Multiples to GCF and LCM
+# **Relation of Factors & Multiples to GCF and LCM**
 
 Let’s explore examples of how factors and multiples relate to the GCF and LCM in more detail, and how they can be applied:
 
