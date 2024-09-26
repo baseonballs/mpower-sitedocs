@@ -1,8 +1,8 @@
-# cmm-cloud-delivery-sitedocs
+# mpower-sitedocs
 
-The CMM Cloud Delivery Static Site for Documentation of the CMM Platform Infrastructure Framework (PIF)
+The M-Power Math Static Site for Documentation of the MPower Math Compendium
 
-This is the primary SoT documentation for PIF. It is based on mkdocs using material theme.  The protocol for manged documentation under BDIF is intrinsically tied to a static site generator then can be served by any http server.  It is sourced, edited, and versioned under git with appropraite PR review, versioned and release life cycle management.
+This is the primary documentation for M-Power Math Compendoum. It is based on mkdocs using material theme.  The protocol for manged documentation under BDIF is intrinsically tied to a static site generator then can be served by any http server.  It is sourced, edited, and versioned under git with appropraite PR review, versioned and release life cycle management.
 
 ## Reference
 
@@ -111,7 +111,7 @@ cloud-run-proxy -token $(gcloud auth print-identity-token)  -host $URL -bind "12
 
 # Use the glcoud:  Note this isn't working
 ```sh
-CLOUDRUN_SITEDOCS_URL=cmm-pif-sitedocs #https://cmm-pif-sitedocs-e7wyuaseoa-uc.a.run.app
+CLOUDRUN_SITEDOCS_URL=mpower-sitedocs #https://cmm-pif-sitedocs-e7wyuaseoa-uc.a.run.app
 
 # open the url using default browser and localhost address
 open 127.0.0.1:8080
@@ -120,7 +120,7 @@ open 127.0.0.1:8080
 Access curl
 ```sh
 # use curl to access the sitedocs url
-CLOUDRUN_SITEDOCS_URL=https://cmm-pif-sitedocs-e7wyuaseoa-uc.a.run.app/
+CLOUDRUN_SITEDOCS_URL=https://mpower-sitedocs-e7wyuaseoa-uc.a.run.app/
 curl -H "Authorization: Bearer $(gcloud auth print-identity-token)" ${CLOUDRUN_SITEDOCS_URL}
 ```
 
@@ -151,4 +151,4 @@ docker run -p 8000:8000 ${IMAGE_NAME}:${IMAGE_TAG}
 
 - https://github.com/arunkumars08/docker-static-files-serve/blob/master/nginx.conf
 - https://github.com/nginxinc/docker-nginx/blob/master/modules/README.md
-- 
+
