@@ -3881,6 +3881,33 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#3_distributive_property_over_lcm" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Distributive Property Over LCM
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4_divisibility_property" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Divisibility Property
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5_relationship_with_prime_factorization" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Relationship with Prime Factorization
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -7878,6 +7905,33 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#3_distributive_property_over_lcm" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Distributive Property Over LCM
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4_divisibility_property" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Divisibility Property
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5_relationship_with_prime_factorization" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Relationship with Prime Factorization
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -7933,6 +7987,47 @@ d \mid a \quad \text{and} \quad d \mid b
 <p>or</p>
 <div class="arithmatex">\[
 \gcd(\gcd(60, 24), 36) = \gcd(12, 36) = 12
+\]</div>
+<h3 id="3_distributive_property_over_lcm"><strong>3. Distributive Property Over LCM</strong><a class="headerlink" href="#3_distributive_property_over_lcm" title="Permanent link">&para;</a></h3>
+<p>The GCF has a distributive property when combined with the Least Common Multiple (LCM), where:</p>
+<div class="arithmatex">\[
+\gcd(a, b) \times \mathrm{lcm}(a, b) = a \times b
+\]</div>
+<p>This property shows a deep connection between the GCF and LCM. The product of the GCF and LCM of two numbers is equal to the product of the numbers themselves. This relationship is particularly useful when one value is known, and the other needs to be calculated.</p>
+<p>For example, if <span class="arithmatex">\( a = 18 \)</span> and <span class="arithmatex">\( b = 24 \)</span>, we know:</p>
+<div class="arithmatex">\[
+\gcd(18, 24) \times \mathrm{lcm}(18, 24) = 18 \times 24
+\]</div>
+<div class="arithmatex">\[
+6 \times 72 = 432
+\]</div>
+<h3 id="4_divisibility_property"><strong>4. Divisibility Property</strong><a class="headerlink" href="#4_divisibility_property" title="Permanent link">&para;</a></h3>
+<p>If <span class="arithmatex">\( d = \gcd(a, b) \)</span>, then <span class="arithmatex">\( d \)</span> divides any integer linear combination of <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span>. That is, for any integers <span class="arithmatex">\( x \)</span> and <span class="arithmatex">\( y \)</span>, we have:</p>
+<div class="arithmatex">\[
+d \mid (ax + by)
+\]</div>
+<p>This property connects the GCF to the concept of <strong>Diophantine equations</strong>, where integer solutions are sought for equations of the form <span class="arithmatex">\( ax + by = c \)</span>.</p>
+<h3 id="5_relationship_with_prime_factorization"><strong>5. Relationship with Prime Factorization</strong><a class="headerlink" href="#5_relationship_with_prime_factorization" title="Permanent link">&para;</a></h3>
+<p>The GCF of two numbers can be found using their prime factorizations. If the prime factorizations of <span class="arithmatex">\( a \)</span> and <span class="arithmatex">\( b \)</span> are given as:</p>
+<div class="arithmatex">\[
+a = p_1^{e_1} \times p_2^{e_2} \times \cdots \times p_n^{e_n}
+\]</div>
+<div class="arithmatex">\[
+b = p_1^{f_1} \times p_2^{f_2} \times \cdots \times p_n^{f_n}
+\]</div>
+<p>where <span class="arithmatex">\( p_i \)</span> are primes and <span class="arithmatex">\( e_i, f_i \)</span> are the corresponding exponents, the GCF is given by:</p>
+<div class="arithmatex">\[
+\gcd(a, b) = p_1^{\min(e_1, f_1)} \times p_2^{\min(e_2, f_2)} \times \cdots \times p_n^{\min(e_n, f_n)}
+\]</div>
+<p>In other words, the GCF takes the lowest powers of all the prime factors common to both numbers.</p>
+<p>For example:</p>
+<ul>
+<li><span class="arithmatex">\( 60 = 2^2 \times 3 \times 5 \)</span></li>
+<li><span class="arithmatex">\( 36 = 2^2 \times 3^2 \)</span></li>
+</ul>
+<p>Thus:</p>
+<div class="arithmatex">\[
+\gcd(60, 36) = 2^2 \times 3 = 12
 \]</div>
 
 
