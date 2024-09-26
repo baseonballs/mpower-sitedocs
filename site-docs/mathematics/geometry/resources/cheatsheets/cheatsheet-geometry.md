@@ -3,6 +3,7 @@
 ## 1. **Basic Shapes and Their Properties**
 
 ### **Triangle**
+
 - **Area**: \( A = \frac{1}{2} \times \text{base} \times \text{height} \)
 - **Perimeter**: \( P = a + b + c \) (sum of all sides)
 - **Pythagorean Theorem** (Right Triangle): \( a^2 + b^2 = c^2 \), where \( c \) is the hypotenuse.
@@ -11,6 +12,7 @@
     - Height: \( h = \frac{\sqrt{3}}{2} \times s \)
 
 ### **Rectangle**
+
 - **Area**: \( A = \text{length} \times \text{width} \)
 - **Perimeter**: \( P = 2(\text{length} + \text{width}) \)
 
