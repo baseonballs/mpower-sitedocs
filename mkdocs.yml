@@ -318,6 +318,9 @@ nav:
       - "Circle Math": "./mathematics/geometry/circle-math.md"
     - "Shapes":
       - "Triangles": "./mathematics/geometry/triangle_overview.md"
+    - "Cheatsheets":
+      - "Geometric Identities":  ""
+      - "Geometry Properties & Formulas": "mathematics/geometry/resources/cheatsheets/cheatsheets-geometry.md"
   - "Logic":
     - "Foundation": "logic/intro.md"
   - "Modular Arithmetic":
