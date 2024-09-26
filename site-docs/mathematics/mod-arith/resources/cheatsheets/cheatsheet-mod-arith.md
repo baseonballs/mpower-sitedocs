@@ -1,13 +1,13 @@
 # Cheatsheet - Modular Arithmetic
 
-## **Modular Arithmetic Cheatsheet**
+## 1. **Modular Arithmetic Cheatsheet**
 
 ### **Basic Definition**
 - \( a \equiv b \ (\text{mod} \ m) \): \(a\) and \(b\) leave the same remainder when divided by \(m\).
 
 ---
 
-## **Modular Arithmetic Operations**
+## 2. **Modular Arithmetic Operations**
 
 ### **Addition**
 
@@ -35,13 +35,13 @@ a^n \mod m = [(a \mod m)^n] \mod m
 
 ---
 
-## **Modular Inverses**
+## 3. **Modular Inverses**
 - The inverse of \(a \mod m\) is \(x\) such that \( a \times x \equiv 1 \ (\text{mod} \ m) \).
 - Use the **Extended Euclidean Algorithm** to find the inverse.
 
 ---
 
-## **Modular Division**
+## 4. **Modular Division**
 
 \[
 \frac{a}{b} \mod m = a \times b^{-1} \mod m
@@ -51,7 +51,7 @@ where \(b^{-1}\) is the modular inverse of \(b\) modulo \(m\).
 
 ---
 
-## **Key Theorems**
+## 5. **Key Theorems**
 
 ### **Fermat’s Little Theorem**
 
@@ -78,7 +78,7 @@ where \( \phi(n) \) is Euler's totient function.
 
 ---
 
-## **Special Cases**
+## 6. **Special Cases**
 
 ### **Difference of Powers**
 
@@ -94,5 +94,5 @@ a^m - a^n \equiv 0 \ (\text{mod} \ d) \quad \text{if } m \equiv n \ (\text{mod} 
 
 ---
 
-## **Modular Exponentiation (Efficient Calculation)**
+## 7. **Modular Exponentiation (Efficient Calculation)**
 Use **exponentiation by squaring** to compute large powers modulo \(m\).
