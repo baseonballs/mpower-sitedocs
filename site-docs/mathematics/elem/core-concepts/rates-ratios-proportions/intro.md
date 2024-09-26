@@ -26,7 +26,7 @@ The key distinction between ratios and rates is that rates involve different uni
 A **proportion** is an equation that states that two ratios or rates are equal. In a proportion, the relationship between two sets of quantities is maintained. Proportions are written as:
 
 \[
-\frac{a}{b} = \frac{c}{d},
+\frac{a}{b} = \frac{c}{d}
 \]
 
 which means "the ratio of \( a \) to \( b \) is equal to the ratio of \( c \) to \( d \)."
