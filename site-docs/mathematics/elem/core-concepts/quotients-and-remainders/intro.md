@@ -68,6 +68,7 @@ The remainder, \( r \), is the portion of the dividend that is left over after t
 ### **Example**
 
 Consider dividing 23 by 5:
+
 \[
 23 = 5 \times 4 + 3,
 \]
