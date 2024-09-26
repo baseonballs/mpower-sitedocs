@@ -10,7 +10,7 @@ Here’s a comprehensive cheat sheet for **Algebra 2**, covering advanced topics
 - **Multiplication**: 
     - \( (a + bi)(c + di) = (ac - bd) + (ad + bc)i \)
 - **Conjugate**: 
-  -  \( \overline{a + bi} = a - bi \)
+    -  \( \overline{a + bi} = a - bi \)
 
 ### 2. **Polynomials**
 - **Standard Form**: \( ax^n + bx^{n-1} + \dots + z = 0 \)
@@ -39,7 +39,7 @@ Here’s a comprehensive cheat sheet for **Algebra 2**, covering advanced topics
 - **Logarithmic Function**: 
     - \( f(x) = \log_b(x) \), where \( b \) is the base.
 - **Change of Base Formula**: 
-  -  \( \log_b(x) = \frac{\log_a(x)}{\log_a(b)} \)
+    -  \( \log_b(x) = \frac{\log_a(x)}{\log_a(b)} \)
 - **Properties of Logarithms**:
     - \( \log_b(xy) = \log_b(x) + \log_b(y) \)
     - \( \log_b\left(\frac{x}{y}\right) = \log_b(x) - \log_b(y) \)
