@@ -212,6 +212,8 @@ nav:
     - "Rates, Ratios, & Proportions": "mathematics/elem/core-concepts/rates-ratios-proportions/intro.md"
     - "Coordinate Systems":
       - "Introduction": "mathematics/elem/coord-systems/introduction.md"
+    - "Functions & Graphs":
+      - "Introduction": "mathematics/elem/core-concepts/functions-graphs/index.md"
     - "Appendix - Resources":
       - "Cheatsheets": 
         - "Core Ideas": "mathematics/elem/resources/cheat-sheets/index.md"
