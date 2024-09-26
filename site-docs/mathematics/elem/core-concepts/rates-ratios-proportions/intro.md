@@ -64,16 +64,13 @@ The concepts of ratios, rates, and proportions are indispensable across multiple
 ## Rates, Ratios, and Proportions: Citations
 
 1. **Ratios**: Ratios are a comparison of two quantities by division. For an in-depth discussion, you can refer to:
-
-   - Larson, Ron, and Laurie Boswell. *Big Ideas Math: Advanced 2*. Big Ideas Learning, 2014. Chapter 5: "Ratios and Proportions."
-   - Smith, Karl J. *Precalculus: A Functional Approach to Graphing and Problem Solving*. 6th Edition, Cengage Learning, 2017. Chapter 2: "Ratios and Proportions."
+      - Larson, Ron, and Laurie Boswell. *Big Ideas Math: Advanced 2*. Big Ideas Learning, 2014. Chapter 5: "Ratios and Proportions."
+      - Smith, Karl J. *Precalculus: A Functional Approach to Graphing and Problem Solving*. 6th Edition, Cengage Learning, 2017. Chapter 2: "Ratios and Proportions."
 
 2. **Rates**: A rate is a special type of ratio, where two quantities with different units are compared. To explore rates and their applications, see:
-
-   - Blitzer, Robert. *Algebra and Trigonometry*. 6th Edition, Pearson, 2018. Section 3.5: "Rates and Proportions."
-   - Larson, Ron, and Robert P. Hostetler. *College Algebra with Applications for Business and Life Sciences*. 1st Edition, Brooks Cole, 2008. Chapter 4: "Rates and Change."
+      - Blitzer, Robert. *Algebra and Trigonometry*. 6th Edition, Pearson, 2018. Section 3.5: "Rates and Proportions."
+      - Larson, Ron, and Robert P. Hostetler. *College Algebra with Applications for Business and Life Sciences*. 1st Edition, Brooks Cole, 2008. Chapter 4: "Rates and Change."
 
 3. **Proportions**: Proportions express equality between two ratios and are frequently used in problem-solving across disciplines. For more details on proportions, refer to:
-
-   - Lial, Margaret L., et al. *Mathematics with Applications in the Management, Natural, and Social Sciences*. 12th Edition, Pearson, 2019. Chapter 7: "Proportions and Applications."
-   - Aufmann, Richard N., and Joanne Lockwood. *Introductory Algebra: An Applied Approach*. 9th Edition, Cengage Learning, 2016. Chapter 6: "Proportions, Ratios, and Percentages."
+      - Lial, Margaret L., et al. *Mathematics with Applications in the Management, Natural, and Social Sciences*. 12th Edition, Pearson, 2019. Chapter 7: "Proportions and Applications."
+      - Aufmann, Richard N., and Joanne Lockwood. *Introductory Algebra: An Applied Approach*. 9th Edition, Cengage Learning, 2016. Chapter 6: "Proportions, Ratios, and Percentages."
