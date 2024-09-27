@@ -134,6 +134,17 @@ Let \( A = \{1, 2, 3\} \) and \( B = \{3, 4, 5\} \).
 
 ---
 
-## **Conclusion**
+## **Summary**
 
 Set notation is an essential mathematical tool that provides a clear and structured way to represent and manipulate collections of elements. By using specific symbols and operations, such as union, intersection, and set difference, set theory allows for a precise formulation of mathematical relationships. Whether defining simple finite sets or working with infinite collections, set notation is foundational across various fields of mathematics, including algebra, calculus, and logic. Mastering the syntax and operations of sets enables a deeper understanding of mathematical reasoning and problem-solving, making it an indispensable part of mathematical language.
+
+**References**:
+
+Here’s the citation for set notations in Markdown format:
+
+**Books:**
+- Halmos, P. R. (1960). *Naive Set Theory*. Van Nostrand.
+- Suppes, P. (1972). *Axiomatic Set Theory*. Dover Publications.
+
+**Online:**
+- Wikipedia contributors. (2023, September 19). *Set notation*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Set_notation](https://en.wikipedia.org/wiki/Set_notation)
