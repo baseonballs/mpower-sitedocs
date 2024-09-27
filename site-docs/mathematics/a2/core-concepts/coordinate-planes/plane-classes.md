@@ -53,3 +53,72 @@ Ever wonder how many different types of planes there are in mathematics? The con
      - \( r \) represents the radial distance from the origin, and \( \theta \) represents the angle from the positive x-axis.
      - Useful for problems involving circular symmetry or rotation.
    - **Example**: The equation \( r = 2 \cos \theta \) represents a circle in the polar plane.
+
+## 8. **Vector Plane**
+   - **Definition**: A plane described in terms of vectors, often used in linear algebra and physics. It is typically embedded in a higher-dimensional space.
+   - **Properties**:
+     - Described by vector equations like \( \mathbf{r} = \mathbf{r}_0 + t\mathbf{v} + s\mathbf{w} \), where \( \mathbf{r}_0 \) is a point on the plane and \( \mathbf{v} \) and \( \mathbf{w} \) are direction vectors.
+     - Used to describe planes in three-dimensional space.
+   - **Example**: A vector plane in \( \mathbb{R}^3 \) is defined by two linearly independent vectors.
+
+## 9. **Tangent Plane**
+   - **Definition**: A plane that touches a curved surface at exactly one point and is "flat" relative to the curve at that point.
+   - **Properties**:
+     - Used in calculus and differential geometry to approximate the local behavior of surfaces.
+     - The tangent plane to a surface at a point is defined by the gradient of the surface’s equation at that point.
+   - **Example**: For the surface \( z = f(x, y) \), the tangent plane at a point \( (x_0, y_0) \) is the plane \( z = f(x_0, y_0) + \frac{\partial f}{\partial x}(x_0, y_0)(x - x_0) + \frac{\partial f}{\partial y}(x_0, y_0)(y - y_0) \).
+
+## 10. **Algebraic Plane**
+   - **Definition**: A plane in algebraic geometry where points correspond to solutions of polynomial equations in two variables.
+   - **Properties**:
+     - Used to study the solutions of algebraic equations geometrically.
+     - Objects in this plane include algebraic curves, such as conic sections, ellipses, and hyperbolas.
+   - **Example**: The equation \( x^2 + y^2 = 1 \) represents a circle in the algebraic plane.
+
+---
+
+These different planes serve as tools across various areas of mathematics, providing different ways to interpret and analyze geometric, algebraic, and analytic structures.
+
+---
+
+**References**:
+
+1. **Euclidean Plane**:  
+    - Euclid. *The Elements*. Translated by Sir Thomas L. Heath, Dover Publications, 1956.  
+    - "Euclidean Geometry." *Encyclopædia Britannica*. [https://www.britannica.com/science/Euclidean-geometry](https://www.britannica.com/science/Euclidean-geometry).
+
+2. **Complex Plane**:  
+    - Needham, Tristan. *Visual Complex Analysis*. Oxford University Press, 1997.  
+    - "Complex Plane." *Wolfram MathWorld*. [https://mathworld.wolfram.com/ComplexPlane.html](https://mathworld.wolfram.com/ComplexPlane.html).
+
+3. **Affine Plane**:  
+    - Shafarevich, Igor R. *Basic Algebraic Geometry*. Springer, 1994.  
+    - "Affine Geometry." *Encyclopædia Britannica*. [https://www.britannica.com/science/affine-geometry](https://www.britannica.com/science/affine-geometry).
+
+4. **Projective Plane**:  
+    - Coxeter, H.S.M. *Projective Geometry*. Springer-Verlag, 1987.  
+    - "Projective Geometry." *Wolfram MathWorld*. [https://mathworld.wolfram.com/ProjectiveGeometry.html](https://mathworld.wolfram.com/ProjectiveGeometry.html).
+
+5. **Parametric Plane**:  
+    - Stewart, James. *Calculus: Early Transcendentals*. 8th ed., Cengage Learning, 2015.  
+    - "Parametric Equations." *Khan Academy*. [https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/parametric-equations/v/parametric-equations](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/parametric-equations/v/parametric-equations).
+
+6. **Hyperbolic Plane**:  
+    - Greenberg, Marvin Jay. *Euclidean and Non-Euclidean Geometries: Development and History*. 4th ed., W. H. Freeman, 2008.  
+    - "Hyperbolic Geometry." *Khan Academy*. [https://www.khanacademy.org/math/geometry/hs-geo-congruence/hs-geo-non-euclidean-geom/v/hyperbolic-geometry](https://www.khanacademy.org/math/geometry/hs-geo-congruence/hs-geo-non-euclidean-geom/v/hyperbolic-geometry).
+
+7. **Polar Plane**:  
+    - Anton, Howard, et al. *Calculus with Analytic Geometry*. 5th ed., Wiley, 1995.  
+    - "Polar Coordinates." *Khan Academy*. [https://www.khanacademy.org/math/precalculus/polar-coordinates](https://www.khanacademy.org/math/precalculus/polar-coordinates).
+
+8. **Vector Plane**:  
+    - Strang, Gilbert. *Linear Algebra and Its Applications*. 4th ed., Brooks Cole, 2005.  
+    - "Vector Spaces." *Wolfram MathWorld*. [https://mathworld.wolfram.com/VectorSpace.html](https://mathworld.wolfram.com/VectorSpace.html).
+
+9. **Tangent Plane**:  
+    - Marsden, Jerrold E., and Tromba, Anthony J. *Vector Calculus*. 6th ed., W.H. Freeman, 2011.  
+    - "Tangent Plane." *Wolfram MathWorld*. [https://mathworld.wolfram.com/TangentPlane.html](https://mathworld.wolfram.com/TangentPlane.html).
+
+10. **Algebraic Plane**:  
+    - Hartshorne, Robin. *Algebraic Geometry*. Springer-Verlag, 1977.  
+    - "Algebraic Geometry." *Encyclopædia Britannica*. [https://www.britannica.com/science/algebraic-geometry](https://www.britannica.com/science/algebraic-geometry).
