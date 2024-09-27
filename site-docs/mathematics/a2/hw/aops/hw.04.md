@@ -8,6 +8,11 @@
 
 ---
 
+**Aditional Resources**:
+
+- Elementary Mathhematics: [Functions](../../../elem/core-concepts/functions-graphs/index.md)
+
+
 ## **Problem 1**
 
 ### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
