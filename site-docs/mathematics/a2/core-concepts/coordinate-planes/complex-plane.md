@@ -90,6 +90,8 @@ The complex plane is a powerful tool that extends our understanding of numbers, 
 
 ## Excercises - Complex Plane
 
+Test your knowledge of complex plane discused:
+
 ### Basic Exercises
 
 1. **Identify the Components**: Given the complex number \( z = 3 - 4i \), identify the real part and the imaginary part.
