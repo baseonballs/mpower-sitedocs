@@ -2109,9 +2109,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#conclusion" class="md-nav__link">
+  <a href="#summary" class="md-nav__link">
     <span class="md-ellipsis">
-      Conclusion
+      Summary
     </span>
   </a>
   
@@ -8726,9 +8726,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#conclusion" class="md-nav__link">
+  <a href="#summary" class="md-nav__link">
     <span class="md-ellipsis">
-      Conclusion
+      Summary
     </span>
   </a>
   
@@ -8756,25 +8756,31 @@
 <h4 id="expressions"><strong>Expressions</strong><a class="headerlink" href="#expressions" title="Permanent link">&para;</a></h4>
 <ul>
 <li><strong>Definition</strong>: An expression is a combination of variables, constants, operators, and functions that represents a value. It does not include an equals sign and can be evaluated to yield a numerical result.</li>
-<li><strong>Components</strong>:</li>
+<li><strong>Components</strong>:<ul>
 <li><strong>Variables</strong>: Symbols that represent unknown values (e.g., <span class="arithmatex">\( x, y, z \)</span>).</li>
 <li><strong>Constants</strong>: Fixed numerical values (e.g., <span class="arithmatex">\( 3, -7, \pi \)</span>).</li>
 <li><strong>Operators</strong>: Symbols representing operations (e.g., <span class="arithmatex">\( +, -, \times, \div \)</span>).</li>
 <li><strong>Functions</strong>: Expressions involving mathematical functions (e.g., <span class="arithmatex">\( \sqrt{x}, \sin(x) \)</span>).</li>
 </ul>
+</li>
+</ul>
 <p><strong>Example</strong>: <span class="arithmatex">\( 3x^2 + 5x - 7 \)</span></p>
 <h4 id="terms"><strong>Terms</strong><a class="headerlink" href="#terms" title="Permanent link">&para;</a></h4>
 <ul>
 <li><strong>Definition</strong>: A term is a single mathematical expression that can be a constant, a variable, or a product of constants and variables. Terms are the building blocks of expressions.</li>
-<li><strong>Types</strong>:</li>
+<li><strong>Types</strong>:<ul>
 <li><strong>Constant Term</strong>: A term with no variable component (e.g., <span class="arithmatex">\( -7 \)</span>).</li>
 <li><strong>Variable Term</strong>: A term consisting only of a variable (e.g., <span class="arithmatex">\( x \)</span>).</li>
 <li><strong>Polynomial Term</strong>: A product of variables and constants (e.g., <span class="arithmatex">\( 3x^2 \)</span>).</li>
 <li><strong>Coefficient</strong>: The numerical factor in a term (e.g., in <span class="arithmatex">\( 4x^3 \)</span>, 4 is the coefficient).</li>
 <li><strong>Degree</strong>: The exponent of the variable in a term (e.g., in <span class="arithmatex">\( 5x^2 \)</span>, the degree is 2).</li>
 </ul>
-<p><strong>Example</strong>: In the expression <span class="arithmatex">\( 3x^2 + 5x - 7 \)</span>:
-  - <strong>Terms</strong>: <span class="arithmatex">\( 3x^2 \)</span>, <span class="arithmatex">\( 5x \)</span>, and <span class="arithmatex">\( -7 \)</span></p>
+</li>
+</ul>
+<p><strong>Example</strong>: In the expression <span class="arithmatex">\( 3x^2 + 5x - 7 \)</span>:</p>
+<ul>
+<li><strong>Terms</strong>: <span class="arithmatex">\( 3x^2 \)</span>, <span class="arithmatex">\( 5x \)</span>, and <span class="arithmatex">\( -7 \)</span></li>
+</ul>
 <hr />
 <h3 id="2_backus-naur_form_bnf_for_expressions_and_terms"><strong>2. Backus-Naur Form (BNF) for Expressions and Terms</strong><a class="headerlink" href="#2_backus-naur_form_bnf_for_expressions_and_terms" title="Permanent link">&para;</a></h3>
 <p>Backus-Naur Form is a notation used to formally describe the syntax of languages, including mathematical expressions. It provides a clear and precise way to define the structure of expressions and terms.</p>
@@ -8832,65 +8838,94 @@
 <h3 id="3_examples_and_non-examples"><strong>3. Examples and Non-Examples</strong><a class="headerlink" href="#3_examples_and_non-examples" title="Permanent link">&para;</a></h3>
 <h4 id="examples_of_expressions"><strong>Examples of Expressions</strong><a class="headerlink" href="#examples_of_expressions" title="Permanent link">&para;</a></h4>
 <ol>
-<li><strong>Polynomial Expression</strong>:</li>
-<li><span class="arithmatex">\( 2x^3 - 4x^2 + 5x - 6 \)</span></li>
 <li>
-<p><strong>Terms</strong>: <span class="arithmatex">\( 2x^3 \)</span>, <span class="arithmatex">\( -4x^2 \)</span>, <span class="arithmatex">\( 5x \)</span>, <span class="arithmatex">\( -6 \)</span></p>
+<p><strong>Polynomial Expression</strong>:</p>
+<ul>
+<li><span class="arithmatex">\( 2x^3 - 4x^2 + 5x - 6 \)</span></li>
+<li><strong>Terms</strong>: <span class="arithmatex">\( 2x^3 \)</span>, <span class="arithmatex">\( -4x^2 \)</span>, <span class="arithmatex">\( 5x \)</span>, <span class="arithmatex">\( -6 \)</span></li>
+</ul>
 </li>
 <li>
 <p><strong>Rational Expression</strong>:</p>
-</li>
+<ul>
 <li><span class="arithmatex">\( \frac{3x^2 + 2x - 5}{x - 1} \)</span></li>
 <li><strong>Numerator Terms</strong>: <span class="arithmatex">\( 3x^2 \)</span>, <span class="arithmatex">\( 2x \)</span>, <span class="arithmatex">\( -5 \)</span></li>
-<li>
-<p><strong>Denominator Term</strong>: <span class="arithmatex">\( x - 1 \)</span></p>
+<li><strong>Denominator Term</strong>: <span class="arithmatex">\( x - 1 \)</span></li>
+</ul>
 </li>
 <li>
 <p><strong>Trigonometric Expression</strong>:</p>
-</li>
+<ul>
 <li><span class="arithmatex">\( \sin(x) + \cos(x) \)</span></li>
 <li><strong>Terms</strong>: <span class="arithmatex">\( \sin(x) \)</span>, <span class="arithmatex">\( \cos(x) \)</span></li>
+</ul>
+</li>
 </ol>
 <h4 id="examples_of_terms"><strong>Examples of Terms</strong><a class="headerlink" href="#examples_of_terms" title="Permanent link">&para;</a></h4>
 <ol>
-<li><strong>Single Term</strong>:</li>
-<li><span class="arithmatex">\( 7y \)</span></li>
 <li>
-<p><strong>Components</strong>: Coefficient: 7, Variable: <span class="arithmatex">\( y \)</span></p>
+<p><strong>Single Term</strong>:</p>
+<ul>
+<li><span class="arithmatex">\( 7y \)</span></li>
+<li><strong>Components</strong>: Coefficient: 7, Variable: <span class="arithmatex">\( y \)</span></li>
+</ul>
 </li>
 <li>
 <p><strong>Polynomial Term</strong>:</p>
-</li>
+<ul>
 <li><span class="arithmatex">\( -3x^4 \)</span></li>
-<li>
-<p><strong>Components</strong>: Coefficient: -3, Variable: <span class="arithmatex">\( x \)</span>, Degree: 4</p>
+<li><strong>Components</strong>: Coefficient: -3, Variable: <span class="arithmatex">\( x \)</span>, Degree: 4</li>
+</ul>
 </li>
 <li>
 <p><strong>Constant Term</strong>:</p>
-</li>
+<ul>
 <li><span class="arithmatex">\( 12 \)</span></li>
 <li><strong>Components</strong>: No variable component</li>
+</ul>
+</li>
 </ol>
 <h4 id="non-examples"><strong>Non-Examples</strong><a class="headerlink" href="#non-examples" title="Permanent link">&para;</a></h4>
 <ol>
-<li><strong>Not an Expression</strong>:</li>
 <li>
-<p><span class="arithmatex">\( x = 5 \)</span> (This is an equation, not an expression)</p>
+<p><strong>Not an Expression</strong>:</p>
+<ul>
+<li><span class="arithmatex">\( x = 5 \)</span> (This is an equation, not an expression)</li>
+</ul>
 </li>
 <li>
 <p><strong>Not a Term</strong>:</p>
-</li>
-<li>
-<p><span class="arithmatex">\( 3x + 2 \)</span> (This is an expression, not a single term)</p>
+<ul>
+<li><span class="arithmatex">\( 3x + 2 \)</span> (This is an expression, not a single term)</li>
+</ul>
 </li>
 <li>
 <p><strong>Not a Polynomial Term</strong>:</p>
-</li>
+<ul>
 <li><span class="arithmatex">\( \frac{4}{x} \)</span> (This is a rational term, not a polynomial term)</li>
+</ul>
+</li>
 </ol>
 <hr />
-<h3 id="conclusion"><strong>Conclusion</strong><a class="headerlink" href="#conclusion" title="Permanent link">&para;</a></h3>
+<h3 id="summary"><strong>Summary</strong><a class="headerlink" href="#summary" title="Permanent link">&para;</a></h3>
 <p>Expressions and terms are fundamental components in mathematics, used to build more complex structures like equations and formulas. Expressions represent combinations of variables, constants, and operators, while terms are the individual building blocks of expressions. Using Backus-Naur Form (BNF) provides a formal and precise way to describe the structure of expressions and terms, facilitating their understanding and manipulation. By mastering these concepts, one gains a deeper insight into algebraic operations and mathematical reasoning.</p>
+<p><strong>Referencess</strong>:</p>
+<ul>
+<li>
+<p><strong>Books:</strong></p>
+<ul>
+<li>Smith, D. (2014). <em>Basic Algebra and Geometry</em>. Cengage Learning.</li>
+<li>Blitzer, R. (2018). <em>Algebra and Trigonometry</em>. Pearson.</li>
+</ul>
+</li>
+<li>
+<p><strong>Online:</strong></p>
+<ul>
+<li>CK-12 Foundation. (n.d.). <em>Terms and Expressions</em>. CK-12 Foundation. Retrieved from <a href="https://www.ck12.org">https://www.ck12.org</a></li>
+<li>Wikipedia contributors. (2023, September 15). <em>Algebraic expression</em>. In Wikipedia, The Free Encyclopedia. Retrieved from <a href="https://en.wikipedia.org/wiki/Algebraic_expression">https://en.wikipedia.org/wiki/Algebraic_expression</a></li>
+</ul>
+</li>
+</ul>
 
 
 
