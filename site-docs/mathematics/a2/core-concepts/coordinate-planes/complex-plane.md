@@ -1,6 +1,6 @@
 # Complex Plane
 
-The complex plane is a fundamental concept in complex analysis, providing a geometric interpretation of complex numbers. It plays a critical role in various fields, including mathematics, engineering, and physics. Here’s a detailed exploration of the complex plane:
+The complex plane is a fundamental concept in complex analysis, providing a geometric interpretation of [complex numbers](../../../elem/number-sets/complex-numbers.md). It plays a critical role in various fields, including mathematics, engineering, and physics. Here’s a detailed exploration of the complex plane:
 
 ## 1. Definition of Complex Numbers
 >A complex number is expressed in the form \( z = a + bi \), where:
