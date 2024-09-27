@@ -88,6 +88,38 @@ z_1 z_2 = (a_1 a_2 - b_1 b_2) + (a_1 b_2 + a_2 b_1)i
 
 The complex plane is a powerful tool that extends our understanding of numbers, allowing for geometric interpretations and insights into complex functions. Its applications are vast and varied, influencing many areas of science and engineering. Understanding complex numbers and their geometric representation enhances our ability to solve real-world problems through mathematical modeling and analysis.
 
+## Excercises - Complex Plane
+
+### Basic Exercises
+
+1. **Identify the Components**: Given the complex number \( z = 3 - 4i \), identify the real part and the imaginary part.
+
+2. **Graphing Complex Numbers**: Plot the complex number \( z = -2 + 5i \) on the complex plane. Label the axes accordingly.
+
+3. **Conjugate Calculation**: Calculate the conjugate of the complex number \( z = 1 + 6i \).
+
+4. **Addition of Complex Numbers**: If \( z_1 = 4 + 3i \) and \( z_2 = 2 - 5i \), find \( z_1 + z_2 \).
+
+5. **Multiplication of Complex Numbers**: Multiply the complex numbers \( z_1 = 2 + 3i \) and \( z_2 = 1 - 2i \), and express the result in standard form.
+
+### Advanced Thinking Questions
+
+6. **Polar Form Conversion**: Convert the complex number \( z = -3 + 4i \) to polar form. Provide the modulus and argument.
+
+7. **Geometric Interpretation**: Explain the geometric significance of multiplying a complex number by \( i \). What transformation occurs in the complex plane?
+
+8. **Roots of Complex Numbers**: Find the square roots of the complex number \( z = 1 + i \). Show your calculations step-by-step.
+
+9. **Complex Function Evaluation**: Evaluate the complex function \( f(z) = z^2 + 2z + 2 \) at \( z = 1 + i \). What does the result represent in the complex plane?
+
+10. **Complex Analysis in Applications**: Discuss how the concept of the complex plane is used in electrical engineering, particularly in analyzing AC circuits. Provide a specific example where this application is beneficial.
+
+---
+
+### Solutions
+
+Click [here](complex-plane.exer.sol.md) for the solutions.
+
 ---
 
 **References**:
