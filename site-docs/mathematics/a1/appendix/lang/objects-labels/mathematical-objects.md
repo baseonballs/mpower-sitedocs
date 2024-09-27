@@ -115,3 +115,15 @@
 ## **Summary**
 
 Mathematical objects form the building blocks of mathematical theory and practice. From numbers and shapes to functions and abstract structures, each type of mathematical object plays a crucial role in understanding and solving problems. By studying these objects, mathematicians can explore relationships, derive general principles, and apply mathematical concepts to a wide range of fields and applications.
+
+---
+
+**References**:
+
+* **Books:**
+    - Stewart, I., & Tall, D. (2015). *Mathematical Thinking: The Higher-Level Mathematics*. Springer.
+    - Davis, P. J., & Hersh, R. (1981). *The Mathematical Experience*. Birkhäuser.
+
+* **Online:**
+    - CK-12 Foundation. (n.d.). *Mathematical Objects*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+  - Wikipedia contributors. (2023, September 23). *Mathematical object*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Mathematical_object](https://en.wikipedia.org/wiki/Mathematical_object)

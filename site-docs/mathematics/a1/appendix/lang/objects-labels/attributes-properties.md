@@ -75,3 +75,15 @@ Properties provide a set of rules or behaviors that are consistent across differ
 ## **Summary**
 
 Understanding attributes and properties is crucial in mathematics for analyzing, categorizing, and reasoning about mathematical objects. Attributes provide specific details about individual entities, while properties offer general principles that apply to broader classes of objects. Both are essential for developing a deeper understanding of mathematical concepts and for solving problems effectively.
+
+---
+
+**References**:
+
+* **Books:**
+    - Stewart, I., & Tall, D. (2015). *Mathematical Thinking: The Higher-Level Mathematics*. Springer.
+    - Davis, P. J., & Hersh, R. (1981). *The Mathematical Experience*. Birkhäuser.
+
+* **Online:**
+    - CK-12 Foundation. (n.d.). *Mathematical Objects*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+  - Wikipedia contributors. (2023, September 23). *Mathematical object*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Mathematical_object](https://en.wikipedia.org/wiki/Mathematical_object)
