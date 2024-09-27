@@ -159,7 +159,7 @@ Inequalities are fundamental in mathematics, expressing the relationships betwee
 
 ---
 
-**Equations**:
+**References**:
 
 * **Books:**
       - Bittinger, M. L., Ellenbogen, D. J., & Beecher, J. A. (2019). *Algebra and Trigonometry*. Pearson.

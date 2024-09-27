@@ -158,7 +158,7 @@ The structure of equations is an essential component of mathematical language. T
 
 ---
 
-**Equations**:
+**References**:
 
 * **Books:**
       - Bittinger, M. L., Ellenbogen, D. J., & Beecher, J. A. (2019). *Algebra and Trigonometry*. Pearson.

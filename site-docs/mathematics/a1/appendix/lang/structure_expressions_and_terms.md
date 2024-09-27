@@ -154,7 +154,7 @@ In BNF, a term can be defined as follows:
 
 Expressions and terms are fundamental components in mathematics, used to build more complex structures like equations and formulas. Expressions represent combinations of variables, constants, and operators, while terms are the individual building blocks of expressions. Using Backus-Naur Form (BNF) provides a formal and precise way to describe the structure of expressions and terms, facilitating their understanding and manipulation. By mastering these concepts, one gains a deeper insight into algebraic operations and mathematical reasoning.
 
-**Referencess**:
+**References**:
 
 * **Books:**
       - Smith, D. (2014). *Basic Algebra and Geometry*. Cengage Learning.
