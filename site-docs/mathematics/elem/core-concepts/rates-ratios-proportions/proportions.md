@@ -55,7 +55,7 @@ y = \frac{k}{x}
 - **Inversely Proportional**: As \( x \) increases, \( y \) decreases.
 
 
-## Exercise - Proportion vs Inproportional Relationship
+## Exercises - Proportion vs Inproportional Relationship
 
 Here are a few exercises to help understand proportional and inversely proportional relationships:
 

@@ -1,4 +1,4 @@
-# Exercise: Proportion vs Inproportional Relationship Solutions
+# Exercises: Proportion vs Inproportional Relationship Solutions
 
 ## Exercise 1: **Identifying Proportional Relationships**
 
