@@ -6,9 +6,9 @@ In this discussion, we will cover the **arithmetic operators** in depth, focusin
 
 ---
 
-### **1. Overview of Basic Arithmetic Operators**
+## **1. Overview of Basic Arithmetic Operators**
 
-#### a. **Addition (+)**
+### 1.1 **Addition (+)**
 - **Symbol**: \( + \)
 - **Function**: The addition operator is used to add two numbers or variables together.
   
@@ -25,7 +25,7 @@ In this discussion, we will cover the **arithmetic operators** in depth, focusin
   x = 5 + 3  # x will be assigned the value 8
   ```
 
-#### b. **Subtraction (−)**
+### 1.2 **Subtraction (−)**
 - **Symbol**: \( - \)
 - **Function**: The subtraction operator is used to subtract one number from another.
   
@@ -42,7 +42,7 @@ In this discussion, we will cover the **arithmetic operators** in depth, focusin
   x = 7 - 2  # x will be assigned the value 5
   ```
 
-#### c. **Multiplication (× or *)**
+### 1.3 **Multiplication (× or *)**
 - **Symbols**: \( \times \) (mathematics) or `*` (programming)
 - **Function**: The multiplication operator is used to multiply two numbers or variables.
 
@@ -59,7 +59,7 @@ In this discussion, we will cover the **arithmetic operators** in depth, focusin
   x = 6 * 4  # x will be assigned the value 24
   ```
 
-#### d. **Division (÷ or /)**
+### 1.4 **Division (÷ or /)**
 - **Symbols**: \( \div \) (mathematics) or `/` (programming)
 - **Function**: The division operator is used to divide one number by another.
   
@@ -76,7 +76,7 @@ In this discussion, we will cover the **arithmetic operators** in depth, focusin
   x = 8 / 2  # x will be assigned the value 4
   ```
 
-#### e. **Exponentiation (^) or (**)**
+### 1.5 **Exponentiation (^) or (**)**
 - **Symbols**: `^` (mathematics) or `**` (programming)
 - **Function**: The exponentiation operator raises a base to a specified power.
   
@@ -93,7 +93,7 @@ In this discussion, we will cover the **arithmetic operators** in depth, focusin
   x = 2 ** 3  # x will be assigned the value 8
   ```
 
-#### f. **Modulus (%)**
+### 1.6 **Modulus (%)**
 - **Symbol**: `%`
 - **Function**: The modulus operator returns the **remainder** when one number is divided by another. It is commonly used in programming but is not a standard operator in pure mathematics.
   
@@ -112,7 +112,7 @@ In this discussion, we will cover the **arithmetic operators** in depth, focusin
 
 ---
 
-### **2. Hierarchy of Operations: Order of Precedence**
+## **2. Hierarchy of Operations: Order of Precedence**
 
 When evaluating expressions that contain multiple arithmetic operators, it is important to follow the **order of operations**. This is commonly remembered using the acronym **PEMDAS**:
 - **P**: Parentheses
@@ -120,7 +120,7 @@ When evaluating expressions that contain multiple arithmetic operators, it is im
 - **MD**: Multiplication and Division (from left to right)
 - **AS**: Addition and Subtraction (from left to right)
 
-#### Example of order of precedence:
+### Example of order of precedence:
 \[
 7 + 3 \times (2 + 3)^2 - 4 / 2
 \]
@@ -134,44 +134,44 @@ Final result: \( 80 \).
 
 ---
 
-### **3. Detailed Syntax for Different Operators**
+## **3. Detailed Syntax for Different Operators**
 
-#### a. **Addition** (`+`)
+### 3.1 **Addition** (`+`)
 - Adds two operands.
   
   - **Mathematical syntax**: \( a + b \)
   - **Example**: \( 3 + 4 = 7 \)
   - **Programming**: `a + b`
 
-#### b. **Subtraction** (`-`)
+### 3.2 **Subtraction** (`-`)
 - Subtracts the right operand from the left.
   
   - **Mathematical syntax**: \( a - b \)
   - **Example**: \( 10 - 6 = 4 \)
   - **Programming**: `a - b`
 
-#### c. **Multiplication** (`×` or `*`)
+### 3.3 **Multiplication** (`×` or `*`)
 - Multiplies two operands.
   
   - **Mathematical syntax**: \( a \times b \) or \( ab \) (implicit multiplication)
   - **Example**: \( 5 \times 3 = 15 \)
   - **Programming**: `a * b`
 
-#### d. **Division** (`÷` or `/`)
+### 3.4 **Division** (`÷` or `/`)
 - Divides the left operand by the right.
   
   - **Mathematical syntax**: \( \frac{a}{b} \) or \( a \div b \)
   - **Example**: \( 20 \div 4 = 5 \)
   - **Programming**: `a / b`
 
-#### e. **Exponentiation** (`^` or `**`)
+### 3.5 **Exponentiation** (`^` or `**`)
 - Raises the left operand (base) to the power of the right operand (exponent).
   
   - **Mathematical syntax**: \( a^b \)
   - **Example**: \( 2^3 = 8 \)
   - **Programming**: `a ** b`
 
-#### f. **Modulus** (`%`)
+### 3.6 **Modulus** (`%`)
 - Returns the remainder when dividing the left operand by the right operand.
   
   - **Mathematical concept**: \( a \mod b \)
@@ -180,15 +180,15 @@ Final result: \( 80 \).
 
 ---
 
-### **4. Application in Different Contexts**
+## **4. Application in Different Contexts**
 
-#### a. **In Pure Mathematics**
+### 4.1 **In Pure Mathematics**
 Arithmetic operators are used to form equations and expressions that follow strict mathematical rules. The notation is formal, and operations are carried out with a specific focus on correctness and the properties of numbers.
 
-#### b. **In Programming**
+### 4.2 **In Programming**
 Arithmetic operators are fundamental for implementing algorithms that involve calculations. Programming languages follow a specific syntax for arithmetic operations, with operators like `+`, `-`, `*`, `/`, and `**` being used consistently across languages like Python, Java, and C++.
 
-#### Example in Python:
+### Example in Python:
 ```python
 a = 10
 b = 3
@@ -214,18 +214,18 @@ remainder = a % b
 
 ---
 
-### **5. Special Cases and Exceptions**
+## **5. Special Cases and Exceptions**
 
-#### a. **Division by Zero**
+### 5.1 **Division by Zero**
 Division by zero is undefined in both mathematics and programming. Attempting to divide a number by zero typically results in an error or an undefined result.
 - **Example**: \( \frac{7}{0} \) is undefined.
 - **Programming**: In most languages, attempting `a / 0` will raise a runtime error.
 
-#### b. **Negative Exponents (Not Part of Basic Arithmetic Operators)**
+### 5.2 **Negative Exponents (Not Part of Basic Arithmetic Operators)**
 Negative exponents are not part of simple arithmetic but are often encountered in more advanced mathematics. They represent reciprocals.
 - **Example**: \( a^{-n} = \frac{1}{a^n} \).
 
-#### c. **Exponentiation with Zero**
+### 5.3 **Exponentiation with Zero**
 Any non-zero number raised to the power of zero equals one.
 - **Example**: \( 5^0 = 1 \).
   
@@ -238,6 +238,6 @@ Zero raised to the power of zero is a special case and is usually treated as 1 i
 
 ---
 
-### **Conclusion**
+## **Summary**
 
 Arithmetic operators form the core of mathematical computations, providing a structured way to manipulate numbers and expressions. Whether in mathematics or programming, understanding the syntax and notation of operators such as addition, subtraction, multiplication, division, exponentiation, and modulus is essential for solving problems and creating algorithms. Each operator has specific rules of precedence, and special cases like division by zero and negative exponents introduce additional considerations.
