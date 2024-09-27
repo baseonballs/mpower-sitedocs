@@ -311,7 +311,6 @@ nav:
       - "Plane Classifications": "mathematics/a2/core-concepts/coordinate-planes/plane-classes.md"
       - "Euclidean Plane": "mathematics/a2/core-concepts/coordinate-planes/euclidean-plane.md"
       - "Complex Plane": "mathematics/a2/core-concepts/coordinate-planes/complex-plane.md"
-      - "Solid Plane": "site-docs/mathematics/a2/core-concepts/coordinate-planes/solid-plane.md"
     - "Cubic Equations":  
       - "Forms & Structures": "mathematics/a2/eqs/cubic/cubic-forms-structures.md"
     - "Trignometic Functions":
