@@ -11,9 +11,9 @@
 
 ---
 
-Welcome to our **❤️Math Learning Portal**, the go-to destination for mastering mathematics at all levels! Whether you're just starting with the basics or diving deep into advanced topics, this portal offers a structured and engaging learning experience in both mathematics and computer science. Our goal is to deepen your understanding of these subjects.
+Welcome to our **❤️Math Learning Portal**, the go-to destination for mastering mathematics at all levels! Whether you're just starting with the basics or diving deep into advanced topics, this portal offers a structured and engaging learning experience in both mathematics and computer science. Our goal is to enhance your understanding of these subjects while expanding your problem-solving toolkit.
 
-The content emphasizes theory to help you develop mathematical reasoning and gain a deeper sense of abstraction in the art of problem-solving. You'll be immersed in the language of mathematics, learning to interpret and contextualize the types of math and computer science questions you'll undoubtedly encounter. Additionally, you'll be rigorously tested, honing your critical thinking skills to their fullest potential.
+The content herein emphasizes theory to help you develop mathematical reasoning and gain a deeper sense of abstraction in the art of problem-solving. You'll be immersed in the language of mathematics, learning to interpret and contextualize the types of math and computer science questions you'll undoubtedly encounter. Additionally, you'll be rigorously tested, honing your critical thinking skills to their fullest potential.
 
 > Happy learning and become brighter each, and every day.
 
