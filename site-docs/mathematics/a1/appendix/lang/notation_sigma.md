@@ -182,6 +182,8 @@ This notation is used in multidimensional calculus, probability theory, and tens
 
 Sigma notation is a cornerstone of modern mathematical notation. It provides a powerful, compact way to represent sums, whether finite or infinite, and is indispensable in fields ranging from calculus to statistics to physics. Its development has revolutionized the way we express, understand, and work with series, paving the way for many advanced concepts in mathematics.
 
+---
+
 **References**:
 
 **Books:**

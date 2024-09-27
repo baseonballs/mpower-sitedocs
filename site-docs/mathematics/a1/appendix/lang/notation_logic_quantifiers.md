@@ -165,6 +165,8 @@ This means "For all elements \( x \) in set \( A \), if \( x \) is also in set \
 
 Quantifiers provide the formal language necessary to describe relationships between elements in mathematics. The **universal quantifier** (\( \forall \)) asserts that a property holds for all elements in a domain, while the **existential quantifier** (\( \exists \)) asserts the existence of at least one element satisfying a condition. Through their combination and negation, quantifiers enable the expression of precise mathematical truths, essential for proofs, set theory, and a wide variety of applications in higher mathematics.
 
+---
+
 **References**:
 
   * **Books:**

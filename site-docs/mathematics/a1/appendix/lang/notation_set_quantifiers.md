@@ -160,6 +160,8 @@ For finite sets, the negation can be expressed as follows:
 
 Set qualifiers play a pivotal role in formalizing mathematical language related to sets. From membership and inclusion to operations such as unions and intersections, these qualifiers provide the syntax and structure required for rigorous reasoning about collections of elements. The use of set qualifiers extends into various fields of mathematics, enabling clear definitions of relationships, cardinality, and set operations. These qualifiers underpin the logical foundation for more advanced topics in algebra, calculus, and beyond.
 
+---
+
 **References**:
 
 * **Books:**
