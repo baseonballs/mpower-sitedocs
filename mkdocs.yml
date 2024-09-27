@@ -319,6 +319,7 @@ nav:
         - "AoPS-A2":
           - "Lesson 4 - Functions": "mathematics/a2/hw/aops/hw.04.md"
           - "Lesson 5 - Complex Numbers": "mathematics/a2/hw/aops/hw.05.md"
+          - "Lesson 6 - Complex Planes": "mathematics/a2/hw/aops/hw.06.md"
   - "Geometry":
     - "Circle":
       - "Form & Structures": "./mathematics/geometry/form-structures.md"
