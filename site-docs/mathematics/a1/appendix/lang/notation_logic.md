@@ -10,11 +10,11 @@ The development of logic notation is a key part of formal logic, a discipline th
 
 At the core of logic notation are symbols that represent logical operations, propositions, and relationships. Here are the key symbols used in propositional logic (also known as Boolean logic):
 
-### a. **Propositional Variables**:
+### 1.1 **Propositional Variables**:
 - \( p, q, r, \dots \)
   - These symbols represent **propositions**, which are statements that can be either true or false.
 
-### b. **Logical Connectives**:
+### 1.2 **Logical Connectives**:
 
 1. **Negation (\( \neg \))**:
    - Represents the **negation** or logical NOT of a proposition.
@@ -86,16 +86,16 @@ At the core of logic notation are symbols that represent logical operations, pro
 In addition to propositional logic, **predicate logic** (also known as **first-order logic**) introduces the notion of quantifiers, which allow for more expressive statements about objects in a domain.
 
 1. **Universal Quantifier (\( \forall \))**:
-   - Denotes **"for all"** or "for every" in the domain of discourse.
-   - \( \forall x \, P(x) \) means "For all \( x \), \( P(x) \) is true."
-   - Example: "For all humans, humans are mortal."
-   - **Formal notation**: \( \forall x \, (H(x) \to M(x)) \), where \( H(x) \) means "x is human" and \( M(x) \) means "x is mortal."
+      - Denotes **"for all"** or "for every" in the domain of discourse.
+      - \( \forall x \, P(x) \) means "For all \( x \), \( P(x) \) is true."
+      - Example: "For all humans, humans are mortal."
+      - **Formal notation**: \( \forall x \, (H(x) \to M(x)) \), where \( H(x) \) means "x is human" and \( M(x) \) means "x is mortal."
 
 2. **Existential Quantifier (\( \exists \))**:
-   - Denotes **"there exists"** or "there is at least one" in the domain.
-   - \( \exists x \, P(x) \) means "There exists at least one \( x \) such that \( P(x) \) is true."
-   - Example: "There exists a human who is mortal."
-   - **Formal notation**: \( \exists x \, (H(x) \land M(x)) \).
+      - Denotes **"there exists"** or "there is at least one" in the domain.
+      - \( \exists x \, P(x) \) means "There exists at least one \( x \) such that \( P(x) \) is true."
+      - Example: "There exists a human who is mortal."
+      - **Formal notation**: \( \exists x \, (H(x) \land M(x)) \).
 
 ---
 
@@ -106,14 +106,18 @@ Logic notation is used to **formalize reasoning** and deduce valid conclusions f
 ### Example 1: Modus Ponens (Implication Rule)
 - If \( p \to q \) (if \( p \), then \( q \)) and \( p \) is true, then \( q \) must be true.
 - **Formal notation**:
-  \[
-  (p \to q), p \vdash q
-  \]
-  where \( \vdash \) denotes logical deduction.
+
+\[
+(p \to q), p \vdash q
+\]
+
+   where \( \vdash \) denotes logical deduction.
+
 - Example:
-  - Premise 1: "If it is raining, then the ground is wet."
-  - Premise 2: "It is raining."
-  - Conclusion: "The ground is wet."
+
+      - Premise 1: "If it is raining, then the ground is wet."
+      - Premise 2: "It is raining."
+      - Conclusion: "The ground is wet."
 
 ### Example 2: Universal Instantiation
 - If \( \forall x \, P(x) \) is true, then \( P(a) \) is true for any specific \( a \) in the domain.
@@ -130,21 +134,25 @@ Logic notation is used to **formalize reasoning** and deduce valid conclusions f
 ## **4. Applications of Logic Notation**
 
 ### 1. **Mathematics**:
+
 Logic notation is foundational in **set theory**, **proof theory**, and **model theory**. Mathematical proofs often rely on formal logic to demonstrate the validity of statements, particularly in pure mathematics.
 
 For instance, in **set theory**, we use logic to express the relationship between sets:
 - \( A \subseteq B \) if and only if \( \forall x \, (x \in A \to x \in B) \).
 
 ### 2. **Computer Science**:
+
 Logic plays a crucial role in the design of algorithms, databases, and programming languages. **Propositional logic** underpins **Boolean algebra**, which is fundamental to computer circuits.
 
 - **Prolog** is a programming language based on predicate logic.
 - **SQL** (Structured Query Language) uses logical operators such as AND, OR, and NOT to filter data.
 
 ### 3. **Philosophy**:
+
 In **philosophical logic**, formal logic is used to analyze arguments and assess whether they are valid or sound. This has applications in **epistemology** (the study of knowledge), **ethics**, and the **philosophy of language**.
 
 ### 4. **Artificial Intelligence**:
+
 Logic notation is essential for **knowledge representation** and reasoning in AI. It is used in **automated theorem proving**, **expert systems**, and **decision-making** processes in machines.
 
 - **Horn clauses** (a subset of logic expressions) are used in logic programming, which underpins AI systems that perform automated reasoning.
@@ -174,6 +182,6 @@ Logic is used to formalize the structure of natural languages. **Predicate logic
 
 ---
 
-## **Conclusion**
+## **Summary**
 
 Logic notation is one of the most important tools for formalizing reasoning, making it indispensable in many fields. From ancient philosophical arguments to modern-day artificial intelligence and mathematical proofs, logical symbols and structures provide the framework for rigorous analysis and deduction.
