@@ -2,6 +2,12 @@
 
 Mathematics relies on various number systems, each serving different purposes and following distinct rules. These classifications help structure how we interact with numbers, particularly for solving problems. Below is a detailed explanation of each major classification, now including \( \mathbb{W} \) for whole numbers. We’ll also use set-builder notation where applicable to provide precise examples.
 
+Figure 1 - Number Classes
+
+<div style="text-align: center;">
+  <img src="../number-sets-01.png" alt="number-classes" style="width: 400px; height: auto;">
+</div>
+
 ---
 
 ## **1. Natural Numbers (\( \mathbb{N} \))**

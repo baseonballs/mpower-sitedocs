@@ -44,4 +44,9 @@ https://docs.mathjax.org/en/latest/input/tex/extensions/color.html
     <img src="../../../../../assets/images/math-expressions/bionomial-square.png" alt="binomial square">
 </p>
 
+<div style="text-align: center;">
+  <img src="../number-sets-01.png" alt="number-classes" style="width: 400px; height: auto;">
+</div>
+
+
 ```

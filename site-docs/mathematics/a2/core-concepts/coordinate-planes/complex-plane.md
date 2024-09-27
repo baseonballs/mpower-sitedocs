@@ -9,6 +9,12 @@ The complex plane is a fundamental concept in complex analysis, providing a geom
 - \( b \) is the imaginary part (Im\( z \)).
 - \( i \) is the imaginary unit, defined as \( i^2 = -1 \).
 
+Figure 1 : Complex Plane Coordinates:
+
+<div style="text-align: center;">
+  <img src="../complex-plane.02.png" alt="sitedocs">
+</div>
+
 ## 2. The Complex Plane
 The complex plane is a two-dimensional plane where:
 
