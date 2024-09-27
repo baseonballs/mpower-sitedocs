@@ -270,3 +270,10 @@ Zero raised to the power of zero is a special case and is usually treated as 1 i
 ## **Summary**
 
 Arithmetic operators form the core of mathematical computations, providing a structured way to manipulate numbers and expressions. Whether in mathematics or programming, understanding the syntax and notation of operators such as addition, subtraction, multiplication, division, exponentiation, and modulus is essential for solving problems and creating algorithms. Each operator has specific rules of precedence, and special cases like division by zero and negative exponents introduce additional considerations.
+
+**References**:
+
+**Online:**
+
+- CK-12 Foundation. (n.d.). *Arithmetic Operators*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+- Wikipedia contributors. (2023, July 19). *Arithmetic*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Arithmetic](https://en.wikipedia.org/wiki/Arithmetic)

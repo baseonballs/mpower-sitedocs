@@ -140,11 +140,10 @@ Set notation is an essential mathematical tool that provides a clear and structu
 
 **References**:
 
-Here’s the citation for set notations in Markdown format:
-
 **Books:**
 - Halmos, P. R. (1960). *Naive Set Theory*. Van Nostrand.
 - Suppes, P. (1972). *Axiomatic Set Theory*. Dover Publications.
 
 **Online:**
 - Wikipedia contributors. (2023, September 19). *Set notation*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Set_notation](https://en.wikipedia.org/wiki/Set_notation)
+- CK-12 Foundation. (n.d.). *Set Notation and Operations*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)

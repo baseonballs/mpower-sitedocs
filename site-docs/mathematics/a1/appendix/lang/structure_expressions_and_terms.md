@@ -10,10 +10,10 @@ In mathematics, expressions and terms are fundamental components used to build e
 
 - **Definition**: An expression is a combination of variables, constants, operators, and functions that represents a value. It does not include an equals sign and can be evaluated to yield a numerical result.
 - **Components**:
-  - **Variables**: Symbols that represent unknown values (e.g., \( x, y, z \)).
-  - **Constants**: Fixed numerical values (e.g., \( 3, -7, \pi \)).
-  - **Operators**: Symbols representing operations (e.g., \( +, -, \times, \div \)).
-  - **Functions**: Expressions involving mathematical functions (e.g., \( \sqrt{x}, \sin(x) \)).
+      - **Variables**: Symbols that represent unknown values (e.g., \( x, y, z \)).
+      - **Constants**: Fixed numerical values (e.g., \( 3, -7, \pi \)).
+      - **Operators**: Symbols representing operations (e.g., \( +, -, \times, \div \)).
+      - **Functions**: Expressions involving mathematical functions (e.g., \( \sqrt{x}, \sin(x) \)).
 
 **Example**: \( 3x^2 + 5x - 7 \)
 
@@ -21,14 +21,15 @@ In mathematics, expressions and terms are fundamental components used to build e
 
 - **Definition**: A term is a single mathematical expression that can be a constant, a variable, or a product of constants and variables. Terms are the building blocks of expressions.
 - **Types**:
-  - **Constant Term**: A term with no variable component (e.g., \( -7 \)).
-  - **Variable Term**: A term consisting only of a variable (e.g., \( x \)).
-  - **Polynomial Term**: A product of variables and constants (e.g., \( 3x^2 \)).
-- **Coefficient**: The numerical factor in a term (e.g., in \( 4x^3 \), 4 is the coefficient).
-- **Degree**: The exponent of the variable in a term (e.g., in \( 5x^2 \), the degree is 2).
+      - **Constant Term**: A term with no variable component (e.g., \( -7 \)).
+      - **Variable Term**: A term consisting only of a variable (e.g., \( x \)).
+      - **Polynomial Term**: A product of variables and constants (e.g., \( 3x^2 \)).
+      - **Coefficient**: The numerical factor in a term (e.g., in \( 4x^3 \), 4 is the coefficient).
+      - **Degree**: The exponent of the variable in a term (e.g., in \( 5x^2 \), the degree is 2).
 
 **Example**: In the expression \( 3x^2 + 5x - 7 \):
-  - **Terms**: \( 3x^2 \), \( 5x \), and \( -7 \)
+
+   - **Terms**: \( 3x^2 \), \( 5x \), and \( -7 \)
 
 ---
 
@@ -101,45 +102,64 @@ In BNF, a term can be defined as follows:
 #### **Examples of Expressions**
 
 1. **Polynomial Expression**:
-   - \( 2x^3 - 4x^2 + 5x - 6 \)
-   - **Terms**: \( 2x^3 \), \( -4x^2 \), \( 5x \), \( -6 \)
+
+      - \( 2x^3 - 4x^2 + 5x - 6 \)
+      - **Terms**: \( 2x^3 \), \( -4x^2 \), \( 5x \), \( -6 \)
 
 2. **Rational Expression**:
-   - \( \frac{3x^2 + 2x - 5}{x - 1} \)
-   - **Numerator Terms**: \( 3x^2 \), \( 2x \), \( -5 \)
-   - **Denominator Term**: \( x - 1 \)
+
+      - \( \frac{3x^2 + 2x - 5}{x - 1} \)
+      - **Numerator Terms**: \( 3x^2 \), \( 2x \), \( -5 \)
+      - **Denominator Term**: \( x - 1 \)
 
 3. **Trigonometric Expression**:
-   - \( \sin(x) + \cos(x) \)
-   - **Terms**: \( \sin(x) \), \( \cos(x) \)
+
+      - \( \sin(x) + \cos(x) \)
+      - **Terms**: \( \sin(x) \), \( \cos(x) \)
 
 #### **Examples of Terms**
 
 1. **Single Term**:
-   - \( 7y \)
-   - **Components**: Coefficient: 7, Variable: \( y \)
+
+      - \( 7y \)
+      - **Components**: Coefficient: 7, Variable: \( y \)
 
 2. **Polynomial Term**:
-   - \( -3x^4 \)
-   - **Components**: Coefficient: -3, Variable: \( x \), Degree: 4
+
+      - \( -3x^4 \)
+      - **Components**: Coefficient: -3, Variable: \( x \), Degree: 4
 
 3. **Constant Term**:
-   - \( 12 \)
-   - **Components**: No variable component
+
+      - \( 12 \)
+      - **Components**: No variable component
 
 #### **Non-Examples**
 
 1. **Not an Expression**:
-   - \( x = 5 \) (This is an equation, not an expression)
+
+      - \( x = 5 \) (This is an equation, not an expression)
 
 2. **Not a Term**:
-   - \( 3x + 2 \) (This is an expression, not a single term)
+
+      - \( 3x + 2 \) (This is an expression, not a single term)
 
 3. **Not a Polynomial Term**:
-   - \( \frac{4}{x} \) (This is a rational term, not a polynomial term)
+
+      - \( \frac{4}{x} \) (This is a rational term, not a polynomial term)
 
 ---
 
-### **Conclusion**
+### **Summary**
 
 Expressions and terms are fundamental components in mathematics, used to build more complex structures like equations and formulas. Expressions represent combinations of variables, constants, and operators, while terms are the individual building blocks of expressions. Using Backus-Naur Form (BNF) provides a formal and precise way to describe the structure of expressions and terms, facilitating their understanding and manipulation. By mastering these concepts, one gains a deeper insight into algebraic operations and mathematical reasoning.
+
+**Referencess**:
+
+* **Books:**
+      - Smith, D. (2014). *Basic Algebra and Geometry*. Cengage Learning.
+      - Blitzer, R. (2018). *Algebra and Trigonometry*. Pearson.
+
+* **Online:**
+      - CK-12 Foundation. (n.d.). *Terms and Expressions*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+      - Wikipedia contributors. (2023, September 15). *Algebraic expression*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Algebraic_expression](https://en.wikipedia.org/wiki/Algebraic_expression)

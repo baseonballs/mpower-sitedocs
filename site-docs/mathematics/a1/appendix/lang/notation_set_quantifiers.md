@@ -156,6 +156,16 @@ For finite sets, the negation can be expressed as follows:
 
 ---
 
-## **Conclusion**
+## **Summary**
 
 Set qualifiers play a pivotal role in formalizing mathematical language related to sets. From membership and inclusion to operations such as unions and intersections, these qualifiers provide the syntax and structure required for rigorous reasoning about collections of elements. The use of set qualifiers extends into various fields of mathematics, enabling clear definitions of relationships, cardinality, and set operations. These qualifiers underpin the logical foundation for more advanced topics in algebra, calculus, and beyond.
+
+**References**:
+
+* **Books:**
+    - Halmos, P. R. (1960). *Naive Set Theory*. Van Nostrand.
+    - Hrbacek, K., & Jech, T. (1999). *Introduction to Set Theory*. Academic Press.
+
+* **Online:**
+    - CK-12 Foundation. (n.d.). *Set Theory and Quantifiers*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+    - Wikipedia contributors. (2023, July 29). *Quantifier (mathematics)*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Quantifier_(mathematics)](https://en.wikipedia.org/wiki/Quantifier_(mathematics))

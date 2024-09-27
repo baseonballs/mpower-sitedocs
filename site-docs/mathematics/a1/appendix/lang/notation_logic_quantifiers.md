@@ -161,6 +161,18 @@ This means "For all elements \( x \) in set \( A \), if \( x \) is also in set \
 
 ---
 
-## **Conclusion**
+## **Summary**
 
 Quantifiers provide the formal language necessary to describe relationships between elements in mathematics. The **universal quantifier** (\( \forall \)) asserts that a property holds for all elements in a domain, while the **existential quantifier** (\( \exists \)) asserts the existence of at least one element satisfying a condition. Through their combination and negation, quantifiers enable the expression of precise mathematical truths, essential for proofs, set theory, and a wide variety of applications in higher mathematics.
+
+**References**:
+
+  * **Books:**
+
+    - Huth, M. & Ryan, D. (2004). *Logic in Computer Science: Modelling and Reasoning about Systems*. Cambridge University Press.
+    - Enderton, H. B. (2001). *A Mathematical Introduction to Logic*. Academic Press.
+
+  * **Online:**
+
+    - CK-12 Foundation. (n.d.). *Quantifiers in Logic*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+    - Wikipedia contributors. (2023, August 22). *Quantifier (logic)*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Quantifier_(logic)](https://en.wikipedia.org/wiki/Quantifier_(logic))

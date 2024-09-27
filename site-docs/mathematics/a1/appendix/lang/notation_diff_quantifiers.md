@@ -67,5 +67,14 @@ Logic quantifiers are used to express the scope or range over which a logical pr
 
 ---
 
-### **Conclusion**
+### **Summary**
 In summary, while set qualifiers describe relationships and operations among sets, logic quantifiers express the scope of statements or propositions within those sets. Both are fundamental in mathematical reasoning, with set qualifiers providing the framework for working with collections of elements, and logic quantifiers enabling precise statements about properties within these collections.
+
+**References**:
+
+* **Books:**
+    - Halmos, P. R. (1960). *Naive Set Theory*. Van Nostrand.
+    - Hrbacek, K., & Jech, T. (1999). *Introduction to Set Theory*. Academic Press.
+
+* **Online:**
+    - CK-12 Foundation. (n.d.). *Set Theory and Quantifiers*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)

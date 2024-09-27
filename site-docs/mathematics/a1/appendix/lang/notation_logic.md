@@ -198,3 +198,4 @@ Logic notation is one of the most important tools for formalizing reasoning, mak
 
 **Online:**
 - Wikipedia contributors. (2023, September 22). *List of logic symbols*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/List_of_logic_symbols](https://en.wikipedia.org/wiki/List_of_logic_symbols)
+- CK-12 Foundation. (n.d.). *Logic Symbols and Truth Tables*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
