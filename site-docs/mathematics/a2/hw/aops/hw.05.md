@@ -8,6 +8,13 @@
 
 ---
 
+**Aditional Resources**:
+
+- Elementary Mathhematics: [Complex Numbers](../../../elem/number-sets/complex-numbers.md)
+- Elementary Mathhematics: [History of Complex Numbers](../../../elem/number-sets/complex-number-history.md)
+
+
+
 ## **Problem 1**
 
 ### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
