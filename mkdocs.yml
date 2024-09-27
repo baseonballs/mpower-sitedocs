@@ -216,7 +216,7 @@ nav:
       - "Introduction": "mathematics/elem/coord-systems/introduction.md"
     - "Functions & Graphs":
       - "Introduction": "mathematics/elem/core-concepts/functions-graphs/index.md"
-    - "Sequences & Series":
+    - "Sequences, Series & Summations":
       - "Sequences": ""
       - "Summations": ""
       - "Arithmetic Series": ""
