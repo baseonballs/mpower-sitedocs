@@ -308,6 +308,7 @@ nav:
         - "Alegrba 1 Properties & Formulas": "mathematics/a1/resources/cheatsheets/cheatsheets-a1-formulas.md"
   - "Algebra 2":
     - "Coordinate Planes":
+      - "How Many Planes?": "mathematics/a2/core-concepts/coordinate-planes/plane-classes.md"
       - "Euclidean Plane": "mathematics/a2/core-concepts/coordinate-planes/euclidean-plane.md"
       - "Complex Plane": "mathematics/a2/core-concepts/coordinate-planes/complex-plane.md"
       - "Solid Plane": "site-docs/mathematics/a2/core-concepts/coordinate-planes/solid-plane.md"
