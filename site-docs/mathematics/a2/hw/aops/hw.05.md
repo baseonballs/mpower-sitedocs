@@ -586,6 +586,13 @@ We need to express \(\frac{1}{1+\frac{1}{1-\frac{1}{1+i}}}\) in the form \(a + b
 
 ---
 
-## **Solutions**
+## **Problem Sets: Class Extensions**
+
+- Click [here](hw.05.class.ext.md) to review and solve class extension problems.
+- Click [here](hw.05.class.ext.sol.md) to analyze class extension problems' solutions.
+
+---
+
+## **Lesson 5 Solutions**
 
 Click [here](hw.05.sol.md) for the solutions.
