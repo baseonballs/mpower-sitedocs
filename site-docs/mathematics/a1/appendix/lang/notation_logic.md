@@ -122,12 +122,14 @@ Logic notation is used to **formalize reasoning** and deduce valid conclusions f
 ### Example 2: Universal Instantiation
 - If \( \forall x \, P(x) \) is true, then \( P(a) \) is true for any specific \( a \) in the domain.
 - **Formal notation**:
-  \[
-  \forall x \, P(x) \vdash P(a)
-  \]
+
+\[
+\forall x \, P(x) \vdash P(a)
+\]
+
 - Example:
-  - Premise: "All humans are mortal."
-  - Conclusion: "Socrates is mortal."
+      - Premise: "All humans are mortal."
+      - Conclusion: "Socrates is mortal."
 
 ---
 
@@ -165,23 +167,34 @@ Logic is used to formalize the structure of natural languages. **Predicate logic
 ## **5. History of Logic Notation**
 
 1. **Ancient Roots**:
-   - The foundations of logic were laid by **Aristotle** (384–322 BCE) in his work on **syllogisms**, which are deductive arguments consisting of two premises and a conclusion. However, Aristotle’s logic was more verbal and lacked the symbolic formalism we use today.
+      - The foundations of logic were laid by **Aristotle** (384–322 BCE) in his work on **syllogisms**, which are deductive arguments consisting of two premises and a conclusion. However, Aristotle’s logic was more verbal and lacked the symbolic formalism we use today.
 
 2. **Medieval Contributions**:
-   - In the Middle Ages, scholars like **William of Ockham** further refined Aristotle’s ideas, developing rules for logical inference.
+      - In the Middle Ages, scholars like **William of Ockham** further refined Aristotle’s ideas, developing rules for logical inference.
 
 3. **Modern Formal Logic**:
-   - The birth of modern symbolic logic can be traced to the work of **Gottlob Frege** (1848–1925), who introduced a formal system for representing logical relationships in his 1879 book **"Begriffsschrift"**. Frege’s notation system closely resembles what we now call predicate logic.
+      - The birth of modern symbolic logic can be traced to the work of **Gottlob Frege** (1848–1925), who introduced a formal system for representing logical relationships in his 1879 book **"Begriffsschrift"**. Frege’s notation system closely resembles what we now call predicate logic.
 
-   - **Bertrand Russell** and **Alfred North Whitehead** continued this work in their monumental text **"Principia Mathematica"** (1910), which sought to formalize all of mathematics using logic.
+      - **Bertrand Russell** and **Alfred North Whitehead** continued this work in their monumental text **"Principia Mathematica"** (1910), which sought to formalize all of mathematics using logic.
 
 4. **20th Century Developments**:
-   - The 20th century saw further formalization with the advent of **mathematical logic** and **set theory**, particularly in the work of **Kurt Gödel**, **Alonzo Church**, and **Alan Turing**.
+      - The 20th century saw further formalization with the advent of **mathematical logic** and **set theory**, particularly in the work of **Kurt Gödel**, **Alonzo Church**, and **Alan Turing**.
 
-   - In computer science, **Claude Shannon** applied Boolean logic to electrical circuits, paving the way for the development of digital computers.
+      - In computer science, **Claude Shannon** applied Boolean logic to electrical circuits, paving the way for the development of digital computers.
 
 ---
 
 ## **Summary**
 
 Logic notation is one of the most important tools for formalizing reasoning, making it indispensable in many fields. From ancient philosophical arguments to modern-day artificial intelligence and mathematical proofs, logical symbols and structures provide the framework for rigorous analysis and deduction.
+
+---
+
+**References**:
+
+**Books:**
+- Barwise, J., & Etchemendy, J. (2002). *Language, Proof, and Logic*. CSLI Publications.
+- Enderton, H. B. (2001). *A Mathematical Introduction to Logic*. Academic Press.
+
+**Online:**
+- Wikipedia contributors. (2023, September 22). *List of logic symbols*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/List_of_logic_symbols](https://en.wikipedia.org/wiki/List_of_logic_symbols)
