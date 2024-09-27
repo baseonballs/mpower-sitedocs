@@ -142,6 +142,26 @@ nav:
       - "Attributes & Properties": "mathematics/a1/appendix/lang/objects-labels/attributes-properties.md"
       - "Mathematical Objects": "mathematics/a1/appendix/lang/objects-labels/mathematical-objects.md"
   - "Elementary Mathematics":
+    - "Definition & Properties":
+      - "Notion of Units": "mathematics/elem/def/def-units.md"
+      - "Number Line": "mathematics/elem/def/def-number-line.md"
+      - "Constructs Used in Proofs": "mathematics/elem/def/def-axioms-theorems.md"
+      - "Sets, Lists, Tuples": "mathematics/elem/properties/sets/sets-lists-tuples.md"
+      - "Properties of Numbers":
+        - "General Properties of Numbers": "mathematics/elem/properties/properties-arithmetic.md"
+        - "Properties of Zero": "mathematics/elem/properties/properties-of-zero.md"
+        - "Properties of One": "mathematics/elem/properties/properties-of-one.md"
+        - "Properties of Natural Numbers": "mathematics/elem/properties/properties-of-natural.md"
+        - "Properties of Negative Number": "mathematics/elem/properties/properties-of-negative.md"
+        - "Properties of Infinity": "mathematics/elem/properties/properties-of-infinity.md"
+        - "Properties of Real": "mathematics/elem/properties/properties-of-real.md"
+        - "Properties of Complex Numbers": "mathematics/elem/properties/properties-of-complex.md"
+        - "Properties of Composites": "mathematics/elem/properties/properties-of-composites.md"
+        - "Properties of Primes & Coprimes": "mathematics/elem/properties/properties-of-primes-coprimes.md"
+        - "Properties of Parity": "mathematics/elem/properties/properteis-of-parity.md"
+      - "Properties of Structures":
+        - "Properties of Sets": "mathematics/elem/properties/sets/properties-of-sets.md"
+        - "Properties of Set-like Structures": "mathematics/elem/properties/sets/properties-of-sets-like.md"
     - "Number Sets" : 
       - "Number Class": "./mathematics/elem/number-sets/set_numbers.md"
       - "Natural Numbers": "./mathematics/elem/number-sets/natural_numbers.md"
@@ -177,26 +197,6 @@ nav:
       - "Segmentation": 
         - "Segmentation in Mathematics": "mathematics/elem/segmentation/segmentation.md"
         - "Divisibility & Grouping": "mathematics/elem/segmentation/segmentation-grouping.md"
-    - "Definition & Properties":
-      - "Notion of Units": "mathematics/elem/def/def-units.md"
-      - "Number Line": "mathematics/elem/def/def-number-line.md"
-      - "Constructs Used in Proofs": "mathematics/elem/def/def-axioms-theorems.md"
-      - "Sets, Lists, Tuples": "mathematics/elem/properties/sets/sets-lists-tuples.md"
-      - "Properties of Numbers":
-        - "General Properties of Numbers": "mathematics/elem/properties/properties-arithmetic.md"
-        - "Properties of Zero": "mathematics/elem/properties/properties-of-zero.md"
-        - "Properties of One": "mathematics/elem/properties/properties-of-one.md"
-        - "Properties of Natural Numbers": "mathematics/elem/properties/properties-of-natural.md"
-        - "Properties of Negative Number": "mathematics/elem/properties/properties-of-negative.md"
-        - "Properties of Infinity": "mathematics/elem/properties/properties-of-infinity.md"
-        - "Properties of Real": "mathematics/elem/properties/properties-of-real.md"
-        - "Properties of Complex Numbers": "mathematics/elem/properties/properties-of-complex.md"
-        - "Properties of Composites": "mathematics/elem/properties/properties-of-composites.md"
-        - "Properties of Primes & Coprimes": "mathematics/elem/properties/properties-of-primes-coprimes.md"
-        - "Properties of Parity": "mathematics/elem/properties/properteis-of-parity.md"
-      - "Properties of Structures":
-        - "Properties of Sets": "mathematics/elem/properties/sets/properties-of-sets.md"
-        - "Properties of Set-like Structures": "mathematics/elem/properties/sets/properties-of-sets-like.md"
     - "Factors & Multiples":
       - "Introduction": "mathematics/elem/core-concepts/factors-multiples/intro.md"
       - "Properties of Factors": "mathematics/elem/core-concepts/factors-multiples/factors-properties.md"
