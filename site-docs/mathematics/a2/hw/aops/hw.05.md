@@ -583,3 +583,9 @@ We need to express \(\frac{1}{1+\frac{1}{1-\frac{1}{1+i}}}\) in the form \(a + b
 3. **Use the properties of complex numbers**: Remember to simplify using the conjugate when necessary to eliminate the imaginary unit from the denominators.
 
 4. **Final computation**: After simplifying all layers, express the final result in the form \(a + bi\).
+
+---
+
+## **Solutions**
+
+Click [here](hw.05.sol.md) for the solutions.
