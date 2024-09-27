@@ -3,6 +3,7 @@
 A **proportional relationship** and an **inversely proportional relationship** describe how two quantities are related to each other:
 
 ## 1. **Proportional Relationship (Direct Proportion):**
+
 In a proportional (or directly proportional) relationship, two quantities increase or decrease at the same rate. This means that as one quantity increases, the other increases by the same factor, and vice versa.
 
 - **Mathematical Form:**
