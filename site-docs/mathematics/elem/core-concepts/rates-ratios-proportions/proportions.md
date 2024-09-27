@@ -53,3 +53,66 @@ y = \frac{k}{x}
 
 - **Proportional (Direct)**: As \( x \) increases, \( y \) increases (or decreases together).
 - **Inversely Proportional**: As \( x \) increases, \( y \) decreases.
+
+## Exercise - Proportion vs Inproportional Relationship
+
+Here are a few exercises to help understand proportional and inversely proportional relationships:
+
+### Exercise 1: **Identifying Proportional Relationships**
+
+For each of the following scenarios, state whether the relationship is proportional or inversely proportional. Explain your reasoning.
+
+1. The cost of buying multiple loaves of bread if each loaf costs $2.
+2. The speed of a car and the time it takes to travel a fixed distance.
+3. The length of a shadow and the height of the object casting the shadow (assuming the light source remains constant).
+4. The time required to fill a swimming pool with a fixed capacity if you increase the rate at which water flows into it.
+
+---
+
+### Exercise 2: **Proportional Relationship Table**
+
+Complete the table to show how \( y \) changes with \( x \) when \( y \) is directly proportional to \( x \), with a proportionality constant of 3.
+
+| \( x \) | \( y \) |
+|--------|--------|
+| 1      | ?      |
+| 2      | ?      |
+| 4      | ?      |
+| 5      | ?      |
+| 10     | ?      |
+
+---
+
+### Exercise 3: **Inversely Proportional Relationship Table**
+
+Complete the table for \( y \) and \( x \), where \( y \) is inversely proportional to \( x \), and \( y = \frac{12}{x} \).
+
+| \( x \) | \( y \) |
+|--------|--------|
+| 1      | ?      |
+| 2      | ?      |
+| 3      | ?      |
+| 6      | ?      |
+| 12     | ?      |
+
+---
+
+### Exercise 4: **Word Problem (Proportional Relationship)**
+
+A car rental company charges $50 per day to rent a car. Write an equation to represent the total cost \( C \) as a function of the number of days \( d \). How much will it cost to rent the car for 7 days?
+
+---
+
+### Exercise 5: **Word Problem (Inversely Proportional Relationship)**
+
+The amount of time \( T \) it takes to complete a project is inversely proportional to the number of people \( p \) working on it. If it takes 5 people 10 hours to complete the project, how long would it take 2 people?
+
+---
+
+These exercises encourage understanding of how proportional and inversely proportional relationships work in various scenarios.
+
+---
+
+### Solutions
+
+Click [here](proportions.sol.md) for the solutions.
