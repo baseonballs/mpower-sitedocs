@@ -170,10 +170,25 @@ Sets are fundamental objects in mathematics, used to group elements together. Un
 
 ---
 
-### Summary of Properties of Sets:
+## Summary of Properties of Sets:
 - **Basic Definitions**: Sets are collections of distinct objects.
 - **Basic Properties**: Includes empty set, subsets, and proper subsets.
 - **Set Operations**: Union, intersection, difference, and complement.
 - **Special Sets**: Power set and Cartesian product.
 - **Set Identities and Laws**: Commutative, associative, distributive, and De Morgan’s laws.
--
+
+---
+
+**References**:
+
+* **Books:**
+
+    - Rosen, K. H. (2012). *Discrete Mathematics and Its Applications*. McGraw-Hill Education.
+    - Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introduction to Algorithms*. MIT Press.
+
+* **Online:**
+
+    - CK-12 Foundation. (n.d.). *Sets, Tuples, and Lists*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+    - Wikipedia contributors. (2023, September 14). *Tuple*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Tuple](https://en.wikipedia.org/wiki/Tuple)
+    - Wikipedia contributors. (2023, September 20). *List (abstract data type)*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/List_(abstract_data_type)](https://en.wikipedia.org/wiki/List_(abstract_data_type))
+    - Wikipedia contributors. (2023, September 22). *Set (mathematics)*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Set_(mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics))

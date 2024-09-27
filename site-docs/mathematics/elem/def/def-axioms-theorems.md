@@ -118,3 +118,15 @@ In mathematics, various foundational concepts and components are used to build a
 - **Conjecture**: A proposed statement based on observation, requiring proof or disproof.
 
 Each of these components plays a critical role in the development and understanding of mathematical theories and frameworks.
+
+---
+
+**References**:
+
+* **Books:**
+        - Hacking, I. (2000). *An Introduction to Probability and Inductive Logic*. Cambridge University Press.
+        - Hale, J. K. (2013). *The Foundations of Logic and Mathematics*. Springer.
+
+* **Online:**
+        - CK-12 Foundation. (n.d.). *Constructs in Mathematical Proofs*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+        - Wikipedia contributors. (2023, September 17). *Mathematical proof*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Mathematical_proof](https://en.wikipedia.org/wiki/Mathematical_proof)

@@ -103,3 +103,15 @@
   - Useful for fixed collections of data.
 
 Each of these structures serves different purposes and has distinct characteristics that make them suitable for various applications in mathematics and programming.
+
+**References**:
+
+* **Books:**
+    - Rosen, K. H. (2012). *Discrete Mathematics and Its Applications*. McGraw-Hill Education.
+    - Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introduction to Algorithms*. MIT Press.
+
+* **Online:**
+    - CK-12 Foundation. (n.d.). *Sets, Tuples, and Lists*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+    - Wikipedia contributors. (2023, September 14). *Tuple*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Tuple](https://en.wikipedia.org/wiki/Tuple)
+    - Wikipedia contributors. (2023, September 20). *List (abstract data type)*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/List_(abstract_data_type)](https://en.wikipedia.org/wiki/List_(abstract_data_type))
+    - Wikipedia contributors. (2023, September 22). *Set (mathematics)*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Set_(mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics))
