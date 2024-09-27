@@ -2,6 +2,11 @@
 
 Patterns in numbers are fascinating because they often reveal underlying structures and relationships in mathematics. Here are a few interesting patterns:
 
+<div style="text-align: center;">
+  <img src="fractal-branch.png" alt="fractal-branches" style="width: 400px; height: auto;">
+</div>
+
+
 1. **Fibonacci Sequence and Nature**: The Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21...) is a famous pattern where each number is the sum of the two preceding ones. This sequence appears in nature, like in the arrangement of leaves, the branching of trees, and the spiral patterns of shells.
 
     Click [here](fibonanci.md) to learn more.
