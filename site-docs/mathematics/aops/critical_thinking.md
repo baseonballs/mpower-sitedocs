@@ -69,3 +69,20 @@
 - **Decision Trees**: Use a diagram to map out the different choices in a story or problem and their possible outcomes.
 
 By integrating these methods into daily lessons, students will develop critical thinking skills in a fun and engaging way, empowering them to be thoughtful and creative problem-solvers.
+
+---
+
+**References**:
+
+* **Books:**
+      - Boaler, J. (2016). *Mathematical Mindsets: Unleashing Students’ Potential through Creative Math, Inspiring Messages, and Innovative Teaching*. Jossey-Bass.
+      - Boaler, J. (2015). *What's Math Got to Do with It? How Parents and Teachers Can Help Children Learn to Love Their Least Favorite Subject*. Penguin.
+      - Paul, R., & Elder, L. (2014). *Critical Thinking: Tools for Taking Charge of Your Professional and Personal Life*. Pearson.
+      - Facione, P. A. (2011). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction*. The Delphi Report.
+      - Dweck, C. S. (2016). *Mindset: The New Psychology of Success*. Ballantine Books.
+
+* **Online:**
+      - CK-12 Foundation. (n.d.). *Critical Thinking Frameworks*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+      - CK-12 Foundation. (n.d.). *Growth Mindset: A Guide to Personal Development*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+      - Wikipedia contributors. (2023, September 25). *Critical thinking*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Critical_thinking](https://en.wikipedia.org/wiki/Critical_thinking)
+      - Wikipedia contributors. (2023, April 20). *Mindset*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Mindset](https://en.wikipedia.org/wiki/Mindset)

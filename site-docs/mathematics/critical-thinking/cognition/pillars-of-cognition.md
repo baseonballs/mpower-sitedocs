@@ -120,6 +120,19 @@ The pillars of cognition—perception, attention, memory, language, reasoning, e
 
 By studying and developing these cognitive pillars, individuals can enhance their ability to learn, adapt, and succeed in various cognitive tasks. Understanding these foundational elements provides valuable insights into how we process information and interact with our environment, leading to more effective learning and problem-solving strategies.
 
+---
+
+**References**:
+
+* **Books:**
+        - Paul, R., & Elder, L. (2014). *Critical Thinking: Tools for Taking Charge of Your Professional and Personal Life*. Pearson.
+        - De Bono, E. (1999). *Six Thinking Hats*. Penguin Books.
+
+* **Online:**
+        - CK-12 Foundation. (n.d.). *Foundations of Thinking*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+        - Wikipedia contributors. (2023, September 10). *Critical thinking*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Critical_thinking](https://en.wikipedia.org/wiki/Critical_thinking)
+
+**Citations**:
 [^1]: [Wikipedia: Perception, circa September 20, 2024](https://en.wikipedia.org/wiki/Perception)
 [^2]: [Wikipedia: Attention, circa September 20, 2024](https://en.wikipedia.org/wiki/Attention, circa September 20, 2024)
 [^3]: [Wikipedia: Metacognition, circa September 20, 2024](https://en.wikipedia.org/wiki/Metacognition, circa September 20, 2024)

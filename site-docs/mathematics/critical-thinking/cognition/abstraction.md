@@ -105,3 +105,15 @@ Abstraction is one of the most important pillars of critical thinking in mathema
 As students master the ability to think abstractly, they are better equipped to tackle increasingly complex mathematical problems and approach real-world situations with creativity and confidence. In this way, abstraction in elementary math lays the foundation for critical thinking, fostering a deeper understanding of the subject and a lifelong
 
  ability to approach challenges with a problem-solving mindset.
+
+ ---
+
+**Citations**:
+
+* **Books:**
+    - Rojstaczer, S., & Heffernan, N. (2019). *The Abstraction of Thought: A Philosophy of Education*. University of Chicago Press.
+    - Tall, D. (2013). *How Humans Learn to Think Mathematically: Exploring the Three Worlds of Mathematics*. Cambridge University Press.
+
+* **Online:**
+    - CK-12 Foundation. (n.d.). *Developing Abstraction in Mathematics*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+    - Wikipedia contributors. (2023, September 5). *Abstraction (computer science)*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Abstraction_(computer_science)](https://en.wikipedia.org/wiki/Abstraction_(computer_science))

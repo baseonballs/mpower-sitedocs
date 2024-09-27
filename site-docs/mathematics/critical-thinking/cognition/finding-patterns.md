@@ -115,3 +115,15 @@ Mathematics is often described as the **language of nature**, and pattern recogn
 In mathematics, finding patterns is not just a useful tool—it is the key to understanding, predicting, and solving problems. Patterns allow us to simplify complex ideas, make generalizations, and derive new insights. They build the foundation for logical reasoning, critical thinking, and discovery. Whether it's in abstract algebra, geometry, natural phenomena, or everyday life, recognizing patterns helps us navigate and understand the world more effectively.
 
 By seeking and identifying patterns, students and mathematicians unlock the deeper structure of mathematics, making it a powerful and beautiful subject that connects the abstract with the real world.
+
+---
+
+**Citations**:
+
+* **Books:**
+    - Alexander, C., Ishikawa, S., & Silverstein, M. (1977). *A Pattern Language: Towns, Buildings, Construction*. Oxford University Press.
+    - Wolfram, S. (2002). *A New Kind of Science*. Wolfram Media.
+
+* **Online:**
+    - CK-12 Foundation. (n.d.). *Patterns in Mathematics*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+    - Wikipedia contributors. (2023, September 10). *Pattern*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Pattern](https://en.wikipedia.org/wiki/Pattern)

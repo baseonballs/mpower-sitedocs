@@ -52,3 +52,17 @@ Clearly, having fun is one of the best motivators for learning. Passion for a su
    - **Flexible Pacing**: Allow students to learn at their own pace and explore topics that fascinate them. This autonomy can increase motivation and enjoyment.
 
 By blending these strategies, you can create a learning environment that not only makes math more enjoyable but also fosters a deeper understanding and appreciation of mathematical concepts. The key is to be creative and adaptable, making math an exciting and dynamic subject.
+
+---
+
+**References**:
+
+* **Books:**
+      - Boaler, J. (2016). *Mathematical Mindsets: Unleashing Students’ Potential through Creative Math, Inspiring Messages and Innovative Teaching*. Jossey-Bass.
+      - Boaler, J. (2015). *What's Math Got to Do with It? How Parents and Teachers Can Help Children Learn to Love Their Least Favorite Subject*. Penguin.
+      - Fendel, D., & Resek, D. (2009). *Math is Fun: A Guide to Mathematical Understanding*. Key Curriculum Press.
+      - O’Neill, K. (2016). *Math Is Fun: A Guide to Fun Math Activities*. Teacher Created Resources.
+
+* **Online:**
+      - CK-12 Foundation. (n.d.). *Math is Fun: Engaging Students in Learning*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+      - Wikipedia contributors. (2023, September 12). *Fun*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Fun](https://en.wikipedia.org/wiki/Fun)

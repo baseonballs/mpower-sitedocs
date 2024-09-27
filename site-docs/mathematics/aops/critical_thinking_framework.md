@@ -40,3 +40,16 @@ To effectively foster critical thinking in elementary, middle-schoolers and high
 - **Encourage Self-Reflection**: Incorporate metacognitive activities that prompt students to reflect on their thinking processes, helping them internalize critical thinking skills.
 
 By embedding these theoretical frameworks into educational practices, we can enhance our strategies for developing critical thinkers from a very young age.
+
+---
+
+**Citation**:
+
+* **Books:**
+    - Paul, R., & Elder, L. (2014). *Critical Thinking: Tools for Taking Charge of Your Professional and Personal Life*. Pearson.
+    - Paul, R., & Elder, L. (2007). *The Miniature Guide to Critical Thinking Concepts and Tools*. Foundation for Critical Thinking.
+
+* **Online:**
+    - CK-12 Foundation. (n.d.). *Mental Models in Thinking*. CK-12 Foundation. Retrieved from [https://www.ck12.org](https://www.ck12.org)
+    - Wikipedia contributors. (2023, September 25). *Mental model*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Mental_model](https://en.wikipedia.org/wiki/Mental_model)
+    - Wikipedia contributors. (2023, August 20). *Bloom's taxonomy*. In Wikipedia, The Free Encyclopedia. Retrieved from [https://en.wikipedia.org/wiki/Bloom%27s_taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)
