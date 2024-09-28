@@ -46,7 +46,7 @@ y = \frac{k}{x}
 - **Graphical Representation:**
 
   A graph of an inverse relationship is a hyperbola, where one axis represents \( y \) and the other represents \( x \), and it curves toward the axes but never touches them.
-
+  
 ---
 
 **Summary:**
