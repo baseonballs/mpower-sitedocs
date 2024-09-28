@@ -155,4 +155,18 @@ So, the car travels **25 meters** in 5 seconds.
 
 ---
 
+**References**:
+
+* **Book Citation**:
+
+      - Newton, Isaac. *Philosophiæ Naturalis Principia Mathematica*. 1687. Note: This is the original text where Newton's laws of motion, including the law of inertia, are introduced.
+
+* **Textbook Citation (APA style)**:
+
+      - Halliday, D., Resnick, R., & Walker, J. (2013). *Fundamentals of Physics* (10th ed.). Wiley.
+
+* **Online Source Citation (APA style)**:
+
+      - NASA. (n.d.). [Newton’s Laws of Motion](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/). NASA Glenn Research Center.
+
 [^1]: Physicists use the term "body" to refer to an object of any scale, which is especially useful when discussing the solar system.
