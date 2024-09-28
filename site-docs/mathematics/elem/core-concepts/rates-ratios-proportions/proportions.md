@@ -1,8 +1,8 @@
-# Proportion vs Inproportional Relationship
+# Direct vs. Inverse Proportion
 
-A **proportional relationship** and an **inversely proportional relationship** describe how two quantities are related to each other:
+A **direct proportionality relationship** and an **inverse proportionality relationship** describe how two quantities are related to each other:
 
-## 1. **Proportional Relationship (Direct Proportion):**
+## 1. **Direct Proportion:**
 
 In a proportional (or directly proportional) relationship, two quantities increase or decrease at the same rate. This means that as one quantity increases, the other increases by the same factor, and vice versa.
 
@@ -25,7 +25,7 @@ y = kx
 
 ---
 
-## 2. **Inversely Proportional Relationship (Inverse Proportion):**
+## 2. **Inverse Proportion:**
 
 In an inversely proportional relationship, as one quantity increases, the other decreases. This means that if one quantity is doubled, the other is halved, and so on.
 
@@ -55,11 +55,11 @@ y = \frac{k}{x}
 - **Inversely Proportional**: As \( x \) increases, \( y \) decreases.
 
 
-## Exercises - Proportion vs Inproportional Relationship
+## Exercises - Direct vs Inverse Prooportionality Relationship
 
 Here are a few exercises to help understand proportional and inversely proportional relationships:
 
-### Exercise 1: **Identifying Proportional Relationships**
+### Exercise 1: **Identifying Direct Proportionality Relationships**
 
 For each of the following scenarios, state whether the relationship is proportional or inversely proportional. Explain your reasoning.
 

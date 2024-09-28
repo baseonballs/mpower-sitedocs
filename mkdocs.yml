@@ -211,10 +211,10 @@ nav:
     - "Quotients and Remainders": "mathematics/elem/core-concepts/quotients-and-remainders/intro.md"
     - "Rates, Ratios, Percents, & Proportions": 
       - "Introduction": "mathematics/elem/core-concepts/rates-ratios-proportions/intro.md"
-      - "Proportion vs Inproportionate": 
+      - "Direct vs. Inverse Proportion": 
         - "Direct & Indirect Relationship": "mathematics/elem/core-concepts/rates-ratios-proportions/proportions.md"
-        - "Newton's 1st Law: Law of Inertia": "mathematics/applied-math/physics/newton-laws/law-of-inertia.md"
-        - "Newton's 2nd Law: Law of Motion": "mathematics/applied-math/physics/newton-laws/law-of-motion.md"
+        - "Newton's 1st Law of Motion: Law of Inertia": "mathematics/applied-math/physics/newton-laws/law-of-inertia.md"
+        - "Newton's 2nd Law of Motion: Law of Acceleration": "mathematics/applied-math/physics/newton-laws/law-of-motion.md"
     - "Coordinate Systems":
       - "Introduction": "mathematics/elem/coord-systems/introduction.md"
     - "Functions & Graphs":
