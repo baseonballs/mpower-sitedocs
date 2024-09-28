@@ -214,6 +214,7 @@ nav:
       - "Proportion vs Inproportionate": 
         - "Direct & Indirect Relationship": "mathematics/elem/core-concepts/rates-ratios-proportions/proportions.md"
         - "Newton's 1st Law: Law of Inertia": "mathematics/applied-math/physics/newton-laws/law-of-inertia.md"
+        - "Newton's 2nd Law: Law of Motion": "mathematics/applied-math/physics/newton-laws/law-of-motion.md"
     - "Coordinate Systems":
       - "Introduction": "mathematics/elem/coord-systems/introduction.md"
     - "Functions & Graphs":
