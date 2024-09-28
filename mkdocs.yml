@@ -211,7 +211,7 @@ nav:
     - "Quotients and Remainders": "mathematics/elem/core-concepts/quotients-and-remainders/intro.md"
     - "Rates, Ratios, Percents, & Proportions": 
       - "Rates, Ratios & Proportions": "mathematics/elem/core-concepts/rates-ratios-proportions/intro.md"
-      - "Percentage": ""
+      - "Percent": "mathematics/elem/core-concepts/percent/index.md"
       - "Direct vs. Inverse Proportion": "mathematics/elem/core-concepts/rates-ratios-proportions/proportions.md"
     - "Coordinate Systems":
       - "Introduction": "mathematics/elem/coord-systems/introduction.md"
