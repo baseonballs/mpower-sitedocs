@@ -60,6 +60,7 @@ d = v \cdot t
 \]
 
 Where:
+
 - \(d\) is the distance traveled (in meters, for example),
 - \(v\) is the constant velocity (in meters per second, m/s),
 - \(t\) is the time the object has been moving (in seconds).
