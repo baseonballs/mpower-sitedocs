@@ -15,24 +15,29 @@ Where:
 ## Direct and Inverse Proportionality in Newton's Second Law:
 
 1. **Direct Proportionality**:
-   - When mass \(m\) is constant, the acceleration \(a\) is **directly proportional** to the net force \(F\):
-     - If you **increase the force**, the acceleration increases proportionally.
-     - If you **decrease the force**, the acceleration decreases proportionally.
-   - This can be expressed as:
-     \[
-     a \propto F \quad \text{(if \(m\) is constant)}
-     \]
+
+    - When mass \(m\) is constant, the acceleration \(a\) is **directly proportional** to the net force \(F\):
+        - If you **increase the force**, the acceleration increases proportionally.
+        - If you **decrease the force**, the acceleration decreases proportionally.
+    - This can be expressed as:
+
+\[
+a \propto F \quad \text{(if \(m\) is constant)}
+\]
 
 2. **Inverse Proportionality**:
-   - When the net force \(F\) is constant, the acceleration \(a\) is **inversely proportional** to the mass \(m\):
-     - If you **increase the mass**, the acceleration decreases.
-     - If you **decrease the mass**, the acceleration increases.
-   - This can be expressed as:
-     \[
-     a \propto \frac{1}{m} \quad \text{(if \(F\) is constant)}
-     \]
+
+    - When the net force \(F\) is constant, the acceleration \(a\) is **inversely proportional** to the mass \(m\):
+        - If you **increase the mass**, the acceleration decreases.
+        - If you **decrease the mass**, the acceleration increases.
+        - This can be expressed as:
+
+\[
+a \propto \frac{1}{m} \quad \text{(if \(F\) is constant)}
+\]
 
 ## Summary:
+
 - **Direct Proportionality**: \(F\) and \(a\) are directly proportional when mass is held constant.
 - **Inverse Proportionality**: \(a\) and \(m\) are inversely proportional when the net force is held constant.
 
