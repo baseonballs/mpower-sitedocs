@@ -209,9 +209,11 @@ nav:
       - "Properties of LCM": "mathematics/elem/core-concepts/gcf-lcm/properties-lcm.md"
       - "Relationship of GCF & LCM": "mathematics/elem/core-concepts/gcf-lcm/relation-gcf-lcm.md"
     - "Quotients and Remainders": "mathematics/elem/core-concepts/quotients-and-remainders/intro.md"
-    - "Rates, Ratios, & Proportions": 
+    - "Rates, Ratios, Percents, & Proportions": 
       - "Introduction": "mathematics/elem/core-concepts/rates-ratios-proportions/intro.md"
-      - "Direct vs Inverse Retationship": "mathematics/elem/core-concepts/rates-ratios-proportions/proportions.md"
+      - "Proportion vs Inproportionate": 
+        - "Direct & Indirect Relationship": "mathematics/elem/core-concepts/rates-ratios-proportions/proportions.md"
+        - "Newton's 1st Law: Law of Inertia": "mathematics/applied-math/physics/newton-laws/law-of-inertia.md"
     - "Coordinate Systems":
       - "Introduction": "mathematics/elem/coord-systems/introduction.md"
     - "Functions & Graphs":
@@ -227,7 +229,7 @@ nav:
         - "Arithmetic Formulas": "mathematics/elem/resources/cheat-sheets/arith-formulas.md"
         - "Factors Properties": "mathematics/elem/resources/cheat-sheets/properties-of-factors.md"
         - "Multiples Properties": "mathematics/elem/resources/cheat-sheets/properties-of-multiples.md"
-      - "Problem Solving": "page-404.md"
+      - "Problem Solving": ""
   - "Algebra 1":
     - "Class, Forms & Structures of Equations":
       - "Equations, Functions, Curves & Graphs": "mathematics/a1/general/eqs-functions-curves-graphs.md"
