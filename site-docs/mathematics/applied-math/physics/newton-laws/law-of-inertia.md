@@ -84,3 +84,74 @@ The car will travel **300 meters** in 15 seconds, demonstrating that in the abse
 
 ### 2.3 Key Point:
 This example of **constant velocity** illustrates the **law of inertia** — unless some external force acts on the car (like friction, braking, or hitting a barrier), it will continue moving forward, covering distance in a linear relationship with time.
+
+
+## 3. Use Case 2: Velocity Is Not Constant
+
+If \(v\) (velocity) is **not constant**, Newton's First Law of Motion no longer applies in its simplest form, because the object is either **accelerating** or **decelerating**. When velocity changes over time, forces are acting on the object, which leads us into **Newton's Second Law** of motion:
+
+\[
+F = ma
+\]
+
+Where:
+
+- \(F\) is the net force applied to the object,
+- \(m\) is the mass of the object,
+- \(a\) is the acceleration (the rate of change of velocity).
+
+### 3.1 When \(v\) is not constant:
+
+- **Acceleration** \(a\) is present, meaning the object is either speeding up or slowing down.
+- The relationship between distance and time becomes **non-linear**, depending on how velocity changes over time.
+
+### 3.2 Example: Acceleration Scenario
+
+Let’s say a car **accelerates** at a constant rate. Now, instead of velocity \(v\) being constant, the car's velocity is changing. We can use the following kinematic equation to describe the distance traveled:
+
+\[
+d = v_0 t + \frac{1}{2} a t^2
+\]
+
+Where:
+
+- \(d\) is the distance,
+- \(v_0\) is the initial velocity,
+- \(t\) is time,
+- \(a\) is the constant acceleration.
+
+This is no longer a linear relationship because of the \(t^2\) term, indicating that the distance traveled depends on the **square of the time** if acceleration is involved.
+
+### 3.3 Example Problem (Non-Constant Velocity):
+
+A car starts from rest (\(v_0 = 0\)) and accelerates at \(a = 2 \, \text{m/s}^2\) for 5 seconds. How far does it travel?
+
+#### 3.3.1 Step 1: Identify values.
+
+- \(v_0 = 0\)
+- \(a = 2 \, \text{m/s}^2\)
+- \(t = 5 \, \text{s}\)
+
+#### 3.3.2 Step 2: Use the kinematic equation to find distance \(d\):
+
+\[
+d = 0 \cdot 5 + \frac{1}{2} \cdot 2 \, \text{m/s}^2 \cdot (5 \, \text{s})^2
+\]
+
+\[
+d = \frac{1}{2} \cdot 2 \cdot 25 = 25 \, \text{m}
+\]
+
+So, the car travels **25 meters** in 5 seconds.
+
+### 3.4 Key Points:
+
+- When velocity is **not constant**, you need to consider **acceleration**.
+- The relationship between distance and time becomes quadratic (non-linear) when acceleration is involved.
+- Forces (according to Newton's Second Law) are responsible for this change in velocity.
+
+## 4. Excercises - Direct Proportionality with Law of Inertia
+
+---
+
+[^1]: Physicists use the term "body" to refer to an object of any scale, which is especially useful when discussing the solar system.
