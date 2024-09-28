@@ -9,6 +9,7 @@ A hockey puck sliding on a perfectly frictionless ice surface will continue to m
 ### Conditions for Law of Inertia
 
 Newton's **First Law of Motion** (the law of inertia) applies **only when there is no net external force** acting on the object. In such a case, the object will either:
+
 - Stay at rest if it was already at rest, or
 - Continue moving with **constant velocity** (which includes both constant speed and direction) if it was already in motion.
 
@@ -19,10 +20,12 @@ Newton's **First Law of Motion** (the law of inertia) applies **only when there 
 2. **Constant velocity**: The object will move at a constant velocity (or remain stationary if initially at rest). A constant velocity means both the **speed** and **direction** are unchanging.
 
 3. **Frictionless or balanced forces**: In real-world scenarios, friction is often present. If friction is present and unopposed by another force, it would cause the object to decelerate and eventually stop. For Newton's First Law to hold ideally, we assume either:
+
    - **Frictionless conditions** (like a frictionless surface),
    - Or all forces (like friction and applied forces) are perfectly balanced so that the net force is zero.
 
 #### In the Presence of Forces:
+
 If external forces (like friction, gravity, or air resistance) act on the object, the velocity will no longer be constant, and Newton’s **Second Law of Motion** (\(F = ma\)) becomes necessary to describe the change in motion. We will discuss this in a different topic where accerlation (change in speed) is constant.
 
 ## 2. Use Case 1: Velocity Is Constant
@@ -32,6 +35,7 @@ Newton's **First Law of Motion** (the Law of Inertia) states that an object at r
 To illustrate this with a simple algebraic example, let's focus on the concept of **constant velocity** and how we can calculate **distance** over time when no external forces (like friction or air resistance) are acting on the object.
 
 ### 2.1 Formula for Distance with Constant Velocity:
+
 If an object is moving with a constant velocity, the distance it travels over time is given by the formula:
 
 \[
@@ -44,9 +48,11 @@ Where:
 - \(t\) is the time the object has been moving (in seconds).
 
 ### 2.2 Example:
+
 Imagine a car is moving at a constant velocity of \(20 \, \text{m/s}\). How far will it travel in 15 seconds, assuming no external forces (like friction or brakes) slow it down?
 
 #### 2.2.1 Step 1: Identify the values from the problem.
+
 - \(v = 20 \, \text{m/s}\)
 - \(t = 15 \, \text{s}\)
 
@@ -126,6 +132,5 @@ So, the car travels **25 meters** in 5 seconds.
 - When velocity is **not constant**, you need to consider **acceleration**.
 - The relationship between distance and time becomes quadratic (non-linear) when acceleration is involved.
 - Forces (according to Newton's Second Law) are responsible for this change in velocity.
-
 
 ## 4. Excercises - Direct Proportionality with Law of Inertia
