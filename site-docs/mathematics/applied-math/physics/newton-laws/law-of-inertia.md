@@ -61,9 +61,9 @@ d = v \cdot t
 
 Where:
 
-- \(d\) is the distance traveled (in meters, for example),
-- \(v\) is the constant velocity (in meters per second, m/s),
-- \(t\) is the time the object has been moving (in seconds).
+- \(d\) is the distance traveled (e.g., meters),
+- \(v\) is the constant velocity - the rate of change as in \( \Delta distance / \Delta time \) (m/s),
+- \(t\) is the time the object has been moving (e.g., seconds).
 
 ### 2.2 Example:
 
