@@ -12,7 +12,7 @@ Where:
 - \(m\) is the mass (in kilograms),
 - \(a\) is the acceleration (in meters per second squared).
 
-## Direct and Inverse Proportionality in Newton's Second Law:
+## 1. Direct and Inverse Proportionality in Newton's Second Law:
 
 1. **Direct Proportionality**:
 
@@ -36,18 +36,18 @@ a \propto F \quad \text{(if \(m\) is constant)}
 a \propto \frac{1}{m} \quad \text{(if \(F\) is constant)}
 \]
 
-## Summary:
+### 1.1 Summary:
 
 - **Direct Proportionality**: \(F\) and \(a\) are directly proportional when mass is held constant.
 - **Inverse Proportionality**: \(a\) and \(m\) are inversely proportional when the net force is held constant.
 
 So, while Newton's Second Law exhibits characteristics of both direct and inverse proportionality, it is not solely an example of indirect proportionality. It illustrates how force, mass, and acceleration interact in different ways depending on which variable is held constant.
 
-## Law of Acceleration
+## 2. Law of Acceleration
 
 Newton's **Second Law of Motion** is often referred to as the **Law of Acceleration**. This name highlights the relationship between force, mass, and acceleration, emphasizing that an object's acceleration is directly proportional to the net force acting on it and inversely proportional to its mass.
 
-### Key Points:
+### 2.1 Key Points:
 
 - **Law of Acceleration**: It emphasizes that the acceleration of an object is a result of the net force applied to it and its mass.
 - The formula \(F = ma\) encapsulates this relationship, showing how the acceleration changes based on the applied force and the object's mass.
