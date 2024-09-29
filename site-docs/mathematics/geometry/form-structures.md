@@ -40,15 +40,15 @@ where \( (h, k) \) represents the center of the circle, and \( r \) represents t
 
 - **Circumference:** The distance around the circle, given by:
 
-  \[
-  C = 2\pi r
-  \]
+\[
+C = 2\pi r
+\]
 
 - **Area:** The space enclosed by the circle, given by:
 
-  \[
-  A = \pi r^2
-  \]
+\[
+A = \pi r^2
+\]
 
 - **Central Angle:** An angle whose vertex is at the center of the circle. The measure of the central angle is equal to the measure of the arc it intercepts.
 
@@ -94,6 +94,7 @@ To find the intersection points of two circles, solve the system of equations re
 \[
 (x - 1)^2 + (y - 2)^2 = 9
 \]
+
 \[
 (x - 4)^2 + (y - 6)^2 = 16
 \]
@@ -123,6 +124,7 @@ A **cyclic quadrilateral** is a quadrilateral inscribed in a circle. The sum of 
 \[
 A + C = 180^\circ
 \]
+
 \[
 B + D = 180^\circ
 \]
@@ -161,6 +163,6 @@ In art and architecture, circles are used to create visually appealing designs a
 
 ---
 
-## **Conclusion**
+## **Summary**
 
 The form and structure of a circle in geometry involve understanding its basic components, properties, and theorems. From the fundamental definition and geometric properties to advanced concepts and real-world applications, the study of circles provides valuable insights into various mathematical and practical problems. Mastery of circle geometry enhances problem-solving skills and deepens the appreciation of mathematical beauty and complexity.

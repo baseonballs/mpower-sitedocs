@@ -35,7 +35,7 @@ where \( (h, k) \) is the center of the circle.
 ### **2.1 Theorems Related to Circles**
 
 - **Circumference and Area:**
-  - The **circumference** \( C \) of a circle is given by:
+    - The **circumference** \( C \) of a circle is given by:
 
 \[
 C = 2\pi r
@@ -48,8 +48,8 @@ A = \pi r^2
 \]
 
 - **Central Angle and Inscribed Angle Theorems:**
-  - The **central angle** is an angle whose vertex is at the center of the circle. The measure of a central angle is equal to the measure of the arc it intercepts.
-  - The **inscribed angle** is an angle whose vertex is on the circle, and its sides intersect the circle. The measure of an inscribed angle is half the measure of the arc it intercepts.
+    - The **central angle** is an angle whose vertex is at the center of the circle. The measure of a central angle is equal to the measure of the arc it intercepts.
+    - The **inscribed angle** is an angle whose vertex is on the circle, and its sides intersect the circle. The measure of an inscribed angle is half the measure of the arc it intercepts.
 
 **Example:** If an inscribed angle intercepts an arc of 80 degrees, the angle measures:
 
@@ -58,20 +58,20 @@ A = \pi r^2
 \]
 
 - **Pythagorean Theorem in Circles:**
-  - In a right-angled triangle inscribed in a circle, the hypotenuse is the diameter of the circle.
+    - In a right-angled triangle inscribed in a circle, the hypotenuse is the diameter of the circle.
 
 **Example:** For a right-angled triangle inscribed in a circle with hypotenuse \( d \), the diameter is \( d \), and the right angle is opposite the diameter.
 
 - **Power of a Point Theorem:**
-  - If a point \( P \) is outside a circle, and lines from \( P \) intersect the circle at points \( A \) and \( B \) and \( C \) and \( D \), then:
+    - If a point \( P \) is outside a circle, and lines from \( P \) intersect the circle at points \( A \) and \( B \) and \( C \) and \( D \), then:
 
 \[
 PA \times PB = PC \times PD
 \]
 
 - **Chords and Arcs Theorem:**
-  - Chords that are equidistant from the center of a circle are equal in length.
-  - If two chords are equal in length, they are equidistant from the center of the circle.
+    - Chords that are equidistant from the center of a circle are equal in length.
+    - If two chords are equal in length, they are equidistant from the center of the circle.
 
 **Example:** Two chords of a circle are both 5 cm from the center. They are equal in length.
 
@@ -141,6 +141,6 @@ Circle math is foundational in trigonometry, where the unit circle is used to de
 
 ---
 
-## **Conclusion**
+## **Summary**
 
 Circle math is a rich field of study within geometry that provides essential insights into the properties and relationships of circles. From basic definitions and theorems to advanced concepts and applications, understanding circle math is crucial for solving geometric problems, designing structures, and applying mathematical principles in various fields. Mastery of circle math enhances problem-solving skills and deepens the appreciation of mathematical beauty and complexity.
