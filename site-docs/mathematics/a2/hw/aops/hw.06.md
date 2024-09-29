@@ -90,6 +90,86 @@ The expression \( |z| < 5 \) represents a region in the complex plane. The magni
 2. **Use the Formula for the Area of a Circle:** The area \( A \) of a circle with radius \( r \) is given by \( A = \pi r^2 \).
 3. **Substitute the Radius:** Plug the value \( r = 5 \) into the area formula to find the area of the region.
 
+## **Problem 4**
+
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+>Find a function \( f(z) \) such that the line shown below is the graph of the equation \( |z - 3i| = |f(z)| \).
+
+### Deconstruction:
+The problem requires finding a function \( f(z) \) that describes the relationship between the distance from the point \( z \) to \( 3i \) (the point on the imaginary axis at \( (0, 3) \)) and the distance from \( z \) to the graph of the red line, which has the equation \( y = \frac{1}{2}x + \frac{1}{2} \).
+
+### Givens:
+- The equation \( |z - 3i| = |f(z)| \) involves the distance from a point \( z \) on the complex plane to the point \( 3i \).
+- The red line represents the geometric locus where the distance from \( z \) to \( 3i \) equals the distance to some function \( f(z) \).
+- The red line is given by the equation \( y = \frac{1}{2}x + \frac{1}{2} \), which can be interpreted geometrically in the complex plane.
+
+### Unknowns:
+- The function \( f(z) \) that describes the distance relationship represented by the red line.
+
+### Constraints:
+- The function \( f(z) \) must be found such that the relationship \( |z - 3i| = |f(z)| \) holds for all points on the red line.
+
+### Hints for Strategy to Solve:
+1. **Interpret \( z \) Geometrically:** Let \( z = x + yi \), where \( x \) and \( y \) are the real and imaginary components of a complex number.
+2. **Understand the Distance Condition:** The equation \( |z - 3i| = |f(z)| \) means the distance from \( z \) to \( 3i \) is equal to the distance to some point on the red line.
+3. **Parameterize the Line:** The equation of the red line is \( y = \frac{1}{2}x + \frac{1}{2} \), so for any point \( z = x + yi \), the point on the red line is related to the function.
+4. **Derive the Function:** Analyze the geometry of the situation to deduce the correct form of \( f(z) \). Consider the relationship between the distances involved and use this to formulate \( f(z) \).
+
+## **Problem 5**
+
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+>Evaluate the magnitude of the complex number \( \frac{1}{2} - \frac{3}{8}i \).
+
+### Deconstruction:
+The task requires calculating the magnitude (or modulus) of a given complex number. The magnitude \( |z| \) of a complex number \( z = a + bi \) is found using the formula \( |z| = \sqrt{a^2 + b^2} \), where \( a \) is the real part and \( b \) is the imaginary part.
+
+### Givens:
+- The complex number is \( \frac{1}{2} - \frac{3}{8}i \), where:
+  - Real part \( a = \frac{1}{2} \)
+  - Imaginary part \( b = -\frac{3}{8} \)
+
+### Unknowns:
+- The magnitude \( |z| \) of the complex number.
+
+### Constraints:
+- The magnitude must be computed using elementary methods and the standard modulus formula for complex numbers.
+
+### Strategy Hints (Flow):
+1. **Recognize the Complex Number Form:** Identify that the given complex number is \( \frac{1}{2} - \frac{3}{8}i \), with \( a = \frac{1}{2} \) and \( b = -\frac{3}{8} \).
+2. **Apply the Magnitude Formula:** Use the formula \( |z| = \sqrt{a^2 + b^2} \), where \( a \) and \( b \) are the real and imaginary parts of the complex number.
+3. **Square the Real and Imaginary Parts:** Compute \( \left( \frac{1}{2} \right)^2 \) and \( \left( -\frac{3}{8} \right)^2 \).
+4. **Add the Squares:** Sum the results from squaring the real and imaginary components.
+5. **Simplify and Take Square Root:** Simplify the sum of squares and take the square root to find the magnitude of the complex number.
+
+
+## **Problem 6**
+
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+>
+
+## **Problem 7**
+
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+>
+
+
+## **Problem 8**
+
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+>
+
+
+## **Problem 9**
+
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+>
+
+
+## **Problem 10**
+
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+>
+
 
 
 ---
@@ -98,7 +178,7 @@ The expression \( |z| < 5 \) represents a region in the complex plane. The magni
 ## **Problem xx**
 
 ### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
->T
+>
 
 
 ## **Solutions**
