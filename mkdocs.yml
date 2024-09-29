@@ -315,6 +315,7 @@ nav:
   - "Algebra 2":
     - "Coordinate Planes":
       - "Plane Classifications": "mathematics/a2/core-concepts/coordinate-planes/plane-classes.md"
+      - "Cartesian Plane": "mathematics/a2/core-concepts/coordinate-planes/cartesian-plane.md"
       - "Euclidean Plane": "mathematics/a2/core-concepts/coordinate-planes/euclidean-plane.md"
       - "Complex Plane": "mathematics/a2/core-concepts/coordinate-planes/complex-plane.md"
     - "Cubic Equations":  
