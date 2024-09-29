@@ -49,16 +49,11 @@ Curious about the difference between the Cartsian and Euclideian planes: clean [
 
 * **Books**:
 
-    1. Euclid. (1956). *The Elements* (T. L. Heath, Trans.). Dover Publications. (Original work published ca. 300 BCE)
-
-    2. Greenberg, M. J. (2008). *Euclidean and Non-Euclidean Geometries: Development and History*. W. H. Freeman.
-
-    3. Cederberg, J. (2013). *Geometry: A Comprehensive Course*. Dover Publications.
-
-    4. Muirhead, J. (1998). *Geometry: A Unified Approach*. Springer.
-
-    5. Becker, H. J. (1994). *The Parallel Postulate and the Foundations of Non-Euclidean Geometry*. *American Mathematical Monthly*, 101(4), 305-313.
-
+    - Euclid. (1956). *The Elements* (T. L. Heath, Trans.). Dover Publications. (Original work published ca. 300 BCE)
+    - Greenberg, M. J. (2008). *Euclidean and Non-Euclidean Geometries: Development and History*. W. H. Freeman.
+    - Cederberg, J. (2013). *Geometry: A Comprehensive Course*. Dover Publications.
+    - Muirhead, J. (1998). *Geometry: A Unified Approach*. Springer.
+    - Becker, H. J. (1994). *The Parallel Postulate and the Foundations of Non-Euclidean Geometry*. *American Mathematical Monthly*, 101(4), 305-313.
 
 * **Online**:
 
