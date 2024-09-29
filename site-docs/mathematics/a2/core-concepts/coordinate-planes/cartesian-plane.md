@@ -50,3 +50,35 @@ d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
 \[
 M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)
 \]
+
+
+## 6. Applications
+- The Cartesian plane is used extensively in various fields:
+
+  - **Mathematics**: Solving equations, analyzing functions, and studying geometry.
+  - **Physics**: Representing motion, forces, and other physical phenomena.
+  - **Computer Science**: In graphics programming and spatial algorithms.
+  - **Economics**: Graphing supply and demand curves, cost functions, and other economic models.
+
+## Summary
+
+The Cartesian plane is a powerful mathematical tool that provides a visual and algebraic framework for analyzing relationships between quantities. Its ability to represent points and functions graphically has made it indispensable in mathematics and the sciences, laying the groundwork for further developments in analytic geometry and calculus. The simplicity and utility of the Cartesian coordinate system continue to have a profound impact on both education and practical applications in various fields.
+
+---
+
+**References**:
+
+
+* **Online**:
+
+    * **Khan Academy: The Coordinate Plane**
+        - An interactive resource that provides lessons and practice problems about the Cartesian plane and coordinate geometry.
+        - [Khan Academy - The Coordinate Plane](https://www.khanacademy.org/math/geometry/hs-geo-analytic-geometry)
+
+    * **Math is Fun: Coordinate Plane**
+        - An accessible explanation of the Cartesian coordinate system, including definitions, quadrants, and examples.
+        - [Math is Fun - Coordinate Plane](https://www.mathsisfun.com/geometry/cartesian-coordinates.html)
+
+    * **Wikipedia: Cartesian Coordinate System**
+        - A detailed entry discussing the history, properties, and applications of the Cartesian coordinate system.
+        - [Wikipedia - Cartesian Coordinate System](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)
