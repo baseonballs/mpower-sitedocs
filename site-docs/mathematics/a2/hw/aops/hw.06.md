@@ -145,12 +145,97 @@ The task requires calculating the magnitude (or modulus) of a given complex numb
 ## **Problem 6**
 
 ### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
->
+>Find the product of the magnitudes of the complex numbers \( 3 - 2i \) and \( 3 + 2i \), expressed as \( |3 - 2i| \cdot |3 + 2i| \).
+
+### Deconstruction:
+The task requires calculating the magnitudes of two complex numbers and then multiplying these magnitudes together. The magnitude (or modulus) of a complex number \( z = a + bi \) is given by the formula:
+\[
+|z| = \sqrt{a^2 + b^2}
+\]
+
+### Givens:
+- The complex numbers are \( 3 - 2i \) and \( 3 + 2i \).
+- For \( 3 - 2i \):
+  - Real part \( a = 3 \)
+  - Imaginary part \( b = -2 \)
+- For \( 3 + 2i \):
+  - Real part \( a = 3 \)
+  - Imaginary part \( b = 2 \)
+
+### Unknowns:
+- The magnitudes \( |3 - 2i| \) and \( |3 + 2i| \).
+
+### Constraints:
+- Use the standard formula for the modulus of complex numbers to find the magnitudes.
+
+### Strategy Hints:
+1. **Calculate the Magnitude of \( 3 - 2i \):**
+   - Identify the real part \( a = 3 \) and the imaginary part \( b = -2 \).
+   - Use the formula \( |3 - 2i| = \sqrt{3^2 + (-2)^2} \).
+   
+2. **Calculate the Magnitude of \( 3 + 2i \):**
+   - Identify the real part \( a = 3 \) and the imaginary part \( b = 2 \).
+   - Use the formula \( |3 + 2i| = \sqrt{3^2 + 2^2} \).
+
+3. **Multiply the Magnitudes:**
+   - Use the results from the previous calculations to find the product: 
+   \[
+   |3 - 2i| \cdot |3 + 2i| = \sqrt{13} \cdot \sqrt{13} = 13.
+   \]
+
+### Final Result:
+Thus, the value of \( |3 - 2i| \cdot |3 + 2i| \) is:
+\[
+\boxed{13}
+\]
+
 
 ## **Problem 7**
 
 ### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
->
+>Calculate the magnitude \( |(1 - i)^8| \).
+
+### Deconstruction:
+The problem requires finding the magnitude of the complex number \( (1 - i) \) raised to the power of 8. The magnitude of a complex number can be calculated using the property that \( |z^n| = |z|^n \).
+
+### Givens:
+- The complex number is \( 1 - i \).
+
+### Unknowns:
+- The magnitude \( |(1 - i)^8| \).
+
+### Constraints:
+- Use the properties of magnitudes and complex numbers to find the result.
+
+### Strategy Hints (Flow):
+1. **Calculate the Magnitude of \( 1 - i \):**
+   - Identify the real part \( a = 1 \) and the imaginary part \( b = -1 \).
+   - Use the formula \( |1 - i| = \sqrt{1^2 + (-1)^2} \).
+
+2. **Raise the Magnitude to the 8th Power:**
+   - Use the property \( |(1 - i)^8| = |1 - i|^8 \) to find the final result.
+
+### Detailed Calculation Steps:
+1. **Magnitude Calculation:**
+   \[
+   |1 - i| = \sqrt{1^2 + (-1)^2} = \sqrt{1 + 1} = \sqrt{2}
+   \]
+
+2. **Raise to the 8th Power:**
+   \[
+   |(1 - i)^8| = |1 - i|^8 = (\sqrt{2})^8
+   \]
+
+3. **Simplify the Result:**
+   \[
+   (\sqrt{2})^8 = (2^{1/2})^8 = 2^{4} = 16
+   \]
+
+### Final Result:
+Thus, the value that Ringo should have found is:
+\[
+\boxed{16}
+\]
 
 
 ## **Problem 8**
