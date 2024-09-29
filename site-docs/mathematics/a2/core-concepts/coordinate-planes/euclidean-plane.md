@@ -42,3 +42,40 @@ While the Euclidean plane is foundational, it’s important to note that other g
 The Euclidean plane is not only a cornerstone of classical geometry but also serves as a foundation for advanced mathematical concepts and real-world applications. Its principles continue to influence fields such as physics, computer science, and art, demonstrating the timeless relevance of Euclidean geometry in understanding the world around us.
 
 ---
+
+**References**:
+
+* **Books**:
+
+    1. Euclid. (1956). *The Elements* (T. L. Heath, Trans.). Dover Publications. (Original work published ca. 300 BCE)
+
+    2. Greenberg, M. J. (2008). *Euclidean and Non-Euclidean Geometries: Development and History*. W. H. Freeman.
+
+    3. Cederberg, J. (2013). *Geometry: A Comprehensive Course*. Dover Publications.
+
+    4. Muirhead, J. (1998). *Geometry: A Unified Approach*. Springer.
+
+    5. Becker, H. J. (1994). *The Parallel Postulate and the Foundations of Non-Euclidean Geometry*. *American Mathematical Monthly*, 101(4), 305-313.
+
+
+* **Online**:
+
+    1. **Khan Academy: Euclidean Geometry**
+        - A comprehensive resource with lessons, practice problems, and videos explaining the concepts of Euclidean geometry.
+        - [Khan Academy - Euclidean Geometry](https://www.khanacademy.org/math/geometry)
+
+    2. **Math is Fun: Euclidean Geometry**
+        - An accessible explanation of Euclidean geometry, including definitions, properties, and theorems.
+        - [Math is Fun - Euclidean Geometry](https://www.mathsisfun.com/geometry/euclidean-geometry.html)
+
+    3. **Wikipedia: Euclidean Geometry**
+        - A detailed overview of Euclidean geometry, including its history, postulates, and various applications.
+        - [Wikipedia - Euclidean Geometry](https://en.wikipedia.org/wiki/Euclidean_geometry)
+
+    4. **Wolfram MathWorld: Euclidean Geometry**
+        - A comprehensive resource covering definitions, theorems, and properties related to Euclidean geometry.
+        - [Wolfram MathWorld - Euclidean Geometry](http://mathworld.wolfram.com/topics/EuclideanGeometry.html)
+
+    5. **PatrickJMT: Introduction to Euclidean Geometry**
+        - A video resource that provides visual explanations of fundamental Euclidean concepts.
+        - [PatrickJMT - Introduction to Euclidean Geometry](https://www.youtube.com/watch?v=dRzzwNoRgtg)
