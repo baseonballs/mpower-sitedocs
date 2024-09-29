@@ -267,18 +267,18 @@ nav:
         - "Properties of Quadratics": "mathematics/a1/eqs/quadratics/quadratics-properties.md"
       - "Understanding Vieta's Formula": "mathematics/a1/eqs/quadratics/vieta.md"
       - "Curves and Graphs": "mathematics/a1/eqs/quadratics/curves-and-graphs.md"
-      - "Solving Quadratics": 
+      - "Methods of Solving Quadratics": 
         - "Factoring":
           - "Methods of Factoring": "mathematics/a1/eqs/quadratics/solving-methods/method-factoring.md"
         - "Complete the Square":
           - "Methods of Completing the Square": "mathematics/a1/eqs/quadratics/solving-methods/method-complete-the-squares.md"
-      - "Problem Solving":
-        - "Factoring of Quadratics": "mathematics/a1/eqs/quadratics/problem-sets/factoring/pset.factoring.01.md"
-        - "Completing the Square": "mathematics/a1/eqs/quadratics/problem-sets/completing-the-square/pset.cts.01.md"
-        - "Graphing Quadratics": "mathematics/a1/eqs/quadratics/problem-sets/graphing/pset.graphing.01.md"
-        - "Vieta Methods": "mathematics/a1/eqs/quadratics/problem-sets/vieta/pset.vieta.01.md"
       - "Resources":
         - "Quadratic Cheatsheet": "mathematics/a1/eqs/quadratics/cheat-sheets.md"
+        - "Practice Problems":
+          - "Factoring of Quadratics": "mathematics/a1/eqs/quadratics/problem-sets/factoring/pset.factoring.01.md"
+          - "Completing the Square": "mathematics/a1/eqs/quadratics/problem-sets/completing-the-square/pset.cts.01.md"
+          - "Graphing Quadratics": "mathematics/a1/eqs/quadratics/problem-sets/graphing/pset.graphing.01.md"
+          - "Vieta Methods": "mathematics/a1/eqs/quadratics/problem-sets/vieta/pset.vieta.01.md"
     - "Polynomials":
       - "Forms & Structures": "mathematics/a1/polynomials/forms-and-structure.md"
       - "Deconstruction of Polynomials": "mathematics/a1/polynomials/polynomials-deconstruction.md"
