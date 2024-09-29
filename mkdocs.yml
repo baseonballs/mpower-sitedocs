@@ -245,6 +245,22 @@ nav:
       - "Resources":
         - "Differences between Equations and Functions": "mathematics/a1/resources/diff-eqs-functions.md"
         - "Differences between Curves and Graphs": "mathematics/a1/resources/diff-curves-graphs.md"
+    - "Algebraic Techniques":
+      - "Simplification Techniques": ""
+      - "Rationalizing the Denominator": ""
+      #- "Equation Solving Techniques": ""
+      #- "Graphical Techniques": ""
+      #- "Inequalities": ""
+      #- "Exponential and Logarithmic Techniques": ""
+      #- "Polunomial Techniques": ""
+      #- "Systems of Equations": ""
+      #- "Complex Numbers": ""
+      #- "Factoring Technique": ""
+      #- "Mathematical induction": ""
+      #- "Functional Techniques": ""
+      #- "Special Techniques for Nonlinear Equations": ""
+      #- "Approximation": ""
+      #- "Working with Functions" : ""
     - "Methods of Solving for Variables":
       - "Single Variable Equations": "mathematics/a1/solve-for-x/single-variable-eqs.md"
       - "Two Variable Equations": "mathematics/a1/solve-for-x/two-variable-eqs.md"
