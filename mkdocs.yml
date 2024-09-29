@@ -171,6 +171,7 @@ nav:
         - "Introduction": "mathematics/elem/number-sets/complex-numbers.md"
         - "A Brief History": "mathematics/elem/number-sets/complex-number-history.md"
         - "Complex Plane": "mathematics/elem/number-sets/complex-plane.md"
+        - "Complex Magnitude": "mathematics/elem/number-sets/complex-magnitude.md"
         - "Polar Notation": "mathematics/elem/number-sets/complex-polar-notation.md"
     - "Number System":
       - "Decimal - Base 10": "./mathematics/elem/number-system/decimal.md"
