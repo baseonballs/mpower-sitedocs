@@ -282,24 +282,164 @@ The task involves finding the magnitude of \( z^3 \) based on the given informat
 ## **Problem 9**
 
 ### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
->
+>Given that \( z \) is a complex number such that \( z^3 = 100 + 75i \), find the magnitude \( |z| \).
 
+### Deconstruction:
+The task involves finding the magnitude of the complex number \( z \) based on the magnitude of \( z^3 \).
+
+### Givens:
+- The complex number \( z^3 = 100 + 75i \).
+
+### Unknowns:
+
+- The magnitude \( |z| \).
+
+### Constraints:
+
+- Use properties of magnitudes in complex numbers to relate \( |z| \) and \( |z^3| \).
+
+### Strategy Hints:
+
+1. **Calculate Magnitude of \( z^3 \):** Use the formula for the magnitude of a complex number:
+
+\[
+|z^3| = \sqrt{(100)^2 + (75)^2}
+\]
+
+2. **Apply Magnitude Property:** Recall that \( |z^n| = |z|^n \) for any complex number \( z \).
+
+3. **Relate \( |z| \) to \( |z^3| \):** Since \( z^3 = 100 + 75i \), use the property to express \( |z| \):
+
+\[
+|z^3| = |z|^3
+\]
+
+4. **Solve for \( |z| \):** Rearrange the equation to isolate \( |z| \) based on the magnitude of \( z^3 \).
 
 ## **Problem 10**
 
 ### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
->
+>Given that the square of the non-real complex number \( z \) is equal to its conjugate \( \overline{z} \), find the real part of \( z \).
+
+### Deconstruction:
+The problem requires analyzing the relationship between a complex number and its conjugate, as well as finding the real part from a given equation.
+
+### Givens:
+
+- \( z \) is a non-real complex number.
+- The equation is \( z^2 = \overline{z} \).
+
+### Unknowns:
+
+- The real part of the complex number \( z \), denoted as \( \text{Re}(z) \).
+
+### Constraints:
+
+- Use properties of complex numbers and their conjugates to solve the equation.
+
+### Strategy Hints:
+
+1. **Express \( z \) in Terms of Real and Imaginary Parts:** Write \( z \) as \( z = x + yi \), where \( x \) is the real part and \( y \) is the imaginary part.
+
+2. **Substitute into the Equation:** Substitute \( z \) into the equation \( z^2 = \overline{z} \):
+
+\[
+(x + yi)^2 = x - yi
+\]
+
+3. **Expand and Simplify:** Expand the left side and equate the real and imaginary parts to form a system of equations.
+
+4. **Analyze the Results:** Use the system of equations to solve for \( x \) (the real part) and \( y \) (the imaginary part), noting that \( z \) is non-real implies \( y \neq 0 \).
+
+5. **Extract the Real Part:** Determine the value of \( x \) based on the derived equations.
 
 
-
----
-
-
-## **Problem xx**
+## **Problem 11**
 
 ### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
->
+>Find all complex numbers \( z \) such that \( |z - 3| = |z + i| = |z - 3i| \).
 
+### Deconstruction:
+The problem involves finding complex numbers that are equidistant from three points in the complex plane, namely \( 3 \), \( -i \), and \( 3i \).
+
+### Givens:
+- The distances are defined as:
+
+  - \( |z - 3| \): distance from \( z \) to the point \( 3 \) (or \( 3 + 0i \)).
+  - \( |z + i| \): distance from \( z \) to the point \( -i \) (or \( 0 - i \)).
+  - \( |z - 3i| \): distance from \( z \) to the point \( 3i \) (or \( 0 + 3i \)).
+
+### Unknowns:
+- The complex number \( z \) that satisfies the given distance equations.
+
+### Constraints:
+- The solution must satisfy the conditions for distances in the complex plane.
+
+### Strategy Hints:
+
+1. **Express \( z \) in Terms of Real and Imaginary Parts:** Let \( z = x + yi \), where \( x \) and \( y \) are real numbers.
+
+2. **Set Up Distance Equations:** Write the equations for the distances:
+
+   - \( |z - 3| = |z + i| \)
+   - \( |z + i| = |z - 3i| \)
+
+3. **Use the Distance Formula:** Apply the distance formula for complex numbers:
+
+\[
+|z - a| = \sqrt{(x - \text{Re}(a))^2 + (y - \text{Im}(a))^2}
+\]
+
+4. **Equate Distances:** From the distance equations, set up systems of equations to relate \( x \) and \( y \).
+
+5. **Geometric Interpretation:** Consider the geometric implications of equidistance, potentially leading to finding intersections of perpendicular bisectors of the segments connecting the points \( 3 \), \( -i \), and \( 3i \).
+
+6. **Solve the Resulting System:** Solve the resulting equations to find the values of \( x \) and \( y \) that satisfy all conditions.
+
+
+## **Problem 12**
+
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+>Let \( p(x) = x^3 - 5x^2 + 12x - 19 \) have roots \( a \), \( b \), and \( c \). Find the value of 
+>
+\[
+\frac{1}{ab} + \frac{1}{bc} + \frac{1}{ca}.
+\]
+
+### Deconstruction:
+The task is to calculate a specific expression involving the products of the roots of a cubic polynomial.
+
+### Givens:
+
+- The polynomial is \( p(x) = x^3 - 5x^2 + 12x - 19 \).
+- The roots of the polynomial are \( a, b, c \).
+
+### Unknowns:
+
+- The value of the expression \( \frac{1}{ab} + \frac{1}{bc} + \frac{1}{ca} \).
+
+### Constraints:
+
+- Use Vieta's formulas, which relate the coefficients of a polynomial to sums and products of its roots.
+
+### Strategy Hints:
+
+1. **Apply Vieta's Formulas:** Recall Vieta's formulas for the roots of a cubic polynomial:
+   - \( a + b + c = 5 \) (coefficient of \( x^2 \) with a negative sign),
+   - \( ab + ac + bc = 12 \) (coefficient of \( x \)),
+   - \( abc = 19 \) (constant term with a negative sign).
+
+2. **Rewrite the Expression:** Notice that:
+
+\[
+\frac{1}{ab} + \frac{1}{bc} + \frac{1}{ca} = \frac{c + a + b}{abc}.
+\]
+
+3. **Substitute Known Values:** Use the values obtained from Vieta’s formulas to replace \( c + a + b \) and \( abc \).
+
+4. **Calculate the Result:** Simplify the expression to find the final value.
+
+---
 
 ## **Solutions**
 
