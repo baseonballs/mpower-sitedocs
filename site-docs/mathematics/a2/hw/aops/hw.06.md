@@ -251,8 +251,33 @@ Thus, the value that Ringo should have found is:
 ## **Problem 8**
 
 ### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
->
+>Given a complex number \( z \) that lies on the circle centered at 0 with radius 5, calculate \( |z^3| \).
 
+### Deconstruction:
+
+The task involves finding the magnitude of \( z^3 \) based on the given information about the complex number \( z \).
+
+### Givens:
+
+- The radius of the circle is 5, so \( |z| = 5 \).
+
+### Unknowns:
+
+- The magnitude \( |z^3| \).
+
+### Constraints:
+
+- Use the properties of magnitudes in complex numbers.
+
+### Strategy Hints:
+
+1. **Recall Magnitude Property:** Use the property that \( |z^n| = |z|^n \) for any complex number \( z \).
+
+2. **Identify Given Magnitude:** Note that the radius of the circle indicates \( |z| = 5 \).
+
+3. **Calculate \( |z^3| \):** Apply the magnitude property to find \( |z^3| = |z|^3 \).
+
+4. **Substitute Known Value:** Substitute \( |z| = 5 \) into the equation to get the final result.
 
 ## **Problem 9**
 
