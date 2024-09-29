@@ -21,3 +21,32 @@ The Cartesian plane is a two-dimensional coordinate system formed by the interse
         - **Quadrant II**: \((- ,+)\)
         - **Quadrant III**: \((-,-)\)
         - **Quadrant IV**: \((+,-)\)
+
+
+## 3. Coordinates
+
+- A point in the Cartesian plane is represented as an ordered pair \((x, y)\), where:
+    - \(x\) indicates the horizontal position relative to the origin.
+    - \(y\) indicates the vertical position relative to the origin.
+- This system allows for precise location identification in the plane.
+
+## 4. Graphing Functions
+
+- The Cartesian plane is essential for graphing mathematical functions and equations.
+    - **Linear equations**: The graph of a linear equation forms a straight line, described by the equation \(y = mx + b\), where \(m\) is the slope and \(b\) is the y-intercept.
+    - **Quadratic functions**: The graph of a quadratic function, such as \(y = ax^2 + bx + c\), forms a parabola.
+  
+## 5. Distance and Midpoint Formulas
+
+- The Cartesian plane enables the calculation of distances and midpoints between points:
+    - **Distance Formula**: The distance \(d\) between two points \((x_1, y_1)\) and \((x_2, y_2)\) is given by:
+
+\[
+d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+\]
+
+  - **Midpoint Formula**: The midpoint \(M\) between two points is given by:
+
+\[
+M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)
+\]
