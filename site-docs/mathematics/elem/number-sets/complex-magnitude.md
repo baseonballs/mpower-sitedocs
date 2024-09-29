@@ -37,3 +37,35 @@ Geometrically, the complex magnitude represents the distance from the origin (0,
 \]
 
 This property highlights the geometric interpretation of distances in the complex plane.
+
+4. **Conjugate**: The magnitude of a complex number is equal to the magnitude of its conjugate:
+
+\[
+|z| = |\overline{z}|
+\]
+
+where the conjugate \( \overline{z} \) of \( z = a + bi \) is \( \overline{z} = a - bi \).
+
+## Applications
+
+- **Electrical Engineering**: In AC circuit analysis, complex numbers are used to represent impedance and voltage. The magnitude represents the effective (or RMS) values.
+
+- **Control Theory**: Stability and performance of control systems can be analyzed using complex magnitudes.
+
+- **Signal Processing**: In the context of Fourier transforms, the magnitude of complex frequency components conveys important information about signal energy.
+
+## Conclusion
+
+Understanding complex magnitude is essential for various applications across disciplines. It not only provides insights into the properties of complex numbers but also forms the foundation for more advanced topics in mathematics, such as complex functions and transformations.
+
+---
+
+**References**:
+
+1. **Books**:
+    - **"Complex Variables and Applications" by James Ward Brown and Ruel V. Churchill**: This book provides a comprehensive introduction to complex analysis, including the geometric interpretation of complex numbers and their magnitudes.
+    - **"Visual Complex Analysis" by Tristan Needham**: This text offers a geometric perspective on complex analysis, exploring the significance of complex magnitudes in various contexts.
+
+2. **Online Resources**:
+    - **Khan Academy**: The Khan Academy has instructional materials on complex numbers, including their representation and magnitude. See [Khan Academy on Complex Numbers](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86ed5fb1b61c64e3c19c2f46c0b1701f57b2e43077e1b8e7c8e5e6b5).
+    - **Paul’s Online Math Notes**: This resource provides notes on complex numbers and their properties. You can find the explanation of the magnitude of complex numbers at [Paul's Online Math Notes on Complex Numbers](https://tutorial.math.lamar.edu/Extras/ComplexPrimer/ComplexNumbers.aspx).
