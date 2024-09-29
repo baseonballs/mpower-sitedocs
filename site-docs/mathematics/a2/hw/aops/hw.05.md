@@ -12,8 +12,9 @@
 
 - Elementary Mathhematics: [Complex Numbers](../../../elem/number-sets/complex-numbers.md)
 - Elementary Mathhematics: [History of Complex Numbers](../../../elem/number-sets/complex-number-history.md)
+- Elementary Mathhematics: [Complex Magnitude](../../../elem/number-sets/complex-magnitude.md)
 
-
+---
 
 ## **Problem 1**
 
