@@ -41,6 +41,8 @@ While the Euclidean plane is foundational, it’s important to note that other g
 
 The Euclidean plane is not only a cornerstone of classical geometry but also serves as a foundation for advanced mathematical concepts and real-world applications. Its principles continue to influence fields such as physics, computer science, and art, demonstrating the timeless relevance of Euclidean geometry in understanding the world around us.
 
+Curious about the difference between the Cartsian and Euclideian planes: clean [here](../../resources/cartesian-vs-euclidean-plane.md) for more insights?
+
 ---
 
 **References**:

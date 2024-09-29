@@ -64,6 +64,8 @@ M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)
 
 The Cartesian plane is a powerful mathematical tool that provides a visual and algebraic framework for analyzing relationships between quantities. Its ability to represent points and functions graphically has made it indispensable in mathematics and the sciences, laying the groundwork for further developments in analytic geometry and calculus. The simplicity and utility of the Cartesian coordinate system continue to have a profound impact on both education and practical applications in various fields.
 
+Curious about the difference between the Cartsian and Euclideian planes: clean [here](../../resources/cartesian-vs-euclidean-plane.md) for more insights?
+
 ---
 
 **References**:
