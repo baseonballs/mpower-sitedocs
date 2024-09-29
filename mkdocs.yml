@@ -320,6 +320,7 @@ nav:
     - "Cubic Equations":  
       - "Forms & Structures": "mathematics/a2/eqs/cubic/cubic-forms-structures.md"
     - "Appendix - Resources":
+      - "Cartesian Plane vs Euclidean Plane": "mathematics/a2/resources/cartesian-vs-euclidean-plane.md"
       - "Cheatsheets":
         - "Algebraic Identities":  "mathematics/a2/resources/cheatsheets/cheatsheet-a2-identities.md"
         - "Alegrba 2 Properties & Formulas": "mathematics/a2/resources/cheatsheets/cheatsheets-a2-formulas.md"
