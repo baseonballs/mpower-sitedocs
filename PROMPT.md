@@ -6,10 +6,9 @@ Deconstruction, Provide Givens, Unknowns, Contraints if any, Give hints for stra
 Requirement:
 
 1. Apply only elementary methods using algebra 1 concepts and/or methods of solving
-2. Do not provide solution
+2. Do not provide a solution
 
 Problem Statment:
-
 
 ----
 
