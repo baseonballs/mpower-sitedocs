@@ -67,6 +67,31 @@ The equation involves both the complex number \( z \) and its conjugate \( \over
 3. **Form a System of Equations:** This will yield two separate equations—one for the real part and one for the imaginary part. Solve this system to find \( a \) and \( b \).
 4. **Solve for \( z \):** Once \( a \) and \( b \) are known, you can express the value of \( z \) as \( a + bi \).
 
+## **Problem 3**
+
+### <span style="color: brown; font-weight:bold; font-style: normal">Problem Statement</span>:
+>Find the area of the region in the complex plane defined by \( |z| < 5 \), where \( z \) is a complex number.
+
+### Deconstruction:
+The expression \( |z| < 5 \) represents a region in the complex plane. The magnitude \( |z| \) of a complex number \( z = a + bi \) is given by \( |z| = \sqrt{a^2 + b^2} \). This inequality defines a circular region in the complex plane, where the distance from the origin (0, 0) to any point \( z \) is less than 5.
+
+### Givens:
+- \( |z| < 5 \) defines the set of all points inside a circle with radius 5, centered at the origin of the complex plane.
+- The region in question is a circle with radius 5.
+
+### Unknowns:
+- The area of the region inside the circle defined by \( |z| < 5 \).
+
+### Constraints:
+- The solution must involve basic geometric concepts related to the area of a circle.
+
+### Hints for Strategy to Solve:
+1. **Interpret the Magnitude Condition:** Recognize that \( |z| < 5 \) corresponds to a circle in the complex plane with radius 5.
+2. **Use the Formula for the Area of a Circle:** The area \( A \) of a circle with radius \( r \) is given by \( A = \pi r^2 \).
+3. **Substitute the Radius:** Plug the value \( r = 5 \) into the area formula to find the area of the region.
+
+
+
 ---
 
 
