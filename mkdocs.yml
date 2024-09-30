@@ -247,7 +247,7 @@ nav:
         - "Differences between Curves and Graphs": "mathematics/a1/resources/diff-curves-graphs.md"
     - "Algebraic Techniques":
       #- "Building Your Toolset": "mathematics/a1/solving-techniques/toolset.md"
-      - "Simplification": ""
+      - "Simplification": "mathematics/a1/solving-techniques/simplification-techniques.md"
       - "Rationalizing the Denominator": "mathematics/a1/solving-techniques/rationalizing-denominators.md"
       - "Exponentiation": ""
       #- "Equation Solving Techniques": ""
