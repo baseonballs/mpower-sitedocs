@@ -249,7 +249,7 @@ nav:
       #- "Building Your Toolset": "mathematics/a1/solving-techniques/toolset.md"
       - "Simplification": "mathematics/a1/solving-techniques/simplification-techniques.md"
       - "Rationalizing the Denominator": "mathematics/a1/solving-techniques/rationalizing-denominators.md"
-      - "Exponentiation": ""
+      - "Exponentiation": "mathematics/a1/solving-techniques/exponentization.md"
       #- "Equation Solving Techniques": ""
       #- "Graphical Techniques": ""
       #- "Inequalities": ""
