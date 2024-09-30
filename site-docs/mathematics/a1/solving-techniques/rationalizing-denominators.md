@@ -56,6 +56,188 @@ For \( \frac{1}{\sqrt[3]{x}} \), multiply both the numerator and denominator by 
 
 Here, the denominator becomes a rational number \( x \), and the numerator remains in radical form.
 
+You're absolutely right! Rationalizing the denominator also plays a key role in handling complex numbers, particularly in Algebra 2 and Pre-Calculus. Let’s explore how complex numbers fit into the process of rationalizing the denominator.
+
+### Complex Numbers: Rationalizing with Imaginary Units
+
+When dealing with complex numbers, especially expressions that involve imaginary units \( i \), the denominator may include complex numbers of the form \( a + bi \), where \( i = \sqrt{-1} \). In these cases, we rationalize the denominator by multiplying both the numerator and denominator by the **complex conjugate** of the denominator.
+
+#### What is the Complex Conjugate?
+For a complex number \( a + bi \), the conjugate is \( a - bi \). Multiplying a complex number by its conjugate eliminates the imaginary part and simplifies the expression into a real number. This process mirrors rationalizing expressions with radicals.
+
+**Example**: Rationalizing with Complex Numbers
+
+Consider the following fraction involving a complex number in the denominator:
+
+\[
+\frac{1}{2 + 3i}
+\]
+
+#### Step 1: Multiply by the Conjugate
+To rationalize the denominator, multiply both the numerator and denominator by the conjugate of \( 2 + 3i \), which is \( 2 - 3i \):
+
+\[
+\frac{1}{2 + 3i} \times \frac{2 - 3i}{2 - 3i} = \frac{2 - 3i}{(2 + 3i)(2 - 3i)}
+\]
+
+#### Step 2: Apply the Difference of Squares Formula
+Next, simplify the denominator using the difference of squares identity:
+
+\[
+(2 + 3i)(2 - 3i) = 2^2 - (3i)^2 = 4 - 9(-1) = 4 + 9 = 13
+\]
+
+Now the expression is:
+
+\[
+\frac{2 - 3i}{13}
+\]
+
+#### Step 3: Simplify the Expression
+Finally, separate the real and imaginary parts:
+
+\[
+\frac{2}{13} - \frac{3i}{13}
+\]
+
+Thus, the rationalized form of the expression is:
+
+\[
+\frac{2}{13} - \frac{3i}{13}
+\]
+
+### Why Rationalize Complex Denominators?
+
+1. **Standard Form of Complex Numbers:** Complex numbers are generally written in the form \( a + bi \), where both \( a \) and \( b \) are real numbers. Rationalizing the denominator ensures that the result remains in this standard form without having an imaginary number in the denominator.
+
+2. **Easier Calculations:** Rationalizing the denominator simplifies calculations, especially when adding or multiplying complex numbers later on.
+
+3. **Simplifying Fractions:** When working with multiple complex numbers, rationalizing can help combine or simplify fractions more easily.
+
+**Example**: Rationalizing with Higher-Order Complex Numbers
+
+If you are working with more complicated expressions, such as those involving powers of \( i \), you may still follow a similar process. The imaginary unit \( i \) has cyclical powers:
+
+\[
+i^1 = i, \quad i^2 = -1, \quad i^3 = -i, \quad i^4 = 1
+\]
+
+For example, rationalizing a denominator like:
+
+\[
+\frac{1}{i}
+\]
+
+In this case, multiply by \( i \) to rationalize:
+
+\[
+\frac{1}{i} \times \frac{i}{i} = \frac{i}{i^2} = \frac{i}{-1} = -i
+\]
+
+Thus, the rationalized form of \( \frac{1}{i} \) is \( -i \).
+
+### Summary: Key Steps for Rationalizing Complex Denominators
+
+1. **Identify the Complex Conjugate:** For a denominator of the form \( a + bi \), the conjugate is \( a - bi \).
+   
+2. **Multiply by the Conjugate:** Multiply both the numerator and denominator by the conjugate to eliminate the imaginary part from the denominator.
+
+3. **Simplify the Denominator:** Use the difference of squares formula \( (a + bi)(a - bi) = a^2 - (bi)^2 = a^2 + b^2 \).
+
+4. **Express the Result in Standard Form:** Ensure the final result is written as \( \frac{a}{n} + \frac{bi}{n} \), where both \( a \) and \( b \) are real numbers and \( n \) is the real number in the denominator.
+
+Rationalizing complex denominators is a natural extension of the process for radicals, but it is applied in the realm of imaginary numbers and serves to keep complex expressions in their most understandable and usable form.
+
+## Algebra 2- Complex Numbers: Rationalizing with Imaginary Units
+
+When dealing with complex numbers, especially expressions that involve imaginary units \( i \), the denominator may include complex numbers of the form \( a + bi \), where \( i = \sqrt{-1} \). In these cases, we rationalize the denominator by multiplying both the numerator and denominator by the **complex conjugate** of the denominator.
+
+### What is the Complex Conjugate?
+For a complex number \( a + bi \), the conjugate is \( a - bi \). Multiplying a complex number by its conjugate eliminates the imaginary part and simplifies the expression into a real number. This process mirrors rationalizing expressions with radicals.
+
+
+**Example**: Rationalizing with Complex Numbers
+
+Consider the following fraction involving a complex number in the denominator:
+
+\[
+\frac{1}{2 + 3i}
+\]
+
+### Step 1: Multiply by the Conjugate
+To rationalize the denominator, multiply both the numerator and denominator by the conjugate of \( 2 + 3i \), which is \( 2 - 3i \):
+
+\[
+\frac{1}{2 + 3i} \times \frac{2 - 3i}{2 - 3i} = \frac{2 - 3i}{(2 + 3i)(2 - 3i)}
+\]
+
+### Step 2: Apply the Difference of Squares Formula
+Next, simplify the denominator using the difference of squares identity:
+
+\[
+(2 + 3i)(2 - 3i) = 2^2 - (3i)^2 = 4 - 9(-1) = 4 + 9 = 13
+\]
+
+Now the expression is:
+
+\[
+\frac{2 - 3i}{13}
+\]
+
+### Step 3: Simplify the Expression
+Finally, separate the real and imaginary parts:
+
+\[
+\frac{2}{13} - \frac{3i}{13}
+\]
+
+Thus, the rationalized form of the expression is:
+
+\[
+\frac{2}{13} - \frac{3i}{13}
+\]
+
+### Why Rationalize Complex Denominators?
+
+1. **Standard Form of Complex Numbers:** Complex numbers are generally written in the form \( a + bi \), where both \( a \) and \( b \) are real numbers. Rationalizing the denominator ensures that the result remains in this standard form without having an imaginary number in the denominator.
+
+2. **Easier Calculations:** Rationalizing the denominator simplifies calculations, especially when adding or multiplying complex numbers later on.
+
+3. **Simplifying Fractions:** When working with multiple complex numbers, rationalizing can help combine or simplify fractions more easily.
+
+**Example**: Rationalizing with Higher-Order Complex Numbers
+
+If you are working with more complicated expressions, such as those involving powers of \( i \), you may still follow a similar process. The imaginary unit \( i \) has cyclical powers:
+
+\[
+i^1 = i, \quad i^2 = -1, \quad i^3 = -i, \quad i^4 = 1
+\]
+
+For example, rationalizing a denominator like:
+
+\[
+\frac{1}{i}
+\]
+
+In this case, multiply by \( i \) to rationalize:
+
+\[
+\frac{1}{i} \times \frac{i}{i} = \frac{i}{i^2} = \frac{i}{-1} = -i
+\]
+
+Thus, the rationalized form of \( \frac{1}{i} \) is \( -i \).
+
+Summary: Key Steps for Rationalizing Complex Denominators
+
+1. **Identify the Complex Conjugate:** For a denominator of the form \( a + bi \), the conjugate is \( a - bi \).
+   
+2. **Multiply by the Conjugate:** Multiply both the numerator and denominator by the conjugate to eliminate the imaginary part from the denominator.
+
+3. **Simplify the Denominator:** Use the difference of squares formula \( (a + bi)(a - bi) = a^2 - (bi)^2 = a^2 + b^2 \).
+
+4. **Express the Result in Standard Form:** Ensure the final result is written as \( \frac{a}{n} + \frac{bi}{n} \), where both \( a \) and \( b \) are real numbers and \( n \) is the real number in the denominator.
+
+Rationalizing complex denominators is a natural extension of the process for radicals, but it is applied in the realm of imaginary numbers and serves to keep complex expressions in their most understandable and usable form.
 
 ## Geometry: Rationalizing in the Context of Trigonometry and Theorems
 
