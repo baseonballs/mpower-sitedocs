@@ -6,7 +6,7 @@ Rationalizing the denominator is a process in mathematics where the denominator 
 
 In Algebra 1, rationalizing the denominator typically involves removing square roots (radicals) from the denominator of a fraction.
 
-### Example:
+**Example**:
 
 \[ \frac{1}{\sqrt{2}} \]
 
@@ -26,7 +26,7 @@ Multiplying by a form of 1 (i.e., \( \frac{\sqrt{2}}{\sqrt{2}} \)) does not chan
 
 In Algebra 2, students encounter more complex situations where the denominator might be a binomial involving radicals. In these cases, rationalizing the denominator requires using the **conjugate** of the denominator.
 
-### Example:
+**Example**:
 
 \[ \frac{1}{\sqrt{2} + 1} \]
 
@@ -46,7 +46,7 @@ The conjugate is the expression formed by changing the sign between two terms in
 
 When the denominator contains cube roots or other higher-order roots, the approach involves multiplying by the necessary powers to make the denominator a perfect cube or higher power.
 
-### Example:
+**Example**:
 
 For \( \frac{1}{\sqrt[3]{x}} \), multiply both the numerator and denominator by \( \sqrt[3]{x^2} \) to rationalize:
 
@@ -61,7 +61,8 @@ Here, the denominator becomes a rational number \( x \), and the numerator remai
 
 Rationalizing the denominator also appears in Geometry, especially in contexts like simplifying trigonometric ratios and using the Pythagorean Theorem, where radical expressions are common.
 
-### Example in Trigonometry:
+**Example - Trigonometry**:
+
 The trigonometric ratio for a 45-degree angle is:
 
 \[
@@ -77,9 +78,11 @@ To present this ratio in its rationalized form:
 This rationalization often simplifies further calculations in trigonometry when dealing with exact values, particularly in simplifying expressions involving angles on the unit circle.
 
 ### Distance and Diagonal Problems:
+
 In Geometry, rationalizing the denominator might also arise when calculating distances using the Pythagorean Theorem. For example, finding the length of a diagonal in a square or cube often results in an irrational number in the denominator, which can be rationalized.
 
-### Example:
+**Example**:
+
 The diagonal of a square with side length \( s \) is \( s\sqrt{2} \). If we need to express a ratio involving this diagonal length, rationalizing may be necessary.
 
 ## Why Rationalize the Denominator?
