@@ -5,10 +5,11 @@ Quadratic equations are a central topic in algebra, with numerous applications i
 ## 1. **Forms of Quadratics**
 
 There are varying forms of quadratics. These include:
-- General
-- Standard
-- Vertex Form
-- Factored Form
+
+1. General Form
+2. Standard Form
+3. Factored Form
+4. Vertex Form
 
 ### 1.1 General Form
 
@@ -28,7 +29,20 @@ The standard form of a quadratic equation is often presented as:
 
 It is useful for applying the quadratic formula and factoring techniques.
 
-### 1.3 Vertex Form
+### 1.3 Factored Form
+
+The factored form reveals the roots (solutions) of the quadratic equation:
+
+\[ y = a(x - r_1)(x - r_2) \]
+
+where:
+
+- \( r_1 \) and \( r_2 \) are the roots of the equation, i.e., the values of \( x \) that satisfy \( ax^2 + bx + c = 0 \).
+
+This form is useful for solving quadratic equations when factoring is possible. It also reveals that the parabola crosses the x-axis at \( r_1 \) and \( r_2 \).
+
+
+### 1.4 Vertex Form
 
 The vertex form of a quadratic equation emphasizes the geometric features of the parabola and is expressed as:
 
@@ -40,18 +54,6 @@ where:
 - \( a \) determines the direction and width of the parabola (if \( a > 0 \), the parabola opens upward; if \( a < 0 \), it opens downward).
 
 This form is particularly helpful in graphing quadratics and identifying key features like the vertex and axis of symmetry.
-
-### 1.4 Factored Form
-
-The factored form reveals the roots (solutions) of the quadratic equation:
-
-\[ y = a(x - r_1)(x - r_2) \]
-
-where:
-
-- \( r_1 \) and \( r_2 \) are the roots of the equation, i.e., the values of \( x \) that satisfy \( ax^2 + bx + c = 0 \).
-
-This form is useful for solving quadratic equations when factoring is possible. It also reveals that the parabola crosses the x-axis at \( r_1 \) and \( r_2 \).
 
 ## 2. **Methods of Solving Quadratic Equation**
 
