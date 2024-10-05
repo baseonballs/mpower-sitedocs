@@ -9,9 +9,10 @@
 
 **Aditional Resources**:
 
-- Elementary Mathhematics: [Complex Numbers](../../../elem/number-sets/complex-numbers.md)
-- Elementary Mathhematics: [History of Complex Numbers](../../../elem/number-sets/complex-number-history.md)
-- Elementary Mathhematics: [Complex Magnitude](../../../elem/number-sets/complex-magnitude.md)
+- Elementary Mathhematics: [Quadratics - Forms & Structures](../../../a1/eqs/quadratics/index.md)
+- Elementary Mathhematics: [Quadratics - Properties of Quadratics](../../../a1/eqs/quadratics/quadratics-properties.md)
+- Elementary Mathhematics: [Quadratics - Method of Solving - Factoring](../../../a1/eqs/quadratics/solving-methods/method-factoring.md)
+- Tools: [Desmos - Graphing Calculator](https://www.desmos.com/geometry)
 
 ---
 
