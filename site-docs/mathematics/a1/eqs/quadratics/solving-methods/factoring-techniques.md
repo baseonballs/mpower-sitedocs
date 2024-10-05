@@ -16,15 +16,7 @@ where \( a \), \( b \), and \( c \) are constants, and \( a \neq 0 \). The goal 
 (ax + r)(bx + s) = 0
 \]
 
-where \( r \) and \( s \) are constants determined by the relationship between \( a \), \( b \), and \( c \).
-
-
-
-
-
-
-
-
+where \( r \) and \( s \) are the roots determined by the relationship between \( a \), \( b \), and \( c \).  The inference is informed by Vieta's formula for quadratics.
 
 ### **1.1 Factored Form and Roots Using \( r \) and \( s \)**
 
@@ -44,7 +36,7 @@ Here, \( r \) and \( s \) represent the **roots** (or solutions) of the quadrati
 
 ### **1.2 Link to Roots:**
 
-The solutions to the quadratic equation are found by setting each factor equal to zero:
+The solutions to the quadratic equation are found by setting each factor equal to zero using the **Zero Product Property**:
 
 \[
 x - r = 0 \quad \text{or} \quad x - s = 0
@@ -55,6 +47,18 @@ Thus, the roots are:
 \[
 x = r \quad \text{and} \quad x = s
 \]
+
+#### Principle Applied:
+
+The principle is called the **Zero Product Property** (or **Zero Product Rule**):
+
+This property states that if the product of two or more factors equals zero, then at least one of the factors must be zero. For a factored quadratic equation \( a(x - r)(x - s) = 0 \), this principle allows us to set each factor \( (x - r) \) and \( (x - s) \) equal to zero to find the roots:
+
+\[
+x - r = 0 \quad \text{or} \quad x - s = 0
+\]
+
+Thus, the solutions (or roots) are \( x = r \) and \( x = s \).
 
 ### **1.3 Example Using \( r \) and \( s \):**
 
