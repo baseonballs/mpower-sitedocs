@@ -12,6 +12,7 @@
 - Elementary Mathhematics: [Quadratics - Forms & Structures](../../../a1/eqs/quadratics/index.md)
 - Elementary Mathhematics: [Quadratics - Properties of Quadratics](../../../a1/eqs/quadratics/quadratics-properties.md)
 - Elementary Mathhematics: [Quadratics - Method of Solving - Factoring](../../../a1/eqs/quadratics/solving-methods/method-factoring.md)
+- Elementary Mathhematics: [Quadratics - Method of Solving - Factoring Techniques](../../../a1/eqs/quadratics/solving-methods/factoring-techniques.md)
 - Tools: [Desmos - Graphing Calculator](https://www.desmos.com/geometry)
 
 ---
