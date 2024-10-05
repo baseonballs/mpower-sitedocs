@@ -23,11 +23,18 @@ where:
 
 ### 1.2 Standard Form
 
-The standard form of a quadratic equation is often presented as:
+The standard form of a quadratic equation represents the geometric perspective and is written as:
 
-\[ ax^2 + bx + c = 0 \]
+\[
+a(x - h)^2 + k = 0
+\]
 
-It is useful for applying the quadratic formula and factoring techniques.
+- \( h \) and \( k \) represent the coordinates of the vertex of the parabola defined by the quadratic function.
+- This form is useful for graphing because it directly shows the vertex \((h, k)\) and makes it easier to analyze the properties of the parabola (like its direction of opening, maximum or minimum points, and symmetry).
+
+#### Key Differences:
+- **General form** emphasizes the individual coefficients \(a\), \(b\), and \(c\), and is more useful for algebraic manipulation.
+- **Standard form** emphasizes the geometric properties of the parabola, such as its vertex and shape.
 
 ### 1.3 Factored Form
 
