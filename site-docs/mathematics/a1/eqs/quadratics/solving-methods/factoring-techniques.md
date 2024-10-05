@@ -36,6 +36,8 @@ Here, \( r \) and \( s \) represent the **roots** (or solutions) of the quadrati
 
 ### **1.2 Link to Roots:**
 
+Reference: [Brilliant: Vieta's Formula](https://brilliant.org/wiki/vietas-formula/)
+
 The solutions to the quadratic equation are found by setting each factor equal to zero using the **Zero Product Property**:
 
 \[
@@ -421,3 +423,246 @@ Try to factor \( x^2 + 2x + 2 \). Since no pair of numbers multiply to 2 and add
 ## **Summary:**
 
 Factoring quadratics is a versatile skill that spans from recognizing basic patterns like perfect squares and differences of squares, to applying systematic methods like splitting the middle term or completing the square. Advanced techniques like the AC method and grouping provide powerful tools for more challenging problems, while tricks such as recognizing prime quadratics save time. By mastering these techniques, students can approach any quadratic equation with confidence and flexibility.
+
+
+Here are ten advanced exercises focused on factoring quadratics, along with step-by-step solutions for each example:
+
+### **1. Factor \( 2x^2 - 8x \)**
+
+**Step 1:** Identify the greatest common factor (GCF).
+- The GCF of \( 2x^2 \) and \( -8x \) is \( 2x \).
+
+**Step 2:** Factor out the GCF.
+\[
+2x(x - 4)
+\]
+
+**Step 3:** Verify by expanding.
+\[
+2x(x - 4) = 2x^2 - 8x
+\]
+
+**Final Answer:** \( 2x(x - 4) \)
+
+---
+
+### **2. Factor \( x^2 - 9 \)**
+
+**Step 1:** Recognize this as a difference of squares.
+- The expression can be written as \( x^2 - 3^2 \).
+
+**Step 2:** Apply the difference of squares formula \( a^2 - b^2 = (a - b)(a + b) \).
+\[
+(x - 3)(x + 3)
+\]
+
+**Step 3:** Verify by expanding.
+\[
+(x - 3)(x + 3) = x^2 - 9
+\]
+
+**Final Answer:** \( (x - 3)(x + 3) \)
+
+---
+
+### **3. Factor \( x^2 + 5x + 6 \)**
+
+**Step 1:** Identify \( a = 1 \), \( b = 5 \), \( c = 6 \).
+- We need two numbers that multiply to \( c \) (6) and add to \( b \) (5).
+
+**Step 2:** The numbers are \( 2 \) and \( 3 \).
+- Rewrite the expression:
+\[
+x^2 + 2x + 3x + 6
+\]
+
+**Step 3:** Factor by grouping:
+\[
+x(x + 2) + 3(x + 2) = (x + 2)(x + 3)
+\]
+
+**Step 4:** Verify by expanding.
+\[
+(x + 2)(x + 3) = x^2 + 5x + 6
+\]
+
+**Final Answer:** \( (x + 2)(x + 3) \)
+
+---
+
+### **4. Factor \( 3x^2 + 11x + 6 \)**
+
+**Step 1:** Identify \( a = 3 \), \( b = 11 \), \( c = 6 \).
+- Find two numbers that multiply to \( 3 \times 6 = 18 \) and add to \( 11 \).
+
+**Step 2:** The numbers are \( 9 \) and \( 2 \).
+- Rewrite:
+\[
+3x^2 + 9x + 2x + 6
+\]
+
+**Step 3:** Factor by grouping:
+\[
+3x(x + 3) + 2(x + 3) = (3x + 2)(x + 3)
+\]
+
+**Step 4:** Verify by expanding.
+\[
+(3x + 2)(x + 3) = 3x^2 + 11x + 6
+\]
+
+**Final Answer:** \( (3x + 2)(x + 3) \)
+
+---
+
+### **5. Factor \( x^2 - 7x + 10 \)**
+
+**Step 1:** Identify \( a = 1 \), \( b = -7 \), \( c = 10 \).
+- Look for two numbers that multiply to \( 10 \) and add to \( -7 \).
+
+**Step 2:** The numbers are \( -2 \) and \( -5 \).
+- Rewrite:
+\[
+x^2 - 2x - 5x + 10
+\]
+
+**Step 3:** Factor by grouping:
+\[
+x(x - 2) - 5(x - 2) = (x - 2)(x - 5)
+\]
+
+**Step 4:** Verify by expanding.
+\[
+(x - 2)(x - 5) = x^2 - 7x + 10
+\]
+
+**Final Answer:** \( (x - 2)(x - 5) \)
+
+---
+
+### **6. Factor \( 4x^2 - 12x + 9 \)**
+
+**Step 1:** Identify \( a = 4 \), \( b = -12 \), \( c = 9 \).
+- Look for two numbers that multiply to \( 4 \times 9 = 36 \) and add to \( -12 \).
+
+**Step 2:** The numbers are \( -6 \) and \( -6 \) (perfect square).
+- Rewrite:
+\[
+4x^2 - 6x - 6x + 9
+\]
+
+**Step 3:** Factor by grouping:
+\[
+2x(2x - 6) + 3(2x - 6) = (2x - 3)(2x - 3) = (2x - 3)^2
+\]
+
+**Step 4:** Verify by expanding.
+\[
+(2x - 3)^2 = 4x^2 - 12x + 9
+\]
+
+**Final Answer:** \( (2x - 3)^2 \)
+
+---
+
+### **7. Factor \( x^2 + 4x - 12 \)**
+
+**Step 1:** Identify \( a = 1 \), \( b = 4 \), \( c = -12 \).
+- Look for two numbers that multiply to \( -12 \) and add to \( 4 \).
+
+**Step 2:** The numbers are \( 6 \) and \( -2 \).
+- Rewrite:
+\[
+x^2 + 6x - 2x - 12
+\]
+
+**Step 3:** Factor by grouping:
+\[
+x(x + 6) - 2(x + 6) = (x + 6)(x - 2)
+\]
+
+**Step 4:** Verify by expanding.
+\[
+(x + 6)(x - 2) = x^2 + 4x - 12
+\]
+
+**Final Answer:** \( (x + 6)(x - 2) \)
+
+---
+
+### **8. Factor \( 5x^2 + 13x + 6 \)**
+
+**Step 1:** Identify \( a = 5 \), \( b = 13 \), \( c = 6 \).
+- Find two numbers that multiply to \( 5 \times 6 = 30 \) and add to \( 13 \).
+
+**Step 2:** The numbers are \( 10 \) and \( 3 \).
+- Rewrite:
+\[
+5x^2 + 10x + 3x + 6
+\]
+
+**Step 3:** Factor by grouping:
+\[
+5x(x + 2) + 3(x + 2) = (5x + 3)(x + 2)
+\]
+
+**Step 4:** Verify by expanding.
+\[
+(5x + 3)(x + 2) = 5x^2 + 13x + 6
+\]
+
+**Final Answer:** \( (5x + 3)(x + 2) \)
+
+---
+
+### **9. Factor \( 6x^2 - 11x - 10 \)**
+
+**Step 1:** Identify \( a = 6 \), \( b = -11 \), \( c = -10 \).
+- Find two numbers that multiply to \( 6 \times -10 = -60 \) and add to \( -11 \).
+
+**Step 2:** The numbers are \( -15 \) and \( 4 \).
+- Rewrite:
+\[
+6x^2 - 15x + 4x - 10
+\]
+
+**Step 3:** Factor by grouping:
+\[
+3x(2x - 5) + 2(2x - 5) = (3x + 2)(2x - 5)
+\]
+
+**Step 4:** Verify by expanding.
+\[
+(3x + 2)(2x - 5) = 6x^2 - 11x - 10
+\]
+
+**Final Answer:** \( (3x + 2)(2x - 5) \)
+
+---
+
+### **10. Factor \( x^2 + 6x + 8 \)**
+
+**Step 1:** Identify \( a = 1 \), \( b = 6 \), \( c = 8 \).
+- Find two numbers that multiply to \( 8 \) and add to \( 6 \).
+
+**Step 2:** The numbers are \( 2 \) and \( 4 \).
+- Rewrite:
+\[
+x^2 + 2x + 4x + 8
+\]
+
+**Step 3:** Factor by grouping:
+\[
+x(x + 2) + 4(x + 2) = (x + 2)(x + 4)
+\]
+
+**Step 4:** Verify by expanding.
+\[
+(x + 2)(x + 4) = x^2 + 6x + 8
+\]
+
+**Final Answer:** \( (x + 2)(x + 4) \)
+
+---
+
+These exercises cover a range of factoring techniques, including finding the GCF, factoring by grouping, and recognizing special products like the difference of squares and perfect squares. Each step demonstrates the logical progression needed to factor quadratic expressions successfully.
