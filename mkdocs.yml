@@ -288,6 +288,7 @@ nav:
       - "Methods of Solving Quadratics": 
         - "Factoring":
           - "Methods of Factoring": "mathematics/a1/eqs/quadratics/solving-methods/method-factoring.md"
+          - "Factoring Techniques": "mathematics/a1/eqs/quadratics/solving-methods/factoring-techniques.md"
         - "Complete the Square":
           - "Methods of Completing the Square": "mathematics/a1/eqs/quadratics/solving-methods/method-complete-the-squares.md"
       - "Resources":
