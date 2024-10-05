@@ -2,17 +2,170 @@
 
 Factoring quadratics is a foundational method for solving quadratic equations. It involves rewriting a quadratic expression in the form \( ax^2 + bx + c \) as a product of two binomials, typically resulting in a form like \( (x - r)(x - ) = 0 \). By factoring, we can solve for the values of \( x \) that satisfy the equation. This method relies on recognizing patterns and using specific strategies to simplify the expression.
 
-## **1. The Basic Quadratic Form:**
+## **1. The Standard Quadratic Form:**
 
 A standard quadratic equation has the form:
+
 \[
 ax^2 + bx + c = 0
 \]
+
 where \( a \), \( b \), and \( c \) are constants, and \( a \neq 0 \). The goal in factoring is to express this as:
+
 \[
-(ax + p)(bx + q) = 0
+(ax + r)(bx + s) = 0
 \]
-where \( p \) and \( q \) are constants determined by the relationship between \( a \), \( b \), and \( c \).
+
+where \( r \) and \( s \) are constants determined by the relationship between \( a \), \( b \), and \( c \).
+
+
+
+
+
+
+
+
+
+### **1.1 Factored Form and Roots Using \( r \) and \( s \)**
+
+For a quadratic equation of the form:
+
+\[
+ax^2 + bx + c = 0
+\]
+
+If the quadratic can be factored, the factored form is:
+
+\[
+a(x - r)(x - s) = 0
+\]
+
+Here, \( r \) and \( s \) represent the **roots** (or solutions) of the quadratic equation.
+
+### **1.2 Link to Roots:**
+
+The solutions to the quadratic equation are found by setting each factor equal to zero:
+
+\[
+x - r = 0 \quad \text{or} \quad x - s = 0
+\]
+
+Thus, the roots are:
+
+\[
+x = r \quad \text{and} \quad x = s
+\]
+
+### **1.3 Example Using \( r \) and \( s \):**
+
+Consider the quadratic equation \( x^2 - 5x + 6 = 0 \).
+
+1. **Factoring** the quadratic gives:
+
+\[
+(x - 2)(x - 3) = 0
+\]
+
+   Here, \( r = 2 \) and \( s = 3 \), which are the roots of the quadratic.
+
+2. **Solving** each factor:
+
+\[
+x - 2 = 0 \quad \Rightarrow \quad x = 2
+\]
+
+\[
+x - 3 = 0 \quad \Rightarrow \quad x = 3
+\]
+
+In this case, \( r = 2 \) and \( s = 3 \) are the roots.
+
+---
+
+### **1.4 Connection to the Discriminant**
+
+The discriminant is a key part of the quadratic formula and helps determine the nature of the roots of a quadratic equation. The **quadratic formula** is:
+
+\[
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\]
+
+Here, \( b^2 - 4ac \) is called the **discriminant** and is represented by \( \Delta \).
+
+- **Discriminant**: 
+
+\[
+\Delta = b^2 - 4ac
+\]
+
+The value of the discriminant determines the nature of the roots \( r \) and \( s \):
+
+1. **If \( \Delta > 0 \)**:
+
+    - The quadratic equation has **two distinct real roots** \( r \) and \( s \).
+    - The quadratic can be factored as \( a(x - r)(x - s) \).
+
+2. **If \( \Delta = 0 \)**:
+
+    - The quadratic equation has **one real repeated root** \( r \), meaning \( r = s \).
+    - The factored form is \( a(x - r)^2 \), representing a perfect square trinomial.
+
+3. **If \( \Delta < 0 \)**:
+
+    - The quadratic equation has **no real roots**, but instead has **two complex roots**.
+    - In this case, the quadratic cannot be factored using real numbers.
+
+---
+
+### **1.5 Examples of the Discriminant and Its Impact**
+
+1. **Positive Discriminant** (\( \Delta > 0 \)):
+
+   Consider \( x^2 - 5x + 6 = 0 \). Here, \( a = 1 \), \( b = -5 \), and \( c = 6 \).
+   
+   - Calculate the discriminant:
+
+\[
+\Delta = (-5)^2 - 4(1)(6) = 25 - 24 = 1
+\]
+
+- Since \( \Delta > 0 \), there are two distinct real roots.
+- The equation factors as \( (x - 2)(x - 3) = 0 \), and the roots are \( r = 2 \) and \( s = 3 \).
+
+2. **Zero Discriminant** (\( \Delta = 0 \)):
+
+   Consider \( x^2 - 4x + 4 = 0 \). Here, \( a = 1 \), \( b = -4 \), and \( c = 4 \).
+
+- Calculate the discriminant:
+
+\[
+\Delta = (-4)^2 - 4(1)(4) = 16 - 16 = 0
+\]
+
+- Since \( \Delta = 0 \), there is one real repeated root.
+- The equation factors as \( (x - 2)^2 = 0 \), and the repeated root is \( r = 2 \).
+
+3. **Negative Discriminant** (\( \Delta < 0 \)):
+
+   Consider \( x^2 + 4x + 5 = 0 \). Here, \( a = 1 \), \( b = 4 \), and \( c = 5 \).
+
+- Calculate the discriminant:
+
+\[
+\Delta = (4)^2 - 4(1)(5) = 16 - 20 = -4
+\]
+
+- Since \( \Delta < 0 \), there are no real roots, and the quadratic has two complex roots. It cannot be factored over the real numbers.
+
+---
+
+### **Summary of the Discriminant's Role:**
+
+- \( \Delta > 0 \): Two distinct real roots \( r \) and \( s \). The quadratic can be factored as \( a(x - r)(x - s) \).
+- \( \Delta = 0 \): One repeated real root \( r \). The quadratic can be factored as \( a(x - r)^2 \).
+- \( \Delta < 0 \): No real roots (complex roots). The quadratic cannot be factored using real numbers.
+
+Understanding the discriminant provides insight into whether factoring is possible and helps predict the nature of the quadratic's solutions.
 
 ---
 
