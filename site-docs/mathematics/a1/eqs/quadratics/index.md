@@ -105,3 +105,81 @@ Quadratic equations correspond to parabolas when graphed. Key features include:
 - **Roots**: The x-intercepts of the parabola, if they exist.
 
 Each form of the quadratic equation serves different purposes depending on the problem at hand.
+
+Here’s a set of 10 exercises that progressively test students' knowledge of the **standard form**, **general form**, **factored form**, and **vertex form** of quadratic equations. The questions range from basic identification and conversion tasks to more advanced problem-solving.
+
+---
+
+## 5. **Exercises - Quadratic Forms**
+
+### **Basic Level (Understanding the Forms)**
+
+**1. Identify the form:**
+Write whether the following equations are in general, standard, factored, or vertex form.
+
+a) \( x^2 - 4x + 4 = 0 \)  
+b) \( (x - 3)^2 = 25 \)  
+c) \( (x + 5)(x - 2) = 0 \)
+
+**2. Convert to general form:**
+Convert the following equation from **vertex form** to **general form**:
+
+\[
+y = 2(x - 4)^2 + 3
+\]
+
+**3. Convert to factored form:**
+Factor the following quadratic equation (if possible) and express it in **factored form**:
+
+\[
+x^2 - 7x + 10 = 0
+\]
+
+### **Intermediate Level (Connections Between Forms)**
+
+**4. Convert to vertex form:**
+Convert the following quadratic equation from **general form** to **vertex form**:
+
+\[
+y = 3x^2 + 6x + 2
+\]
+
+**5. Finding the vertex and axis of symmetry:**
+For the quadratic equation in **general form** \( y = x^2 - 6x + 5 \), find:
+
+a) The vertex.  
+b) The axis of symmetry.  
+c) Rewrite the equation in **vertex form**.
+
+**6. Solve using the factored form:**
+Solve the quadratic equation by first factoring:
+
+\[
+x^2 + 5x - 14 = 0
+\]
+
+### **Advanced Level (Problem Solving and Graphing)**
+
+**7. Graph a quadratic function in vertex form:**
+
+Given the quadratic equation \( y = -2(x + 1)^2 + 4 \):
+
+a) Identify the vertex and the direction of the parabola.  
+b) Sketch the graph of the equation.
+
+**8. Completing the square:**
+Complete the square for the following equation and convert it to **vertex form**:
+
+\[
+y = x^2 + 8x + 5
+\]
+
+**9. Deriving the equation from a graph:**
+Given that a parabola has a vertex at \( (2, -3) \) and passes through the point \( (4, 5) \), write the equation of the parabola in **vertex form**. Then, expand the equation to **general form**.
+
+**10. Factored form and roots:**
+Given the quadratic equation \( (x - 4)(x + 2) = 0 \):
+
+a) Find the roots of the equation.  
+b) Rewrite the equation in **general form**.  
+c) Sketch a rough graph of the parabola.
