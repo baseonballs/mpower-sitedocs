@@ -84,9 +84,70 @@ x - 3 = 0 \quad \Rightarrow \quad x = 3
 
 In this case, \( r = 2 \) and \( s = 3 \) are the roots.
 
+### **1.4 Example Using Vieta's Conditions:**
+
+Let's consider this statement:
+
+If the sum and product of the roots \( r \) and \( s \) of a quadratic equation are given, the quadratic equation can be expressed as:
+
+\[
+x^2 - (\text{sum of roots})x + (\text{product of roots}) = 0
+\]
+
+This form is derived from the factored form of a quadratic equation \( (x - r)(x - s) = 0 \), which expands to:
+
+\[
+x^2 - (r + s)x + rs = 0
+\]
+
+where:
+
+- \( r + s \) is the sum of the roots,
+- \( rs \) is the product of the roots.
+
+> Thus, the equation \( x^2 - (\text{sum of roots})x + (\text{product of roots}) = 0 \) is correct.
+
+>Is this a true statement?  Remember it must be true in all cases!
+
+This statement is only true if the leading coefficient \( a \) of the quadratic terms is 1. A better way of restating the statement is to say:
+
+> "If the sum and product of roots are given, then the quadratic equation is given by:  
+> \( x^2 - (\text{sum of roots})x + (\text{product of roots}) = 0 \)"
+
+is **not technically valid** unless we explicitly state that the leading coefficient \( a = 1 \). Without this assumption, the more general form of the quadratic equation would be:
+
+\[
+a(x^2 - (\text{sum of roots})x + (\text{product of roots})) = 0
+\]
+
+So, a more precise version of the statement would be:
+
+> "If the sum and product of roots are given, and the leading coefficient is \( 1 \), then the quadratic equation is:  
+> \( x^2 - (\text{sum of roots})x + (\text{product of roots}) = 0 \)." 
+
+This way, the condition \( a = 1 \) is clearly specified.
+
 ---
 
-### **1.4 Connection to the Discriminant**
+Not, let's shift to the more general way to qualify the statement:
+
+If the leading coefficient \( a \) is not 1, the quadratic equation would take the form:
+
+\[
+a(x^2 - (\text{sum of roots})x + (\text{product of roots})) = 0
+\]
+
+or equivalently:
+
+\[
+ax^2 - a(\text{sum of roots})x + a(\text{product of roots}) = 0
+\]
+
+So, in general, the form \( x^2 - (\text{sum of roots})x + (\text{product of roots}) = 0 \) applies when \( a = 1 \). If \( a \neq 1 \), the equation must be scaled by the leading coefficient \( a \).
+
+---
+
+### **1.5 Connection to the Discriminant**
 
 The discriminant is a key part of the quadratic formula and helps determine the nature of the roots of a quadratic equation. The **quadratic formula** is:
 
@@ -121,7 +182,7 @@ The value of the discriminant determines the nature of the roots \( r \) and \( 
 
 ---
 
-### **1.5 Examples of the Discriminant and Its Impact**
+### **1.6 Examples of the Discriminant and Its Impact**
 
 1. **Positive Discriminant** (\( \Delta > 0 \)):
 
@@ -163,7 +224,7 @@ The value of the discriminant determines the nature of the roots \( r \) and \( 
 
 ---
 
-### **Summary of the Discriminant's Role:**
+### **1.7 Summary of the Discriminant's Role:**
 
 - \( \Delta > 0 \): Two distinct real roots \( r \) and \( s \). The quadratic can be factored as \( a(x - r)(x - s) \).
 - \( \Delta = 0 \): One repeated real root \( r \). The quadratic can be factored as \( a(x - r)^2 \).
