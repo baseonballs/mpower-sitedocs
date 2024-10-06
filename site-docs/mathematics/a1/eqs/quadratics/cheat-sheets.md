@@ -1,4 +1,4 @@
-# Quadratic Functions Cheatsheet
+# Quadratics Cheatsheet
 
 ### **1. Standard Form**
 
