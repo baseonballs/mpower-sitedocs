@@ -294,6 +294,7 @@ nav:
           - "Derivation of Completing the Square": "mathematics/a1/eqs/quadratics/completing-the-squares/derivation-of-cts.md"
           - "Methods of Completing the Square": "mathematics/a1/eqs/quadratics/solving-methods/method-complete-the-squares.md"
       - "Resources":
+        - "Assessments": "mathematics/a1/eqs/quadratics/assessments/quadratics.md"
         - "Quadratic Cheatsheet": "mathematics/a1/eqs/quadratics/cheat-sheets.md"
         - "Practice Problems":
           - "Factoring of Quadratics": "mathematics/a1/eqs/quadratics/problem-sets/factoring/pset.factoring.01.md"
