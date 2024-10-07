@@ -5,7 +5,7 @@
 
 ## **Forms & Structures**
 
-Let's test your knowledge of forms and structures of a quadration equation or function.  Your ability to read (parse) an algebraic expression is critical to you ability to solving quadratics.  Why, it provides key insights to your problem solving strategies.
+Let's test your knowledge of forms and structures of a quadratic equations or functions.  Your ability to read (parse) an algebraic expression is critical to your ability to solving quadratics.  Why? It help to provides key insights to your problem solving strategies.
 
 ### Identify the Characteristic of the Quadratics.
 
