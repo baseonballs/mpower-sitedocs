@@ -1,8 +1,5 @@
 # Assessments - Quadratics
 
-
-
-
 ## **Forms & Structures**
 
 Let's test your knowledge of forms and structures of a quadratic equations or functions.  Your ability to read (parse) an algebraic expression is critical to your ability to solving quadratics.  Why? It help to provides key insights to your problem solving strategies.
@@ -14,8 +11,9 @@ Let's test your knowledge of forms and structures of a quadratic equations or fu
 3. What is a perferect square binomial? give an example?
 4. How do you find the square of a binomial?
 
+---
 
-### Exercies - Forms & Structures of Quadratics
+### Excercises - Forms & Structures of Quadratics
 
 These exercises focuses on the structure and forms of quadratics, aimed at testing the identification of substructures and their characteristics:
 
@@ -67,6 +65,7 @@ These exercises focuses on the structure and forms of quadratics, aimed at testi
 
 Click [here](assessment.exercises.01.sol.md) for the solutions.
 
+---
 
 ### Algebraic Identities
 
