@@ -1,4 +1,4 @@
-# Exercises Forms & STructures Solutions - Solutions
+# Exercises Forms & Structures Solutions - Solutions
 
 ## Exercise 1
 **Given the quadratic equation \( f(x) = 5x^2 - 20x + 12 \):**
