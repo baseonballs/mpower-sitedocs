@@ -3,11 +3,87 @@
 ## Exercise 1
 **Given the quadratic equation \( f(x) = 5x^2 - 20x + 12 \):**
 
+- **Curve**: Parabola
+- **Type of Curve**: Quadratic
 - **Leading Coefficient**: \( a = 5 \)
 - **Linear Term**: \( b = -20 \)
 - **Constant Term**: \( c = 12 \)
+- **Order/Degree**: This is 2nd order (degree) polynomial (trinomial or three terms)
 - **Standard Form**: The quadratic is in standard form \( ax^2 + bx + c \).
-- **Concavity**: Since \( a = 5 > 0 \), the graph is concave up.
+- **Vertex**: is at the minima (loweest point on the curve, the parabola)
+- **Graph**: plug this equation into a [graphing caluclator](https://www.desmos.com/geometry) and visulize the parabola.
+- **Concavity**: Since \( a = 5 > 0 \), the graph is concave up; meaning it is holding water or that the legs on either side of the vertex is trending upward.
+
+### Finding the X and Y Intercepts
+
+Let's go a step further to detmerin the \( x \) and \( y \)  intercepts:
+
+To find the intercepts of the quadratic function \( f(x) = 5x^2 - 20x + 12 \), we need to determine both the x-intercepts and the y-intercept.
+
+#### 1. Y-Intercept
+The y-intercept occurs where \( x = 0 \).
+
+\[
+f(0) = 5(0)^2 - 20(0) + 12 = 12
+\]
+
+So, the y-intercept is at the point \( (0, 12) \).
+
+#### 2. X-Intercepts
+The x-intercepts occur where \( f(x) = 0 \). We need to solve the equation:
+
+\[
+5x^2 - 20x + 12 = 0
+\]
+
+To simplify, we can divide the entire equation by 5:
+
+\[
+x^2 - 4x + \frac{12}{5} = 0
+\]
+
+Next, we can use the quadratic formula \( x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \) to find the roots, where \( a = 1 \), \( b = -4 \), and \( c = \frac{12}{5} \).
+
+First, calculate the discriminant \( D \):
+
+\[
+D = b^2 - 4ac = (-4)^2 - 4(1)\left(\frac{12}{5}\right) = 16 - \frac{48}{5} = 16 - 9.6 = 6.4
+\]
+
+Now, substitute into the quadratic formula:
+
+\[
+x = \frac{-(-4) \pm \sqrt{6.4}}{2(1)} = \frac{4 \pm \sqrt{6.4}}{2}
+\]
+
+Calculating \( \sqrt{6.4} \):
+
+\[
+\sqrt{6.4} \approx 2.52982
+\]
+
+Now substitute back into the equation:
+
+\[
+x \approx \frac{4 \pm 2.52982}{2}
+\]
+
+Calculating the two potential solutions:
+
+1. 
+\[
+x_1 \approx \frac{4 + 2.52982}{2} \approx \frac{6.52982}{2} \approx 3.26491
+\]
+
+2. 
+\[
+x_2 \approx \frac{4 - 2.52982}{2} \approx \frac{1.47018}{2} \approx 0.73509
+\]
+
+#### Summary of Intercepts
+- **Y-Intercept**: \( (0, 12) \)
+- **X-Intercepts**: Approximately \( (3.26, 0) \) and \( (0.74, 0) \)
+
 
 ## Exercise 2
 **Consider the polynomial expression \( g(x) = (3x - 4)(x + 2) \):**
