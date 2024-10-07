@@ -9,6 +9,9 @@ Let's test your knowledge of forms and structures of a quadration equation or fu
 
 ### Identify the Characteristic of the Quadratics.
 
+1. How do you factor a perfect trinomial?  Click [here](assessment.01.md) for examples.
+2. What is a perfect square trinomial?
+3. What is a perferect square binomial? give an example?
 
 ### Algebraic Identities
 
