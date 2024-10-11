@@ -1,0 +1,403 @@
+# Project information
+site_name: "M-Power Sitedocs"
+site_description: "Official M-Power Site"
+site_author: "Jeffrey T. Lucas <Jeffrey.Lucas@McKesson.com>"
+site_url: "http://localhost:8080/sitedocs/"
+
+# Copyright
+copyright: "&copy; 2024, baseonballs email:lucasjt@gmail.com>"
+
+# Repository
+repo_name: "GitHub"
+#repo_url: "https://github.com/CoverMyMeds-Pharmacy/peng-cloud-delivery-sitedocs.git"
+#edit_uri: "https://github.com/CoverMyMeds-Pharmacy/peng-cloud-delivery-sitedocs/site-docs"
+
+# Configuration
+
+docs_dir: "site-docs"
+theme:
+  name: "material"
+  language: "en"
+  shortcuts:
+    help: 191 # ?
+    next: 78 # n
+    previous: 80 # p
+    search: 83 # s
+  palette:
+    primary: "red"
+    accent: "break"
+  features:
+    - tabs
+  #font:
+  #text: 'Ubuntu'
+  #code: 'Ubuntu Mono'
+  #icon:
+  #logo: 'images/logo.svg'
+  #favicon: 'assets/images/favicon.ico'
+
+# Extensions
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - admonition
+  - codehilite
+  - footnotes
+  # - mdx_math:
+  #     enable_dollar_delimiter: true
+  - toc:
+      permalink: true
+      separator: "_"
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - en
+
+# Customization
+extra_javascript:
+  - js/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML"
+extra_css:
+  - "assets/css/custom.css"
+extra:
+  manifest: "manifest.json"
+  social:
+    - icon: "fontawesome/brands/github-alt"
+      link: "https://github.com/peaceiris"
+    - icon: "fontawesome/brands/twitter"
+      link: "https://twitter.com/piris314en"
+# Navitgation
+nav:
+  - "M-Power Mathmatics Sitedocs": "index.md"
+  - "Art of Problem Solving":
+    - "Critical Thinking": "mathematics/aops/critical_thinking.md"
+    - "Critical Thinking Framework":
+      - "Mental Model": "mathematics/aops/critical_thinking_framework.md"
+      - "Individualized Toolset": "mathematics/critical-thinking/toolbox/strategies.md"
+      - "Make Learning Fun" : "mathematics/critical-thinking/cognition/learning-fun-motivator.md"
+    - "Pillars of Cognition":
+      - "Foundation of Thinking": "mathematics/critical-thinking/cognition/pillars-of-cognition.md"
+      - "Developing Abstraction" : "mathematics/critical-thinking/cognition/abstraction.md"
+      - "Finding Patterns in Things" : "mathematics/critical-thinking/cognition/finding-patterns.md"
+    - "I ❤️ Puzzles":
+      - "Puzzle 1 - What is my number?": "./mathematics/elem/puzzles/level-a/puzzle-01.md"
+      - "Puzzle 2 - Magic Square, 3x3": "./mathematics/elem/puzzles/level-a/magic-squares/ms-3x3.md"
+      - "Puzzle 3 - Magic Square, 4x4": "./mathematics/elem/puzzles/level-a/magic-squares/ms-4x4.md"
+      - "Puzzle 4 - Frog and the Stairs": "mathematics/elem/puzzles/level-a/frog-and-stairs/frog-and-the-stairs.md"
+      - "Logic Puzzles":
+        - "Turtle and the Hare": "logic/puzzles/turtle-and-hare.001.md"
+        - "Fruit Basket": "logic/puzzles/logic-puzzle-001.md"
+        - "Three Weighty Coins": "logic/puzzles/three-coins.001.md"
+        - "River Crossing": "logic/puzzles/river-crossing-002.md"
+        - "Jeaulous Husband": "logic/puzzles/jealous-husband-003.md"
+        - "Counterfeit Coins": "logic/puzzles/counterfeit-coins.004.md"
+    - "Math Competitions":
+      - "AMC-8": 
+        - "Problem Set 1": "math-comp/amc8/amc8.pset.01.md"
+        - "Problem Set 2": "math-comp/amc8/amc8.pset.02.md"
+      - "AMC 10":
+        - "Problem Set 1": "math-comp/amc10/amc10.pset.01.md"
+      - "AMC 12":
+        - "Problem Set 1": "math-comp/amc12/amc12.pset.01.md"
+      - "AIME":
+        - "Problem Set 1": "math-comp/aime/aime.pset.01.md"
+      - "Olympiad":
+        - "Problem Set 1": "math-comp/olympiad/olympiad.pset.01.md"
+    - "Math Excursions":
+      - "Did You Know?": "./mathematics/puzzles/did_you_know.md"
+      - "Patterns in Numbers": 
+        - "Patterns in Nature": "mathematics/patterns/index.md"
+        - "Hidden Patterns": "mathematics/patterns/hidden_patterns.md"
+      - "Number Shapes": "mathematics/patterns/shapes/numbers.md"
+    - "Mental Excercise":
+      - "Variable Assignment": "mathematics/critical-thinking/mental-excercise/x_equal_6.md"
+      - "Number Assignment": "mathematics/critical-thinking/mental-excercise/6_equal_x.md"
+      - "Infinity" : "mathematics/critical-thinking/mental-excercise/infinity/infinity.md"
+      - "Sort by Colors" : "mathematics/critical-thinking/mental-excercise/sort-by-colors.md"
+    - "Tools & Resources" : "resources/index.md"
+  - "Language of Math":
+    - "Semantics":
+      - "Constants vs Variables": "mathematics/a1/appendix/lang/semantics_constvar.md"
+      - "Convention Used": "mathematics/a1/appendix/lang/semantics_constvar_convention.md"
+      - "Objects": "mathematics/a1/appendix/lang/semantics-objects.md"
+      - "Labels & Properties": "mathematics/a1/appendix/lang/semantics-lables-properties.md"
+    - "Symbols and Notations":
+      - "Mathematic Notation & Syntax": "./mathematics/a1/appendix/lang/semantics.md"
+      - "Arithmetic Operators": "./mathematics/a1/appendix/lang/notation_arithmetic_operators.md"
+      - "Logic Notation": "./mathematics/a1/appendix/lang/notation_logic.md"
+      - "Set Notation": "./mathematics/a1/appendix/lang/notation_sets.md"
+      - "Sigma Notation": "./mathematics/a1/appendix/lang/notation_sigma.md"
+      - "Quantifiers":
+        - "Logic Quantifiers": "./mathematics/a1/appendix/lang/notation_logic_quantifiers.md"
+        - "Set Quantifiers": "./mathematics/a1/appendix/lang/notation_set_quantifiers.md"
+        - "What's the Difference": "./mathematics/a1/appendix/lang/notation_diff_quantifiers.md"
+    - "Algebraic Equations":
+      - "Terms and Expressions": "./mathematics/a1/appendix/lang/structure_expressions_and_terms.md"
+      - "Structure of Equalities": "./mathematics/a1/appendix/lang/structure_equations.md"
+      - "Structure of Inequalities": "./mathematics/a1/appendix/lang/structure_inqualities.md"
+      - "Structure of Polynomials": "./mathematics/a1/appendix/lang/structure_polynomials.md"
+    - "Objects & Labels":
+      - "Attributes & Properties": "mathematics/a1/appendix/lang/objects-labels/attributes-properties.md"
+      - "Mathematical Objects": "mathematics/a1/appendix/lang/objects-labels/mathematical-objects.md"
+  - "Elementary Mathematics":
+    - "Definition & Properties":
+      - "Notion of Units": "mathematics/elem/def/def-units.md"
+      - "Number Line": "mathematics/elem/def/def-number-line.md"
+      - "Constructs Used in Proofs": "mathematics/elem/def/def-axioms-theorems.md"
+      - "Sets, Lists, Tuples": "mathematics/elem/properties/sets/sets-lists-tuples.md"
+      - "Properties of Numbers":
+        - "General Properties of Numbers": "mathematics/elem/properties/properties-arithmetic.md"
+        - "Properties of Zero": "mathematics/elem/properties/properties-of-zero.md"
+        - "Properties of One": "mathematics/elem/properties/properties-of-one.md"
+        - "Properties of Natural Numbers": "mathematics/elem/properties/properties-of-natural.md"
+        - "Properties of Negative Number": "mathematics/elem/properties/properties-of-negative.md"
+        - "Properties of Infinity": "mathematics/elem/properties/properties-of-infinity.md"
+        - "Properties of Real": "mathematics/elem/properties/properties-of-real.md"
+        - "Properties of Complex Numbers": "mathematics/elem/properties/properties-of-complex.md"
+        - "Properties of Composites": "mathematics/elem/properties/properties-of-composites.md"
+        - "Properties of Primes & Coprimes": "mathematics/elem/properties/properties-of-primes-coprimes.md"
+        - "Properties of Parity": "mathematics/elem/properties/properteis-of-parity.md"
+      - "Properties of Structures":
+        - "Properties of Sets": "mathematics/elem/properties/sets/properties-of-sets.md"
+        - "Properties of Set-like Structures": "mathematics/elem/properties/sets/properties-of-sets-like.md"
+    - "Number Sets" : 
+      - "Number Class": "./mathematics/elem/number-sets/set_numbers.md"
+      - "Natural Numbers": "./mathematics/elem/number-sets/natural_numbers.md"
+      - "Integers": "./mathematics/elem/number-sets/integers.md"
+      - "Real Numbers": "mathematics/elem/number-sets/real-numbers.md"
+      - "Complex Numbers":
+        - "Introduction": "mathematics/elem/number-sets/complex-numbers.md"
+        - "A Brief History": "mathematics/elem/number-sets/complex-number-history.md"
+        - "Complex Plane": "mathematics/elem/number-sets/complex-plane.md"
+        - "Complex Magnitude": "mathematics/elem/number-sets/complex-magnitude.md"
+        - "Polar Notation": "mathematics/elem/number-sets/complex-polar-notation.md"
+    - "Number System":
+      - "Decimal - Base 10": "./mathematics/elem/number-system/decimal.md"
+      - "Binary - Base 2":
+        - "Introduction": "./mathematics/elem/number-system/binary.md"
+        - "Exercises": "mathematics/elem/number-system/exercise/b10_to_b2-01.md"
+      - "Hexadecimal - Base 16": "./mathematics/elem/number-system/hexidecimal.md"
+    - "Number Patterns":
+      - "Why Find Patterns?": "mathematics/elem/patterns/why-find-patterns.md"
+      - "Patterns with Integers": "mathematics/elem/patterns/paterns-integers.md"
+      - "Generalization Through Patterns":
+        - "Generalization Process Using Patterns": "mathematics/elem/derivation/generations-through-patterns.md"
+        - "Sum of First n Natural Numbers": "mathematics/elem/derivation/derivation-of-formulas.md"
+        - "Derived Formulas & Theorems through Pattern Observation":
+          - "Basic Formulas": "mathematics/elem/patterns/summary-derived-formulas.md"
+          - "Fundamental Theorems": "mathematics/elem/patterns/summary-derived-thorems.md"
+      - "Montessori Bionmial Squares and Cubes":
+        - "Bionomial Squares" : "mathematics/elem/patterns/montessori-cubes/bionomial-square-expansion.md"
+        - "Bionomial Cubes" : "mathematics/elem/patterns/montessori-cubes/binomial-cube-expansion.md"
+        - "Bionomial Cubes & Pathagorean" : "mathematics/elem/patterns/montessori-cubes/binomial-cube-pythagorean.md"
+    - "Number Operations":
+      - "Aggregation":
+        - "Aggregation in Mathematics": "mathematics/elem/unification/aggregation.md"
+      - "Segmentation": 
+        - "Segmentation in Mathematics": "mathematics/elem/segmentation/segmentation.md"
+        - "Divisibility & Grouping": "mathematics/elem/segmentation/segmentation-grouping.md"
+    - "Factors & Multiples":
+      - "Introduction": "mathematics/elem/core-concepts/factors-multiples/intro.md"
+      - "Properties of Factors": "mathematics/elem/core-concepts/factors-multiples/factors-properties.md"
+      - "Properties of Multiples": "mathematics/elem/core-concepts/factors-multiples/multiples-properties.md"
+      - "Prime Factorization": "mathematics/elem/core-concepts/factors-multiples/prime-factorization.md"
+      - "Relationship of Factors & Multiples": "mathematics/elem/core-concepts/factors-multiples/relation-factors-multiples.md"
+      - "Relationship of Factors, Multiples to GCF & LCM": "mathematics/elem/core-concepts/factors-multiples/relationship-of-factor-multiples-to-gcf-lcm.md"
+    - "GCF & LCM":
+      - "Properties of GCF": "mathematics/elem/core-concepts/gcf-lcm/properties-gcf.md"
+      - "Properties of LCM": "mathematics/elem/core-concepts/gcf-lcm/properties-lcm.md"
+      - "Relationship of GCF & LCM": "mathematics/elem/core-concepts/gcf-lcm/relation-gcf-lcm.md"
+    - "Quotients and Remainders": "mathematics/elem/core-concepts/quotients-and-remainders/intro.md"
+    - "Rates, Ratios, Percents, & Proportions": 
+      - "Rates, Ratios & Proportions": "mathematics/elem/core-concepts/rates-ratios-proportions/intro.md"
+      - "Percent": "mathematics/elem/core-concepts/percent/index.md"
+      - "Direct vs. Inverse Proportion": "mathematics/elem/core-concepts/rates-ratios-proportions/proportions.md"
+    - "Coordinate Systems":
+      - "Introduction": "mathematics/elem/coord-systems/introduction.md"
+    - "Functions & Graphs":
+      - "Introduction": "mathematics/elem/core-concepts/functions-graphs/index.md"
+    - "Sequences, Series & Summations":
+      - "Sequences": ""
+      - "Summations": ""
+      - "Arithmetic Series": ""
+      - "Geometric Series": ""
+    - "Appendix - Resources":
+      - "Applied Math":
+        - "Physics":
+          - "Newton's 1st Law of Motion: Law of Inertia": "mathematics/applied-math/physics/newton-laws/law-of-inertia.md"
+          - "Newton's 2nd Law of Motion: Law of Acceleration": "mathematics/applied-math/physics/newton-laws/law-of-motion.md"
+      - "Cheatsheets": 
+        - "Core Ideas": "mathematics/elem/resources/cheat-sheets/index.md"
+        - "Arithmetic Formulas": "mathematics/elem/resources/cheat-sheets/arith-formulas.md"
+        - "Factors Properties": "mathematics/elem/resources/cheat-sheets/properties-of-factors.md"
+        - "Multiples Properties": "mathematics/elem/resources/cheat-sheets/properties-of-multiples.md"
+      - "Problem Solving": ""
+  - "Algebra 1":
+    - "Class, Forms & Structures of Equations":
+      - "Equations, Functions, Curves & Graphs": "mathematics/a1/general/eqs-functions-curves-graphs.md"
+      - "Curves & Graphs": "mathematics/a1/general/curves-and-graphs.md"
+      - "Types of Equations" : "mathematics/a1/eqs/forms/class-of-equations.md"
+      - "X-intercept": "mathematics/a1/general/x-intercept.md"
+      - "Y-intercept": "mathematics/a1/general/y-intercept.md"
+      - "Slope": "mathematics/a1/general/slope.md"
+      - "Resources":
+        - "Differences between Equations and Functions": "mathematics/a1/resources/diff-eqs-functions.md"
+        - "Differences between Curves and Graphs": "mathematics/a1/resources/diff-curves-graphs.md"
+    - "Algebraic Techniques":
+      #- "Building Your Toolset": "mathematics/a1/solving-techniques/toolset.md"
+      - "Simplification": "mathematics/a1/solving-techniques/simplification-techniques.md"
+      - "Rationalizing the Denominator": "mathematics/a1/solving-techniques/rationalizing-denominators.md"
+      - "Exponentiation": "mathematics/a1/solving-techniques/exponentization.md"
+      #- "Equation Solving Techniques": ""
+      #- "Graphical Techniques": ""
+      #- "Inequalities": ""
+      #- "Exponential and Logarithmic Techniques": ""
+      #- "Polunomial Techniques": ""
+      #- "Systems of Equations": ""
+      #- "Complex Numbers": ""
+      #- "Factoring Technique": ""
+      #- "Mathematical induction": ""
+      #- "Functional Techniques": ""
+      #- "Special Techniques for Nonlinear Equations": ""
+      #- "Approximation": ""
+      #- "Working with Functions" : ""
+    - "Methods of Solving for Variables":
+      - "Single Variable Equations": "mathematics/a1/solve-for-x/single-variable-eqs.md"
+      - "Two Variable Equations": "mathematics/a1/solve-for-x/two-variable-eqs.md"
+      - "Multi-Variable Equations": "mathematics/a1/solve-for-x/multi-variable-eqs.md"
+    - "Linear Equations":
+      - "Introduction":
+        - "Structures of Linear Equations": "mathematics/a1/eqs/linear/intro/intro.md"
+        - "What is a x-intercept?": "mathematics/a1/eqs/linear/intro/x-intercept.md"
+        - "What is a y-intercept?": "mathematics/a1/eqs/linear/intro/y-intercept.md"
+        - "What is a slope?": "mathematics/a1/eqs/linear/intro/slope.md"
+      - "Semantic Structures":
+        - "Introspection of Linear Forms": "mathematics/a1/eqs/linear/structures/semantics.md"
+        - "Art of Deconstruction": "mathematics/a1/eqs/linear/structures/deconstruction.md"
+        - "Forms of Linear Eq.": "mathematics/a1/eqs/linear/forms/forms-of-equations.md"
+      - "Linear Functions": "./mathematics/a1/eqs/linear/functions.md"
+      - "Linear Curves & Graphs": "mathematics/a1/eqs/linear/curves-and-graphs.md"
+    - "Quadratic Equations":
+      - "Form & Structure":
+        - "Forms of Quadratics": "./mathematics/a1/eqs/quadratics/index.md"
+        - "Properties of Quadratics": "mathematics/a1/eqs/quadratics/quadratics-properties.md"
+      - "Understanding Vieta's Formula": "mathematics/a1/eqs/quadratics/vieta.md"
+      - "Curves and Graphs": "mathematics/a1/eqs/quadratics/curves-and-graphs.md"
+      - "Methods of Solving Quadratics": 
+        - "Factoring":
+          - "Methods of Factoring": "mathematics/a1/eqs/quadratics/solving-methods/method-factoring.md"
+          - "Factoring Techniques": "mathematics/a1/eqs/quadratics/solving-methods/factoring-techniques.md"
+        - "Complete the Square":
+          - "Perfect Square Trinomials": "mathematics/a1/eqs/quadratics/completing-the-squares/sum-of-squares.md"
+          - "Derivation of Completing the Square": "mathematics/a1/eqs/quadratics/completing-the-squares/derivation-of-cts.md"
+          - "Methods of Completing the Square": "mathematics/a1/eqs/quadratics/solving-methods/method-complete-the-squares.md"
+      - "Resources":
+        - "Assessments": "mathematics/a1/eqs/quadratics/assessments/quadratics.md"
+        - "Quadratic Cheatsheet": "mathematics/a1/eqs/quadratics/cheat-sheets.md"
+        - "Practice Problems":
+          - "Factoring of Quadratics": "mathematics/a1/eqs/quadratics/problem-sets/factoring/pset.factoring.01.md"
+          - "Completing the Square": "mathematics/a1/eqs/quadratics/problem-sets/completing-the-square/pset.cts.01.md"
+          - "Graphing Quadratics": "mathematics/a1/eqs/quadratics/problem-sets/graphing/pset.graphing.01.md"
+          - "Vieta Methods": "mathematics/a1/eqs/quadratics/problem-sets/vieta/pset.vieta.01.md"
+    - "Polynomials":
+      - "Forms & Structures": "mathematics/a1/polynomials/forms-and-structure.md"
+      - "Deconstruction of Polynomials": "mathematics/a1/polynomials/polynomials-deconstruction.md"
+      - "Identification of Polynomials": "mathematics/a1/polynomials/polynomials-identification.md"
+      - "Excercises":
+        - "Problem Set 1": "mathematics/a1/polynomials/exercises/poly-id-pset-001.md"
+    - "Appendix - Resources":
+      - "Definitions":
+        - "Equations, Functions, Curves & Graphs": "./mathematics/a1/defs/exp_rational.md"
+        - "Rational Exponents": "./mathematics/a1/defs/exp_rational.md"
+      - "Laws & Properties":
+        - "Fundamental Theorem of Arithmetic": "./mathematics/a1/appendix/fundamental_theorem_arithmetic.md"
+        - "Fundamental Theorem of Algebra": "./mathematics/a1/appendix/fundamental_theorem_algebra.md"
+        - "Laws of Equalities & Inequalities": "./mathematics/a1/appendix/laws_eq_ineq.md"
+        - "Laws of Exponents": "./mathematics/a1/appendix/law_of_exponents.md"
+        - "Peano Axioms": "./mathematics/a1/appendix/peano_axioms.md"
+      - "Theorems":
+        - "General": "./mathematics/a1/appendix/theorems/index.md"
+        - "Quadratic Thorems": "./mathematics/a1/appendix/theorems/quadraics.md"
+        - "Pythagorean Theorem": "./mathematics/a1/appendix/pythagoren_theorem.md"
+      - "Problem Solving":
+        - "Solve for x":
+          - "Problem 1 - Radical": "./mathematics/a1/psets-a1/q1-solve-for-x.md"
+          - "Problem 2 - Simultaneous Eq.": "./mathematics/a1/psets-a1/q2-solve-for-x.md"
+          - "Problem 3 - Rational Powers": "./mathematics/a1/psets-a1/q3-solve-for-x.md"
+          - "Problem 4 - Powers": "./mathematics/a1/psets-a1/q4-solve-for-x.md"
+          - "Problem 5 - Linear Eq.": "./mathematics/a1/psets-a1/q5-solve-for-x.md"
+        - "AoPS-A1":
+          - "Lesson 1": "mathematics/a1/exercises/aops-a1-hw/hw.01.md"
+          - "Lesson 2": "mathematics/a1/exercises/aops-a1-hw/hw.02.md"
+      - "Cheatsheets":
+        - "Algebraic Identities":  "./mathematics/a1/appendix/algebraic_identities.md"
+        - "Alegrba 1 Properties & Formulas": "mathematics/a1/resources/cheatsheets/cheatsheets-a1-formulas.md"
+  - "Algebra 2":
+    - "Coordinate Planes":
+      - "Plane Classifications": "mathematics/a2/core-concepts/coordinate-planes/plane-classes.md"
+      - "Cartesian Plane": "mathematics/a2/core-concepts/coordinate-planes/cartesian-plane.md"
+      - "Euclidean Plane": "mathematics/a2/core-concepts/coordinate-planes/euclidean-plane.md"
+      - "Complex Plane": "mathematics/a2/core-concepts/coordinate-planes/complex-plane.md"
+    - "Cubic Equations":  
+      - "Forms & Structures": "mathematics/a2/eqs/cubic/cubic-forms-structures.md"
+    - "Appendix - Resources":
+      - "Cartesian Plane vs Euclidean Plane": "mathematics/a2/resources/cartesian-vs-euclidean-plane.md"
+      - "Cheatsheets":
+        - "Algebraic Identities":  "mathematics/a2/resources/cheatsheets/cheatsheet-a2-identities.md"
+        - "Alegrba 2 Properties & Formulas": "mathematics/a2/resources/cheatsheets/cheatsheets-a2-formulas.md"
+        - "Trignometry Identities": "./mathematics/a2/trig.md"
+      - "Problem Solving":
+        - "AoPS-A2":
+          - "Lesson 4 - Functions": "mathematics/a2/hw/aops/hw.04.md"
+          - "Lesson 5 - Complex Numbers": "mathematics/a2/hw/aops/hw.05.md"
+          - "Lesson 6 - Complex Planes": "mathematics/a2/hw/aops/hw.06.md"
+          - "Lesson 7 - Quadratics": "mathematics/a2/hw/aops/hw.07.md"
+  - "Geometry":
+    - "Circle":
+      - "Form & Structures": "./mathematics/geometry/form-structures.md"
+      - "Circle Math": "./mathematics/geometry/circle-math.md"
+    - "Shapes":
+      - "Triangles": "./mathematics/geometry/triangle_overview.md"
+    - "Appendix - Resources":
+      - "Cheatsheets":
+        - "Geometry Properties & Formulas": "mathematics/geometry/resources/cheatsheets/cheatsheet-geometry.md"
+        - "Geometry Theorems":  "mathematics/geometry/resources/cheatsheets/cheatsheet-geometry-theorems.md"
+  - "Logic":
+    - "Foundation": "logic/intro.md"
+  - "Modular Arithmetic":
+    - "Definition & Properties":
+      - "Remainder Class": "./mathematics/mod-arith/remainder-class.md"
+      - "Remainder System": "./mathematics/mod-arith/remainder-system.md"
+      - "Modulo": "./mathematics/mod-arith/modulo.md"
+      - "Modulus": "./mathematics/mod-arith/modulus.md"
+    - "Clock Math": "./mathematics/mod-arith/clock-math.md"
+    - "Appendix - Resources":
+      - "Cheatsheets":
+        - "General": "mathematics/mod-arith/resources/cheatsheets/cheatsheet-mod-arith.md"
+      - "Exercises":
+        - "Problems Set 1": "mathematics/mod-arith/exercises/pset-01.md"
+  - "Number Theory":
+    - "Definition & Properties":
+      - "Segmentation": "mathematics/nt/def/segmentation.md"
+    - "Factors & Multiples": "./mathematics/nt/factors.md"
+    - "Primality":
+      - "What is a Prime?": "./mathematics/nt/primality/primality.md"
+      - "Relative Primes": "mathematics/nt/primality/relative-primes.md"
+      - "Prime Factorization": "mathematics/nt/primality/prime-factorization.md"
+      - "Class of Primes": "mathematics/nt/primality/class-of-primes.md"
+    - "Divisibility":
+      - "General": "mathematics/nt/divisibility/divisibility.md"
+      - "Rules of Divisibility (1..25)": "mathematics/nt/divisibility/divisibility-rule-25.md"
+      - "Rules of Divisibility (26..55)": "mathematics/nt/divisibility/divisibility-rule-26+.md"
+      - "Rules of 10s": "mathematics/nt/divisibility/divisibility-rule-10s.md"
+    - "Theorems":
+      - "Chicken McNugget Theorem": "mathematics/nt/theorems/Chicken-McNugget.md"
+      - "Fermat's Little Theorem" : "mathematics/nt/primality/fermat.md"
+      - "Euler's Theorem" : "mathematics/nt/theorems/euler-theorem.md"
+    - "Appendix - Resources":
+      - "Cheat-Sheets":
+        - "Number Theory Theorems": "mathematics/nt/cheat-sheets/index.md"
+        - "Count Number of Factors": "mathematics/nt/cheat-sheets/count-n-factors.md"
+        - "Exponentiation Method": "mathematics/nt/cheat-sheets/exponentiation-method.md"
